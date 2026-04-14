@@ -1,0 +1,97 @@
+{
+  "nutrien": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "mosaic": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "icl": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "kpluss": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 63
+  },
+  "sqm": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "intrepid": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "cf_industries": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "yara": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "oci": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 63
+  },
+  "taifer": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "corteva": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "fmc": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "deere": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "agco": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "adm": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "bunge": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "kubota": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "etf_moo": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "etf_dba": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  }
+}

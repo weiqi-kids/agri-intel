@@ -1,0 +1,310 @@
+# 農業供應鏈情報追蹤 - 公司清單
+
+companies:
+- id: nutrien
+  name: Nutrien
+  aliases:
+  - Nutrien Ltd
+  ticker: NTR
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 肥料
+  description: 全球最大鉀肥與氮肥生產商
+  downstream:
+  - cf_industries
+  - yara
+  - deere
+  - agco
+- id: mosaic
+  name: The Mosaic Company
+  aliases:
+  - Mosaic
+  ticker: MOS
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 肥料
+  description: 全球最大磷肥生產商
+  downstream:
+  - deere
+  - agco
+  - adm
+  - bunge
+- id: icl
+  name: ICL Group
+  aliases:
+  - ICL
+  ticker: ICL
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 特殊肥料
+  description: 以色列特殊肥料與化學品
+  downstream:
+  - deere
+  - agco
+- id: kpluss
+  name: K+S AG
+  aliases:
+  - K+S
+  - 鉀鹽
+  ticker: SDF.DE
+  market: XETRA
+  currency: EUR
+  position: upstream
+  role: 鉀肥
+  description: 德國鉀肥與鹽業
+  downstream:
+  - yara
+  - cf_industries
+- id: sqm
+  name: Sociedad Química y Minera
+  aliases:
+  - SQM
+  ticker: SQM
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 特殊肥料
+  description: 智利鋰與特殊肥料生產商
+  downstream:
+  - deere
+  - agco
+- id: intrepid
+  name: Intrepid Potash
+  aliases:
+  - Intrepid
+  ticker: IPI
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 鉀肥
+  description: 美國鉀肥生產商
+  downstream:
+  - deere
+  - agco
+- id: cf_industries
+  name: CF Industries
+  aliases:
+  - CF
+  ticker: CF
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 氮肥製造
+  description: 北美最大氮肥製造商
+  upstream:
+  - nutrien
+  - kpluss
+  downstream:
+  - deere
+  - agco
+  - adm
+  - bunge
+- id: yara
+  name: Yara International
+  aliases:
+  - Yara
+  - 雅苒
+  ticker: YAR.OL
+  market: OSE
+  currency: NOK
+  position: midstream
+  role: 肥料製造
+  description: 全球最大肥料製造商之一
+  upstream:
+  - nutrien
+  - kpluss
+  downstream:
+  - deere
+  - agco
+- id: oci
+  name: OCI N.V.
+  aliases:
+  - OCI
+  ticker: OCI.AS
+  market: AMS
+  currency: EUR
+  position: midstream
+  role: 氮肥/甲醇
+  description: 氮肥與甲醇生產商
+  upstream:
+  - nutrien
+  downstream:
+  - adm
+  - bunge
+- id: taifer
+  name: 台灣肥料
+  aliases:
+  - Taiwan Fertilizer
+  - 台肥
+  ticker: 1722.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 肥料製造
+  description: 台灣最大肥料生產商
+  upstream:
+  - nutrien
+  downstream:
+  - deere
+- id: corteva
+  name: Corteva Agriscience
+  aliases:
+  - Corteva
+  ticker: CTVA
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 農藥/種子
+  description: 全球領先農藥與種子公司
+  downstream:
+  - deere
+  - agco
+  - adm
+  - bunge
+- id: fmc
+  name: FMC Corporation
+  aliases:
+  - FMC
+  ticker: FMC
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 農藥
+  description: 全球前五大農藥公司
+  downstream:
+  - deere
+  - agco
+- id: deere
+  name: Deere & Company
+  aliases:
+  - John Deere
+  - 迪爾
+  ticker: DE
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 農機
+  description: 全球最大農業機械製造商
+  upstream:
+  - nutrien
+  - mosaic
+  - corteva
+  - cf_industries
+- id: agco
+  name: AGCO Corporation
+  aliases:
+  - AGCO
+  - 愛科
+  ticker: AGCO
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 農機
+  description: 全球第三大農機製造商
+  upstream:
+  - nutrien
+  - mosaic
+  - corteva
+  - cf_industries
+- id: adm
+  name: Archer-Daniels-Midland
+  aliases:
+  - ADM
+  - ADM公司
+  ticker: ADM
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 農產品加工
+  description: 全球最大農產品加工與貿易商
+  upstream:
+  - cf_industries
+  - corteva
+  - mosaic
+- id: bunge
+  name: Bunge Global
+  aliases:
+  - Bunge
+  - 邦吉
+  ticker: BG
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 農產品貿易
+  description: 全球主要農產品貿易與加工商
+  upstream:
+  - cf_industries
+  - corteva
+  - mosaic
+- id: cnhi
+  name: CNH Industrial
+  aliases:
+  - CNH
+  - 凱斯紐荷蘭
+  ticker: CNHI
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 農機
+  description: Case IH 與 New Holland 農機母公司
+  upstream:
+  - nutrien
+  - mosaic
+- id: kubota
+  name: Kubota Corporation
+  aliases:
+  - Kubota
+  - 久保田
+  ticker: 6326.T
+  market: TSE
+  currency: JPY
+  position: downstream
+  role: 農機
+  description: 日本最大農機製造商
+  upstream:
+  - nutrien
+  - mosaic
+etfs:
+- id: moo
+  name: VanEck Agribusiness ETF
+  ticker: MOO
+  market: NYSE
+  currency: USD
+  description: 農業綜合企業 ETF，涵蓋肥料、農機、農產品加工
+- id: dba
+  name: Invesco DB Agriculture Fund
+  ticker: DBA
+  market: NYSE
+  currency: USD
+  description: 農產品期貨 ETF，追蹤玉米、小麥、大豆等
+supply_chain_positions:
+  upstream:
+  - 肥料
+  - 特殊肥料
+  - 鉀肥
+  midstream:
+  - 氮肥製造
+  - 肥料製造
+  - 氮肥/甲醇
+  - 農藥/種子
+  - 農藥
+  downstream:
+  - 農機
+  - 農產品加工
+  - 農產品貿易
+topics:
+- id: fertilizer_price
+  name: 肥料價格
+- id: crop_price
+  name: 農作物價格
+- id: planting_season
+  name: 種植季節
+- id: natural_gas_feedstock
+  name: 天然氣原料
+- id: trade_policy
+  name: 貿易政策
+- id: earnings
+  name: 法說會

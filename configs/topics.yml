@@ -1,0 +1,127 @@
+# 農業供應鏈情報追蹤 - 主題清單
+
+topics:
+  fertilizer_price:
+    display: 肥料價格
+    keywords:
+    - fertilizer price
+    - 肥料價格
+    - urea price
+    - 尿素價格
+    - potash price
+    - 鉀肥價格
+    - phosphate price
+    - 磷肥價格
+    - DAP price
+    - MAP price
+    - ammonia price
+    - 氨價格
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 漲價
+      - price hike
+      - price surge
+      - fertilizer rally
+      negative:
+      - 下跌
+      - 跌價
+      - price drop
+      - price decline
+      - fertilizer slump
+  crop_price:
+    display: 農作物價格
+    keywords:
+    - crop price
+    - 農作物價格
+    - corn price
+    - 玉米價格
+    - wheat price
+    - 小麥價格
+    - soybean price
+    - 大豆價格
+    - rice price
+    - 稻米價格
+    - grain price
+    - 穀物價格
+    - CBOT
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 漲價
+      - price rally
+      - crop surge
+      negative:
+      - 下跌
+      - 跌價
+      - price drop
+      - crop decline
+  planting_season:
+    display: 種植季節
+    keywords:
+    - planting season
+    - 種植季
+    - planting progress
+    - harvest
+    - 收割
+    - 播種
+    - acreage
+    - 耕種面積
+    - crop condition
+    - 作物狀況
+    - USDA report
+    - crop report
+  natural_gas_feedstock:
+    display: 天然氣原料
+    keywords:
+    - natural gas
+    - 天然氣
+    - gas feedstock
+    - ammonia feedstock
+    - gas price
+    - Henry Hub
+    - TTF
+    - 天然氣原料成本
+    - energy cost
+    - 能源成本
+    sentiment_keywords:
+      positive:
+      - 下跌
+      - 天然氣降價
+      - gas decline
+      negative:
+      - 上漲
+      - 天然氣漲價
+      - gas surge
+      - energy crisis
+  trade_policy:
+    display: 貿易政策
+    keywords:
+    - trade policy
+    - 貿易政策
+    - tariff
+    - 關稅
+    - export ban
+    - 出口禁令
+    - import duty
+    - 進口稅
+    - trade war
+    - 貿易戰
+    - sanctions
+    - 制裁
+    - anti-dumping
+  earnings:
+    display: 法說會
+    keywords:
+    - earnings
+    - 法說會
+    - 財報
+    - quarterly results
+    - guidance
+    - outlook
+    - revenue
+    - 營收
+    - profit
+    - 獲利
+    - 毛利率
+    - gross margin

@@ -1,0 +1,341 @@
+{
+  "companies": [
+    {
+      "id": "nutrien",
+      "name": "Nutrien",
+      "short_name": "Nutrien Ltd",
+      "position": "upstream",
+      "role": "肥料",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "mosaic",
+      "name": "The Mosaic Company",
+      "short_name": "Mosaic",
+      "position": "upstream",
+      "role": "肥料",
+      "x": 0.103,
+      "y": 0.34
+    },
+    {
+      "id": "icl",
+      "name": "ICL Group",
+      "short_name": "ICL",
+      "position": "upstream",
+      "role": "特殊肥料",
+      "x": 0.156,
+      "y": 0.34
+    },
+    {
+      "id": "kpluss",
+      "name": "K+S AG",
+      "short_name": "鉀鹽",
+      "position": "upstream",
+      "role": "鉀肥",
+      "x": 0.209,
+      "y": 0.34
+    },
+    {
+      "id": "sqm",
+      "name": "Sociedad Química y Minera",
+      "short_name": "SQM",
+      "position": "upstream",
+      "role": "特殊肥料",
+      "x": 0.262,
+      "y": 0.34
+    },
+    {
+      "id": "intrepid",
+      "name": "Intrepid Potash",
+      "short_name": "Intrepid",
+      "position": "upstream",
+      "role": "鉀肥",
+      "x": 0.315,
+      "y": 0.34
+    },
+    {
+      "id": "cf_industries",
+      "name": "CF Industries",
+      "short_name": "CF",
+      "position": "midstream",
+      "role": "氮肥製造",
+      "x": 0.368,
+      "y": 0.34
+    },
+    {
+      "id": "yara",
+      "name": "Yara International",
+      "short_name": "雅苒",
+      "position": "midstream",
+      "role": "肥料製造",
+      "x": 0.421,
+      "y": 0.34
+    },
+    {
+      "id": "oci",
+      "name": "OCI N.V.",
+      "short_name": "OCI",
+      "position": "midstream",
+      "role": "氮肥/甲醇",
+      "x": 0.474,
+      "y": 0.34
+    },
+    {
+      "id": "taifer",
+      "name": "台灣肥料",
+      "short_name": "台肥",
+      "position": "midstream",
+      "role": "肥料製造",
+      "x": 0.526,
+      "y": 0.34
+    },
+    {
+      "id": "corteva",
+      "name": "Corteva Agriscience",
+      "short_name": "Corteva",
+      "position": "midstream",
+      "role": "農藥/種子",
+      "x": 0.579,
+      "y": 0.34
+    },
+    {
+      "id": "fmc",
+      "name": "FMC Corporation",
+      "short_name": "FMC",
+      "position": "midstream",
+      "role": "農藥",
+      "x": 0.632,
+      "y": 0.34
+    },
+    {
+      "id": "deere",
+      "name": "Deere & Company",
+      "short_name": "迪爾",
+      "position": "downstream",
+      "role": "農機",
+      "x": 0.685,
+      "y": 0.34
+    },
+    {
+      "id": "agco",
+      "name": "AGCO Corporation",
+      "short_name": "愛科",
+      "position": "downstream",
+      "role": "農機",
+      "x": 0.738,
+      "y": 0.34
+    },
+    {
+      "id": "adm",
+      "name": "Archer-Daniels-Midland",
+      "short_name": "ADM公司",
+      "position": "downstream",
+      "role": "農產品加工",
+      "x": 0.791,
+      "y": 0.34
+    },
+    {
+      "id": "bunge",
+      "name": "Bunge Global",
+      "short_name": "邦吉",
+      "position": "downstream",
+      "role": "農產品貿易",
+      "x": 0.844,
+      "y": 0.34
+    },
+    {
+      "id": "cnhi",
+      "name": "CNH Industrial",
+      "short_name": "凱斯紐荷蘭",
+      "position": "downstream",
+      "role": "農機",
+      "x": 0.897,
+      "y": 0.34
+    },
+    {
+      "id": "kubota",
+      "name": "Kubota Corporation",
+      "short_name": "久保田",
+      "position": "downstream",
+      "role": "農機",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "nutrien",
+      "target": "cf_industries",
+      "strength": 2
+    },
+    {
+      "source": "nutrien",
+      "target": "yara",
+      "strength": 2
+    },
+    {
+      "source": "nutrien",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "nutrien",
+      "target": "agco",
+      "strength": 2
+    },
+    {
+      "source": "mosaic",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "mosaic",
+      "target": "agco",
+      "strength": 2
+    },
+    {
+      "source": "mosaic",
+      "target": "adm",
+      "strength": 2
+    },
+    {
+      "source": "mosaic",
+      "target": "bunge",
+      "strength": 2
+    },
+    {
+      "source": "icl",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "icl",
+      "target": "agco",
+      "strength": 2
+    },
+    {
+      "source": "kpluss",
+      "target": "yara",
+      "strength": 2
+    },
+    {
+      "source": "kpluss",
+      "target": "cf_industries",
+      "strength": 2
+    },
+    {
+      "source": "sqm",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "sqm",
+      "target": "agco",
+      "strength": 2
+    },
+    {
+      "source": "intrepid",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "intrepid",
+      "target": "agco",
+      "strength": 2
+    },
+    {
+      "source": "cf_industries",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "cf_industries",
+      "target": "agco",
+      "strength": 2
+    },
+    {
+      "source": "cf_industries",
+      "target": "adm",
+      "strength": 2
+    },
+    {
+      "source": "cf_industries",
+      "target": "bunge",
+      "strength": 2
+    },
+    {
+      "source": "yara",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "yara",
+      "target": "agco",
+      "strength": 2
+    },
+    {
+      "source": "oci",
+      "target": "adm",
+      "strength": 2
+    },
+    {
+      "source": "oci",
+      "target": "bunge",
+      "strength": 2
+    },
+    {
+      "source": "taifer",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "corteva",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "corteva",
+      "target": "agco",
+      "strength": 2
+    },
+    {
+      "source": "corteva",
+      "target": "adm",
+      "strength": 2
+    },
+    {
+      "source": "corteva",
+      "target": "bunge",
+      "strength": 2
+    },
+    {
+      "source": "fmc",
+      "target": "deere",
+      "strength": 2
+    },
+    {
+      "source": "fmc",
+      "target": "agco",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_moo",
+      "name": "VanEck Agribusiness ETF",
+      "ticker": "MOO",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "農業綜合企業 ETF，涵蓋肥料、農機、農產品加工"
+    },
+    {
+      "id": "etf_dba",
+      "name": "Invesco DB Agriculture Fund",
+      "ticker": "DBA",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "農產品期貨 ETF，追蹤玉米、小麥、大豆等"
+    }
+  ]
+}
