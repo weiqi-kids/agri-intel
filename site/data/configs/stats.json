@@ -1,0 +1,106 @@
+{
+  "company_count": 18,
+  "topic_count": 6,
+  "alias_count": 72,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "nutrien",
+      "short_name": "Nutrien",
+      "tier": ""
+    },
+    {
+      "id": "mosaic",
+      "short_name": "The Mosaic Company",
+      "tier": ""
+    },
+    {
+      "id": "icl",
+      "short_name": "ICL Group",
+      "tier": ""
+    },
+    {
+      "id": "kpluss",
+      "short_name": "K+S AG",
+      "tier": ""
+    },
+    {
+      "id": "sqm",
+      "short_name": "Sociedad Química y Minera",
+      "tier": ""
+    },
+    {
+      "id": "intrepid",
+      "short_name": "Intrepid Potash",
+      "tier": ""
+    },
+    {
+      "id": "cf_industries",
+      "short_name": "CF Industries",
+      "tier": ""
+    },
+    {
+      "id": "yara",
+      "short_name": "Yara International",
+      "tier": ""
+    },
+    {
+      "id": "oci",
+      "short_name": "OCI N.V.",
+      "tier": ""
+    },
+    {
+      "id": "taifer",
+      "short_name": "台灣肥料",
+      "tier": ""
+    },
+    {
+      "id": "corteva",
+      "short_name": "Corteva Agriscience",
+      "tier": ""
+    },
+    {
+      "id": "fmc",
+      "short_name": "FMC Corporation",
+      "tier": ""
+    },
+    {
+      "id": "deere",
+      "short_name": "Deere & Company",
+      "tier": ""
+    },
+    {
+      "id": "agco",
+      "short_name": "AGCO Corporation",
+      "tier": ""
+    },
+    {
+      "id": "adm",
+      "short_name": "Archer-Daniels-Midland",
+      "tier": ""
+    },
+    {
+      "id": "bunge",
+      "short_name": "Bunge Global",
+      "tier": ""
+    },
+    {
+      "id": "cnhi",
+      "short_name": "CNH Industrial",
+      "tier": ""
+    },
+    {
+      "id": "kubota",
+      "short_name": "Kubota Corporation",
+      "tier": ""
+    }
+  ]
+}
