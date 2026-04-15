@@ -1,5 +1,71 @@
 [
   {
+    "id": "corteva-2026-04-14-018",
+    "date": "2026-04-14",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "natural_gas_feedstock"
+    ],
+    "impact": "neutral",
+    "title": "Corteva's seed spinoff lines up six executives before 2026 split - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUMtVzgtenB1RDFMcGlnUFpudjZ5c1ZnYkxkaXV5clpYLWdLUEdyOWc4Z2ZoMWJ4bWpuUnFSM0V6TTFPUGZ3bThGZUJWYnAyQ3lNd1JpTmxmYXI1M20zNnZHWVpxbG03c2E2OWlsdW",
+    "sources": []
+  },
+  {
+    "id": "corteva-2026-04-02-017",
+    "date": "2026-04-02",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Revenue of Corteva Agriscience from 2018 to 2025 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBic1BLZUkzdEZXTS1IRFBPSVhqc21GWEl1SUJFZFJqVHlfWmEzT0RaVGZycHcybmplMm4wS25PbGs2d1dCMjVqWkVXQzg4dURGZjNLYlNvdDVDRVFldXBwQms1RHdKYnRrS0xYTkRHVX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-01-001",
+    "date": "2026-04-01",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "US farmers to plant less corn as Iran war spikes fertilizer prices - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3NtOXdnLW0yRjluMXdFc0cyeFg5VVF2X04zMC1Wa1ZHVDZOcXo3OWlVbGxlZEdkQ1g2TEo5YkNqb2dHSUY1S2tLOXlNUnk1eTJyY2h3MmRSWnRBdk9LaEVSVGZ5bmt3SlZkS1Q1bH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-30-006",
+    "date": "2026-03-30",
+    "companies": [],
+    "topics": [
+      "planting_season"
+    ],
+    "impact": "neutral",
+    "title": "Iran war hurts Minnesota farmers as fertilizer, fuel prices soar ahead of planting season - MinnPost",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSThfRkpVWFJMVktDZVpxUEFUS2RCZGFoakRuM1hlZHp2X1FVd0pYMWRfSFEycGN5czdJRWZtZlZleko3cVZ2MEo3SnFLVTdRTVM2cW91YXViVDI1b2F3STdRUEZLNHJaenNuRWpXa0",
+    "sources": []
+  },
+  {
+    "id": "nutrien-2026-03-25-014",
+    "date": "2026-03-25",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "negative",
+    "title": "Nutrien Ltd stock faces pressure amid volatile fertilizer prices and global agricultural demand shif - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2RwdnpJTDBURkMyQzd0aGlqZUhzXzVkUjFNTWtHX2I4bmtMdmgtbVJVaW9KSUJacjltck9QaDlsZmtoQU1La0FUSlhFSndwU2lvSmIyNjA0dUpiZnZQWlVFMEpwR3NzRlVyTmVVVG",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-22-001",
     "date": "2026-03-22",
     "companies": [],
@@ -9,6 +75,167 @@
     "impact": "neutral",
     "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
     "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-19-002",
+    "date": "2026-03-19",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "Iowa farmers say fertilizer prices spiking as spring planting nears - The Des Moines Register",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVhLZG5JUW5RLW0zUTFxdklhaUctZ2RvaWw0WWRUbmd3UVJRMUlwc3JyV2swLU4wa2NQeV92WGUtd2Rkdy1WNkQtUkZoVHF0YlRiVHUtamtYUlYtbHRhY3l1YUFLeXRPUHgxQlBUQl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-13-004",
+    "date": "2026-03-13",
+    "companies": [],
+    "topics": [
+      "fertilizer_price",
+      "planting_season"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer Prices Surge Ahead of a Critical Planting Season - CME Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2g0c0lYeDZhOEtnMVRXVXJHQWh1cktIY1J6LUhpeVdHRGNMT2xKRW9IUkhpVnRIME9vVEx1VmhfZFBPWWxobmJXWFFIeWNPMm5HWk85czQtVS1HVVBLWWtYYmxWWU1oWmpRUjM4a2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-13-005",
+    "date": "2026-03-13",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "Rising Fertilizer Prices Hit Farmers Hard Due to Strait of Hormuz Closure Crisis - Successful Farming",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlVHZGYzVjZmcFJLN3AzV1lsdnlIbEJFTjlUcmJjeDRGb01JeWdLZkkteDVXRUVGRXlPZW1Na2hLZ3RqWEZCZjlVaXBfZDFmSU1RVUhGcHlfRmFhX2hUOXlabzQ5WVU3eVJfa0c5ck",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-12-003",
+    "date": "2026-03-12",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer prices soar as Strait of Hormuz tensions rise—forcing U.S. farmers to rethink spring planting - Fortune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3pGNzFNV3R4djBlNllHU2hQTnp5Z1c0U0ZCVTlOZkd2SjZia0ZrMUtoS2RVdGFHX1ZUX2oyOHZHeUhqR0Fha1QtOTViMkEzb05WQjl0TnhYX0x0dzJtVGlyMEF5c283NVU1Q25WUU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-10-010",
+    "date": "2026-03-10",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "The Iran War Is Sending Fertilizer Prices Soaring at the Worst Time for Farmers - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlJWOXZ6LVVxOEpqNGZIcTBGTXRLbkJMVGRfYV81aWg1LTZCc0hSeWVHV3llSU1seENIc2h1VWVxMnVjR1VvbmRFY19hU09MM2xhZnVrVDk2TWFnMFhtVjJrRUVPdjF4NG0yRjRhST",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-05-012",
+    "date": "2026-03-05",
+    "companies": [],
+    "topics": [
+      "planting_season"
+    ],
+    "impact": "neutral",
+    "title": "Iran conflict drives up fertilizer costs during busy planting season - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0l5LTh4cjMzTHdHX21TWlVkMHg0TEk3M0h2d1pfaDdtdS16ZkI2anowRXVidkVkUUlDU1Zfb19rcldndVJ6dlUzcE04Z0wxQ3UzRHNJNHVVQzAtQWl1bElWNkVDb3VOdUJqeF9BRU",
+    "sources": []
+  },
+  {
+    "id": "nutrien-2026-02-18-011",
+    "date": "2026-02-18",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Top potash producer Nutrien misses fourth-quarter profit estimates - The Western Producer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUtMWGtPWUZSSEw5eUNmYy13MkE5S1p5Q3NjYjI3ZjVzVC1mU1B4UVFGS1VhYU1UTG9xZU9PMzZFOW9VaVdKYnM0Mi1OU21IMFV3N0YwSGJRQThLeV9qdnpHTGVNeXBNOHlVN01lOW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-12-009",
+    "date": "2025-11-12",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "Elevated fertilizer prices continue to squeeze farmers’ margins - Ag Proud",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3g4Z3lReGZaQVNoR2ZURDZCeDhDWWVUVjUyWG1jR1QyZ2RiU2M3Tk5VWVpmOGtVU3o1X2NVU1pxenR1NFN0WG1WNXQ5ckdfMXpFdG1DUzZZa3UwRzN1dDdhWHBDQ3pGNWlMc1FLRm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-16-008",
+    "date": "2025-10-16",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "Why high fertilizer prices? - Ohio's Country Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NFIwUEVUU1ZwWFMySVNEU1hzSFU5Znd6a0s4VEpPVzZoYzNDN2dfZjVyUktVRi1OSVhwWDJJR3d2MVhKM2tBU1BJSXQ0WEc2TW0teUtYUDRvbjhJb2Yxaw?oc=5\" target=\"_blan",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-09-11-007",
+    "date": "2025-09-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer Outlook: Global Risks, Higher Costs, Tighter Margins | Market Intel - American Farm Bureau Federation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzBRX1dNRVhHWFhBRWhqRllGWlNFcWFTVENuNlVsQ3dZTE1YWWdQNThyZEVNZERlU3hkZ0F1LS1BNFA3RVBGZW1GRjRhU2Y5ZkdydmhXRWtxeTN4MF9weHRDMTc1NXJCOFhjZ0xZRV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-08-28-013",
+    "date": "2025-08-28",
+    "companies": [],
+    "topics": [
+      "fertilizer_price",
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "Tariffs Squeeze Trump-Loving Farmers as Fertilizer Prices Soar - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWthVWlZSDEtRkdXYTFlSktTVVlmX1NnbDBBU3JrSzI5eXJMcGFDRTZWZG9hcUxTUGtaZ0xVcmZod3JISWRhZGNPYXlTdU5YYkYtMHFTWXdRZ3RWeU1QQkFuQmRWb2xZeWJfWTFjTC",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-08-08-016",
+    "date": "2025-08-08",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "Phosphate Fertilizer Prices Soar Near Historic Highs - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPV28tWlpPdjd2NVZULXFPelYyRXJLeXNxV1dhUmlDZi1HZUdZUVlWNlZLOWtCcjlsUXhLUG05a2Nsa3luazRsRGNRN0I0WGJNT1RubEEzVDRnWFp6TWQ0dHJMR05EYkttUjh0ZTFxa3",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-07-02-015",
+    "date": "2025-07-02",
+    "companies": [],
+    "topics": [
+      "fertilizer_price",
+      "crop_price"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer Prices Vs Corn Prices Are Now Some of the Worst in History - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHpJbG1weV9fbTYxZTJqSHRLMXlKS3M0Nzg0WE9rUjM3VUFEd1VFNFJHYlF4c0FiR2VLeU9tRUxLQ3RTbmlWYk5QbWgtQU9HUFFJQ1dBMHBPVk5TdUNJSWtVbUNSY0thQmNXcDl4Rl",
     "sources": []
   }
 ]
