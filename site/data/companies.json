@@ -3,28 +3,28 @@
     {
       "id": "nutrien",
       "name": "Nutrien",
-      "short_name": "Nutrien Ltd",
+      "short_name": "Nutrien",
       "position": "upstream",
       "role": "肥料",
-      "x": 0.05,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.17
     },
     {
       "id": "mosaic",
       "name": "The Mosaic Company",
-      "short_name": "Mosaic",
+      "short_name": "The Mosaic Company",
       "position": "upstream",
       "role": "肥料",
-      "x": 0.95,
-      "y": 0.04
+      "x": 0.248,
+      "y": 0.17
     },
     {
       "id": "icl",
       "name": "ICL Group",
-      "short_name": "ICL",
+      "short_name": "ICL Group",
       "position": "upstream",
       "role": "特殊肥料",
-      "x": 0.05,
+      "x": 0.416,
       "y": 0.17
     },
     {
@@ -33,35 +33,35 @@
       "short_name": "鉀鹽",
       "position": "upstream",
       "role": "鉀肥",
-      "x": 0.05,
-      "y": 0.3
+      "x": 0.584,
+      "y": 0.17
     },
     {
       "id": "sqm",
       "name": "Sociedad Química y Minera",
-      "short_name": "SQM",
+      "short_name": "Sociedad Química y Minera",
       "position": "upstream",
       "role": "特殊肥料",
-      "x": 0.95,
+      "x": 0.752,
       "y": 0.17
     },
     {
       "id": "intrepid",
       "name": "Intrepid Potash",
-      "short_name": "Intrepid",
+      "short_name": "Intrepid Potash",
       "position": "upstream",
       "role": "鉀肥",
-      "x": 0.95,
-      "y": 0.3
+      "x": 0.92,
+      "y": 0.17
     },
     {
       "id": "cf_industries",
       "name": "CF Industries",
-      "short_name": "CF",
+      "short_name": "CF Industries",
       "position": "midstream",
       "role": "氮肥製造",
-      "x": 0.5,
-      "y": 0.35
+      "x": 0.08,
+      "y": 0.5
     },
     {
       "id": "yara",
@@ -69,16 +69,16 @@
       "short_name": "雅苒",
       "position": "midstream",
       "role": "肥料製造",
-      "x": 0.05,
-      "y": 0.42
+      "x": 0.248,
+      "y": 0.5
     },
     {
       "id": "oci",
       "name": "OCI N.V.",
-      "short_name": "OCI",
+      "short_name": "OCI N.V.",
       "position": "midstream",
       "role": "氮肥/甲醇",
-      "x": 0.5,
+      "x": 0.416,
       "y": 0.5
     },
     {
@@ -87,26 +87,26 @@
       "short_name": "台肥",
       "position": "midstream",
       "role": "肥料製造",
-      "x": 0.95,
-      "y": 0.42
+      "x": 0.584,
+      "y": 0.5
     },
     {
       "id": "corteva",
       "name": "Corteva Agriscience",
-      "short_name": "Corteva",
+      "short_name": "Corteva Agriscience",
       "position": "midstream",
       "role": "農藥/種子",
-      "x": 0.5,
-      "y": 0.57
+      "x": 0.752,
+      "y": 0.5
     },
     {
       "id": "fmc",
       "name": "FMC Corporation",
-      "short_name": "FMC",
+      "short_name": "FMC Corporation",
       "position": "midstream",
       "role": "農藥",
-      "x": 0.5,
-      "y": 0.65
+      "x": 0.92,
+      "y": 0.5
     },
     {
       "id": "deere",
@@ -114,8 +114,8 @@
       "short_name": "迪爾",
       "position": "downstream",
       "role": "農機",
-      "x": 0.05,
-      "y": 0.7
+      "x": 0.08,
+      "y": 0.83
     },
     {
       "id": "agco",
@@ -123,8 +123,8 @@
       "short_name": "愛科",
       "position": "downstream",
       "role": "農機",
-      "x": 0.35,
-      "y": 0.7
+      "x": 0.248,
+      "y": 0.83
     },
     {
       "id": "adm",
@@ -132,7 +132,7 @@
       "short_name": "ADM公司",
       "position": "downstream",
       "role": "農產品加工",
-      "x": 0.5,
+      "x": 0.416,
       "y": 0.83
     },
     {
@@ -141,8 +141,8 @@
       "short_name": "邦吉",
       "position": "downstream",
       "role": "農產品貿易",
-      "x": 0.5,
-      "y": 0.96
+      "x": 0.584,
+      "y": 0.83
     },
     {
       "id": "cnhi",
@@ -150,8 +150,8 @@
       "short_name": "凱斯紐荷蘭",
       "position": "downstream",
       "role": "農機",
-      "x": 0.65,
-      "y": 0.7
+      "x": 0.752,
+      "y": 0.83
     },
     {
       "id": "kubota",
@@ -159,8 +159,8 @@
       "short_name": "久保田",
       "position": "downstream",
       "role": "農機",
-      "x": 0.95,
-      "y": 0.7
+      "x": 0.92,
+      "y": 0.83
     }
   ],
   "links": [
@@ -322,20 +322,14 @@
   ],
   "etfs": [
     {
-      "id": "etf_moo",
+      "id": "moo",
       "name": "VanEck Agribusiness ETF",
-      "ticker": "MOO",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "農業綜合企業 ETF，涵蓋肥料、農機、農產品加工"
+      "ticker": "MOO"
     },
     {
-      "id": "etf_dba",
+      "id": "dba",
       "name": "Invesco DB Agriculture Fund",
-      "ticker": "DBA",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "農產品期貨 ETF，追蹤玉米、小麥、大豆等"
+      "ticker": "DBA"
     }
   ]
 }
