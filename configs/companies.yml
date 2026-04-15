@@ -11,6 +11,7 @@ companies:
   position: upstream
   role: 肥料
   description: 全球最大鉀肥與氮肥生產商
+  rss_url: https://news.google.com/rss/search?q="Nutrien"+fertilizer&hl=en&gl=US&ceid=US:en
   downstream:
   - cf_industries
   - yara
@@ -26,6 +27,7 @@ companies:
   position: upstream
   role: 肥料
   description: 全球最大磷肥生產商
+  rss_url: https://news.google.com/rss/search?q="The+Mosaic+Company"&hl=en&gl=US&ceid=US:en
   downstream:
   - deere
   - agco
@@ -41,6 +43,7 @@ companies:
   position: upstream
   role: 特殊肥料
   description: 以色列特殊肥料與化學品
+  rss_url: https://news.google.com/rss/search?q="ICL+Group"+specialty+fertilizer&hl=en&gl=US&ceid=US:en
   downstream:
   - deere
   - agco
@@ -55,6 +58,7 @@ companies:
   position: upstream
   role: 鉀肥
   description: 德國鉀肥與鹽業
+  rss_url: https://news.google.com/rss/search?q="K+S+AG"&hl=en&gl=US&ceid=US:en
   downstream:
   - yara
   - cf_industries
@@ -68,6 +72,7 @@ companies:
   position: upstream
   role: 特殊肥料
   description: 智利鋰與特殊肥料生產商
+  rss_url: https://news.google.com/rss/search?q="Sociedad+Química+y+Minera"&hl=en&gl=US&ceid=US:en
   downstream:
   - deere
   - agco
@@ -81,6 +86,7 @@ companies:
   position: upstream
   role: 鉀肥
   description: 美國鉀肥生產商
+  rss_url: https://news.google.com/rss/search?q="Intrepid+Potash"+potash&hl=en&gl=US&ceid=US:en
   downstream:
   - deere
   - agco
@@ -94,6 +100,7 @@ companies:
   position: midstream
   role: 氮肥製造
   description: 北美最大氮肥製造商
+  rss_url: https://news.google.com/rss/search?q="CF+Industries"&hl=en&gl=US&ceid=US:en
   upstream:
   - nutrien
   - kpluss
@@ -113,6 +120,7 @@ companies:
   position: midstream
   role: 肥料製造
   description: 全球最大肥料製造商之一
+  rss_url: https://news.google.com/rss/search?q="Yara+International"&hl=en&gl=US&ceid=US:en
   upstream:
   - nutrien
   - kpluss
@@ -129,6 +137,7 @@ companies:
   position: midstream
   role: 氮肥/甲醇
   description: 氮肥與甲醇生產商
+  rss_url: https://news.google.com/rss/search?q="OCI+N.V."&hl=en&gl=US&ceid=US:en
   upstream:
   - nutrien
   downstream:
@@ -145,6 +154,7 @@ companies:
   position: midstream
   role: 肥料製造
   description: 台灣最大肥料生產商
+  rss_url: https://news.google.com/rss/search?q="Taiwan+Fertilizer"&hl=en&gl=US&ceid=US:en
   upstream:
   - nutrien
   downstream:
@@ -159,6 +169,7 @@ companies:
   position: midstream
   role: 農藥/種子
   description: 全球領先農藥與種子公司
+  rss_url: https://news.google.com/rss/search?q="Corteva+Agriscience"&hl=en&gl=US&ceid=US:en
   downstream:
   - deere
   - agco
@@ -174,6 +185,7 @@ companies:
   position: midstream
   role: 農藥
   description: 全球前五大農藥公司
+  rss_url: https://news.google.com/rss/search?q="FMC+Corporation"&hl=en&gl=US&ceid=US:en
   downstream:
   - deere
   - agco
@@ -222,6 +234,7 @@ companies:
   position: downstream
   role: 農產品加工
   description: 全球最大農產品加工與貿易商
+  rss_url: https://news.google.com/rss/search?q="Archer-Daniels-Midland"&hl=en&gl=US&ceid=US:en
   upstream:
   - cf_industries
   - corteva
@@ -237,6 +250,7 @@ companies:
   position: downstream
   role: 農產品貿易
   description: 全球主要農產品貿易與加工商
+  rss_url: https://news.google.com/rss/search?q="Bunge+Global"&hl=en&gl=US&ceid=US:en
   upstream:
   - cf_industries
   - corteva
@@ -252,6 +266,7 @@ companies:
   position: downstream
   role: 農機
   description: Case IH 與 New Holland 農機母公司
+  rss_url: https://news.google.com/rss/search?q="CNH+Industrial"&hl=en&gl=US&ceid=US:en
   upstream:
   - nutrien
   - mosaic
@@ -266,6 +281,7 @@ companies:
   position: downstream
   role: 農機
   description: 日本最大農機製造商
+  rss_url: https://news.google.com/rss/search?q="Kubota+Corporation"&hl=en&gl=US&ceid=US:en
   upstream:
   - nutrien
   - mosaic
