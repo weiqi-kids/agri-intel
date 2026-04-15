@@ -1,1001 +1,1201 @@
 [
   {
-    "id": "rss-13720",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
-    "sources": [
-      {
-        "type": "news",
-        "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-        "url": "https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/",
-        "fetchedAt": "2026-04-14T22:59:57.070869Z",
-        "excerpt": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/\">The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</"
-      }
-    ]
-  },
-  {
-    "id": "rss-83243",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-    "summary": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">He",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/",
-        "fetchedAt": "2026-04-14T22:59:57.070882Z",
-        "excerpt": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">Heterogeneous NPU Data Movement: What The Execution Flow Shows</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-3017",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Research Bits: Apr. 14",
-    "summary": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. ",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Research Bits: Apr. 14",
-        "url": "https://semiengineering.com/research-bits-apr-14/",
-        "fetchedAt": "2026-04-14T22:59:57.070884Z",
-        "excerpt": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-77097",
-    "date": "Tue, 14 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-    "summary": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated s",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/",
-        "fetchedAt": "2026-04-14T22:59:57.070887Z",
-        "excerpt": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated security assertions with LLMs.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/\">Chip Industry Technical Paper Roundup: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-76635",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-    "summary": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers",
-    "sources": [
-      {
-        "type": "news",
-        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/",
-        "fetchedAt": "2026-04-14T22:59:57.070891Z",
-        "excerpt": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers Up Again, But Numbers Are More Nuanced</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-96448",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Startup Funding: Q1 2026",
-    "summary": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Startup Funding: Q1 2026",
-        "url": "https://semiengineering.com/startup-funding-q1-2026/",
-        "fetchedAt": "2026-04-14T22:59:57.070896Z",
-        "excerpt": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-1087",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-    "summary": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitorin",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-        "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/",
-        "fetchedAt": "2026-04-14T22:59:57.070898Z",
-        "excerpt": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/\">Why Hardware Monitoring Needs Infrastructure, Not Just Sensors</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
-      }
-    ]
-  },
-  {
-    "id": "rss-27006",
-    "date": "Mon, 13 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-    "summary": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowham",
-    "sources": [
-      {
-        "type": "news",
-        "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-        "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/",
-        "fetchedAt": "2026-04-14T22:59:57.070903Z",
-        "excerpt": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowhammer attacks can move beyond data corruption to real privilege escalation. By corrupting GPU page tables, an unprivileged CUDA kernel can gain arbitrary GPU memory read/write, and then chain that capability... <a class=\"read_more\" href=\"https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-co"
-      }
-    ]
-  },
-  {
-    "id": "rss-4662",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As L",
-    "sources": [
-      {
-        "type": "news",
-        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/",
-        "fetchedAt": "2026-04-14T22:59:57.070906Z",
-        "excerpt": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As Large Language Models (LLMs) scale in size and complexity, the consequences of failures during training become increasingly severe. A major challenge arises from Silent Data Corruption (SDC): hardware-induced faults that... <a class=\"read_more\" href=\"https://semiengineering.com/silent-data-corruption"
-      }
-    ]
-  },
-  {
-    "id": "rss-41013",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-    "summary": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machi",
-    "sources": [
-      {
-        "type": "news",
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/",
-        "fetchedAt": "2026-04-14T22:59:57.070909Z",
-        "excerpt": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unlike conventional computers, which execute explicit programs, agents, which act over external execution environments, and... <a class=\"read_more\" href=\"https://semiengineering.com/an-engineering-roadmap-toward-completely"
-      }
-    ]
-  },
-  {
-    "id": "rss-97734",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-        "url": "https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears",
-        "fetchedAt": "2026-04-14T22:59:57.673389Z",
-        "excerpt": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-58333",
-    "date": "Fri, 03 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-        "fetchedAt": "2026-04-14T22:59:57.673398Z",
-        "excerpt": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-57378",
-    "date": "Sun, 22 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-    "summary": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-        "url": "https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand",
-        "fetchedAt": "2026-04-14T22:59:57.673401Z",
-        "excerpt": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as these cars are essentially AI supercomputers on wheels. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-53979",
-    "date": "Sun, 22 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-        "url": "https://www.tomshardware.com/pc-components/ram/corsairs-limited-time-memory-sale-brings-25-percent-savings-but-persistent-ddr5-price-hikes-paint-a-grim-outlook-for-buyers",
-        "fetchedAt": "2026-04-14T22:59:57.673403Z",
-        "excerpt": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-96992",
-    "date": "Wed, 18 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-    "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-        "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
-        "fetchedAt": "2026-04-14T22:59:57.673405Z",
-        "excerpt": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four to five years. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-42618",
-    "date": "Wed, 11 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-    "summary": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-        "url": "https://www.tomshardware.com/tech-industry/seagate-cco-says-memory-price-hikes-are-the-new-normal",
-        "fetchedAt": "2026-04-14T22:59:57.673406Z",
-        "excerpt": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven by AI data center demand that shows no sign of following historical patterns of recovery. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-86124",
-    "date": "Sun, 08 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-    "summary": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                          ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-        "url": "https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports",
-        "fetchedAt": "2026-04-14T22:59:57.673422Z",
-        "excerpt": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-47098",
-    "date": "Fri, 06 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-    "summary": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-        "url": "https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option",
-        "fetchedAt": "2026-04-14T22:59:57.673424Z",
-        "excerpt": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-76400",
-    "date": "Thu, 05 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-    "summary": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                             ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent",
-        "fetchedAt": "2026-04-14T22:59:57.673426Z",
-        "excerpt": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-81435",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps",
-        "fetchedAt": "2026-04-14T22:59:57.673428Z",
-        "excerpt": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-54562",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-    "summary": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-        "url": "https://www.tomshardware.com/tech-industry/2026-will-bring-sharpest-pc-declines-in-over-a-decade",
-        "fetchedAt": "2026-04-14T22:59:57.673429Z",
-        "excerpt": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-48553",
-    "date": "Mon, 02 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-    "summary": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-        "url": "https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market",
-        "fetchedAt": "2026-04-14T22:59:57.673431Z",
-        "excerpt": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-33443",
-    "date": "Sun, 22 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-    "summary": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machine",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-        "url": "https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued",
-        "fetchedAt": "2026-04-14T22:59:57.673432Z",
-        "excerpt": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-63314",
-    "date": "Mon, 16 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-    "summary": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
-        "fetchedAt": "2026-04-14T22:59:57.673434Z",
-        "excerpt": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-32627",
-    "date": "Sun, 15 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-    "summary": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks",
-        "fetchedAt": "2026-04-14T22:59:57.673435Z",
-        "excerpt": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing order lead times to more than a month. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-1366",
-    "date": "Sat, 14 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-    "summary": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-        "url": "https://www.tomshardware.com/networking/routers/isp-provided-routers-gateways-and-set-top-boxes-face-price-increases-due-to-7x-uplift-in-memory-costs-home-fiber-rollouts-may-slow-and-installations-could-become-more-expensive",
-        "fetchedAt": "2026-04-14T22:59:57.673437Z",
-        "excerpt": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-36918",
-    "date": "Fri, 13 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-    "summary": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-        "url": "https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers",
-        "fetchedAt": "2026-04-14T22:59:57.673439Z",
-        "excerpt": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible to the weighted average of its costs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-27510",
-    "date": "Wed, 11 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-    "summary": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-        "url": "https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-shorten-memory-contracts-as-pricing-power-shifts-back-to-suppliers",
-        "fetchedAt": "2026-04-14T22:59:57.673440Z",
-        "excerpt": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-1525",
-    "date": "Thu, 05 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-        "url": "https://www.tomshardware.com/pc-components/dram/leading-pc-manufacturers-considering-using-chinese-memory-chips-report-claims-hp-and-dell-qualifying-cxmt-dram-acer-and-asus-asking-chinese-partners-to-source-locally-made-memory-chips",
-        "fetchedAt": "2026-04-14T22:59:57.673442Z",
-        "excerpt": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoing memory chip shortage is forcing even big companies to look for alternative sources to Micron, Samsung, and SK hynix. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-54249",
-    "date": "Mon, 02 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-        "url": "https://www.tomshardware.com/tech-industry/ai-infrastructure-surge-begins-squeezing-apples-component-costs",
-        "fetchedAt": "2026-04-14T22:59:57.673444Z",
-        "excerpt": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leverage. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-48462",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-    "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
-    "sources": [
-      {
-        "type": "news",
-        "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
-        "fetchedAt": "2026-04-14T22:59:57.761490Z",
-        "excerpt": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All this is possible thanks to PCIe bifurcation, splitting an x16 slot into x8 for the GPU, and two x4 lanes for the SSDs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-13889",
-    "date": "Sat, 11 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-    "summary": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as medi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-        "url": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
-        "fetchedAt": "2026-04-14T22:59:57.761498Z",
-        "excerpt": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-56944",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-    "summary": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterpri",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-        "fetchedAt": "2026-04-14T22:59:57.761500Z",
-        "excerpt": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-33220",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-    "summary": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                        ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-        "url": "https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future",
-        "fetchedAt": "2026-04-14T22:59:57.761505Z",
-        "excerpt": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-68634",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-    "summary": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-        "url": "https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette",
-        "fetchedAt": "2026-04-14T22:59:57.761507Z",
-        "excerpt": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-82355",
-    "date": "Tue, 07 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-    "summary": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Ex",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-        "url": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance",
-        "fetchedAt": "2026-04-14T22:59:57.761509Z",
-        "excerpt": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-79770",
+    "id": "rss-25337",
     "date": "Mon, 06 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-    "summary": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session ",
+    "title": "Farmers warn of food price spike as war drives up fuel and fertilizer costs - PBS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVFOakF6UWhtNGM1OE1Zb0VnTHJZMnNzdEV5XzI4cU4xS3kzS2JXY2VTc25tczc1TC1PSFVKRDl0Rm9vU1k2N0hieGlrcFd5bWNaUVVEeWRVajRFUGRjZGhWbXRrckRsX3V0SVA3VU",
     "sources": [
       {
         "type": "news",
-        "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-        "url": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
-        "fetchedAt": "2026-04-14T22:59:57.761511Z",
-        "excerpt": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here. \n                                                                                                            "
+        "title": "Farmers warn of food price spike as war drives up fuel and fertilizer costs - PBS",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVFOakF6UWhtNGM1OE1Zb0VnTHJZMnNzdEV5XzI4cU4xS3kzS2JXY2VTc25tczc1TC1PSFVKRDl0Rm9vU1k2N0hieGlrcFd5bWNaUVVEeWRVajRFUGRjZGhWbXRrckRsX3V0SVA3VUJSVU9PZ3UyZEt0SEgzWENfYTBqanNiVTRrTEo0MlJPeGpQMFBrUC12ckZJalFWcUpJZTRQN3Q1S2tNeTctbVE?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894053Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVFOakF6UWhtNGM1OE1Zb0VnTHJZMnNzdEV5XzI4cU4xS3kzS2JXY2VTc25tczc1TC1PSFVKRDl0Rm9vU1k2N0hieGlrcFd5bWNaUVVEeWRVajRFUGRjZGhWbXRrckRsX3V0SVA3VUJSVU9PZ3UyZEt0SEgzWENfYTBqanNiVTRrTEo0MlJPeGpQMFBrUC12ckZJalFWcUpJZTRQN3Q1S2tNeTctbVE?oc=5\" target=\"_blank\">Farmers warn of food price spike as war drives up fuel and fertilizer costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>"
       }
     ]
   },
   {
-    "id": "rss-36505",
-    "date": "Sat, 04 Ap",
+    "id": "rss-32469",
+    "date": "Wed, 01 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-    "summary": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive packa",
+    "title": "US farmers to plant less corn as Iran war spikes fertilizer prices - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3NtOXdnLW0yRjluMXdFc0cyeFg5VVF2X04zMC1Wa1ZHVDZOcXo3OWlVbGxlZEdkQ1g2TEo5YkNqb2dHSUY1S2tLOXlNUnk1eTJyY2h3MmRSWnRBdk9LaEVSVGZ5bmt3SlZkS1Q1bH",
     "sources": [
       {
         "type": "news",
-        "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-        "url": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
-        "fetchedAt": "2026-04-14T22:59:57.761513Z",
-        "excerpt": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features. \n                                                                                                            "
+        "title": "US farmers to plant less corn as Iran war spikes fertilizer prices - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3NtOXdnLW0yRjluMXdFc0cyeFg5VVF2X04zMC1Wa1ZHVDZOcXo3OWlVbGxlZEdkQ1g2TEo5YkNqb2dHSUY1S2tLOXlNUnk1eTJyY2h3MmRSWnRBdk9LaEVSVGZ5bmt3SlZkS1Q1bHFPMi1NUTk2c2QtQ1NQWmtldFhHYmlCX0d5WFd6UnhUeG1QZk1KMFFiR3NoYjREX1dZeDhSMjJZUWw?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894065Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3NtOXdnLW0yRjluMXdFc0cyeFg5VVF2X04zMC1Wa1ZHVDZOcXo3OWlVbGxlZEdkQ1g2TEo5YkNqb2dHSUY1S2tLOXlNUnk1eTJyY2h3MmRSWnRBdk9LaEVSVGZ5bmt3SlZkS1Q1bHFPMi1NUTk2c2QtQ1NQWmtldFhHYmlCX0d5WFd6UnhUeG1QZk1KMFFiR3NoYjREX1dZeDhSMjJZUWw?oc=5\" target=\"_blank\">US farmers to plant less corn as Iran war spikes fertilizer prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
       }
     ]
   },
   {
-    "id": "rss-49655",
-    "date": "Thu, 02 Ap",
+    "id": "rss-10367",
+    "date": "Wed, 01 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-    "summary": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compe",
+    "title": "How the Conflict in the Strait of Hormuz Could Affect Global Agriculture Prices - Goldman Sachs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3VZZlVDM0t4dkdTb01DcmFia0ZPV253OGp5T3E4ZW1qeGFFMGE4eVFDamJKbWtIRV9GSkJVYmJ5QUxVeFdldWJSOVNxNDRvc0dWVUdUQ1N6S2NveEw0a1NUcmlZQVNLaUhXWUtXV2",
     "sources": [
       {
         "type": "news",
-        "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T22:59:57.761514Z",
-        "excerpt": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package. \n                                                                                                            "
+        "title": "How the Conflict in the Strait of Hormuz Could Affect Global Agriculture Prices - Goldman Sachs",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3VZZlVDM0t4dkdTb01DcmFia0ZPV253OGp5T3E4ZW1qeGFFMGE4eVFDamJKbWtIRV9GSkJVYmJ5QUxVeFdldWJSOVNxNDRvc0dWVUdUQ1N6S2NveEw0a1NUcmlZQVNLaUhXWUtXV2twdjlHVnZzSXAyZF8xQXVxYzJLdVRINDFwZW1feTFqbW8wX1BodTNib2llVVRSVnFYMldyRE94X1Y5YTRGRzZlVDhrZEgwTEVQclhNMGlsV2gzZXRF?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894068Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3VZZlVDM0t4dkdTb01DcmFia0ZPV253OGp5T3E4ZW1qeGFFMGE4eVFDamJKbWtIRV9GSkJVYmJ5QUxVeFdldWJSOVNxNDRvc0dWVUdUQ1N6S2NveEw0a1NUcmlZQVNLaUhXWUtXV2twdjlHVnZzSXAyZF8xQXVxYzJLdVRINDFwZW1feTFqbW8wX1BodTNib2llVVRSVnFYMldyRE94X1Y5YTRGRzZlVDhrZEgwTEVQclhNMGlsV2gzZXRF?oc=5\" target=\"_blank\">How the Conflict in the Strait of Hormuz Could Affect Global Agriculture Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goldman Sachs</font>"
       }
     ]
   },
   {
-    "id": "rss-30305",
-    "date": "Tue, 31 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-    "summary": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life",
-        "fetchedAt": "2026-04-14T22:59:57.761516Z",
-        "excerpt": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-95485",
-    "date": "Tue, 31 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-    "summary": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                       ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-        "url": "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389",
-        "fetchedAt": "2026-04-14T22:59:57.761518Z",
-        "excerpt": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-59037",
-    "date": "Tue, 31 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-    "summary": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n          ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-        "url": "https://www.tomshardware.com/pc-components/storage/grab-an-ssd-or-hdd-upgrade-for-world-backup-day-2026-to-keep-your-files-safe-with-1tb-drives-starting-from-usd109-beat-the-ai-fueled-storage-price-hikes-with-these-savings-on-internal-and-external-drives-enclosures-and-accessories",
-        "fetchedAt": "2026-04-14T22:59:57.761519Z",
-        "excerpt": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-52376",
-    "date": "Tue, 31 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-    "summary": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD",
-    "sources": [
-      {
-        "type": "news",
-        "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-        "url": "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s",
-        "fetchedAt": "2026-04-14T22:59:57.761521Z",
-        "excerpt": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD enclosure, shaped like an old floppy disk. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-35930",
-    "date": "Sat, 28 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-    "summary": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n               ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd",
-        "fetchedAt": "2026-04-14T22:59:57.761523Z",
-        "excerpt": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-79865",
-    "date": "Sat, 28 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-    "summary": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                             ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-        "url": "https://www.tomshardware.com/tech-industry/sony-suspends-nearly-all-memory-card-orders-in-japan",
-        "fetchedAt": "2026-04-14T22:59:57.761525Z",
-        "excerpt": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-27422",
+    "id": "rss-78378",
     "date": "Fri, 27 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "title": "Fertilizer Prices Stay Elevated as Policy Pressure Builds for Farmers - Successful Farming",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXZ2bVVPRE1LSUF4OWVpSFg1Vk5Ua2oydlQxak5TWmFiU291TWV3TEl6YURQd2ZFYzFjZDIwcElLQ2MxaDI2Sll3UE4wbVBxYTRmUVBrWGFybGdlei1tb0h3S1BPZ2ZGU1VGQVdjUC",
     "sources": [
       {
         "type": "news",
-        "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market",
-        "fetchedAt": "2026-04-14T22:59:57.761526Z",
-        "excerpt": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                                                                                            "
+        "title": "Fertilizer Prices Stay Elevated as Policy Pressure Builds for Farmers - Successful Farming",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXZ2bVVPRE1LSUF4OWVpSFg1Vk5Ua2oydlQxak5TWmFiU291TWV3TEl6YURQd2ZFYzFjZDIwcElLQ2MxaDI2Sll3UE4wbVBxYTRmUVBrWGFybGdlei1tb0h3S1BPZ2ZGU1VGQVdjUC1VV1NtS3l3YWprdHgxcENOZzFLeGt0UlYtVTF0TUR5Q0NwNUNtN09kbWZLcklhbmxLU2FLYTRHUHphdw?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894070Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXZ2bVVPRE1LSUF4OWVpSFg1Vk5Ua2oydlQxak5TWmFiU291TWV3TEl6YURQd2ZFYzFjZDIwcElLQ2MxaDI2Sll3UE4wbVBxYTRmUVBrWGFybGdlei1tb0h3S1BPZ2ZGU1VGQVdjUC1VV1NtS3l3YWprdHgxcENOZzFLeGt0UlYtVTF0TUR5Q0NwNUNtN09kbWZLcklhbmxLU2FLYTRHUHphdw?oc=5\" target=\"_blank\">Fertilizer Prices Stay Elevated as Policy Pressure Builds for Farmers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Successful Farming</font>"
       }
     ]
   },
   {
-    "id": "rss-47132",
+    "id": "rss-98022",
+    "date": "Thu, 02 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "‘It all depends on the crop’: Gulf crisis hits South Asia farmers - Al Jazeera",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHVSM2lHR1JUY0Vxalg0QlQ0MnEwbDdKZHlzaFNwaDFPb2F3dmVSMERHcXpBTEkyRmVnMUxJMXFFOGNacU0zci14U2VlMUliU1NpbWZuZ3ZsdkhmSko1N0tDUlI5aS1JTVBRVjJLZX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "‘It all depends on the crop’: Gulf crisis hits South Asia farmers - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHVSM2lHR1JUY0Vxalg0QlQ0MnEwbDdKZHlzaFNwaDFPb2F3dmVSMERHcXpBTEkyRmVnMUxJMXFFOGNacU0zci14U2VlMUliU1NpbWZuZ3ZsdkhmSko1N0tDUlI5aS1JTVBRVjJLZXNaX1VuQ2F5Q2ZGMEppb1A0aG0tX3VtV0lnaVR4aDQzRWV6SVlQZVhWQ2kwU1FLSWk4cFQwRVBPSlHSAa4BQVVfeXFMTlFfbG51aTJuYWtyZ3ZmSzB0cnl5WmgyeHRScnZPVjFWVUF6MXRUWjBlbWs3Sks4bUJCQzhkZVc3M2syUXJYVDZMR2JfSXNrVHBTMHRyQU14OXoyQmtwYm55ZkJjRkFIaElTYTY4NnZseEhUMnpKNWttQ2NxOExwOEtlejI3aExRLVRoQnlwenIwX1FJaDByMTNRUTVHMk1qbTd6ek4yc1RHZU5vY1NB?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894075Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHVSM2lHR1JUY0Vxalg0QlQ0MnEwbDdKZHlzaFNwaDFPb2F3dmVSMERHcXpBTEkyRmVnMUxJMXFFOGNacU0zci14U2VlMUliU1NpbWZuZ3ZsdkhmSko1N0tDUlI5aS1JTVBRVjJLZXNaX1VuQ2F5Q2ZGMEppb1A0aG0tX3VtV0lnaVR4aDQzRWV6SVlQZVhWQ2kwU1FLSWk4cFQwRVBPSlHSAa4BQVVfeXFMTlFfbG51aTJuYWtyZ3ZmSzB0cnl5WmgyeHRScnZPVjFWVUF6MXRUWjBlbWs3Sks4bUJCQzhkZVc3M2syUXJYVDZMR2JfSXNrVHBTMHRyQU14OXoyQmtwYm55ZkJjRkFIaElTYTY4NnZseEhUMnpKNWttQ2NxOExwOEtlejI3aExRLVRoQnlwenIwX1FJaDByMTNRUTVHMk1qbTd6ek"
+      }
+    ]
+  },
+  {
+    "id": "rss-44409",
+    "date": "Thu, 19 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Iowa farmers say fertilizer prices spiking as spring planting nears - The Des Moines Register",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVhLZG5JUW5RLW0zUTFxdklhaUctZ2RvaWw0WWRUbmd3UVJRMUlwc3JyV2swLU4wa2NQeV92WGUtd2Rkdy1WNkQtUkZoVHF0YlRiVHUtamtYUlYtbHRhY3l1YUFLeXRPUHgxQlBUQl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Iowa farmers say fertilizer prices spiking as spring planting nears - The Des Moines Register",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVhLZG5JUW5RLW0zUTFxdklhaUctZ2RvaWw0WWRUbmd3UVJRMUlwc3JyV2swLU4wa2NQeV92WGUtd2Rkdy1WNkQtUkZoVHF0YlRiVHUtamtYUlYtbHRhY3l1YUFLeXRPUHgxQlBUQlFIM2l4TWRhRmpDdDZrTEd3RXM0SDd3QTBmaWxYbTBZNmpUNDgwV1R2bFpoRWRkRjJWVUpUQXNsejd2emp0MlN2Q2xiY0dLQ3MtUDNoZVB4SE41QQ?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894080Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVhLZG5JUW5RLW0zUTFxdklhaUctZ2RvaWw0WWRUbmd3UVJRMUlwc3JyV2swLU4wa2NQeV92WGUtd2Rkdy1WNkQtUkZoVHF0YlRiVHUtamtYUlYtbHRhY3l1YUFLeXRPUHgxQlBUQlFIM2l4TWRhRmpDdDZrTEd3RXM0SDd3QTBmaWxYbTBZNmpUNDgwV1R2bFpoRWRkRjJWVUpUQXNsejd2emp0MlN2Q2xiY0dLQ3MtUDNoZVB4SE41QQ?oc=5\" target=\"_blank\">Iowa farmers say fertilizer prices spiking as spring planting nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Des Moines Register</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-42618",
+    "date": "Fri, 20 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "‘It’s not sustainable’: US farmers reeling as Iran war pushes fertilizer costs up - The Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5LX3BWTW5yMHFOeTFHbzJhMWVNbjN3M3lSem5oNWVkVjhSQ3pFc1J0Q1FjVzZxZnRNckUwMmlZZnp6Mll6dlhEV0ZxdG1VOHdnNm94dXhBZXNIaEMzYkZYUER3dHBWRThvUEZWeW9YLX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "‘It’s not sustainable’: US farmers reeling as Iran war pushes fertilizer costs up - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LX3BWTW5yMHFOeTFHbzJhMWVNbjN3M3lSem5oNWVkVjhSQ3pFc1J0Q1FjVzZxZnRNckUwMmlZZnp6Mll6dlhEV0ZxdG1VOHdnNm94dXhBZXNIaEMzYkZYUER3dHBWRThvUEZWeW9YLXdmSFhTNGtXeDBwZV9pT2c?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894083Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5LX3BWTW5yMHFOeTFHbzJhMWVNbjN3M3lSem5oNWVkVjhSQ3pFc1J0Q1FjVzZxZnRNckUwMmlZZnp6Mll6dlhEV0ZxdG1VOHdnNm94dXhBZXNIaEMzYkZYUER3dHBWRThvUEZWeW9YLXdmSFhTNGtXeDBwZV9pT2c?oc=5\" target=\"_blank\">‘It’s not sustainable’: US farmers reeling as Iran war pushes fertilizer costs up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-15714",
+    "date": "Mon, 09 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Prolonged Iran War Could Shrink US Corn Acres, Analysts Say - Farm Policy News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnhBSV9wQmJKamtZNFJkNWxXb2sxaXctVVZMRFE3RUlnUkhpZEU0MWpDeHVXUThhZTgwRXVwQkxqOGh3anVUbVUzbDMzMVhKN2dCTnR3Tllic3JuSU1GUmgzeXR1bkt1dXl2YnhFM0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Prolonged Iran War Could Shrink US Corn Acres, Analysts Say - Farm Policy News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnhBSV9wQmJKamtZNFJkNWxXb2sxaXctVVZMRFE3RUlnUkhpZEU0MWpDeHVXUThhZTgwRXVwQkxqOGh3anVUbVUzbDMzMVhKN2dCTnR3Tllic3JuSU1GUmgzeXR1bkt1dXl2YnhFM01NclhlNnhVWV81UnJDTU55U0xmR1VvWHpjOHJCMjVIeEk2c01RazhXQVV1X25LaVZGNTdEa09B?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894086Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnhBSV9wQmJKamtZNFJkNWxXb2sxaXctVVZMRFE3RUlnUkhpZEU0MWpDeHVXUThhZTgwRXVwQkxqOGh3anVUbVUzbDMzMVhKN2dCTnR3Tllic3JuSU1GUmgzeXR1bkt1dXl2YnhFM01NclhlNnhVWV81UnJDTU55U0xmR1VvWHpjOHJCMjVIeEk2c01RazhXQVV1X25LaVZGNTdEa09B?oc=5\" target=\"_blank\">Prolonged Iran War Could Shrink US Corn Acres, Analysts Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farm Policy News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-97871",
+    "date": "Sat, 21 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Intensive agriculture | Organic Farming, Crop Rotation & Soil Management - Britannica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSRHNsT19xLTF2Y25Mc1RTZzBWTWM1LUtUeEVGbm1MakVhLXNERll2OWNNWDJodGtBZmoxSl94dkV3N2RMSEdZRmpMSlRQa3pJeS16amZDaGpYV2M5Z3N2b3ZpTy0?oc=5\" target=\"",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Intensive agriculture | Organic Farming, Crop Rotation & Soil Management - Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSRHNsT19xLTF2Y25Mc1RTZzBWTWM1LUtUeEVGbm1MakVhLXNERll2OWNNWDJodGtBZmoxSl94dkV3N2RMSEdZRmpMSlRQa3pJeS16amZDaGpYV2M5Z3N2b3ZpTy0?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894088Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSRHNsT19xLTF2Y25Mc1RTZzBWTWM1LUtUeEVGbm1MakVhLXNERll2OWNNWDJodGtBZmoxSl94dkV3N2RMSEdZRmpMSlRQa3pJeS16amZDaGpYV2M5Z3N2b3ZpTy0?oc=5\" target=\"_blank\">Intensive agriculture | Organic Farming, Crop Rotation & Soil Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-15518",
+    "date": "Thu, 12 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "War With Iran Puts Further Strain on America’s Pessimistic Farmers - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcl9rWnVwanU5eDUzaHZ5NnFla2NGN19JY0VuaENHeENWRmZRTk41MnZFWUtfZ0h2MmcyTy1nTkJKMmxRX0pMY0J4N0JYenBVNWtxLUFHbzZleWdmdW1mcHRwLVhkU0FaVk5YM2Q5RW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "War With Iran Puts Further Strain on America’s Pessimistic Farmers - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcl9rWnVwanU5eDUzaHZ5NnFla2NGN19JY0VuaENHeENWRmZRTk41MnZFWUtfZ0h2MmcyTy1nTkJKMmxRX0pMY0J4N0JYenBVNWtxLUFHbzZleWdmdW1mcHRwLVhkU0FaVk5YM2Q5RWxHbW0yMERsZkc4SmF4V0VIdWllM3VKdklYN3Zr?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894090Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcl9rWnVwanU5eDUzaHZ5NnFla2NGN19JY0VuaENHeENWRmZRTk41MnZFWUtfZ0h2MmcyTy1nTkJKMmxRX0pMY0J4N0JYenBVNWtxLUFHbzZleWdmdW1mcHRwLVhkU0FaVk5YM2Q5RWxHbW0yMERsZkc4SmF4V0VIdWllM3VKdklYN3Zr?oc=5\" target=\"_blank\">War With Iran Puts Further Strain on America’s Pessimistic Farmers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-72686",
+    "date": "Fri, 13 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer Prices Surge Ahead of a Critical Planting Season - CME Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2g0c0lYeDZhOEtnMVRXVXJHQWh1cktIY1J6LUhpeVdHRGNMT2xKRW9IUkhpVnRIME9vVEx1VmhfZFBPWWxobmJXWFFIeWNPMm5HWk85czQtVS1HVVBLWWtYYmxWWU1oWmpRUjM4a2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Fertilizer Prices Surge Ahead of a Critical Planting Season - CME Group",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2g0c0lYeDZhOEtnMVRXVXJHQWh1cktIY1J6LUhpeVdHRGNMT2xKRW9IUkhpVnRIME9vVEx1VmhfZFBPWWxobmJXWFFIeWNPMm5HWk85czQtVS1HVVBLWWtYYmxWWU1oWmpRUjM4a2tFRG4tejJDTGJzc1Zad093MUM3VHktWDRRUEpPWlJnbnhSOXVxX0lPLW1uenQ2MkNvcU9uakROZEVGVDlKZGFZRjIwaUpkd1ptcHc?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894092Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2g0c0lYeDZhOEtnMVRXVXJHQWh1cktIY1J6LUhpeVdHRGNMT2xKRW9IUkhpVnRIME9vVEx1VmhfZFBPWWxobmJXWFFIeWNPMm5HWk85czQtVS1HVVBLWWtYYmxWWU1oWmpRUjM4a2tFRG4tejJDTGJzc1Zad093MUM3VHktWDRRUEpPWlJnbnhSOXVxX0lPLW1uenQ2MkNvcU9uakROZEVGVDlKZGFZRjIwaUpkd1ptcHc?oc=5\" target=\"_blank\">Fertilizer Prices Surge Ahead of a Critical Planting Season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CME Group</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-8394",
+    "date": "Thu, 12 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer prices soar as Strait of Hormuz tensions rise—forcing U.S. farmers to rethink spring planting - Fortune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3pGNzFNV3R4djBlNllHU2hQTnp5Z1c0U0ZCVTlOZkd2SjZia0ZrMUtoS2RVdGFHX1ZUX2oyOHZHeUhqR0Fha1QtOTViMkEzb05WQjl0TnhYX0x0dzJtVGlyMEF5c283NVU1Q25WUU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Fertilizer prices soar as Strait of Hormuz tensions rise—forcing U.S. farmers to rethink spring planting - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3pGNzFNV3R4djBlNllHU2hQTnp5Z1c0U0ZCVTlOZkd2SjZia0ZrMUtoS2RVdGFHX1ZUX2oyOHZHeUhqR0Fha1QtOTViMkEzb05WQjl0TnhYX0x0dzJtVGlyMEF5c283NVU1Q25WUUhCRGY1dmgwUnp3OWw2UUhqaVBQRjFiSFVjalNxN1diRnYtQkwxejFoRGlyc1N1MWo3?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894094Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3pGNzFNV3R4djBlNllHU2hQTnp5Z1c0U0ZCVTlOZkd2SjZia0ZrMUtoS2RVdGFHX1ZUX2oyOHZHeUhqR0Fha1QtOTViMkEzb05WQjl0TnhYX0x0dzJtVGlyMEF5c283NVU1Q25WUUhCRGY1dmgwUnp3OWw2UUhqaVBQRjFiSFVjalNxN1diRnYtQkwxejFoRGlyc1N1MWo3?oc=5\" target=\"_blank\">Fertilizer prices soar as Strait of Hormuz tensions rise—forcing U.S. farmers to rethink spring planting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-85500",
+    "date": "Tue, 18 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The US protects two crop fertilizers. Farmers hope for lower costs - Wyoming Public Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYndDRTduNFlXLTZheXUybno3SXZ1RlY1NmExdTdxWjMtUWh4RGFGRHFYdGx2Tk54N1g1Wk1ZUDhjaEJQUlZBV1BDYzlWb2ozZWlRSzBWUWlMeFltUHgyM043M0pEMFRCZjVuSmVjWl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The US protects two crop fertilizers. Farmers hope for lower costs - Wyoming Public Media",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYndDRTduNFlXLTZheXUybno3SXZ1RlY1NmExdTdxWjMtUWh4RGFGRHFYdGx2Tk54N1g1Wk1ZUDhjaEJQUlZBV1BDYzlWb2ozZWlRSzBWUWlMeFltUHgyM043M0pEMFRCZjVuSmVjWlFEQ0ktaUg0RmJWNEllRE9TUVR0ZEdURXlVNVJUQnlmU1llekFYZG5IS09nWmVPbXhyZ1VQSHVSWC1KV2R2M3VMeTVDbDZYRG5OUjB2Y3F0dzlPNmV2aEZOd0dZNTBZOWpBVk5sdzRPNXpfOTJYeUNJamtzS2JMZVNaOUdiM2hjbFdmU2JTS2lyX201bEVOZw?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894097Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYndDRTduNFlXLTZheXUybno3SXZ1RlY1NmExdTdxWjMtUWh4RGFGRHFYdGx2Tk54N1g1Wk1ZUDhjaEJQUlZBV1BDYzlWb2ozZWlRSzBWUWlMeFltUHgyM043M0pEMFRCZjVuSmVjWlFEQ0ktaUg0RmJWNEllRE9TUVR0ZEdURXlVNVJUQnlmU1llekFYZG5IS09nWmVPbXhyZ1VQSHVSWC1KV2R2M3VMeTVDbDZYRG5OUjB2Y3F0dzlPNmV2aEZOd0dZNTBZOWpBVk5sdzRPNXpfOTJYeUNJamtzS2JMZVNaOUdiM2hjbFdmU2JTS2lyX201bEVOZw?oc=5\" target=\"_blank\">The US protects two crop fertilizers. Farmers hope for lower costs</a>&nbsp;&nbsp;<fo"
+      }
+    ]
+  },
+  {
+    "id": "rss-88267",
+    "date": "Mon, 24 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Interpretable deep learning models for independent fertilizer and crop recommendation - Nature",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VTFVRHlSOUxLRW51WExkWmt5aTIwazZNTXA4ZzBac0x6NmFPWEVPaElqWDdRU1JxU2pyMUxPZTF0ZmlLeUdZVWx1UjRMNjIzQmMtbHFfY0FZWG43dDRR?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Interpretable deep learning models for independent fertilizer and crop recommendation - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VTFVRHlSOUxLRW51WExkWmt5aTIwazZNTXA4ZzBac0x6NmFPWEVPaElqWDdRU1JxU2pyMUxPZTF0ZmlLeUdZVWx1UjRMNjIzQmMtbHFfY0FZWG43dDRR?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894101Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VTFVRHlSOUxLRW51WExkWmt5aTIwazZNTXA4ZzBac0x6NmFPWEVPaElqWDdRU1JxU2pyMUxPZTF0ZmlLeUdZVWx1UjRMNjIzQmMtbHFfY0FZWG43dDRR?oc=5\" target=\"_blank\">Interpretable deep learning models for independent fertilizer and crop recommendation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-90979",
+    "date": "Tue, 25 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Ask the expert: Agricultural drones are reshaping farming - Michigan State University",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWW94R2hqajNVRVpRU2ZodXByMjZBRldhbGx2Sk9KbnZ1Yi1UajJJeXJvb3laYlBZNzZtUEJrMDByZ3RKcTU3VG83amxKWHpCWEdjS2RjZGFMcGpHUzY1azdpXzlVbEhmTmxTeDI1Tm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Ask the expert: Agricultural drones are reshaping farming - Michigan State University",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWW94R2hqajNVRVpRU2ZodXByMjZBRldhbGx2Sk9KbnZ1Yi1UajJJeXJvb3laYlBZNzZtUEJrMDByZ3RKcTU3VG83amxKWHpCWEdjS2RjZGFMcGpHUzY1azdpXzlVbEhmTmxTeDI1TmNrSDNnOENLQTh6am53d1VMUHlqcWhpUQ?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894103Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWW94R2hqajNVRVpRU2ZodXByMjZBRldhbGx2Sk9KbnZ1Yi1UajJJeXJvb3laYlBZNzZtUEJrMDByZ3RKcTU3VG83amxKWHpCWEdjS2RjZGFMcGpHUzY1azdpXzlVbEhmTmxTeDI1TmNrSDNnOENLQTh6am53d1VMUHlqcWhpUQ?oc=5\" target=\"_blank\">Ask the expert: Agricultural drones are reshaping farming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan State University</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-90974",
+    "date": "Thu, 01 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "These farmers are cutting pollution and fighting hunger — with bacteria - The Washington Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNME9kYUpKaTVCY0RQRFlRT3RCVDVVdnpsVjRtOGE1T1RVNzF2MmNNRU45RlJuek9iU2RabFM0OExiU3lNWnhLVF9iZWdSTVRlYnBoMVJ5NzJvWTBqR2w4MExGUlFLMkRyQzVza0t2VG",
+    "sources": [
+      {
+        "type": "news",
+        "title": "These farmers are cutting pollution and fighting hunger — with bacteria - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNME9kYUpKaTVCY0RQRFlRT3RCVDVVdnpsVjRtOGE1T1RVNzF2MmNNRU45RlJuek9iU2RabFM0OExiU3lNWnhLVF9iZWdSTVRlYnBoMVJ5NzJvWTBqR2w4MExGUlFLMkRyQzVza0t2VG5pdTlBbGVrUHh0XzB5UlNrYlRJUWNWQ1FmOEFxYmtseEdGZ3lOd0E?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894105Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNME9kYUpKaTVCY0RQRFlRT3RCVDVVdnpsVjRtOGE1T1RVNzF2MmNNRU45RlJuek9iU2RabFM0OExiU3lNWnhLVF9iZWdSTVRlYnBoMVJ5NzJvWTBqR2w4MExGUlFLMkRyQzVza0t2VG5pdTlBbGVrUHh0XzB5UlNrYlRJUWNWQ1FmOEFxYmtseEdGZ3lOd0E?oc=5\" target=\"_blank\">These farmers are cutting pollution and fighting hunger — with bacteria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-44980",
+    "date": "Thu, 04 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Increasing plant diversity in agricultural grasslands boosts yields, reducing reliance on fertilizer - Phys.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWVZZ3kwbHA2VHpaSEt0TkhnbUdyRjh2WC1UTFRxeDlKY1RQVlQxM0hEcm1LQXNDYXhjM2xfaWd0ZDJ1c2wyYnRVLWRZd3ZoeTRXeVJYQm5JRXpmUkgyc2xoazBCTkEwUllZbTU0Mj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Increasing plant diversity in agricultural grasslands boosts yields, reducing reliance on fertilizer - Phys.org",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWVZZ3kwbHA2VHpaSEt0TkhnbUdyRjh2WC1UTFRxeDlKY1RQVlQxM0hEcm1LQXNDYXhjM2xfaWd0ZDJ1c2wyYnRVLWRZd3ZoeTRXeVJYQm5JRXpmUkgyc2xoazBCTkEwUllZbTU0MjloanUzMjVtbUxTUFJ6OTUxeEdfdUpSd3FYTXc?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894107Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWVZZ3kwbHA2VHpaSEt0TkhnbUdyRjh2WC1UTFRxeDlKY1RQVlQxM0hEcm1LQXNDYXhjM2xfaWd0ZDJ1c2wyYnRVLWRZd3ZoeTRXeVJYQm5JRXpmUkgyc2xoazBCTkEwUllZbTU0MjloanUzMjVtbUxTUFJ6OTUxeEdfdUpSd3FYTXc?oc=5\" target=\"_blank\">Increasing plant diversity in agricultural grasslands boosts yields, reducing reliance on fertilizer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-79130",
+    "date": "Wed, 11 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "cover crop - Britannica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGY1lkZGFwV1lxU2lsWjZ4Y1JVN2ZwVEpiYXJCczVjd1ZEQks1YzVPYnY5dHlkVjc4NEdEdk55TzViTDctWGdnS2ZCYlR2OE5PSGdES2Zn?oc=5\" target=\"_blank\">cover crop<",
+    "sources": [
+      {
+        "type": "news",
+        "title": "cover crop - Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGY1lkZGFwV1lxU2lsWjZ4Y1JVN2ZwVEpiYXJCczVjd1ZEQks1YzVPYnY5dHlkVjc4NEdEdk55TzViTDctWGdnS2ZCYlR2OE5PSGdES2Zn?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894109Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGY1lkZGFwV1lxU2lsWjZ4Y1JVN2ZwVEpiYXJCczVjd1ZEQks1YzVPYnY5dHlkVjc4NEdEdk55TzViTDctWGdnS2ZCYlR2OE5PSGdES2Zn?oc=5\" target=\"_blank\">cover crop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-20498",
+    "date": "Wed, 04 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Global Fertilizer Markets Face Disruption Due to Attack on Iran, Experts Warn - Successful Farming",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU4wM0J4SGhNOS1SdGJPVldlLUF4RmJ6NmhvemdvOWxZUmhjNVNxODlpUkNjNXpzZ2k3NWh0QjZURW5DbUIyWEdHV1VVajVXbk5qaFFrV3gwX0NVTERVc1h0TXJRRk5pRFRSRmN0d0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Global Fertilizer Markets Face Disruption Due to Attack on Iran, Experts Warn - Successful Farming",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU4wM0J4SGhNOS1SdGJPVldlLUF4RmJ6NmhvemdvOWxZUmhjNVNxODlpUkNjNXpzZ2k3NWh0QjZURW5DbUIyWEdHV1VVajVXbk5qaFFrV3gwX0NVTERVc1h0TXJRRk5pRFRSRmN0d0pYM1hTZ3M4czRyWkdxcFhLRmotX0lHcWxUcDAxeGU1eDUwVTU2VWJfYkExSjlNcjByOEE?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894111Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU4wM0J4SGhNOS1SdGJPVldlLUF4RmJ6NmhvemdvOWxZUmhjNVNxODlpUkNjNXpzZ2k3NWh0QjZURW5DbUIyWEdHV1VVajVXbk5qaFFrV3gwX0NVTERVc1h0TXJRRk5pRFRSRmN0d0pYM1hTZ3M4czRyWkdxcFhLRmotX0lHcWxUcDAxeGU1eDUwVTU2VWJfYkExSjlNcjByOEE?oc=5\" target=\"_blank\">Global Fertilizer Markets Face Disruption Due to Attack on Iran, Experts Warn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Successful Farming</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-46441",
+    "date": "Fri, 13 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Rising Fertilizer Prices Hit Farmers Hard Due to Strait of Hormuz Closure Crisis - Successful Farming",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlVHZGYzVjZmcFJLN3AzV1lsdnlIbEJFTjlUcmJjeDRGb01JeWdLZkkteDVXRUVGRXlPZW1Na2hLZ3RqWEZCZjlVaXBfZDFmSU1RVUhGcHlfRmFhX2hUOXlabzQ5WVU3eVJfa0c5ck",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Rising Fertilizer Prices Hit Farmers Hard Due to Strait of Hormuz Closure Crisis - Successful Farming",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlVHZGYzVjZmcFJLN3AzV1lsdnlIbEJFTjlUcmJjeDRGb01JeWdLZkkteDVXRUVGRXlPZW1Na2hLZ3RqWEZCZjlVaXBfZDFmSU1RVUhGcHlfRmFhX2hUOXlabzQ5WVU3eVJfa0c5ck40aEd5bkI1b2V5SUVyZDl1Mm8xLVJ3TzVmNDVQOFFrUnVXcmliV1A1QVFsZjZIVWdsNVE?oc=5",
+        "fetchedAt": "2026-04-15T09:09:33.894114Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlVHZGYzVjZmcFJLN3AzV1lsdnlIbEJFTjlUcmJjeDRGb01JeWdLZkkteDVXRUVGRXlPZW1Na2hLZ3RqWEZCZjlVaXBfZDFmSU1RVUhGcHlfRmFhX2hUOXlabzQ5WVU3eVJfa0c5ck40aEd5bkI1b2V5SUVyZDl1Mm8xLVJ3TzVmNDVQOFFrUnVXcmliV1A1QVFsZjZIVWdsNVE?oc=5\" target=\"_blank\">Rising Fertilizer Prices Hit Farmers Hard Due to Strait of Hormuz Closure Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Successful Farming</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-72633",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Iran war’s impacts on global fertilizer markets and food production - IFPRI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW1oVXVPMFE0ZUxST0tpaDQtb1dfeUJwMmdvQS1WYnVEbjNwbjA1MnZKcmt4aDEtdFNKMWNvOXd2SlZEWExoZ1MxaFlWNHI2MW5XbTRNSzJLTHdndUR4eDhFOTFQZE5FdmRqQkdvRm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Iran war’s impacts on global fertilizer markets and food production - IFPRI",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW1oVXVPMFE0ZUxST0tpaDQtb1dfeUJwMmdvQS1WYnVEbjNwbjA1MnZKcmt4aDEtdFNKMWNvOXd2SlZEWExoZ1MxaFlWNHI2MW5XbTRNSzJLTHdndUR4eDhFOTFQZE5FdmRqQkdvRmRoLVFRZ0RiWmtEZjBQR1JXUktSZjRxTkpTUDd5YUdHUkFGZU52VVE2MGlIRHQwSjA?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654911Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW1oVXVPMFE0ZUxST0tpaDQtb1dfeUJwMmdvQS1WYnVEbjNwbjA1MnZKcmt4aDEtdFNKMWNvOXd2SlZEWExoZ1MxaFlWNHI2MW5XbTRNSzJLTHdndUR4eDhFOTFQZE5FdmRqQkdvRmRoLVFRZ0RiWmtEZjBQR1JXUktSZjRxTkpTUDd5YUdHUkFGZU52VVE2MGlIRHQwSjA?oc=5\" target=\"_blank\">The Iran war’s impacts on global fertilizer markets and food production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IFPRI</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-24662",
     "date": "Wed, 25 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-    "summary": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                     ",
+    "title": "It’s not just oil and gas. The Strait of Hormuz blockage is rattling another vital commodity - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFFRWVgxNE9GRTVJUHIzR3pqSXQ4Q0pqaGpxc3plNVNyeUNRd25TYXRGcVNVYXJQVFRVem0zTGMyOWtGTkt2dzdidGdFd0tnNVVKTmppeDMxaklHU3piZ0kycEplM3BjeDdUUk5rTn",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
-        "fetchedAt": "2026-04-14T22:59:57.761528Z",
-        "excerpt": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                                                            "
+        "title": "It’s not just oil and gas. The Strait of Hormuz blockage is rattling another vital commodity - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFFRWVgxNE9GRTVJUHIzR3pqSXQ4Q0pqaGpxc3plNVNyeUNRd25TYXRGcVNVYXJQVFRVem0zTGMyOWtGTkt2dzdidGdFd0tnNVVKTmppeDMxaklHU3piZ0kycEplM3BjeDdUUk5rTnEzVFJQa1BjbDFrenJOQTY2OEtGQTJSM2xqYktsYUcxX09vOWEyUU9nRERIUHY4ZXJDVWtISmZqcmVZcTBPeFlwamlFNlFzQQ?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654921Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFFRWVgxNE9GRTVJUHIzR3pqSXQ4Q0pqaGpxc3plNVNyeUNRd25TYXRGcVNVYXJQVFRVem0zTGMyOWtGTkt2dzdidGdFd0tnNVVKTmppeDMxaklHU3piZ0kycEplM3BjeDdUUk5rTnEzVFJQa1BjbDFrenJOQTY2OEtGQTJSM2xqYktsYUcxX09vOWEyUU9nRERIUHY4ZXJDVWtISmZqcmVZcTBPeFlwamlFNlFzQQ?oc=5\" target=\"_blank\">It’s not just oil and gas. The Strait of Hormuz blockage is rattling another vital commodity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
       }
     ]
   },
   {
-    "id": "rss-99390",
+    "id": "rss-35005",
+    "date": "Tue, 17 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "As Fertilizer Prices Rise, South Carolina Farmers Are Using Clemson Ag Tools to Help - Grain Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVdyRThJRmRuNzUtOHB2R1BZN1l6VHREVG9uaUZYUGg2TElGLS1KQktIYmU4TVdRbFl1VWU5LTZnQU1fZnVmaE1FSS1Jd0xfY0I1X0cwZGJyU0RKeTBYbUkwYjVOUUxjdEUxQks5c0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "As Fertilizer Prices Rise, South Carolina Farmers Are Using Clemson Ag Tools to Help - Grain Journal",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVdyRThJRmRuNzUtOHB2R1BZN1l6VHREVG9uaUZYUGg2TElGLS1KQktIYmU4TVdRbFl1VWU5LTZnQU1fZnVmaE1FSS1Jd0xfY0I1X0cwZGJyU0RKeTBYbUkwYjVOUUxjdEUxQks5c09JUkxWLTd1aXpFVFdvY3lTZ3F4Ri1PYmlFUmRUOUZHcFBPZ01NNHlQWldfZU0yWnFaUlYzZ1VZTUpsRTRTR1hKeEZSSE9SVEdHaVZZWUVFM0pWZDlzRXln?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654923Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVdyRThJRmRuNzUtOHB2R1BZN1l6VHREVG9uaUZYUGg2TElGLS1KQktIYmU4TVdRbFl1VWU5LTZnQU1fZnVmaE1FSS1Jd0xfY0I1X0cwZGJyU0RKeTBYbUkwYjVOUUxjdEUxQks5c09JUkxWLTd1aXpFVFdvY3lTZ3F4Ri1PYmlFUmRUOUZHcFBPZ01NNHlQWldfZU0yWnFaUlYzZ1VZTUpsRTRTR1hKeEZSSE9SVEdHaVZZWUVFM0pWZDlzRXln?oc=5\" target=\"_blank\">As Fertilizer Prices Rise, South Carolina Farmers Are Using Clemson Ag Tools to Help</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grain Journal</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-55113",
+    "date": "Tue, 20 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Input cost squeeze likely to continue in 2026 - Farm Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON2J4SFFFMVl0N0hkdjk2VXU5OUV5QmVpUlZ6cW1wNy1JQVFXRU0zTFFaN0NqZkN1UTVkcVYwWldwTkFpUXQxNmhhQzBxVEo3dDBWazRjbDlyRDhhd2h1dlhFX0t4ZmNuMXdmY0FaT3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Input cost squeeze likely to continue in 2026 - Farm Progress",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2J4SFFFMVl0N0hkdjk2VXU5OUV5QmVpUlZ6cW1wNy1JQVFXRU0zTFFaN0NqZkN1UTVkcVYwWldwTkFpUXQxNmhhQzBxVEo3dDBWazRjbDlyRDhhd2h1dlhFX0t4ZmNuMXdmY0FaT3pNRDc0bU5KMk14eFF2a3R2Mk9UR0lsaTlDT0xROXV6RQ?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654926Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON2J4SFFFMVl0N0hkdjk2VXU5OUV5QmVpUlZ6cW1wNy1JQVFXRU0zTFFaN0NqZkN1UTVkcVYwWldwTkFpUXQxNmhhQzBxVEo3dDBWazRjbDlyRDhhd2h1dlhFX0t4ZmNuMXdmY0FaT3pNRDc0bU5KMk14eFF2a3R2Mk9UR0lsaTlDT0xROXV6RQ?oc=5\" target=\"_blank\">Input cost squeeze likely to continue in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farm Progress</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-76239",
+    "date": "Thu, 04 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer markets soften but remain constrained by trade policies - World Bank Blogs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOc25PdlhQbnlYU1BReURhT1NTQVROT1BYSDRUenFMRm43aEFnMTJTY3JDbjZKZi1pZzZFWVlldTFoTXpSQ1Bvdk5fY29VOTFFMVdROWw5NFFOcFB6TXNob2g4M1JaUzAyRDVEeDIwZF",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Fertilizer markets soften but remain constrained by trade policies - World Bank Blogs",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc25PdlhQbnlYU1BReURhT1NTQVROT1BYSDRUenFMRm43aEFnMTJTY3JDbjZKZi1pZzZFWVlldTFoTXpSQ1Bvdk5fY29VOTFFMVdROWw5NFFOcFB6TXNob2g4M1JaUzAyRDVEeDIwZFRwOWQzRkRXejN5Y0YwYWdqaXhJU29SaVBpWXdOaXFDNktMRlhTMTRPQnFFc3hHTTZmNVByQjlZZw?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654928Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOc25PdlhQbnlYU1BReURhT1NTQVROT1BYSDRUenFMRm43aEFnMTJTY3JDbjZKZi1pZzZFWVlldTFoTXpSQ1Bvdk5fY29VOTFFMVdROWw5NFFOcFB6TXNob2g4M1JaUzAyRDVEeDIwZFRwOWQzRkRXejN5Y0YwYWdqaXhJU29SaVBpWXdOaXFDNktMRlhTMTRPQnFFc3hHTTZmNVByQjlZZw?oc=5\" target=\"_blank\">Fertilizer markets soften but remain constrained by trade policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Bank Blogs</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-77539",
+    "date": "Thu, 11 Se",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer Outlook: Global Risks, Higher Costs, Tighter Margins | Market Intel - American Farm Bureau Federation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzBRX1dNRVhHWFhBRWhqRllGWlNFcWFTVENuNlVsQ3dZTE1YWWdQNThyZEVNZERlU3hkZ0F1LS1BNFA3RVBGZW1GRjRhU2Y5ZkdydmhXRWtxeTN4MF9weHRDMTc1NXJCOFhjZ0xZRV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Fertilizer Outlook: Global Risks, Higher Costs, Tighter Margins | Market Intel - American Farm Bureau Federation",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzBRX1dNRVhHWFhBRWhqRllGWlNFcWFTVENuNlVsQ3dZTE1YWWdQNThyZEVNZERlU3hkZ0F1LS1BNFA3RVBGZW1GRjRhU2Y5ZkdydmhXRWtxeTN4MF9weHRDMTc1NXJCOFhjZ0xZRVRKVkVLTER3V1cyTzJpRFJOWWlEajRPSmYtR2Zfc2tlNVlxcElkdTBr?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654930Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzBRX1dNRVhHWFhBRWhqRllGWlNFcWFTVENuNlVsQ3dZTE1YWWdQNThyZEVNZERlU3hkZ0F1LS1BNFA3RVBGZW1GRjRhU2Y5ZkdydmhXRWtxeTN4MF9weHRDMTc1NXJCOFhjZ0xZRVRKVkVLTER3V1cyTzJpRFJOWWlEajRPSmYtR2Zfc2tlNVlxcElkdTBr?oc=5\" target=\"_blank\">Fertilizer Outlook: Global Risks, Higher Costs, Tighter Margins | Market Intel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Farm Bureau Federation</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-16184",
+    "date": "Thu, 16 Oc",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Why high fertilizer prices? - Ohio's Country Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NFIwUEVUU1ZwWFMySVNEU1hzSFU5Znd6a0s4VEpPVzZoYzNDN2dfZjVyUktVRi1OSVhwWDJJR3d2MVhKM2tBU1BJSXQ0WEc2TW0teUtYUDRvbjhJb2Yxaw?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Why high fertilizer prices? - Ohio's Country Journal",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NFIwUEVUU1ZwWFMySVNEU1hzSFU5Znd6a0s4VEpPVzZoYzNDN2dfZjVyUktVRi1OSVhwWDJJR3d2MVhKM2tBU1BJSXQ0WEc2TW0teUtYUDRvbjhJb2Yxaw?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654931Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NFIwUEVUU1ZwWFMySVNEU1hzSFU5Znd6a0s4VEpPVzZoYzNDN2dfZjVyUktVRi1OSVhwWDJJR3d2MVhKM2tBU1BJSXQ0WEc2TW0teUtYUDRvbjhJb2Yxaw?oc=5\" target=\"_blank\">Why high fertilizer prices?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ohio's Country Journal</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-93445",
+    "date": "Wed, 04 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "DOJ Investigates Major Fertilizer Producers Over Possible Price Coordination - PYMNTS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWZvVnJjdURSa2NmWFQ0d3VFRkdGUlJRVlhVZGYtZFYtVWpHdU9LMTNpNTlxVHE1c3EtU0E4YVk3anpTaEtGaEFxYzd0cld4LXowZndKUTR2NnotMGFJWEo0YUJfbGl5SmxTT1Z0Qm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "DOJ Investigates Major Fertilizer Producers Over Possible Price Coordination - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWZvVnJjdURSa2NmWFQ0d3VFRkdGUlJRVlhVZGYtZFYtVWpHdU9LMTNpNTlxVHE1c3EtU0E4YVk3anpTaEtGaEFxYzd0cld4LXowZndKUTR2NnotMGFJWEo0YUJfbGl5SmxTT1Z0Qm1MdEtrU1VjWDFaWDQ5Z0o1WFlWUkF6SW9LeUdENlJCT0pBNm9QYnRFRXhRYXpxdFFPUzVGYUtmdDJ1WW9TeE44?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654933Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWZvVnJjdURSa2NmWFQ0d3VFRkdGUlJRVlhVZGYtZFYtVWpHdU9LMTNpNTlxVHE1c3EtU0E4YVk3anpTaEtGaEFxYzd0cld4LXowZndKUTR2NnotMGFJWEo0YUJfbGl5SmxTT1Z0Qm1MdEtrU1VjWDFaWDQ5Z0o1WFlWUkF6SW9LeUdENlJCT0pBNm9QYnRFRXhRYXpxdFFPUzVGYUtmdDJ1WW9TeE44?oc=5\" target=\"_blank\">DOJ Investigates Major Fertilizer Producers Over Possible Price Coordination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-91554",
+    "date": "Wed, 12 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Elevated fertilizer prices continue to squeeze farmers’ margins - Ag Proud",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3g4Z3lReGZaQVNoR2ZURDZCeDhDWWVUVjUyWG1jR1QyZ2RiU2M3Tk5VWVpmOGtVU3o1X2NVU1pxenR1NFN0WG1WNXQ5ckdfMXpFdG1DUzZZa3UwRzN1dDdhWHBDQ3pGNWlMc1FLRm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Elevated fertilizer prices continue to squeeze farmers’ margins - Ag Proud",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3g4Z3lReGZaQVNoR2ZURDZCeDhDWWVUVjUyWG1jR1QyZ2RiU2M3Tk5VWVpmOGtVU3o1X2NVU1pxenR1NFN0WG1WNXQ5ckdfMXpFdG1DUzZZa3UwRzN1dDdhWHBDQ3pGNWlMc1FLRml2d1JPQ0xhVWtNN2xpVEpiRDhCU0xFb3M5Ry11b2pDYmk5RnUyNmNVQmZ6Q3NfaGx2WHJB?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654935Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3g4Z3lReGZaQVNoR2ZURDZCeDhDWWVUVjUyWG1jR1QyZ2RiU2M3Tk5VWVpmOGtVU3o1X2NVU1pxenR1NFN0WG1WNXQ5ckdfMXpFdG1DUzZZa3UwRzN1dDdhWHBDQ3pGNWlMc1FLRml2d1JPQ0xhVWtNN2xpVEpiRDhCU0xFb3M5Ry11b2pDYmk5RnUyNmNVQmZ6Q3NfaGx2WHJB?oc=5\" target=\"_blank\">Elevated fertilizer prices continue to squeeze farmers’ margins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ag Proud</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-61242",
+    "date": "Tue, 10 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Iran War Is Sending Fertilizer Prices Soaring at the Worst Time for Farmers - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlJWOXZ6LVVxOEpqNGZIcTBGTXRLbkJMVGRfYV81aWg1LTZCc0hSeWVHV3llSU1seENIc2h1VWVxMnVjR1VvbmRFY19hU09MM2xhZnVrVDk2TWFnMFhtVjJrRUVPdjF4NG0yRjRhST",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Iran War Is Sending Fertilizer Prices Soaring at the Worst Time for Farmers - AgWeb",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlJWOXZ6LVVxOEpqNGZIcTBGTXRLbkJMVGRfYV81aWg1LTZCc0hSeWVHV3llSU1seENIc2h1VWVxMnVjR1VvbmRFY19hU09MM2xhZnVrVDk2TWFnMFhtVjJrRUVPdjF4NG0yRjRhSTdwQzA1QlM0bE1OTzZGdC1qdThwS2pQUzljaWF0N0dlOVozMXF4WnBtdE16T1p3ZFhOMHVzWTVqRmhVei1sd2VxYS1wT1FiTGc?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654937Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlJWOXZ6LVVxOEpqNGZIcTBGTXRLbkJMVGRfYV81aWg1LTZCc0hSeWVHV3llSU1seENIc2h1VWVxMnVjR1VvbmRFY19hU09MM2xhZnVrVDk2TWFnMFhtVjJrRUVPdjF4NG0yRjRhSTdwQzA1QlM0bE1OTzZGdC1qdThwS2pQUzljaWF0N0dlOVozMXF4WnBtdE16T1p3ZFhOMHVzWTVqRmhVei1sd2VxYS1wT1FiTGc?oc=5\" target=\"_blank\">The Iran War Is Sending Fertilizer Prices Soaring at the Worst Time for Farmers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgWeb</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-23624",
+    "date": "Tue, 29 Ju",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Fertilizer Industry in Global Markets: Structure and Supply Risks - farmdoc daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDhIVk1QQVdaZjNRNUpib2dsdlpiUHpaSGFJQlNLdnZST2poODQtcGNoVXNhZVdGYkZVV0N2eEtfTHNwQkNLZzRlR0F4WVcxTnB1RWVKQWdoOWR1US15NmNZaURCUFlmMWxsY3ZDdl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "U.S. Fertilizer Industry in Global Markets: Structure and Supply Risks - farmdoc daily",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDhIVk1QQVdaZjNRNUpib2dsdlpiUHpaSGFJQlNLdnZST2poODQtcGNoVXNhZVdGYkZVV0N2eEtfTHNwQkNLZzRlR0F4WVcxTnB1RWVKQWdoOWR1US15NmNZaURCUFlmMWxsY3ZDdllZZTNXWUVmbkRpRHprN3p3LUgyZk9jS3hHcUNzUFhhTnBNcUF1b0FEbFpnU3E5ZURLWjdybHlGdkxsRFdUNmxoaGc4YmY?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654939Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDhIVk1QQVdaZjNRNUpib2dsdlpiUHpaSGFJQlNLdnZST2poODQtcGNoVXNhZVdGYkZVV0N2eEtfTHNwQkNLZzRlR0F4WVcxTnB1RWVKQWdoOWR1US15NmNZaURCUFlmMWxsY3ZDdllZZTNXWUVmbkRpRHprN3p3LUgyZk9jS3hHcUNzUFhhTnBNcUF1b0FEbFpnU3E5ZURLWjdybHlGdkxsRFdUNmxoaGc4YmY?oc=5\" target=\"_blank\">U.S. Fertilizer Industry in Global Markets: Structure and Supply Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">farmdoc daily</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-77902",
+    "date": "Thu, 06 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Signs of delayed fertilizer purchases for 2026 despite bumper crops - Agri-Pulse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNElCaTlad1BoNjVUbElsdXJtQVB6cFctRC1sWG05SkZ2bXJMOHhwdnBYd3lhWm9kVjNVNkVMZ0xrd1A1NmJqRGd3V1dWQ3RVbFU0MXBrVVg0b0NCTGR5X1dwd1VEUzFqcTZMSUtQbm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Signs of delayed fertilizer purchases for 2026 despite bumper crops - Agri-Pulse",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNElCaTlad1BoNjVUbElsdXJtQVB6cFctRC1sWG05SkZ2bXJMOHhwdnBYd3lhWm9kVjNVNkVMZ0xrd1A1NmJqRGd3V1dWQ3RVbFU0MXBrVVg0b0NCTGR5X1dwd1VEUzFqcTZMSUtQbmRvV1dUWjBQWjFfU3ZWWnpRSzkydHVKd004UXY1VDJ0M0s0TGRSOF9ZdHpMd3FiSWZXUzFuc1JkYnZTVlBHUlE?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654941Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNElCaTlad1BoNjVUbElsdXJtQVB6cFctRC1sWG05SkZ2bXJMOHhwdnBYd3lhWm9kVjNVNkVMZ0xrd1A1NmJqRGd3V1dWQ3RVbFU0MXBrVVg0b0NCTGR5X1dwd1VEUzFqcTZMSUtQbmRvV1dUWjBQWjFfU3ZWWnpRSzkydHVKd004UXY1VDJ0M0s0TGRSOF9ZdHpMd3FiSWZXUzFuc1JkYnZTVlBHUlE?oc=5\" target=\"_blank\">Signs of delayed fertilizer purchases for 2026 despite bumper crops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Agri-Pulse</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-90743",
+    "date": "Wed, 18 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Top potash producer Nutrien misses fourth-quarter profit estimates - The Western Producer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUtMWGtPWUZSSEw5eUNmYy13MkE5S1p5Q3NjYjI3ZjVzVC1mU1B4UVFGS1VhYU1UTG9xZU9PMzZFOW9VaVdKYnM0Mi1OU21IMFV3N0YwSGJRQThLeV9qdnpHTGVNeXBNOHlVN01lOW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Top potash producer Nutrien misses fourth-quarter profit estimates - The Western Producer",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUtMWGtPWUZSSEw5eUNmYy13MkE5S1p5Q3NjYjI3ZjVzVC1mU1B4UVFGS1VhYU1UTG9xZU9PMzZFOW9VaVdKYnM0Mi1OU21IMFV3N0YwSGJRQThLeV9qdnpHTGVNeXBNOHlVN01lOWhKTVAtbVFocmg1WkFyUUFLWVFZaDNYVzh6eTZIQTRsbkE1djhjUGdkUHVkTWp2MEZWTHc?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654943Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUtMWGtPWUZSSEw5eUNmYy13MkE5S1p5Q3NjYjI3ZjVzVC1mU1B4UVFGS1VhYU1UTG9xZU9PMzZFOW9VaVdKYnM0Mi1OU21IMFV3N0YwSGJRQThLeV9qdnpHTGVNeXBNOHlVN01lOWhKTVAtbVFocmg1WkFyUUFLWVFZaDNYVzh6eTZIQTRsbkE1djhjUGdkUHVkTWp2MEZWTHc?oc=5\" target=\"_blank\">Top potash producer Nutrien misses fourth-quarter profit estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Western Producer</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-74123",
+    "date": "Fri, 13 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Top Fertilizer Stocks Worth Watching - March 13th - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUdfVC1JZkhqLWlaazVvcHBlWkhUOW02QXVLWGxuUUQ4U0tpZUxZYmJpOW1UUjJSdzhveHZELUJveGl1VFVmcm5MRTFyOG44dGxvNUVRQTAyQUJPSXBUYlpSTWVhcUdBUnRtMkdqQn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Top Fertilizer Stocks Worth Watching - March 13th - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUdfVC1JZkhqLWlaazVvcHBlWkhUOW02QXVLWGxuUUQ4U0tpZUxZYmJpOW1UUjJSdzhveHZELUJveGl1VFVmcm5MRTFyOG44dGxvNUVRQTAyQUJPSXBUYlpSTWVhcUdBUnRtMkdqQnZ0TUU3WWxrZktGZjZvbUtLS01rdW42Z0JzUGk0YktNOTdJa1E0c0c4eGl1Q1Q2MlgzTG1R?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654945Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUdfVC1JZkhqLWlaazVvcHBlWkhUOW02QXVLWGxuUUQ4U0tpZUxZYmJpOW1UUjJSdzhveHZELUJveGl1VFVmcm5MRTFyOG44dGxvNUVRQTAyQUJPSXBUYlpSTWVhcUdBUnRtMkdqQnZ0TUU3WWxrZktGZjZvbUtLS01rdW42Z0JzUGk0YktNOTdJa1E0c0c4eGl1Q1Q2MlgzTG1R?oc=5\" target=\"_blank\">Top Fertilizer Stocks Worth Watching - March 13th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-7163",
+    "date": "Wed, 25 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "How to manage P and K when crop prices stink - Farm Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFdzU2ZhTHQ4RlAtR1JTWlJwYVRmS1NsZ0xGNlltMHJHUnJ1b3l2RHRtenBmYmtrY3lXbUNGQ1drYnVSS1hfN3Y4dE5pRVNPeEpSR1VWUmJZc1VLZWlEVEJRTGJ1ZU1zV2RZZmp3dD",
+    "sources": [
+      {
+        "type": "news",
+        "title": "How to manage P and K when crop prices stink - Farm Progress",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFdzU2ZhTHQ4RlAtR1JTWlJwYVRmS1NsZ0xGNlltMHJHUnJ1b3l2RHRtenBmYmtrY3lXbUNGQ1drYnVSS1hfN3Y4dE5pRVNPeEpSR1VWUmJZc1VLZWlEVEJRTGJ1ZU1zV2RZZmp3dDFoVGcyek1TSzU4RW0yVlY3WmdhbUQyUmFLY0hnQ0p3SEdYR0FINE5xZkdEY3k?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654946Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFdzU2ZhTHQ4RlAtR1JTWlJwYVRmS1NsZ0xGNlltMHJHUnJ1b3l2RHRtenBmYmtrY3lXbUNGQ1drYnVSS1hfN3Y4dE5pRVNPeEpSR1VWUmJZc1VLZWlEVEJRTGJ1ZU1zV2RZZmp3dDFoVGcyek1TSzU4RW0yVlY3WmdhbUQyUmFLY0hnQ0p3SEdYR0FINE5xZkdEY3k?oc=5\" target=\"_blank\">How to manage P and K when crop prices stink</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farm Progress</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-15530",
+    "date": "Thu, 05 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Iran conflict drives up fertilizer costs during busy planting season - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0l5LTh4cjMzTHdHX21TWlVkMHg0TEk3M0h2d1pfaDdtdS16ZkI2anowRXVidkVkUUlDU1Zfb19rcldndVJ6dlUzcE04Z0wxQ3UzRHNJNHVVQzAtQWl1bElWNkVDb3VOdUJqeF9BRU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Iran conflict drives up fertilizer costs during busy planting season - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0l5LTh4cjMzTHdHX21TWlVkMHg0TEk3M0h2d1pfaDdtdS16ZkI2anowRXVidkVkUUlDU1Zfb19rcldndVJ6dlUzcE04Z0wxQ3UzRHNJNHVVQzAtQWl1bElWNkVDb3VOdUJqeF9BRUprdngtWVZxRmFqQjZiZzE3Z21LTVdCWENEQWoyVTJ3eXI3aEJFNWJTUENscFhXUEpkOUk1Y3BFLTd5ekxiVUFGXzRyVWxUV1JSUl91ZEpUUTZVM1dK?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654948Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0l5LTh4cjMzTHdHX21TWlVkMHg0TEk3M0h2d1pfaDdtdS16ZkI2anowRXVidkVkUUlDU1Zfb19rcldndVJ6dlUzcE04Z0wxQ3UzRHNJNHVVQzAtQWl1bElWNkVDb3VOdUJqeF9BRUprdngtWVZxRmFqQjZiZzE3Z21LTVdCWENEQWoyVTJ3eXI3aEJFNWJTUENscFhXUEpkOUk1Y3BFLTd5ekxiVUFGXzRyVWxUV1JSUl91ZEpUUTZVM1dK?oc=5\" target=\"_blank\">Iran conflict drives up fertilizer costs during busy planting season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-76814",
     "date": "Wed, 25 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-    "summary": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery s",
+    "title": "Nutrien Ltd stock faces pressure amid volatile fertilizer prices and global agricultural demand shif - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2RwdnpJTDBURkMyQzd0aGlqZUhzXzVkUjFNTWtHX2I4bmtMdmgtbVJVaW9KSUJacjltck9QaDlsZmtoQU1La0FUSlhFSndwU2lvSmIyNjA0dUpiZnZQWlVFMEpwR3NzRlVyTmVVVG",
     "sources": [
       {
         "type": "news",
-        "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T22:59:57.761530Z",
-        "excerpt": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery services, it provides extra peace of mind. \n                                                                                                            "
+        "title": "Nutrien Ltd stock faces pressure amid volatile fertilizer prices and global agricultural demand shif - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2RwdnpJTDBURkMyQzd0aGlqZUhzXzVkUjFNTWtHX2I4bmtMdmgtbVJVaW9KSUJacjltck9QaDlsZmtoQU1La0FUSlhFSndwU2lvSmIyNjA0dUpiZnZQWlVFMEpwR3NzRlVyTmVVVGRiVEt4LXJmc2dJeHdGZHN5Q0VUel8ySS00WnQtTWROdlk3UG8wdFlmVGJYal8wVGpMUFpnS3dVcjRubkR0SlVocnNvNmFlVWZ0N080cVlYUzlhQUVsWGc?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654950Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2RwdnpJTDBURkMyQzd0aGlqZUhzXzVkUjFNTWtHX2I4bmtMdmgtbVJVaW9KSUJacjltck9QaDlsZmtoQU1La0FUSlhFSndwU2lvSmIyNjA0dUpiZnZQWlVFMEpwR3NzRlVyTmVVVGRiVEt4LXJmc2dJeHdGZHN5Q0VUel8ySS00WnQtTWROdlk3UG8wdFlmVGJYal8wVGpMUFpnS3dVcjRubkR0SlVocnNvNmFlVWZ0N080cVlYUzlhQUVsWGc?oc=5\" target=\"_blank\">Nutrien Ltd stock faces pressure amid volatile fertilizer prices and global agricultural demand shif</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>"
       }
     ]
   },
   {
-    "id": "rss-66274",
-    "date": "Mon, 23 Ma",
+    "id": "rss-85097",
+    "date": "Mon, 29 Se",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-    "summary": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                 ",
+    "title": "Fertilizer Decisions: Balance Costs, Yields and Sustainability - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmYxZjF1R0VLa20wQXIzN09JcHhRNy1lU0lqc09RMWtqLTVTbm5EeGw4U291VTVMUzNsRHVvSGpfWUZSYVFOVFFsRHQtZE5QZC0yekJvLU5BTlFwLUs2Tjd2X2YwbG9CLVN4RTRmME",
     "sources": [
       {
         "type": "news",
-        "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-        "url": "https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers",
-        "fetchedAt": "2026-04-14T22:59:57.761532Z",
-        "excerpt": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                                            "
+        "title": "Fertilizer Decisions: Balance Costs, Yields and Sustainability - AgWeb",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmYxZjF1R0VLa20wQXIzN09JcHhRNy1lU0lqc09RMWtqLTVTbm5EeGw4U291VTVMUzNsRHVvSGpfWUZSYVFOVFFsRHQtZE5QZC0yekJvLU5BTlFwLUs2Tjd2X2YwbG9CLVN4RTRmMEtGMk9RNEhRaUF3b2t1R1JJM1dvRkxWQ0dFYk5PMlJQT2FHcWZBb1pyWGFqbkxVcmR3Yk9RMFlDWU1hdkJOT1E?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654955Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmYxZjF1R0VLa20wQXIzN09JcHhRNy1lU0lqc09RMWtqLTVTbm5EeGw4U291VTVMUzNsRHVvSGpfWUZSYVFOVFFsRHQtZE5QZC0yekJvLU5BTlFwLUs2Tjd2X2YwbG9CLVN4RTRmMEtGMk9RNEhRaUF3b2t1R1JJM1dvRkxWQ0dFYk5PMlJQT2FHcWZBb1pyWGFqbkxVcmR3Yk9RMFlDWU1hdkJOT1E?oc=5\" target=\"_blank\">Fertilizer Decisions: Balance Costs, Yields and Sustainability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgWeb</font>"
       }
     ]
   },
   {
-    "id": "rss-52271",
-    "date": "Sun, 22 Ma",
+    "id": "rss-52691",
+    "date": "Wed, 02 Ju",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-    "summary": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                   ",
+    "title": "Fertilizer Prices Vs Corn Prices Are Now Some of the Worst in History - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHpJbG1weV9fbTYxZTJqSHRLMXlKS3M0Nzg0WE9rUjM3VUFEd1VFNFJHYlF4c0FiR2VLeU9tRUxLQ3RTbmlWYk5QbWgtQU9HUFFJQ1dBMHBPVk5TdUNJSWtVbUNSY0thQmNXcDl4Rl",
     "sources": [
       {
         "type": "news",
-        "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-        "url": "https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire",
-        "fetchedAt": "2026-04-14T22:59:57.761533Z",
-        "excerpt": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                                                                            "
+        "title": "Fertilizer Prices Vs Corn Prices Are Now Some of the Worst in History - AgWeb",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHpJbG1weV9fbTYxZTJqSHRLMXlKS3M0Nzg0WE9rUjM3VUFEd1VFNFJHYlF4c0FiR2VLeU9tRUxLQ3RTbmlWYk5QbWgtQU9HUFFJQ1dBMHBPVk5TdUNJSWtVbUNSY0thQmNXcDl4Rlg1aVZ4YmtNVkFJZXBuUWZRZXIwOFVpZ1lnZGFHNHZyd09YQVFKV2IyNnU0dXNhZnhsNWtvUUlaOHJlcUN1?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654956Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHpJbG1weV9fbTYxZTJqSHRLMXlKS3M0Nzg0WE9rUjM3VUFEd1VFNFJHYlF4c0FiR2VLeU9tRUxLQ3RTbmlWYk5QbWgtQU9HUFFJQ1dBMHBPVk5TdUNJSWtVbUNSY0thQmNXcDl4Rlg1aVZ4YmtNVkFJZXBuUWZRZXIwOFVpZ1lnZGFHNHZyd09YQVFKV2IyNnU0dXNhZnhsNWtvUUlaOHJlcUN1?oc=5\" target=\"_blank\">Fertilizer Prices Vs Corn Prices Are Now Some of the Worst in History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgWeb</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-62330",
+    "date": "Fri, 08 Au",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Phosphate Fertilizer Prices Soar Near Historic Highs - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPV28tWlpPdjd2NVZULXFPelYyRXJLeXNxV1dhUmlDZi1HZUdZUVlWNlZLOWtCcjlsUXhLUG05a2Nsa3luazRsRGNRN0I0WGJNT1RubEEzVDRnWFp6TWQ0dHJMR05EYkttUjh0ZTFxa3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Phosphate Fertilizer Prices Soar Near Historic Highs - AgWeb",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV28tWlpPdjd2NVZULXFPelYyRXJLeXNxV1dhUmlDZi1HZUdZUVlWNlZLOWtCcjlsUXhLUG05a2Nsa3luazRsRGNRN0I0WGJNT1RubEEzVDRnWFp6TWQ0dHJMR05EYkttUjh0ZTFxa3RoU1VTREYtOFR6NDFNUmM0dWlDclZkdw?oc=5",
+        "fetchedAt": "2026-04-15T09:10:04.654958Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPV28tWlpPdjd2NVZULXFPelYyRXJLeXNxV1dhUmlDZi1HZUdZUVlWNlZLOWtCcjlsUXhLUG05a2Nsa3luazRsRGNRN0I0WGJNT1RubEEzVDRnWFp6TWQ0dHJMR05EYkttUjh0ZTFxa3RoU1VTREYtOFR6NDFNUmM0dWlDclZkdw?oc=5\" target=\"_blank\">Phosphate Fertilizer Prices Soar Near Historic Highs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgWeb</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-22250",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Announces Executive Leadership Team of its Future Crop Protection Company - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWF0aGpnRnowOE5jVnJTV0NOQS11ZlhNUUQtSzAwY3hPTVRySmpsb05sX3VrbjVFT0hRTmE3MkRvclhJeFItbnowc28yVU1rVHNYUURjVVNmdWJUMU0zWEQwbXZiMlhlbnNVaER5bG",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva Announces Executive Leadership Team of its Future Crop Protection Company - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWF0aGpnRnowOE5jVnJTV0NOQS11ZlhNUUQtSzAwY3hPTVRySmpsb05sX3VrbjVFT0hRTmE3MkRvclhJeFItbnowc28yVU1rVHNYUURjVVNmdWJUMU0zWEQwbXZiMlhlbnNVaER5bGZObVVBOVRFaE96bURuRUZXT3ZzOXdIOURNYUxQbUZjQlUteHI0VHlnMVdYSlhiUXR1TEFhTFQtem9ITThZemJNRkxiU1Q2Q1UtbUR0cW9tb3ZSZVJJdU4wdkRjTVJOQV9GLWRV?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295484Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWF0aGpnRnowOE5jVnJTV0NOQS11ZlhNUUQtSzAwY3hPTVRySmpsb05sX3VrbjVFT0hRTmE3MkRvclhJeFItbnowc28yVU1rVHNYUURjVVNmdWJUMU0zWEQwbXZiMlhlbnNVaER5bGZObVVBOVRFaE96bURuRUZXT3ZzOXdIOURNYUxQbUZjQlUteHI0VHlnMVdYSlhiUXR1TEFhTFQtem9ITThZemJNRkxiU1Q2Q1UtbUR0cW9tb3ZSZVJJdU4wdkRjTVJOQV9GLWRV?oc=5\" target=\"_blank\">Corteva Announces Executive Leadership Team of its Future Crop Protection Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-11891",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Small Grains, Big Weed Challenges - Brownfield Ag News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUlzWllFNDVsREdCR1BOd2JNYnl6MjNpUVkxSlVoaFh1Vm8tck9RaUFwSFV2cVZkT01PSWxLdklFLVlWU3JiZ29QNWNIZ1NxTnNUbkVGUEtLeDZOcF91b0ZaUHBKZFFZd2Z6Z3JpSW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Small Grains, Big Weed Challenges - Brownfield Ag News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUlzWllFNDVsREdCR1BOd2JNYnl6MjNpUVkxSlVoaFh1Vm8tck9RaUFwSFV2cVZkT01PSWxLdklFLVlWU3JiZ29QNWNIZ1NxTnNUbkVGUEtLeDZOcF91b0ZaUHBKZFFZd2Z6Z3JpSWJDVTRfRU1hdFloeFNFdWtFR1RrOGxJNGZ6ckt6ZDV2VQ?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295494Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUlzWllFNDVsREdCR1BOd2JNYnl6MjNpUVkxSlVoaFh1Vm8tck9RaUFwSFV2cVZkT01PSWxLdklFLVlWU3JiZ29QNWNIZ1NxTnNUbkVGUEtLeDZOcF91b0ZaUHBKZFFZd2Z6Z3JpSWJDVTRfRU1hdFloeFNFdWtFR1RrOGxJNGZ6ckt6ZDV2VQ?oc=5\" target=\"_blank\">Small Grains, Big Weed Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brownfield Ag News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-92459",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva unveils leadership team for planned seed and genetics spin-off (CTVA:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlV4N3RPbTZPSC1SbjhySVRhUy1ma2FuY0lWaVhjdW4teXhsT0Nhc2U2LXhacDNIVzlwME9MX3FxX0NaUzlESWVzWHZfYU9CQlFmbi04anJVc1MxeVBKVzllWGhMTzdsMGhQLUpob1",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva unveils leadership team for planned seed and genetics spin-off (CTVA:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlV4N3RPbTZPSC1SbjhySVRhUy1ma2FuY0lWaVhjdW4teXhsT0Nhc2U2LXhacDNIVzlwME9MX3FxX0NaUzlESWVzWHZfYU9CQlFmbi04anJVc1MxeVBKVzllWGhMTzdsMGhQLUpob1hEVXBKOHZ1MTZuRjNURl9YbGFWeGFfTTBoUm9WVTY2MnlJb0I2Z1Brd0I5M0FSVS1aa2NJejNvVmlGTFVk?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295496Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlV4N3RPbTZPSC1SbjhySVRhUy1ma2FuY0lWaVhjdW4teXhsT0Nhc2U2LXhacDNIVzlwME9MX3FxX0NaUzlESWVzWHZfYU9CQlFmbi04anJVc1MxeVBKVzllWGhMTzdsMGhQLUpob1hEVXBKOHZ1MTZuRjNURl9YbGFWeGFfTTBoUm9WVTY2MnlJb0I2Z1Brd0I5M0FSVS1aa2NJejNvVmlGTFVk?oc=5\" target=\"_blank\">Corteva unveils leadership team for planned seed and genetics spin-off (CTVA:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-89315",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Announces CEO of its Future Crop Protection Company - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmV3bkpzbV9ZUVQ0bUNqM3lGbDF5MzN3a0U1a3YzSEpUcElIbEhXRjJIcnVXWlFualk4Y3BwSEJqX2hqUG85WDZwaElXQzE2MG1OMGRCV21qcmtJSUkyVGJ2X0xJMThYdjdudHE3RF",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva Announces CEO of its Future Crop Protection Company - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmV3bkpzbV9ZUVQ0bUNqM3lGbDF5MzN3a0U1a3YzSEpUcElIbEhXRjJIcnVXWlFualk4Y3BwSEJqX2hqUG85WDZwaElXQzE2MG1OMGRCV21qcmtJSUkyVGJ2X0xJMThYdjdudHE3RFdDbng0UGRMYmlDek1uMWk4TE9CQmdDelppOU9ZVkhWVHBjb3R4Skx0dVdkZURybTQ?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295498Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmV3bkpzbV9ZUVQ0bUNqM3lGbDF5MzN3a0U1a3YzSEpUcElIbEhXRjJIcnVXWlFualk4Y3BwSEJqX2hqUG85WDZwaElXQzE2MG1OMGRCV21qcmtJSUkyVGJ2X0xJMThYdjdudHE3RFdDbng0UGRMYmlDek1uMWk4TE9CQmdDelppOU9ZVkhWVHBjb3R4Skx0dVdkZURybTQ?oc=5\" target=\"_blank\">Corteva Announces CEO of its Future Crop Protection Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-72372",
+    "date": "Mon, 30 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva panelists to present Hertz Lecture at Iowa State April 14 - Iowa State University",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTk3V0N0dHlUaFhjZndTX2JuU2tXbU9TalFNelFMYUsweHkwVUh3TDRqNzlQVDZPZFVJbTNwSkJIemozVDZ2R3EzLTlWaGpvdDQ3LVc4ZS1fZVVOVE9QLXV6ZFE3TmthUHVEMzc5X3",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva panelists to present Hertz Lecture at Iowa State April 14 - Iowa State University",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTk3V0N0dHlUaFhjZndTX2JuU2tXbU9TalFNelFMYUsweHkwVUh3TDRqNzlQVDZPZFVJbTNwSkJIemozVDZ2R3EzLTlWaGpvdDQ3LVc4ZS1fZVVOVE9QLXV6ZFE3TmthUHVEMzc5X3B2N2FwUVEzRHluVXVua2cyRHM5VndlSWpPeTlyUV82cXVOTzk4OTRrRW1GeVUzbFk?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295500Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTk3V0N0dHlUaFhjZndTX2JuU2tXbU9TalFNelFMYUsweHkwVUh3TDRqNzlQVDZPZFVJbTNwSkJIemozVDZ2R3EzLTlWaGpvdDQ3LVc4ZS1fZVVOVE9QLXV6ZFE3TmthUHVEMzc5X3B2N2FwUVEzRHluVXVua2cyRHM5VndlSWpPeTlyUV82cXVOTzk4OTRrRW1GeVUzbFk?oc=5\" target=\"_blank\">Corteva panelists to present Hertz Lecture at Iowa State April 14</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iowa State University</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-57176",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva names leadership team for planned seed unit spinoff - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ011VGNNYXlZek9HZVpUcUFFQ3FCM3BtU2FzMEs2VmJ6TkpJb3hrRkV0SmJhSUNNcnBsakNOWjNPM1BVTHlJODZQQTFzV3JEUUVlT3FVR0llZ0FteGh0ZHRzSFY2Yk9ocmhqZlo1di",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva names leadership team for planned seed unit spinoff - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ011VGNNYXlZek9HZVpUcUFFQ3FCM3BtU2FzMEs2VmJ6TkpJb3hrRkV0SmJhSUNNcnBsakNOWjNPM1BVTHlJODZQQTFzV3JEUUVlT3FVR0llZ0FteGh0ZHRzSFY2Yk9ocmhqZlo1di1JbVVLMlRPRGdVclZaWHBrT2U5SEs5d2s2dWJNTUw2S0pXTllZVG5wQWZsSnNOVmpmT1diQzhmTnNFS2V2SEVyQ3ktb3lWVW8?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295502Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ011VGNNYXlZek9HZVpUcUFFQ3FCM3BtU2FzMEs2VmJ6TkpJb3hrRkV0SmJhSUNNcnBsakNOWjNPM1BVTHlJODZQQTFzV3JEUUVlT3FVR0llZ0FteGh0ZHRzSFY2Yk9ocmhqZlo1di1JbVVLMlRPRGdVclZaWHBrT2U5SEs5d2s2dWJNTUw2S0pXTllZVG5wQWZsSnNOVmpmT1diQzhmTnNFS2V2SEVyQ3ktb3lWVW8?oc=5\" target=\"_blank\">Corteva names leadership team for planned seed unit spinoff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-25044",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Announces Executive Leadership Team of its Future Advanced Seed and Genetics Company - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaFBIRDBJa0lGay1mVFVaYzB5ZWUxd1JkSldLcEJGdkhydnZxaVhGeHYyd2lPdE44NjFsemRXUkVILTN3UmdxLV9pX21pdFhxSWhqV2pNZEFmTGRhVmdBdkdjMFJ1bGVWQnl0ZVNNbz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva Announces Executive Leadership Team of its Future Advanced Seed and Genetics Company - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaFBIRDBJa0lGay1mVFVaYzB5ZWUxd1JkSldLcEJGdkhydnZxaVhGeHYyd2lPdE44NjFsemRXUkVILTN3UmdxLV9pX21pdFhxSWhqV2pNZEFmTGRhVmdBdkdjMFJ1bGVWQnl0ZVNNbzYtZXhHMEV4NjRPYmFZUEhUQ3FLMXNSemxqaTdsV1dvRVI1Rk5jOVFlSHZZdFAwZlBQZU00NXJNT2c2d2hpMEtwel92a1JHU0Y4aVJTTnRQWWZjbnlFdVdYMUwwSDVFdk94ZlltaEJkWFNuVkVhdXFzWERB?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295504Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaFBIRDBJa0lGay1mVFVaYzB5ZWUxd1JkSldLcEJGdkhydnZxaVhGeHYyd2lPdE44NjFsemRXUkVILTN3UmdxLV9pX21pdFhxSWhqV2pNZEFmTGRhVmdBdkdjMFJ1bGVWQnl0ZVNNbzYtZXhHMEV4NjRPYmFZUEhUQ3FLMXNSemxqaTdsV1dvRVI1Rk5jOVFlSHZZdFAwZlBQZU00NXJNT2c2d2hpMEtwel92a1JHU0Y4aVJTTnRQWWZjbnlFdVdYMUwwSDVFdk94ZlltaEJkWFNuVkVhdXFzWERB?oc=5\" target=\"_blank\">Corteva Announces Executive Leadership Team of its Future Advanced Seed and Genetics Company</a>&nbsp;&nbsp;<font color=\"#6"
+      }
+    ]
+  },
+  {
+    "id": "rss-6358",
+    "date": "Sun, 12 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Why Do We Need To Treat Seeds? A Corteva Specialist Explains - African Farming",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHNUVDhqZmc0c1ptZktYZ1BQZVZuVzVRdjdwZW8yN0ZpcjJnTFE2SjhEQmEzV0t2b0VGcGlwTlFaWDhuZ2xHQjIyRjI4eERZVEVEQjFNaF9lYUtQSnRkeG95WHBBQWRNRVFuamxDQz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Why Do We Need To Treat Seeds? A Corteva Specialist Explains - African Farming",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHNUVDhqZmc0c1ptZktYZ1BQZVZuVzVRdjdwZW8yN0ZpcjJnTFE2SjhEQmEzV0t2b0VGcGlwTlFaWDhuZ2xHQjIyRjI4eERZVEVEQjFNaF9lYUtQSnRkeG95WHBBQWRNRVFuamxDQzVkSWNhaG1Sd19tdU9tZW1jMU1TdF9VaVZ2NThXNl85UkpiVjZ5a2F4QXlwOHN0OFFpeG5sXw?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295506Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHNUVDhqZmc0c1ptZktYZ1BQZVZuVzVRdjdwZW8yN0ZpcjJnTFE2SjhEQmEzV0t2b0VGcGlwTlFaWDhuZ2xHQjIyRjI4eERZVEVEQjFNaF9lYUtQSnRkeG95WHBBQWRNRVFuamxDQzVkSWNhaG1Sd19tdU9tZW1jMU1TdF9VaVZ2NThXNl85UkpiVjZ5a2F4QXlwOHN0OFFpeG5sXw?oc=5\" target=\"_blank\">Why Do We Need To Treat Seeds? A Corteva Specialist Explains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">African Farming</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-37847",
+    "date": "Thu, 02 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Revenue of Corteva Agriscience from 2018 to 2025 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBic1BLZUkzdEZXTS1IRFBPSVhqc21GWEl1SUJFZFJqVHlfWmEzT0RaVGZycHcybmplMm4wS25PbGs2d1dCMjVqWkVXQzg4dURGZjNLYlNvdDVDRVFldXBwQms1RHdKYnRrS0xYTkRHVX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Revenue of Corteva Agriscience from 2018 to 2025 - Statista",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBic1BLZUkzdEZXTS1IRFBPSVhqc21GWEl1SUJFZFJqVHlfWmEzT0RaVGZycHcybmplMm4wS25PbGs2d1dCMjVqWkVXQzg4dURGZjNLYlNvdDVDRVFldXBwQms1RHdKYnRrS0xYTkRHVXN4dURseGFPWlVrUWE?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295507Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBic1BLZUkzdEZXTS1IRFBPSVhqc21GWEl1SUJFZFJqVHlfWmEzT0RaVGZycHcybmplMm4wS25PbGs2d1dCMjVqWkVXQzg4dURGZjNLYlNvdDVDRVFldXBwQms1RHdKYnRrS0xYTkRHVXN4dURseGFPWlVrUWE?oc=5\" target=\"_blank\">Revenue of Corteva Agriscience from 2018 to 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statista</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-82230",
+    "date": "Wed, 25 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva targets fourth quarter for planned split into two companies - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjQwQzU5cDYwdjJaMmQ5SWZKb3N6RmprRUhoMDhCYWlRMmVjMzJkT1MzaGZNeW1SVkoyajdlOGhZZlRzeURhcVNKMXR1NWNmNUczVEpicWVWSGFlenJQSDhOMWlSREY2RUt6eWdHWX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva targets fourth quarter for planned split into two companies - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjQwQzU5cDYwdjJaMmQ5SWZKb3N6RmprRUhoMDhCYWlRMmVjMzJkT1MzaGZNeW1SVkoyajdlOGhZZlRzeURhcVNKMXR1NWNmNUczVEpicWVWSGFlenJQSDhOMWlSREY2RUt6eWdHWXp0TnFoOEx0aHBjdG0xVU4wVE5sQW50NS1iWjRyT0dIUGt2S2h4TmJBVHlJWUFLUldyV2piZ3V5NnpOb3FS?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295509Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjQwQzU5cDYwdjJaMmQ5SWZKb3N6RmprRUhoMDhCYWlRMmVjMzJkT1MzaGZNeW1SVkoyajdlOGhZZlRzeURhcVNKMXR1NWNmNUczVEpicWVWSGFlenJQSDhOMWlSREY2RUt6eWdHWXp0TnFoOEx0aHBjdG0xVU4wVE5sQW50NS1iWjRyT0dIUGt2S2h4TmJBVHlJWUFLUldyV2piZ3V5NnpOb3FS?oc=5\" target=\"_blank\">Corteva targets fourth quarter for planned split into two companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-83658",
+    "date": "Thu, 05 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Reports Full-Year 2025 Results as Seed and Crop Protection Drive Growth - iGrow News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aUndrRDl3SXVmU19mbFA0eHVXQjVVTjgybEJwaUd0eWlGa1BDcGo0RzYwVWctRUJJaTRuZG9ZRXJWSlRNa2hkMkxUQmZRRDV1cVFFZg?oc=5\" target=\"_blank\">Corteva Repor",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva Reports Full-Year 2025 Results as Seed and Crop Protection Drive Growth - iGrow News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aUndrRDl3SXVmU19mbFA0eHVXQjVVTjgybEJwaUd0eWlGa1BDcGo0RzYwVWctRUJJaTRuZG9ZRXJWSlRNa2hkMkxUQmZRRDV1cVFFZg?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295511Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aUndrRDl3SXVmU19mbFA0eHVXQjVVTjgybEJwaUd0eWlGa1BDcGo0RzYwVWctRUJJaTRuZG9ZRXJWSlRNa2hkMkxUQmZRRDV1cVFFZg?oc=5\" target=\"_blank\">Corteva Reports Full-Year 2025 Results as Seed and Crop Protection Drive Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iGrow News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-56430",
+    "date": "Thu, 15 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Lobbying Update: $60,000 of CORTEVA AGRISCIENCE lobbying was just disclosed - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWURIYjdaLWxkNnI4VFhkekRGZ2Q1aFRuNFltcTJLTHE3UzdaM1hJVGVma0J3ck5NWHBlX0FBUXRmVkNlWGVJQ011OWE3Q090S3hZWjZDSWpzNHBOWVJvN0NmMEstU0FJWW5uTzUtOT",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Lobbying Update: $60,000 of CORTEVA AGRISCIENCE lobbying was just disclosed - Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWURIYjdaLWxkNnI4VFhkekRGZ2Q1aFRuNFltcTJLTHE3UzdaM1hJVGVma0J3ck5NWHBlX0FBUXRmVkNlWGVJQ011OWE3Q090S3hZWjZDSWpzNHBOWVJvN0NmMEstU0FJWW5uTzUtOTV3SFluNEhLVHFlb29hbnhCamhRWk0xMHhESFkxdTlPeVdLX19DaWhua0FGLVIzdGpFenVvNmJXRmNUY1Q0MHZJV08zbnI?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295513Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWURIYjdaLWxkNnI4VFhkekRGZ2Q1aFRuNFltcTJLTHE3UzdaM1hJVGVma0J3ck5NWHBlX0FBUXRmVkNlWGVJQ011OWE3Q090S3hZWjZDSWpzNHBOWVJvN0NmMEstU0FJWW5uTzUtOTV3SFluNEhLVHFlb29hbnhCamhRWk0xMHhESFkxdTlPeVdLX19DaWhua0FGLVIzdGpFenVvNmJXRmNUY1Q0MHZJV08zbnI?oc=5\" target=\"_blank\">Lobbying Update: $60,000 of CORTEVA AGRISCIENCE lobbying was just disclosed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-98988",
+    "date": "Wed, 04 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Agriscience Expert Warns 2026 Will Be Challenging, Urges Growers to Prioritize Pre-Emergence and Product Stewardship - Brownfield Ag News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTmZVNFhCX09ERlJXdFVfS3czUF9BTlBsakJKMW1JejJzekNkNU5TRmFvODBNNmgyQ2hFQjBsTkcza0ZIU3NzRnNuNDQybm1CWUpaa2h6UXF6M2I0OU5iWmNrOEEtMTNYanJSOC1WYn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva Agriscience Expert Warns 2026 Will Be Challenging, Urges Growers to Prioritize Pre-Emergence and Product Stewardship - Brownfield Ag News",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTmZVNFhCX09ERlJXdFVfS3czUF9BTlBsakJKMW1JejJzekNkNU5TRmFvODBNNmgyQ2hFQjBsTkcza0ZIU3NzRnNuNDQybm1CWUpaa2h6UXF6M2I0OU5iWmNrOEEtMTNYanJSOC1WYnJHdjYtRHlvWE4yaWVaeDhfWjdSTWhtcVpSaEY2bzhrT2dHSk53RFliOHZ1X3JrQ0hib2pyUm4zTUl3S3FyMGdyeUxLb2FQUjNza2pzLXdubFpRT3ZmVXVHanB4UEtvQnJnclB2V1NQMmRKR0lhYk9aeDZELTZraGxQc1pxVTRYeW5zU1E5alB1bA?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295515Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTmZVNFhCX09ERlJXdFVfS3czUF9BTlBsakJKMW1JejJzekNkNU5TRmFvODBNNmgyQ2hFQjBsTkcza0ZIU3NzRnNuNDQybm1CWUpaa2h6UXF6M2I0OU5iWmNrOEEtMTNYanJSOC1WYnJHdjYtRHlvWE4yaWVaeDhfWjdSTWhtcVpSaEY2bzhrT2dHSk53RFliOHZ1X3JrQ0hib2pyUm4zTUl3S3FyMGdyeUxLb2FQUjNza2pzLXdubFpRT3ZmVXVHanB4UEtvQnJnclB2V1NQMmRKR0lhYk9aeDZELTZraGxQc1pxVTRYeW5zU1E5alB1bA?oc=5\" target=\"_blank\">Corteva Agriscience Expert Warns 2026 Will Be Challenging, Urges Growers to Prioritize Pre-Em"
+      }
+    ]
+  },
+  {
+    "id": "rss-79569",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva names executive team for crop protection spinoff By Investing.com - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2xmMVE5dXhQZHVQbDBVazNfbE82SWozNUEtU2NIc2w4c3B3UzVnQjNvYVk3cUJZNU1nbjM5WHRkQmZvNDJYT3FNMFp2UmJXSWxwLTFONFRWbVZocDlsRHZXUFJTM0c4TEYyd2ZJQU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva names executive team for crop protection spinoff By Investing.com - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2xmMVE5dXhQZHVQbDBVazNfbE82SWozNUEtU2NIc2w4c3B3UzVnQjNvYVk3cUJZNU1nbjM5WHRkQmZvNDJYT3FNMFp2UmJXSWxwLTFONFRWbVZocDlsRHZXUFJTM0c4TEYyd2ZJQUd1Mi1YRk1EcVFBcTNudk1tMjRlTzJ1cnZnWFYyWF8teDVPS3dMWE52UExKc3NrTmdMS3k2N3BlakxHX0E5SHA5S1lB?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295520Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2xmMVE5dXhQZHVQbDBVazNfbE82SWozNUEtU2NIc2w4c3B3UzVnQjNvYVk3cUJZNU1nbjM5WHRkQmZvNDJYT3FNMFp2UmJXSWxwLTFONFRWbVZocDlsRHZXUFJTM0c4TEYyd2ZJQUd1Mi1YRk1EcVFBcTNudk1tMjRlTzJ1cnZnWFYyWF8teDVPS3dMWE52UExKc3NrTmdMS3k2N3BlakxHX0E5SHA5S1lB?oc=5\" target=\"_blank\">Corteva names executive team for crop protection spinoff By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-24252",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva's seed spinoff lines up six executives before 2026 split - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUMtVzgtenB1RDFMcGlnUFpudjZ5c1ZnYkxkaXV5clpYLWdLUEdyOWc4Z2ZoMWJ4bWpuUnFSM0V6TTFPUGZ3bThGZUJWYnAyQ3lNd1JpTmxmYXI1M20zNnZHWVpxbG03c2E2OWlsdW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva's seed spinoff lines up six executives before 2026 split - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUMtVzgtenB1RDFMcGlnUFpudjZ5c1ZnYkxkaXV5clpYLWdLUEdyOWc4Z2ZoMWJ4bWpuUnFSM0V6TTFPUGZ3bThGZUJWYnAyQ3lNd1JpTmxmYXI1M20zNnZHWVpxbG03c2E2OWlsdWUzVjh1ckZOV1lZMHh1SzVTVkpJdDlhbF9xQ0Vsd0VROW40Qkt3Y0x3NXg4SHV0ZWREcFlGVjhqNmkzSDkydk1iYXAwWmwtOTdnT3RPejN3?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295521Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUMtVzgtenB1RDFMcGlnUFpudjZ5c1ZnYkxkaXV5clpYLWdLUEdyOWc4Z2ZoMWJ4bWpuUnFSM0V6TTFPUGZ3bThGZUJWYnAyQ3lNd1JpTmxmYXI1M20zNnZHWVpxbG03c2E2OWlsdWUzVjh1ckZOV1lZMHh1SzVTVkpJdDlhbF9xQ0Vsd0VROW40Qkt3Y0x3NXg4SHV0ZWREcFlGVjhqNmkzSDkydk1iYXAwWmwtOTdnT3RPejN3?oc=5\" target=\"_blank\">Corteva's seed spinoff lines up six executives before 2026 split</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-31053",
+    "date": "Mon, 09 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva to Webcast Investor Days for Two New Companies - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSExvQW5WeUkwY3g0YzF6eFZiZ3N3d1VXb3dvb0huQWROVXFub3QtaE85TmRoaWlVOHc5Q1dKSnZ5enhEaFc1X3RzMUYzc0NINExCZGpMZnhBejhIRjl1M0Flc0I1RlVCTHhiZGtsb0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva to Webcast Investor Days for Two New Companies - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSExvQW5WeUkwY3g0YzF6eFZiZ3N3d1VXb3dvb0huQWROVXFub3QtaE85TmRoaWlVOHc5Q1dKSnZ5enhEaFc1X3RzMUYzc0NINExCZGpMZnhBejhIRjl1M0Flc0I1RlVCTHhiZGtsb0ExbHpKQ0VpUXh1UE9qZl9UTm1IRjhXLUVVOGZUVnRFVDV1X0dHNTFZbHQ2SHN6cWxfYVNZbC1EU2dYOU84QjNj?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295523Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSExvQW5WeUkwY3g0YzF6eFZiZ3N3d1VXb3dvb0huQWROVXFub3QtaE85TmRoaWlVOHc5Q1dKSnZ5enhEaFc1X3RzMUYzc0NINExCZGpMZnhBejhIRjl1M0Flc0I1RlVCTHhiZGtsb0ExbHpKQ0VpUXh1UE9qZl9UTm1IRjhXLUVVOGZUVnRFVDV1X0dHNTFZbHQ2SHN6cWxfYVNZbC1EU2dYOU84QjNj?oc=5\" target=\"_blank\">Corteva to Webcast Investor Days for Two New Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-84654",
+    "date": "Wed, 28 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Declares Quarterly Dividend - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlZPa2gxTWJaM1VLdlBpSVdsdnhtdmtDeUw0dHk4WVA5UnE0eWdwb2NYTndaZDVjUmZpa1ZtVnJtTW53emxrNzBqb1JhdVdBWUk2Y2FDNEp3SU1NYkZUSWR4QmE2VEo0MXVpN0k1WE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva Declares Quarterly Dividend - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlZPa2gxTWJaM1VLdlBpSVdsdnhtdmtDeUw0dHk4WVA5UnE0eWdwb2NYTndaZDVjUmZpa1ZtVnJtTW53emxrNzBqb1JhdVdBWUk2Y2FDNEp3SU1NYkZUSWR4QmE2VEo0MXVpN0k1WEhLUGQ2UTIxZllNaE1DeTNxZlo4QlF0YlRjZmJha2xhdFpha19oenc?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295525Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlZPa2gxTWJaM1VLdlBpSVdsdnhtdmtDeUw0dHk4WVA5UnE0eWdwb2NYTndaZDVjUmZpa1ZtVnJtTW53emxrNzBqb1JhdVdBWUk2Y2FDNEp3SU1NYkZUSWR4QmE2VEo0MXVpN0k1WEhLUGQ2UTIxZllNaE1DeTNxZlo4QlF0YlRjZmJha2xhdFpha19oenc?oc=5\" target=\"_blank\">Corteva Declares Quarterly Dividend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-90236",
+    "date": "Wed, 07 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva and bp Launch Biofuel Feedstock Joint Venture Etlas™ - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnhibzlLMmJtcF9RZ2hwb2RkUDZHUzRBWGE4ZjN4Mnl5bnhnU3Rtc3RkUV9CSEw2VEVzcWVrTzRGeWlGcHZvbEFmZjlPbUtSU0pKNlg0VXFOMzJTcE9XT2FPSmhkUHFjREJVQ1h5ZG",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva and bp Launch Biofuel Feedstock Joint Venture Etlas™ - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnhibzlLMmJtcF9RZ2hwb2RkUDZHUzRBWGE4ZjN4Mnl5bnhnU3Rtc3RkUV9CSEw2VEVzcWVrTzRGeWlGcHZvbEFmZjlPbUtSU0pKNlg0VXFOMzJTcE9XT2FPSmhkUHFjREJVQ1h5ZGRlRk1hUFJ6aC1VanZGTTVNN2NGWl9HX2F0V3RlUHY0QTlaTk1ZellhSkhaTzYwT2Rkakw4RHA3cW51WlZYbklPTXdhb2dBZw?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295527Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnhibzlLMmJtcF9RZ2hwb2RkUDZHUzRBWGE4ZjN4Mnl5bnhnU3Rtc3RkUV9CSEw2VEVzcWVrTzRGeWlGcHZvbEFmZjlPbUtSU0pKNlg0VXFOMzJTcE9XT2FPSmhkUHFjREJVQ1h5ZGRlRk1hUFJ6aC1VanZGTTVNN2NGWl9HX2F0V3RlUHY0QTlaTk1ZellhSkhaTzYwT2Rkakw4RHA3cW51WlZYbklPTXdhb2dBZw?oc=5\" target=\"_blank\">Corteva and bp Launch Biofuel Feedstock Joint Venture Etlas™</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-71929",
+    "date": "Tue, 03 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva misses quarterly sales estimates on lower crop protection, seed demand - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGZYNzQ2V3RkSXpNY2M3NHhad1hncGtLaVJPcWRWczVIbzFpcExCQXJWcW5WaUFGNDZUVjBxMVJVeGVWNDVjWEVEUFlDNkFrcm9PYlozRUpZdWVLWGJpVVJCNmo2bVloMVk1N1pFbj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva misses quarterly sales estimates on lower crop protection, seed demand - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGZYNzQ2V3RkSXpNY2M3NHhad1hncGtLaVJPcWRWczVIbzFpcExCQXJWcW5WaUFGNDZUVjBxMVJVeGVWNDVjWEVEUFlDNkFrcm9PYlozRUpZdWVLWGJpVVJCNmo2bVloMVk1N1pFbjIyTG5IdEhXMkRkMXY1V25YUFQ5dFhRbWpHNUNOUHp3?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295529Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGZYNzQ2V3RkSXpNY2M3NHhad1hncGtLaVJPcWRWczVIbzFpcExCQXJWcW5WaUFGNDZUVjBxMVJVeGVWNDVjWEVEUFlDNkFrcm9PYlozRUpZdWVLWGJpVVJCNmo2bVloMVk1N1pFbjIyTG5IdEhXMkRkMXY1V25YUFQ5dFhRbWpHNUNOUHp3?oc=5\" target=\"_blank\">Corteva misses quarterly sales estimates on lower crop protection, seed demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-63572",
+    "date": "Fri, 13 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Offers Cattle Producers Options To Improve Pasture Conditions - Southeast AgNET",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUtrN0E0ZVNHWEFQRjhkTm1yWEVyUDNzU25vQURsQkd4a1hqVEw5NjQ1ck1iUGFSSFlscWhiR2VtSC04LWFpZnZVcVEtS2lsUXN0a0QyOWJHSWFtXzhDeTUzUUx4OUI1ekt5Ymk0N0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Corteva Offers Cattle Producers Options To Improve Pasture Conditions - Southeast AgNET",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUtrN0E0ZVNHWEFQRjhkTm1yWEVyUDNzU25vQURsQkd4a1hqVEw5NjQ1ck1iUGFSSFlscWhiR2VtSC04LWFpZnZVcVEtS2lsUXN0a0QyOWJHSWFtXzhDeTUzUUx4OUI1ekt5Ymk0N0ltbEdIUElzVm40M2d1eGpmMFJFYXJMZXhDWllwcTVnWVJUSkJPa25LSFMzeUs?oc=5",
+        "fetchedAt": "2026-04-15T09:10:05.295531Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUtrN0E0ZVNHWEFQRjhkTm1yWEVyUDNzU25vQURsQkd4a1hqVEw5NjQ1ck1iUGFSSFlscWhiR2VtSC04LWFpZnZVcVEtS2lsUXN0a0QyOWJHSWFtXzhDeTUzUUx4OUI1ekt5Ymk0N0ltbEdIUElzVm40M2d1eGpmMFJFYXJMZXhDWllwcTVnWVJUSkJPa25LSFMzeUs?oc=5\" target=\"_blank\">Corteva Offers Cattle Producers Options To Improve Pasture Conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southeast AgNET</font>"
       }
     ]
   }
