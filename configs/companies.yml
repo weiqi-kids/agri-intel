@@ -188,6 +188,7 @@ companies:
   position: downstream
   role: 農機
   description: 全球最大農業機械製造商
+  rss_url: https://investor.deere.com/rss-feeds/press-releases
   upstream:
   - nutrien
   - mosaic
@@ -204,6 +205,7 @@ companies:
   position: downstream
   role: 農機
   description: 全球第三大農機製造商
+  rss_url: https://news.agcocorp.com/rss
   upstream:
   - nutrien
   - mosaic

@@ -1,0 +1,44 @@
+# Agriculture industry news feeds
+
+feeds:
+# --- Industry Media ---
+- id: google_news_agriculture
+  name: Google News - Agriculture
+  url: https://news.google.com/rss/search?q=agriculture+farming+crop+fertilizer&hl=en
+  description: Google News aggregation for agriculture and farming
+
+- id: agri_pulse
+  name: Agri-Pulse
+  url: https://www.agri-pulse.com/rss
+  description: Washington D.C. food, fuel, fiber and farm policy coverage
+
+- id: world_grain
+  name: World Grain
+  url: https://www.world-grain.com/rss
+  description: Market news and analysis on grain, feed and flour milling industries
+
+- id: usda_news
+  name: USDA News
+  url: https://www.usda.gov/rss/latest-releases.xml
+  description: USDA latest news releases
+
+- id: google_news_fertilizer
+  name: Google News - Fertilizer
+  url: https://news.google.com/rss/search?q=fertilizer+potash+nitrogen+crop+prices&hl=en
+  description: Google News aggregation for fertilizer and crop prices
+
+# --- Company Feeds ---
+- id: deere_press
+  name: John Deere Press Releases
+  url: https://investor.deere.com/rss-feeds/press-releases
+  description: Deere & Company investor relations press releases
+
+- id: agco_news
+  name: AGCO News
+  url: https://news.agcocorp.com/rss
+  description: AGCO Corporation news and press releases
+
+- id: corteva_news
+  name: Corteva Agriscience News
+  url: https://news.google.com/rss/search?q=%22Corteva+Agriscience%22&hl=en
+  description: Google News for Corteva Agriscience
