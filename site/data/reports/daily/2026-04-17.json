@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:08:11.364043Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-04-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yara International ASA (YARIY) to Release Earnings on Friday - MarketBeat",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-04-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Holdings, Inc. (NYSE:CF) Short Interest Update - MarketBeat",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "natural_gas_feedstock"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "yara-2026-04-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bayer, MustGrow Biologics, and Yara International: How to Capitalize on the 40% Fertilizer Price Surge in Your Portfolio - news.financial",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "yara",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Yara、CF相關動態：「Yara International ASA (YARIY) to Release Earnings on Fri...」。主要關注主題為天然氣原料、法說會、肥料價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Yara International ASA (YARIY) to Release Earnings on Friday - MarketBeat（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "CF Industries Holdings, Inc. (NYSE:CF) Short Interest Update - MarketBeat（天然氣原料）",
+        "level": "green"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
