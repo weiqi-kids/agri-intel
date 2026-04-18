@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T08:37:42.602565Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-04-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mosaic Company’s Q1 2026 Earnings: What to Expect - Barchart.com",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mosaic",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Mosaic相關動態：「Mosaic Company’s Q1 2026 Earnings: What to Expect - Barch...」。主要關注主題為法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mosaic Company’s Q1 2026 Earnings: What to Expect - Barchart.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mosaic為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
