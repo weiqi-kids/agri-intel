@@ -1,0 +1,94 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:17:35.039460Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-04-21-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Nutrien, CF Industries and Yara - Zacks Investment Research",
+      "companies": [
+        "nutrien",
+        "yara",
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [
+          "yara",
+          "cf_industries"
+        ],
+        "suppliers": [
+          "nutrien"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Nutrien Ltd、Yara、CF相關動態：「Zacks Industry Outlook Highlights Nutrien, CF Industries ...」。主要關注主題為法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Highlights Nutrien, CF Industries and Yara - Zacks Inv...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Nutrien Ltd、Yara、CF為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
