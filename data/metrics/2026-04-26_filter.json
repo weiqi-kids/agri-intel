@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 356,
+  "dup_title": 93,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
+  "too_old": 215,
+  "gate1_fail": 4,
+  "gate2_fail": 44,
   "passed": 0,
-  "gate2_samples": []
+  "gate2_samples": [
+    "Mosaic Company (MOS) Leads Oversold Stocks in Materials Sector - GuruFocus",
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Rating of \"Hold\" by Brokerages - MarketBea",
+    "Stocks generating improved relative strength: Intrepid Potash - MSN",
+    "Stocks showing rising market leadership: Intrepid Potash earns 84 RS rating - MSN"
+  ]
 }
