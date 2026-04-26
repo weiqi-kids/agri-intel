@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T08:50:15.723943Z",
+  "generated_at": "2026-04-26T14:09:30.109215Z",
   "highlights": [
     {
       "rank": 1,
@@ -13,6 +13,13 @@
       "date": "2026-04-21",
       "title": "Zacks Industry Outlook Highlights Nutrien, CF Industries and Yara - Zacks Investment Research",
       "importance_score": 0.95
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cf_industries",
+      "company_b": "yara",
+      "co_mention_count": 3,
+      "rank": 2
     }
   ],
   "anomalies_7d": [],
@@ -34,13 +41,19 @@
       "last_week": 1,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
     }
   },
   "company_7d_summary": {
     "nutrien": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 2
+      "rank": 3
     },
     "yara": {
       "event_count": 7,
@@ -50,25 +63,35 @@
     "cf_industries": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 3
+      "rank": 4
     },
     "bunge": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 4
+      "rank": 2
     },
     "cnhi": {
       "event_count": 1,
       "sentiment_avg": 0.0,
       "rank": 5
+    },
+    "fmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "adm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 10,
+        "this": 13,
         "last": 4,
-        "change_pct": 150.0
+        "change_pct": 225.0
       }
     }
   },
@@ -105,12 +128,12 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 0,
+      "event_count": 3,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 10 則事件，重點為「Zacks Industry Outlook Highlights Nutrien, CF I...」。事件量較上週增加 150%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 13 則事件，重點為「Zacks Industry Outlook Highlights Nutrien, CF I...」。事件量較上週增加 225%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "Yara",

@@ -1,29 +1,125 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:50:15.664635Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T14:09:30.045071Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fmc-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Corporation most undervalued among US fertilizer and chemical stocks - MSN",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNbGppejllRnV4YUpDQ3hqQjY1Z2lsZktqUk9fSWI4d3lNSXFIcUoyYTEwYVAzYTdsdng2LTJONFl0b05lckd5S3BESXZBbE1hZ2RJU3lNbWVyQ1lQVWJJRWpqb3RGSndBN3cydXR3NWdTVXZYVVZPU2VHZUZkSGtjTmJILVV2aW42R0ZtQ1pJNFFTV3gwSzdkQWJGOVNvTHIwZzVYdzZSR2VybFJ4RkhyZTFWQ0xEeENlQ2M4Ri1GWXRvMllBNkY1WnRmVFZ3WkdTUElSUVRDSUpwcGRhVDRxVWVzc05nUWFGNTdVT2szZF9od1Jmd2hCR3RLa0twS2xvWlo2bTAwbUJnRVdRSWRXak1tdjl3YlFSb3B4RkV1U1hpYzJ3VjFSY09LeHc1ZGNuWGFfS1lIenhINTJaQ1JpWkxyUHFaenY4OGxWLW1tdnZ0dmRnQkFTaU10Nk16dDQ5al9pNWhpbXhuZHNzVnNVQTR1bmxDOEhL?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (ADM) stock sinks as market gains: What you should know - MSN",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPMDJMYmVRamRySHgySnlNOEcxVF9HUFBNUWNWN3dTdl9TOEVMc2V0TmFoRXBXMDNJSkJTQWNMbzRXREJlNm9xWTdCTXcwWUpGMXBoYUlGMkVKSnNoWHM3RFhPUTZUMVU3bnRfNi1Uc3gwZWhEaWVjNGtnX0JPaTk5a3ViUVlna2hOWU92VnBMTkVkV1RneEFRVXJaVUM4SWs3UEp4OFlOMXpiNmtlWjY0dk14T0dYSGlXc3JtMllmZm5mLW91ZEJVUGFYaE4teHhValNZblBla01mYzV6QVlqVng3OXRzY05RaHZ4VktNZTdDU1g0ZW8yRmpuN2ZOc1ViOTc1b1I5T3lqLWJGU3ljQkRUMnNZRUJFaXpGMTd6anlJNnpFdm50RGpsZ29mUE04S1VWelhCbkg3UXBQajBjMldQbW45QmR4ZGI2N3ppVTRvdEl1T0ZZakNxV1Zfa1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stands as the best performing large-cap consumer staples stock YTD - MSN",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPWHRZcHNqcWYyWDVDb3paNWNyMjNEeElXNzlJektGcERhZVQxa1l5RjRTT240OGsya3NHejIxY2s4TXFwdTRSOWpNekk4VmRQLWx2a1dDNVZUMGM1MVRuWlBybVIxRThrXzZlcmFpLWhzb0NzVVlBWmkwTFlUZlBlV19GSTFTNHYwYndyVEFDQ2RJZmVWTnRTWDNvbElHV245RVhMU0VsMG92aXNnaTc2ZHB5cXdrVTAxdk5nZllNUWFsb2V6T3lTYm4zbDBIOHdwNFd3eF92dW01RDFjdDR2S3diZ01vOU5xbDVFdUhJMVp2RFFfdFpJdjg2UVNTeXA4TW94TFFhVjlzMWRsSFRiNDBWMld4WXd5VkxEaGFCajl6OWNYN0REY2piNWN4UHdxSFhtUWJ0T3RFRW10T2NZQTAxUk1OUmVZVy1uZk5rUnBJVDZ4X1dYNjJ2UGtFMGVCa01xd0k5ZHBVdHg0amY1dl9pZmRiTzRSYXBNdXZXUHRsdw?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 3,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 3,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "fmc",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 375,
-    "dup_title": 91,
-    "too_old": 216,
-    "gate1_blocked": 16,
-    "gate2_blocked": 42,
-    "passed": 10,
-    "pass_rate": "3.5%",
-    "gate2_block_rate": "14.8%",
+    "total_raw": 748,
+    "dup_title": 186,
+    "too_old": 435,
+    "gate1_blocked": 17,
+    "gate2_blocked": 53,
+    "passed": 57,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "9.4%",
     "gate2_samples": [
       "Mosaic Company (MOS) Leads Oversold Stocks in Materials Sector - GuruFocus",
       "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
@@ -34,14 +130,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-26 無農業產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 3 則事件，焦點為FMC、ADM、Bunge相關動態：「FMC Corporation most undervalued among US fertilizer and ...」。主要關注主題為農業產業通用，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "FMC Corporation most undervalued among US fertilizer and chemical stocks - MSN（農業產業通用）",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "Archer Daniels Midland (ADM) stock sinks as market gains: What you should kno...（農業產業通用）",
         "level": "green"
       }
     ]
