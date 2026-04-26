@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:14:28.391672Z",
+  "generated_at": "2026-04-26T08:50:15.664635Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -14,6 +14,24 @@
     },
     "top_companies": [],
     "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 91,
+    "too_old": 216,
+    "gate1_blocked": 16,
+    "gate2_blocked": 42,
+    "passed": 10,
+    "pass_rate": "3.5%",
+    "gate2_block_rate": "14.8%",
+    "gate2_samples": [
+      "Mosaic Company (MOS) Leads Oversold Stocks in Materials Sector - GuruFocus",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Rating of \"Hold\" by Brokerages - MarketBea",
+      "Stocks showing rising market leadership: Intrepid Potash earns 84 RS rating - MSN",
+      "CF Industries slides 3.7% as fertilizer “risk premium” cools ahead of Q1 results - Quiver Quantitati"
+    ],
+    "alert": false
   },
   "llm_analysis": {
     "summary": "2026-04-26 無農業產業相關事件。市場處於平靜狀態，無重大訊號。",

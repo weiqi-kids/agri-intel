@@ -1,97 +1,97 @@
 {
   "nutrien": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "mosaic": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "icl": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "kpluss": {
-    "earliest": "2022-02-11",
+    "earliest": "2021-11-15",
     "latest": "2026-04-24",
-    "count": 1069
+    "count": 1131
   },
   "sqm": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "intrepid": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "cf_industries": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "yara": {
-    "earliest": "2022-02-11",
+    "earliest": "2021-11-15",
     "latest": "2026-04-24",
-    "count": 1053
+    "count": 1115
   },
   "oci": {
-    "earliest": "2022-02-11",
+    "earliest": "2021-11-15",
+    "latest": "2026-04-24",
+    "count": 1137
+  },
+  "taifer": {
+    "earliest": "2021-11-16",
     "latest": "2026-04-24",
     "count": 1073
   },
-  "taifer": {
-    "earliest": "2022-02-14",
-    "latest": "2026-04-24",
-    "count": 1017
-  },
   "corteva": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "fmc": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "deere": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "agco": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "adm": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "bunge": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "kubota": {
-    "earliest": "2022-02-15",
+    "earliest": "2021-11-17",
     "latest": "2026-04-24",
-    "count": 1026
+    "count": 1085
   },
   "etf_moo": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   },
   "etf_dba": {
-    "earliest": "2022-02-10",
+    "earliest": "2021-11-12",
     "latest": "2026-04-24",
-    "count": 1054
+    "count": 1115
   }
 }

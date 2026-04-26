@@ -102,6 +102,25 @@
     ]
   },
   {
+    "id": "unknown-2026-04-25-008",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Small planting errors cost farmers up to $30 per acre",
+    "summary": "From GPS miscalculations to damaged gaskets, small oversights during planting season add up to hundreds in lost revenue per field.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/small-planting-errors-cost-farmers-up-to-30-per-acre",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "yara-2026-04-24-004",
     "date": "2026-04-24",
     "companies": [
@@ -337,6 +356,114 @@
     ]
   },
   {
+    "id": "unknown-2026-04-24-018",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "crop_price"
+    ],
+    "impact": "neutral",
+    "title": "Grain prices mixed, mostly quiet heading into the weekend",
+    "summary": "Afternoon Market Recap: Corn and soybeans tested modest gains on Friday, with winter wheat tilting lower.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-019",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "3 reasons high fertilizer prices are sticking",
+    "summary": "Right now, it doesn’t look pretty for commodity and input prices in 2027. Still, drought could change things in a hurry.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/3-reasons-high-fertilizer-prices-are-sticking",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-020",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why older farmers should rethink deferred taxes",
+    "summary": "More Than Dirt: Frozen capital is the hidden cost of tax deferral. Rescue your retirement by understanding the difference between after-tax profits and unrealized gains.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/headline-tax-deferral-strategies-can-delay-farm-retirement-and-create-liquidity-challenges-for-long-term-financial-planning",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-021",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "neutral",
+    "title": "Higher fuel prices could add $10,000 to Kansas farm expenses",
+    "summary": "Kansas Digest: Fuel and fertilizer prices have big impact; scout for wheat pests; Walmart joins U.S. Cotton Trust Protocol.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/higher-fuel-prices-could-add-10-000-to-kansas-farm-expenses",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-022",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What to know about futures markets’ role in agriculture",
+    "summary": "Futures markets help farmers manage price risk and stabilize revenue.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/what-to-know-about-futures-markets-role-in-agriculture",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-023",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "fertilizer_price"
+    ],
+    "impact": "negative",
+    "title": "Why the cost-price squeeze may not improve in 2027",
+    "summary": "Inflation, the Iran war and a lack of domestic fertilizer production are all contributing to high fertilizer prices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/why-the-cost-price-squeeze-may-not-improve-in-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bunge-2026-04-23-004",
     "date": "2026-04-23",
     "companies": [
@@ -460,6 +587,24 @@
       {
         "name": "bunge",
         "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYmNNbXdaWW1SbWpCcHJkWHBYQVR3RXR3RmRVdVluR3l6d2Z2ekxGeXJJcWYwWGwtV3FxSG54UGRidUVjelpWQm90MUpRRUVRZU04eGFzQlpCdTNBTDd3bXd1SkExbnVZYmlmWXNOZG03cnpXbDEweEtHa0s0clBfNzdKd2k4ZDYzdWtwX2IzYjBTMC1WWDlkcDVJd2gtRDZnUEx5TnN4S3hqTWRubEgtSDVrSFVCS0tTNHVTR1BCeTVrelJ0WlRaSG0xb2plWUtZaUR6NjRQSnB4enNFUXRkQlVNTXk5Tmdwa0JVZnVLTl96LXpkQXFGTVcxOU1iSHhEUEg4cXZNZGFfcGxWM3VoRWtSVjR3cThhbUJwNTVkZFBNcHpJUHozZ25PS3NMNW5PellGaDc5MnRMd3NwT0hSenA2a0V5VFhhU3MzT3RKdFlaVUNOb2FodlhwUHhGQ1BYTm4zSnllS0NXWGZGaE5GNTFRZzBFVnRlX2lUbV9iZjA4aW15LXM2LTlsTXhCMVgwblE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-23-009",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Farmers can profit at $5 corn and $11.50 beans",
+    "summary": "Advanced Marketing Class: Grain markets are offering prices that are at least breakeven for most farmers. Now’s the time to start ensuring a good average price for your 2026 crops.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/headline-grain-producers-face-critical-pricing-decisions-as-soybean-and-corn-futures-offer-opportunities-for-early-sales",
         "type": "rss"
       }
     ]
@@ -723,6 +868,24 @@
     ]
   },
   {
+    "id": "intrepid-2026-04-21-012",
+    "date": "2026-04-21",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Stocks generating improved relative strength: Intrepid Potash - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUZCbndkZUpMT2RpWmVMYkI2Nkw1b05JYjNnTVNtaWJqUERscjVZQ1diWmpwM0pTaVZZeDBGMjJsVHF2YnB6dnpGTG5SMkF5NnZwWm41bHd5U0NiMkV5clJpTzJRVnNYODhGWi1zaX",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUZCbndkZUpMT2RpWmVMYkI2Nkw1b05JYjNnTVNtaWJqUERscjVZQ1diWmpwM0pTaVZZeDBGMjJsVHF2YnB6dnpGTG5SMkF5NnZwWm41bHd5U0NiMkV5clJpTzJRVnNYODhGWi1zaXdPVnpFcFJSMkRpX0NTUzJNbU5rVFhxLWozc0l2cUx0NVJ5NnlKUXZlckhxR1R5bHVBcE1FOHJsdDNzTnUxak96VW1yb0Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-20-004",
     "date": "2026-04-20",
     "companies": [],
@@ -876,6 +1039,24 @@
       {
         "name": "taifer",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHloZUhwb1VxcHk0Z3llZFJXdnNIcTFlRmloZUNXM3FzNmJnZHpmZk5VY0hDYjFZeTlqZVIxdlF0aVRRR3E0Ump3TDNtYWdMV2dYNkg4MzYwT3VEbllGZjNDX3d5TjBCbE56UlVxNmd6bElsZFlvOVQ0VE1VcUlSYnRnX1BsV2JNeVFqeVF5MC1kTmN5cEZFZmtaaU9CQ0lUWXhpQzU0a0pkazB2UWV6amhWZFgxZUh4R0xFWVU5OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-04-19-002",
+    "date": "2026-04-19",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI N.V. stock (NL0010558797): Why Google Discover changes matter more now - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1dPbVMwa2FFZzh3eDR3a3hMZHhKejhIOUk2WFpjVE9tZVFmbTJWaHBBY2ZkWkdsVDh2TUpfZmJyWDc2Q2ZzcmlfVkQwZkNlV2xYZnhYNUYzcW1HLWhfUG9vUjBScXdOamh0U1hnNV",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1dPbVMwa2FFZzh3eDR3a3hMZHhKejhIOUk2WFpjVE9tZVFmbTJWaHBBY2ZkWkdsVDh2TUpfZmJyWDc2Q2ZzcmlfVkQwZkNlV2xYZnhYNUYzcW1HLWhfUG9vUjBScXdOamh0U1hnNVZiNmpSdGFEbFNvOFNOZ0NVeThqdzZhS1M2bExDWTJlSUZ1ZnNKOVl5a1IxVzBGVFNiZ1hKQkpKc3ltOXJRM3JDLTBtMHJHWTFUOFA1LWtIV2FWdw?oc=5",
         "type": "rss"
       }
     ]
