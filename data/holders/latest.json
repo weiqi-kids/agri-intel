@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T14:09:29.583890+00:00",
+  "updated_at": "2026-04-27T01:41:22.042569+00:00",
   "companies": {
     "nutrien": {
       "name": "Nutrien",
@@ -907,13 +907,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 11914,
           "pct_held": 0.0,
-          "value": 30487926
+          "value": 29874355
         },
         {
           "holder": "Aristotle Capital Management, LLC",
           "shares": 2500,
           "pct_held": 0.0,
-          "value": 6397500
+          "value": 6268750
         }
       ]
     }

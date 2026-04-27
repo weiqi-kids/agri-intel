@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:22.407917Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 134,
+    "too_old": 222,
+    "gate1_blocked": 0,
+    "gate2_blocked": 6,
+    "passed": 10,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+      "FMC Corporation Enters into Amendment to Credit Agreement and Modifies Debt Terms - marketscreener.c",
+      "Zacks.com featured highlights include Archer Daniels Midland, Bunge, ProFrac, Cardinal and Centene -",
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無農業產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

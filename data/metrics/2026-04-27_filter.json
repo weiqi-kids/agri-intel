@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 222,
+  "gate1_fail": 0,
+  "gate2_fail": 6,
+  "passed": 10,
+  "gate2_samples": [
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+    "FMC Corporation Enters into Amendment to Credit Agreement and Modifies Debt Terms - marketscreener.c",
+    "Zacks.com featured highlights include Archer Daniels Midland, Bunge, ProFrac, Cardinal and Centene -",
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance"
+  ]
+}
