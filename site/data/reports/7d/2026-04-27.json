@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T01:41:22.472235Z",
+  "generated_at": "2026-04-27T03:37:25.697441Z",
   "highlights": [
     {
       "rank": 1,
@@ -89,41 +89,41 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 12,
-        "last": 5,
-        "change_pct": 140.0
+        "this": 111,
+        "last": 35,
+        "change_pct": 217.1
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-21",
-      "event_count": 1,
+      "event_count": 16,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-22",
-      "event_count": 0,
+      "event_count": 12,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-23",
-      "event_count": 2,
+      "event_count": 14,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 4,
+      "event_count": 46,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-25",
-      "event_count": 2,
+      "event_count": 15,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-26",
-      "event_count": 3,
+      "event_count": 8,
       "sentiment_avg": 0
     },
     {
@@ -133,7 +133,7 @@
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 12 則事件，重點為「Zacks Industry Outlook Highlights Nutrien, CF I...」。事件量較上週增加 140%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 111 則事件，重點為「Zacks Industry Outlook Highlights Nutrien, CF I...」。事件量較上週增加 217%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "Yara",

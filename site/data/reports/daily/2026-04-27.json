@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:41:22.407917Z",
+  "generated_at": "2026-04-27T03:37:25.634174Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -16,14 +16,14 @@
     "top_topics": []
   },
   "filter_audit": {
-    "total_raw": 372,
-    "dup_title": 134,
-    "too_old": 222,
+    "total_raw": 744,
+    "dup_title": 277,
+    "too_old": 439,
     "gate1_blocked": 0,
-    "gate2_blocked": 6,
-    "passed": 10,
-    "pass_rate": "4.2%",
-    "gate2_block_rate": "2.5%",
+    "gate2_blocked": 14,
+    "passed": 14,
+    "pass_rate": "3.0%",
+    "gate2_block_rate": "3.0%",
     "gate2_samples": [
       "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
       "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",

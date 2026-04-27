@@ -120,6 +120,44 @@
     ]
   },
   {
+    "id": "corteva-2026-04-26-007",
+    "date": "2026-04-26",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Agriscience to separate seed and crop protection businesses - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wJBVV95cUxPaEtkMWd1aEVtRlVUaHY4OFF0MWQwZWN1TjZTZElid3BXcFpkeUF3b2VHaW9MbnBxT2pJZF95MTJBYmtkSWJaUmlKNDZ6cG10X0pUaXo4SmNwMWRod3RzOEVZemx6SUJuZWdWNFEtQm",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPaEtkMWd1aEVtRlVUaHY4OFF0MWQwZWN1TjZTZElid3BXcFpkeUF3b2VHaW9MbnBxT2pJZF95MTJBYmtkSWJaUmlKNDZ6cG10X0pUaXo4SmNwMWRod3RzOEVZemx6SUJuZWdWNFEtQmFKQU9EMUxtSEhhREFMcmw2VlpQd2stYmhlcTJuekVLRk8zZ0paUjdGYWtNTDVNcEhZa0NtOE85SHN4VG1iNTJCOVNOS0tXdjFIUzBCbk5zMkJ0c2twX2dGbFUwU1B1aXJNXzVkcUxLeXRzcV93SUFxX1VreW1wRkkwZ1pFRF9JOEh1MTJGdFlvOUtvXzhJZzRJRnlwaGJtdVp6dnZIa29WZnFIQms2dEc2UEk5VGM1ZTBuZW5UZTZoMm5jMVU4TmdYRmcwTUp2YldvZlJpWk9QZnJaVWRzWDZ3Q3dJRlBZTjVvTUFCS2Y5SE14OV9iRUVVREYwejJsUWJCQW5WQ3lOZEJ3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-04-26-008",
+    "date": "2026-04-26",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Are investors undervaluing BUNGE GLOBAL SA (BG) right now? - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wJBVV95cUxQbEZpYnpOSnFzZmJYdDdyd3EybWZpSEprWVFzVVA2c2tOMlVXRXdnd1FFWjNJVlEyb0NFaXl4YlUyR3M5YnhpNTVTTm5HZE1uVnpsNUFEUGtVUTlyOWljZGh1R0lUaGI1UUc0eG5qMl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQbEZpYnpOSnFzZmJYdDdyd3EybWZpSEprWVFzVVA2c2tOMlVXRXdnd1FFWjNJVlEyb0NFaXl4YlUyR3M5YnhpNTVTTm5HZE1uVnpsNUFEUGtVUTlyOWljZGh1R0lUaGI1UUc0eG5qMlBtT1dmRXgwQ1dMcnI3SUxvYkZlb1plLW5wellyS3EwMHBvQ0RScFhiNUdfeUZ4V0V3anFoWVJUeWhVdlp2b3dNN0U1WTFFM2V0Q1doRmxQRlV6NHZ2b0Y4cE42LUEtTVJxbzdjMTZFTS1CdVJlQ2FiSE1vXzJRT1p2bWtHeFIwUU5HVGtQZ3NDZEVnMk9wWmdmVEhTMGN1UElPSXpjTktDU1NLNXJFdnRVNTNFdDk1M2NMWldRNzRZRm4wVm9oQkUzRU4wZ0xXMVBWV080MGY4U3kxcUNmbzl5czI1QTlwYTlhRHB1ck9OM0NUcE9QS3htZlFSLUVKakt0VE5LbXd2eGxhS0NvRW1FODE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "yara-2026-04-25-003",
     "date": "2026-04-25",
     "companies": [
@@ -352,6 +390,27 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-tribute-braxton-watts",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-04-25-015",
+    "date": "2026-04-25",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Analysts estimate CNH Industrial (CNH) to report a decline in earnings: What to look out for - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVXoxQ0hHSzJLTVRLU3Jjck5rd1F3Z1VXVGcybkJERTNfX2FKYXBadWN6T3l2aWFzMkxqYTU0b3hITmdLM3czd2xfV18zbFhrQ0tGME42VDk5aWc1VzZxUllEWDg5aUk0VEtFZE5PNE",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVXoxQ0hHSzJLTVRLU3Jjck5rd1F3Z1VXVGcybkJERTNfX2FKYXBadWN6T3l2aWFzMkxqYTU0b3hITmdLM3czd2xfV18zbFhrQ0tGME42VDk5aWc1VzZxUllEWDg5aUk0VEtFZE5PNElraG81UnNyTGFjYXBlVWxpd2QxR1JiY094YnUwUDBWUGYtSnRkd2t3WWdrUDJKZmFEOUN6ZnBsUkR1amVwQU9OZVh6YlVvdGQ0WjlqUEsxX0dXT09id2dwTFF6WFJiN2ljUDVxMkd3ZmFtc0E?oc=5",
         "type": "rss"
       }
     ]
@@ -1356,6 +1415,26 @@
       {
         "name": "adm",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMTF2RTdlSlM0OVpJZHdwcFo5TXJ5elNEMGVPNHdobG1rdXJzQzNiZEdjSTRzY3Uzc3c1bXRfaEVaNksxVmtYVHB0Rk92WC1fX2lGUzlMWHY1WWtNZDZSX3ZGM0JWUUJhZXBiY3JkWGRSdzlyX2pxWUt0RUo3ak5OX2JjblhXWG9fdGZic0hhTHZXTjhMaUxLUGRlTWFvMTd3ZXdEYXN3VUZPVHUtTG12YUU0NWNpc191Szlya0VmNmw3TTBCeUxnUmVDbmN5RVpXZXFxWnY2WkN3YXNsckhCdzJSTjg1UdIB6wFBVV95cUxNcUNpMFV1aXZYcU43aFh5bTNpRWQ5V1ByZXRpZGlZZlFPUXk2UDhWNmROdDJ5Qk9jeW1HbW5BbnFyaWhPUFZNajM5NEkwajE3RlZPbnZueUxmX3FFek9aWkVueTREMHE2YWw2TWQ5OTRsS01wVFliMnhqTmtQaEFmaERibnlvZXZJNlVLV1cxM2ZwdXV0c2gyT2x6NXQ2SjAxUnAwVEMxTVFhVzRIc1d3TVdJZ2tLM0dJbjZvNDZ0bWpIWHowYWY0SnlVUUJCM1lMWGZ6Y2xpUy1nVDZqa3pwZjNmZjV4eHViQTdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-04-23-014",
+    "date": "2026-04-23",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cwm LLC Buys 220,328 Shares of CNH Industrial N.V. $CNH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPU1VxZG1MczZLVFpaNXluOC1ScG9JblBILVJ3amQ0eVA3eEFtS3JUWkJabkRXU1RwUGdvTFZTaFV5ZGpyeVhuRGlYYXMxdlQ2N3E1Wld5LVZ1eWIzUkpPVzhyazIwNHJLQUIyd1VuVk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU1VxZG1MczZLVFpaNXluOC1ScG9JblBILVJ3amQ0eVA3eEFtS3JUWkJabkRXU1RwUGdvTFZTaFV5ZGpyeVhuRGlYYXMxdlQ2N3E1Wld5LVZ1eWIzUkpPVzhyazIwNHJLQUIyd1VuVkNZWjhjc1VBa01ZQzMtRURONTZHa3JyM0x3UE14Skl5ZjJySVpIaGdLcnRrSy1nNGRkUVhkdEdITC1sTmRxWk9rZm1n?oc=5",
         "type": "rss"
       }
     ]
