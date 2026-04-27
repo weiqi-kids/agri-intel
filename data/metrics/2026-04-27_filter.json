@@ -1,11 +1,11 @@
 {
-  "total_raw": 744,
-  "dup_title": 277,
+  "total_raw": 1117,
+  "dup_title": 412,
   "no_date": 0,
-  "too_old": 439,
-  "gate1_fail": 0,
-  "gate2_fail": 14,
-  "passed": 14,
+  "too_old": 653,
+  "gate1_fail": 3,
+  "gate2_fail": 22,
+  "passed": 27,
   "gate2_samples": [
     "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
     "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",

@@ -1,29 +1,167 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:25.634174Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T10:06:34.256039Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Best Value Stocks to Buy for April 27th - Yahoo Finance Singapore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmMyQVg1bWlEYVI3YmJXaTBmbzBnTEhGbHlpZ1UySU1LcUp5Tnh6dUFkU1FIczZHR2EtbFQwS2JrQm5aNDlFTXlRU1BPd3FkM2JiY0poWEpQRGFRUGhwVERsQ1dwaW5TZ3VUTW1sUlJEVnFoUjg2TnhZclJYRW1GTGZB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Strong Buy Stocks for April 27th - Yahoo Finance Singapore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdk0wejEwWDJnTDlTUmYtYl80TzVBNV92OEUtaVg1cUNJckoyazBFQ2E0S3gxRWtfMHB5b0daU0YybmxkNHFQREM4c3BOdF9wVmxrVFN6T29HMW5scEtNOEhUZFVKN3ZSQ2VaNzVDZEVLS2VTRkVzMGVPdGgzVmJvNWZEVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corteva-2026-04-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corteva Agriscience will invest approximately $15M in its Ukrainian seed production. - ubn.news",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE9fVm5MYk8xVkNDSWVIVFhoSV9KTzY3dUlHbVZXeTdnQ0JTd0lIb1kxV2Qzc0xOMVRmNnA1dS1nVFAwNmZOeUFRTmxJTXR2d2h1Y0R4Y213VFhLQWNacDFnc1hsMXZCMmo2T3dKZEZSOGt2b193cTNnMUJCMVlUclBkOEg5S2RJeUdZZS12S2d4MGlqMDdFa3ZZNFZTYmdReXfSAaoBQVVfeXFMTmZIaDNGNFpfZHFmelU2dU1nd1hOQXc1TTlPWXdBZUNwaHFlQkZDQzN2Um5HaVdxRFNwZDY3YWZRYlYyNkotNmg5ZXZ4b2lkdnA4Y29fbWFLTTI4MXR4TFFnN3k3MUVld0VnSkdKcHhxTnk2TktzWVF5YUtBLUUwekJ1c0F2WEpYMFMtZ1JlVTZacWhNOHNCdFBCdVpkMkdOajBIVXMtN01iMXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Containment dikes pay off in tight-margin years",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/crop-protection/containment-dikes-pay-off-in-tight-margin-years"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "When does a weather scare launch a rally?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/commentary/headline-weather-driven-rallies-offer-corn-and-soybean-growers-a-chance-to-profit-amid-el-nios-brewing-impact"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 8,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 1,
+      "neutral": 7,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "corteva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 744,
-    "dup_title": 277,
-    "too_old": 439,
-    "gate1_blocked": 0,
-    "gate2_blocked": 14,
-    "passed": 14,
-    "pass_rate": "3.0%",
-    "gate2_block_rate": "3.0%",
+    "total_raw": 1117,
+    "dup_title": 412,
+    "too_old": 653,
+    "gate1_blocked": 3,
+    "gate2_blocked": 22,
+    "passed": 27,
+    "pass_rate": "3.8%",
+    "gate2_block_rate": "3.1%",
     "gate2_samples": [
       "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
       "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
@@ -34,15 +172,19 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無農業產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 8 則事件，焦點為Corteva相關動態：「Best Value Stocks to Buy for April 27th - Yahoo Finance S...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Best Value Stocks to Buy for April 27th - Yahoo Finance Singapore（農業產業通用）",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "New Strong Buy Stocks for April 27th - Yahoo Finance Singapore（農業產業通用）",
         "level": "green"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
       }
     ]
   },
