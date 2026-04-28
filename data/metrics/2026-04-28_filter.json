@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 207,
+  "gate1_fail": 5,
+  "gate2_fail": 10,
+  "passed": 40,
+  "gate2_samples": [
+    "Mosaic plans to exit Araxa assets to streamline portfolio - MSN",
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
+    "CF Industries hits record high, topping S&P 500 for second straight day on war-fueled surge - MSN",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+    "Corteva says surplus steam is causing noise in Midland - Midland Daily News"
+  ]
+}

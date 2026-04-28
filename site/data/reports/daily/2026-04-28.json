@@ -1,0 +1,233 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:06:58.952518Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-04-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yara International Earnings Call: Profits Rise Amid Turmoil - TipRanks",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTNIWnRzSGNUSGpicUhqVFIwZlM1Y0tUM2lQZ0t1aEdGZHEzYzI3YUR4QnU3U2FXTkd4LVRYbldoWEt4RUZtWVpzRnVMbF9BY1Z5OUdJMVBtbHJvdGFpYXdpZVVudGNJeE16Xzd1cVdUa1NuLTdIMjUzVGd4RmRrWlM4d2FNLVJEbk53dXVQb21UNnZaZW9ibGw3em1fRHB6aEdES3RWQjlkWnczYks4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-04-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global (BG) Reports Q1: Everything You Need To Know Ahead Of Earnings - StockStory",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1g4M2Z1ZDd4OFBzVkxBYTZtRTJ3RjJDclF4ejBPbGpZdGYyTjZGYndTaUtkb1JjMk14MUdZbXVjcUxPOUlXaFphb2t5TXBTWGU4NnRNZHd3R0tNQVdJbmNXcGNwT3hOdmtkclhtdldZbmNycmdzWHA1OFNqQ1lXX3pLQ2RTSHlnbzZ6NWlIZGhob1lRSFN3aEhfOGM2eXBWSS1iYnlybU9qTzBlNk9xS1VFajN0WDhsZ2tSdW9YME5QZkxDY3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-28-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Time to save money raising dairy heifers on pasture",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/dairy-cattle/time-to-save-money-raising-dairy-heifers-on-pasture"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-28-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Convoy of Hope shares regenerative ag practices internationally",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/conservation-and-sustainability/convoy-of-hope-shares-regenerative-ag-practices-internationally"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-28-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Is corn tissue sampling necessary in tight years?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/is-corn-tissue-sampling-necessary-in-tight-years-"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 109,
+    "too_old": 207,
+    "gate1_blocked": 5,
+    "gate2_blocked": 10,
+    "passed": 40,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Mosaic plans to exit Araxa assets to streamline portfolio - MSN",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
+      "CF Industries hits record high, topping S&P 500 for second straight day on war-fueled surge - MSN",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+      "Corteva says surplus steam is causing noise in Midland - Midland Daily News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為CF、SQM、Yara相關動態：「Yara International Earnings Call: Profits Rise Amid Turmo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Yara International Earnings Call: Profits Rise Amid Turmoil - TipRanks（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global (BG) Reports Q1: Everything You Need To Know Ahead Of Earnings -...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
