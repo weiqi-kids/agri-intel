@@ -1,0 +1,16 @@
+{
+  "total_raw": 374,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 206,
+  "gate1_fail": 5,
+  "gate2_fail": 10,
+  "passed": 44,
+  "gate2_samples": [
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 147% One Year Gain? -",
+    "CF Industries hits record high, topping S&P 500 for second straight day on war-fueled surge - MSN",
+    "Midland police say Corteva is working to reduce overnight noise at Dow Industrial Park - Midland Dai",
+    "Corteva trying to find noise reduction solution for residents following complaints - WNEM",
+    "Corteva says surplus steam is causing noise in Midland - Midland Daily News"
+  ]
+}
