@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 185,
+  "gate1_fail": 6,
+  "gate2_fail": 12,
+  "passed": 58,
+  "gate2_samples": [
+    "CF Industries hits record high, topping S&P 500 for second straight day on war-fueled surge - MSN",
+    "Bunge, CF Industries top S&P 500 as EPA proposes biofuel quota boost - MSN",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+    "OCI N : Citigroup Inc. - OCI N.V. - Amsterdam - marketscreener.com",
+    "Corteva says surplus steam is causing noise in Midland - Midland Daily News"
+  ]
+}
