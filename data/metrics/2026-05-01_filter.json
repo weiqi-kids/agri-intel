@@ -1,0 +1,16 @@
+{
+  "total_raw": 374,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 3,
+  "gate2_fail": 17,
+  "passed": 69,
+  "gate2_samples": [
+    "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+    "HPTC names CF Industries 2026 Partners in Progress recipient - Woodward News",
+    "CF Industries AGM: Shareholders Approve Golden Parachute Proposal as Board, Pay Votes Pass - Yahoo F",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+    "OCI N : Citigroup Inc. - OCI N.V. - Amsterdam - marketscreener.com"
+  ]
+}

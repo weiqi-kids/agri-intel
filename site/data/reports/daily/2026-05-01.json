@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:26:24.843520Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fmc-2026-05-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FMC Corporation (FMC) Exceeds Q1 2026 Guidance with Strong Sales Growth - GuruFocus",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1M3YXJDRHk0ckVQVnQ1bUloTm1vSnprT2NlR1Vlb0tEcGF1TERQZjQzc0JXRTF1VW51LVhmWHJ2RDBJdFhPUGlkMXNld09FTWZZaWJTM2IyVXZpREp6TF95d2l1X0hLeXBBcV95eHVjTUItaHM0cU5NM0t4U1h6eEFTSF9STU91UE1IYjJWeW9WdVh4b09OV0lMQXpSajFyd09xd0xXTWZMb0pR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cnhi-2026-05-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial Q1 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGpvUC1zNnhhV2lUR1V2SExJQmdOWHAwVDkxZ2REZ2NfT2V0UHE3c2pKXzY1QXdnU0FkbDRQTEVhenYxTFk5Qi01TERJWUFNRnFFZ2YtNDR4djNWZzhUYlM3NHdWVmw3SzBPcmxoWDMyM0k1U3c5R0x1UlJrNkdiYzJKYzI0LXU2SGlMYUxyX3F4alAwSFdhRUJSeU0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cnhi-2026-05-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial (NYSE:CNH) Releases Earnings Results - MarketBeat",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1R3Yk1wS055eEZCWlFMWGo5czRoYzI5b1NINWcyUkRnMk15dmU0QUpMMzVBaURxNkZWYXZoZ3piM2VmUnRfdG5sS3Uzb2Y2N2xPOVpVeE9BbGRSUjJIblZHOUZqY3k1YkswbVFZU2swU3g3OHRKdHJNRjBLclIyc1pnYUxyODYwckdKRUtPR2dhazVzQnpFNm5heGZhUXRjSUxpWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-01-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How to transfer grain marketing duties to next generation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/how-to-transfer-grain-marketing-duties-to-next-generation"
+    },
+    {
+      "rank": 5,
+      "event_id": "nutrien-2026-05-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Nutrien Gain From TSX 60 Agricultural Supply Activity Trends? - Kalkine Media",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVNJNTZzakhRUHFMWExBbm5GZmEtcGthNHgxX2t5M2xCTlBjdE9GYVdibi16bmNCb1pKTWd2YjB5U2tCdV9zVjBZR0xEajh2djJMdU80LWZtLVJOOFh6aE4wNmtNbmJrREM5NG9yVVJRNlQ0cndIeXZYMURxREhfS2ZVdWJabjRMYnFCSlQyUkxVVVpYbW91TkdXLWxFdlhrWDJYUmwtVkNyczAyazkzWUV5YjJXLUk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 3
+      },
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 374,
+    "dup_title": 118,
+    "too_old": 167,
+    "gate1_blocked": 3,
+    "gate2_blocked": 17,
+    "passed": 69,
+    "pass_rate": "27.0%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+      "HPTC names CF Industries 2026 Partners in Progress recipient - Woodward News",
+      "CF Industries AGM: Shareholders Approve Golden Parachute Proposal as Board, Pay Votes Pass - Yahoo F",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+      "OCI N : Citigroup Inc. - OCI N.V. - Amsterdam - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為CNH、CF、Nutrien Ltd相關動態：「FMC Corporation (FMC) Exceeds Q1 2026 Guidance with Stron...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "FMC Corporation (FMC) Exceeds Q1 2026 Guidance with Strong Sales Growth - Gur...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "CNH Industrial Q1 Earnings Call Highlights - MarketBeat（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

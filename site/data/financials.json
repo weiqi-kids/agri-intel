@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T09:58:31.164219Z",
+  "updated_at": "2026-05-01T09:26:21.737236Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -35,14 +35,14 @@
       "name": "邦吉",
       "ticker": "BG",
       "currency": "USD",
-      "ar": 3870000000,
-      "ar_prev": 3494000000,
-      "ar_qoq": "+11%",
-      "inventory": 13198000000,
-      "inv_prev": 13312000000,
-      "inv_qoq": "-1%",
+      "ar": 3975000000,
+      "ar_prev": 3870000000,
+      "ar_qoq": "+3%",
+      "inventory": 15428000000,
+      "inv_prev": 13198000000,
+      "inv_qoq": "+17%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "cf_industries",
