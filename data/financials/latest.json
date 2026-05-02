@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:26:21.737236Z",
+  "updated_at": "2026-05-02T08:58:12.352803Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -91,14 +91,14 @@
       "name": "FMC Corporation",
       "ticker": "FMC",
       "currency": "USD",
-      "ar": 2062000000,
-      "ar_prev": 2330100000,
-      "ar_qoq": "-12%",
-      "inventory": 1219600000,
-      "inv_prev": 1375900000,
-      "inv_qoq": "-11%",
+      "ar": 2244800000,
+      "ar_prev": 2062000000,
+      "ar_qoq": "+9%",
+      "inventory": 1242600000,
+      "inv_prev": 1219600000,
+      "inv_qoq": "+2%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "icl",

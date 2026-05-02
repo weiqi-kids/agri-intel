@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T08:58:16.412638Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What CF Industries Holdings (CF)'s Maintained Dividend and Capital Returns Signal for Shareholders - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYW85WWVkdWlsZl8wV05pbjVHQk5XTGNvVnBRNko5TnpBdzNPYUh4RXFsR0g0YTlCWEljbHJ2d1RIMDgtdXNVY1dmeDV5S3NFb3ZjSzdJUl9IVXNmc1JObE9ZM2c0dTlpOGktaXRWQ0gweDNEbm9sVVJmNE81bnVfV1pQV01RakF6dC00NkNxV0gzUmlac0tHNlZkMzlaZFBRRlJEem9leG1pQU5ITVVrQUVHVTJYQXd4WkFfRmp3VW1GZDlDMGs3WGJlclROUDRJS1BvYdIB2gFBVV95cUxQTU9yemNaWlc2STVTS1ZaT3NxZG9DQUhmSFRtbHhiSUdrSFpJdXpQd01KRk9KdUF1WTRqSUkxc1d2aHYwSUlZRlJseVIzYjFRbXdQdFllRUo3LVdkTG4xR3djWkgxbFFpX05iZm45cW50QkpHODdNOS1hZEREN2EwOGdpMmJVdXhna3JFYnRLOXR6MWFKUFBmaGFuc1VwTWZSWE9zVlQwZTRDcHp2a0lGYWx0M1pGZ2l6ZW42QVYyLWpXWHVRYVNUUjh6TEdJU2Zxd2FWeFdXOW9Gdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Stock Rockets 8.2% With 5-Day Winning Streak - Trefis",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3NwRlhybTZHWVBfa25sWkZGT1BIUHI4b1ZLSHFKSm82SmxORzh4WlVRQ2hRUWpSMVhCYWFRMW9JQ1h5Q3lGb1NxSnR6c196R0w0UUZ1Ylp0VVhVUk9vTW1xU19nSmtVY01VdnRvd3lwbHE5TkVYRnU1UGp5SXFvR0dhYjRnRlYyeEJRWmxtc2dFUU9LWEVua2NnVHp3UUpzcU5tMTRXMnozNGJ0OEJ1THpXYnRQbjUtR3FqN1lfSjhCd3dGMTZ4TEdtZkFFbzFz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cnhi-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial NV Balances Tariff Pain With Discipline - The Globe and Mail",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSl9kak1NOEUtVXRRdEJjRzQ5SW80N3pDel9SZkNQRF9lY09ob3lRbUtIdnNyNEhGajRDNDYxN0pVZkt5Zk44Z2J1VnBjclRXQUdiVVN5U1lpY0pDN0tJa3dtOEZjM0otckRxM3dsTl9rQVhfQzV0a1NiLWVPMGVKN3pOWFFnbzF1T2lUdVppbEtQbmtKU0Q3bEd2ZV9kSDk0d1Q3ZnNGRTVueDU2bE5RWjFNdENONmRsSGN6NlN6UUc1Tzg0djdwUTBnU0RfWlBfTkpNRA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "These simple planter checks can save you money",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/planting/these-simple-planter-checks-can-save-you-money"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 151,
+    "too_old": 164,
+    "gate1_blocked": 2,
+    "gate2_blocked": 16,
+    "passed": 40,
+    "pass_rate": "18.0%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Is The Mosaic Company (NYSE:MOS) Potentially Undervalued? - Moomoo",
+      "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+      "OCI N : Citigroup Inc. - OCI N.V. - Amsterdam - marketscreener.com",
+      "Corteva says surplus steam is causing noise in Midland - Midland Daily News",
+      "Corteva trying to find noise reduction solution for residents following complaints - WNEM"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為CF、ADM、CNH相關動態：「What CF Industries Holdings (CF)'s Maintained Dividend an...」。主要關注主題為農業產業通用、貿易政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "What CF Industries Holdings (CF)'s Maintained Dividend and Capital Returns Si...",
+        "level": "green"
+      },
+      {
+        "text": "Archer-Daniels-Midland Stock Rockets 8.2% With 5-Day Winning Streak - Trefis（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

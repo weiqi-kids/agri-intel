@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 2,
+  "gate2_fail": 16,
+  "passed": 40,
+  "gate2_samples": [
+    "Is The Mosaic Company (NYSE:MOS) Potentially Undervalued? - Moomoo",
+    "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+    "OCI N : Citigroup Inc. - OCI N.V. - Amsterdam - marketscreener.com",
+    "Corteva says surplus steam is causing noise in Midland - Midland Daily News",
+    "Corteva trying to find noise reduction solution for residents following complaints - WNEM"
+  ]
+}
