@@ -1,5 +1,101 @@
 [
   {
+    "id": "cf_industries-2026-05-03-001",
+    "date": "2026-05-03",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Danske Bank A S Trims Stake in CF Industries Holdings, Inc. $CF - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDktSVlJM3k5Z3JOT2tLR25kaTRiVFBrSHE5Z2p4Njg2ZW5qSFphZ0RHTHFwY19VZzMzcjZSdV9HLWtJdmJ5eUlDWmJpNlFNbUQ0NHVRaGJsa3BQWVoxc2JVRnNDS2h2dFZIb1hBRz",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDktSVlJM3k5Z3JOT2tLR25kaTRiVFBrSHE5Z2p4Njg2ZW5qSFphZ0RHTHFwY19VZzMzcjZSdV9HLWtJdmJ5eUlDWmJpNlFNbUQ0NHVRaGJsa3BQWVoxc2JVRnNDS2h2dFZIb1hBRzlKZjgtVjRlVU1VYVdndFZEZjhHRl9vNDM3OVRjQU8tMGhYNmg5Ui1oYVY1cTVodjgzTjBFOFR2MVhOVGVncC1PZVBlblZndFp0bERDSU9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-03-002",
+    "date": "2026-05-03",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings, Inc. (NYSE:CF) Given Consensus Recommendation of \"Hold\" by Analysts - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmtVdlZ1dFVGM0xkZDlPZV95bEN2VzZZTURiVUZUY2ExSU8wSWI4OEd5WDRUajlTajdKYTJva0s4NVQ3OEpIaUw1a05jWFJfaGdQb0FINjJ6cFEzdW9odEdTaE1qU2ZFRG04amFDZU",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmtVdlZ1dFVGM0xkZDlPZV95bEN2VzZZTURiVUZUY2ExSU8wSWI4OEd5WDRUajlTajdKYTJva0s4NVQ3OEpIaUw1a05jWFJfaGdQb0FINjJ6cFEzdW9odEdTaE1qU2ZFRG04amFDZUF2LS1Sa3dxS2JPN2I3R2FYR290ekd3V0FhaXI5bk5MbkNMQ3ZvWWUzMU9qeFM5N19kTFh6V3NhaEQ1SklxVDlmYmgyR0xlVWlBS01CLXk2T0dUOTJyQUlmdG81U0FIbEhYYnhWMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-03-003",
+    "date": "2026-05-03",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation (NYSE:FMC) Receives Consensus Recommendation of \"Reduce\" from Analysts - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFN2Q0R0OVdMb0lYY0Y2MUI5Z0RxdTNEZXhyWmhiNDhvd2s5RERQMGVDOUt4dEk5azdoemlzdXJOTE9NdEFGUHBwVkpscGxYTWRZVkNCckpqRlR2Ym01aVc0YjJUUDVLdGRoUzh3eH",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFN2Q0R0OVdMb0lYY0Y2MUI5Z0RxdTNEZXhyWmhiNDhvd2s5RERQMGVDOUt4dEk5azdoemlzdXJOTE9NdEFGUHBwVkpscGxYTWRZVkNCckpqRlR2Ym01aVc0YjJUUDVLdGRoUzh3eHVzSktucTBXS1Zrb29XVThVUzg3VENYcWRmWjExVklxOVRDR3pNNHNRV00tcjJscXJKQktkTmVFYjl2UzBHVUw4c21URHg5NDRFaWhZUEpGVF9aanFrUHRDQ193cnpucTlS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-03-004",
+    "date": "2026-05-03",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland Company (NYSE:ADM) Given Consensus Recommendation of \"Hold\" by Analysts - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNzFadm5oRnlUbUljMG1iUXhpMEVOZWM1ZUJmaC1mYlBuTHVEQjVJcnpXTEZBczNoOXhtNWx1bzAzb00yQkZYa0xpWjNZQ1pwQzg5Z3QxSmdEMk5mbmVlbmtqanFqNXhSRnh4Zlpabk",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNzFadm5oRnlUbUljMG1iUXhpMEVOZWM1ZUJmaC1mYlBuTHVEQjVJcnpXTEZBczNoOXhtNWx1bzAzb00yQkZYa0xpWjNZQ1pwQzg5Z3QxSmdEMk5mbmVlbmtqanFqNXhSRnh4ZlpabkhFNC0yemRxaHlueHl6dFp2ZlNyU3JmendHb2xkOW5oc2x2ZW9pa0JyLTY1OFFhOUZBV2JyR3BhNUpyMFZfWHliQVpQX2R3QkhLLUVqdmtpdnV3bld2WVpSSnB4Y0E0TnljdFB1WkcySlNYck0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-03-005",
+    "date": "2026-05-03",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Co. Hits New 52-Week High at $74.88 - Markets Mojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQLVM1MkplZlk0WlRXVjhSUW1BbUY3YU5IdnZoRVd0Z2R0YnFhNGVKb3RncDNUdDg0ZDZ0OGlQTGRhU3R5WnFkWHRsYUlIRXlGakxmdWoyeXNfNEQ0VXVoUldRQkRoMmR2ZzM5cy1JV1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLVM1MkplZlk0WlRXVjhSUW1BbUY3YU5IdnZoRVd0Z2R0YnFhNGVKb3RncDNUdDg0ZDZ0OGlQTGRhU3R5WnFkWHRsYUlIRXlGakxmdWoyeXNfNEQ0VXVoUldRQkRoMmR2ZzM5cy1JV1ZBSGVzTHFTMU1PcElWNVpEQ043REJ2V1pnWHd1TVNfOEwzZjJaNFBrdEVfRVpjUHk1TVY2a0hkY24zTldqXzRtZUZFMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-05-02-001",
     "date": "2026-05-02",
     "companies": [
@@ -71,6 +167,123 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/planting/these-simple-planter-checks-can-save-you-money",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-02-005",
+    "date": "2026-05-02",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi UFJ Trust & Banking Corp Sells 217,708 Shares of CF Industries Holdings, Inc. $CF - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXE5WE1yd2VMUFVzNkpMWkwxM2FvSHVvbFJGZFZEMVpnSXBSVVpHR1JrN1hWSUEzc3ZDMThhRFRHLXZKRHVCeXM2Vmp2bDhVU1NqdmMzQjFZbmZPcmxKdUxuQUJMMzBoX195YjhWSk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXE5WE1yd2VMUFVzNkpMWkwxM2FvSHVvbFJGZFZEMVpnSXBSVVpHR1JrN1hWSUEzc3ZDMThhRFRHLXZKRHVCeXM2Vmp2bDhVU1NqdmMzQjFZbmZPcmxKdUxuQUJMMzBoX195YjhWSkpRM05KcHZEY3NqcENqNFNGa0dRaWxhWDJYbkpJTkhzX0M5MDRqcDFkV0l6SEhFSzR6RWFra0hveGFteWM0WFFQUmtlcDd6Rmc5YXpwVXc1UWxiZEMwNmwybjlQT0ttTjlxb2Z0X2p5WnNsUU5LMHF6Xw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-05-02-006",
+    "date": "2026-05-02",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Yara International (OB:YAR) Still Attractive After A 61% One Year Share Price Jump - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUFA4NlJkWUo4emx3czRieDZGSkQ3b01nd3puYTc0M1M1X2RfZnU1cEFmNGVxLXlJT0JhZExTQi1VckQ0UWppbHhoN3ZBU1JuSl9iRjBmR3h2cVV3MV9PemhYQ0t0XzlIMXk2VThHLU",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUFA4NlJkWUo4emx3czRieDZGSkQ3b01nd3puYTc0M1M1X2RfZnU1cEFmNGVxLXlJT0JhZExTQi1VckQ0UWppbHhoN3ZBU1JuSl9iRjBmR3h2cVV3MV9PemhYQ0t0XzlIMXk2VThHLUp5aGgwaERnTUVHOHZweWw3SXpQOE9rWlBxQ1hlRUxOZ1VLSWhBTnRVUjdLZHk5RHVOVjFOLTlrNHZXUG5VUDJGTDB6dE5QaTJBOWtiOHBSZ09ReTNSMlI2X3BSWWhVeHNEdERycEh30gHbAUFVX3lxTE94b2VtdVZWeUVhZEZPYXpNYUEyV0g2aldZV1FxSTc5T1BTSDZibGZRUFZhcklqOHVoRTk0SjRhdWN5ekd2MzJVX2V1M1pzdmg3clBsTl9QdXRhMjJhRlNwVEgzVU9WZmZMTXAzZG5fYWJ4c0NMQ0M3aHRWRDlqZE1NdVVQM0l1ekctaENSXzhXTzlBWmVfVEhFQ09pamdEdzFnczV2OTh5WGZWOVlPbXRWenRwaDhKSlRrZWJZclpuc3VZWFYzb0FsT3NzcEhXaVB5OHFpck8zRUtrSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-02-007",
+    "date": "2026-05-02",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Stock 5-Day Winning Spree: Stock Climbs 8.2% - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUhfZk5tZV9YWXRYa3lCYXdwWG9ubkNKUVd6RjBYT2hCejFWRmZsazU0QUV5MHdjcHM4ajdFM0NOVHowazFnNVcwZmVBMFo5V1JHM1NzRG94WTBDTFdaVVFlVWR2U0hVX3lNNEw1Zk",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUhfZk5tZV9YWXRYa3lCYXdwWG9ubkNKUVd6RjBYT2hCejFWRmZsazU0QUV5MHdjcHM4ajdFM0NOVHowazFnNVcwZmVBMFo5V1JHM1NzRG94WTBDTFdaVVFlVWR2U0hVX3lNNEw1ZkpBczR0VWFBQTh5a3BsTFkzTGFMMUxpQ2NBTjllU2NYeGtrTnFQV2RoODAtbWktRG05bGZKY2NzLXExc0lBVllUVnBaUUpPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-02-008",
+    "date": "2026-05-02",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley reiterates Overweight on Bunge stock ahead of investor day By Investing.com - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOWG50bW05VGNTdzQzT3RuWmxfejNXYWs5cVJFRTlTSk1fQmNxR1VmUjBpcGxPZmVRTGJwNFI0d1VTZ09ibDBkWlp6bXdUY09PemtZd0w3T2JfSkpTRGJPSE1HSWZkTFRnUV9FWXI5ZC",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWG50bW05VGNTdzQzT3RuWmxfejNXYWs5cVJFRTlTSk1fQmNxR1VmUjBpcGxPZmVRTGJwNFI0d1VTZ09ibDBkWlp6bXdUY09PemtZd0w3T2JfSkpTRGJPSE1HSWZkTFRnUV9FWXI5ZC1INGl5cVhwTXViYXpmWlJ2X0p3aFBOY0VpVUY3Tlk1NWYtN3dEYXY2YXB3MTRrdUdSZmVULS1DQ0dyX1BsaUFOY2FCeklzZnJnM2EyeDhmVm5MNW1GUExfMFhSclc3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-009",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Week in Agribusiness, May 2, 2026",
+    "summary": "Wet weather outlook, market rallies in corn and wheat, fertilizer updates, and planting tips to help farmers navigate spring challenges.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-may-2-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-010",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FFA Chapter Tribute: Gage Swindler",
+    "summary": "Missouri State FFA Vice President shares his love for agriculture while developing leadership and people skills through FFA.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-chapter-tribute-gage-swindler",
         "type": "rss"
       }
     ]
@@ -803,6 +1016,107 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-05-01-039",
+    "date": "2026-05-01",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Sociedad Química y Minera Shares Are Surging - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnlpQ21xXzZ5OThObE0wUU9MWVFMNVlEU05FQzRwbHRqNjNRX1ZMZGpMVERxeEJQSXRQS2dZc3lSWF9SRTJ1ZWQ4TjVqeF9kZmtBTHFPQVlGLVV5RDhOUFZkZVluT1lPcXJFcEduU2",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnlpQ21xXzZ5OThObE0wUU9MWVFMNVlEU05FQzRwbHRqNjNRX1ZMZGpMVERxeEJQSXRQS2dZc3lSWF9SRTJ1ZWQ4TjVqeF9kZmtBTHFPQVlGLVV5RDhOUFZkZVluT1lPcXJFcEduU29sdHRwM3BzY1BrU01vRWp3YjJPVDRGbElHNlhYc1M1ZVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-05-01-040",
+    "date": "2026-05-01",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash (IPI.US) is scheduled to release its earnings report after the market closes on May 6. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUVHMzdaYWh5aG5XV3dTMWdrakNjY3pVOXNzcEl0NHp1LXJzYlFiTjdrdHpNcHpqdThzVi1hbzdlb096T1ZqTksxdXZQbWVlWmVyQnNidjJnY1Z2d2JMRzB1WXhRSFFXSjRNaU13Zm",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUVHMzdaYWh5aG5XV3dTMWdrakNjY3pVOXNzcEl0NHp1LXJzYlFiTjdrdHpNcHpqdThzVi1hbzdlb096T1ZqTksxdXZQbWVlWmVyQnNidjJnY1Z2d2JMRzB1WXhRSFFXSjRNaU13Zm5IenJoVEFDOGtoaVNoSTl3YlljdE1HTUlrSVFZS3gzbEZ3NkhCelF2RmtlZ1RuNjh4Y3lUUXZSU0w5WFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-01-041",
+    "date": "2026-05-01",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings, Inc. $CF Shares Sold by Vanguard Group Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTNmVnBxalFETFc5NjNuMXprUUxGcUhtX1V1bG9Hd2ZKS1I1LXZHVEpELV9TV2NLN2gtUHlfWEpNOFNRVTlqYXhjV1dDMjdxRDRZckt4N1gwRDItcWMtU2h3ZE9fN09UVE9JWWZvWE",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTNmVnBxalFETFc5NjNuMXprUUxGcUhtX1V1bG9Hd2ZKS1I1LXZHVEpELV9TV2NLN2gtUHlfWEpNOFNRVTlqYXhjV1dDMjdxRDRZckt4N1gwRDItcWMtU2h3ZE9fN09UVE9JWWZvWElnZlhtTGVqaGlPdEc5bEZxVmEwcDlGQnBaUDBSenB6V25ySWNVTXVKSzI2U1c2N1RneDlCM2IyVFV4Sl9mU0xjVHNoaWxfQ29aY0VJLXE4RVBWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-01-042",
+    "date": "2026-05-01",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC SEC Filings - Fmc Corp 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pcUFnc2gzTEx1UGpqbndGclZWWktTZk5HcXdHTjRpWEwyOTBkYlJxVXFNVU9BVWRiNko3RW92NExCdUlGd3ZETnotRHpGY2NDaG9mTE9SMk00TzhNVy1iR3JvSUhtQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pcUFnc2gzTEx1UGpqbndGclZWWktTZk5HcXdHTjRpWEwyOTBkYlJxVXFNVU9BVWRiNko3RW92NExCdUlGd3ZETnotRHpGY2NDaG9mTE9SMk00TzhNVy1iR3JvSUhtQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-01-043",
+    "date": "2026-05-01",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial N.V. Q1 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOeV9SX3hMQ092blp4WGVyeko0RDIxLVNiVEprdkRnTGgybE5wMVhoQzdRaFE3bVVrcGtTWXc3amh4QnNNX2xOVWRzMXkyZUF5LTJtS1p5WUlCdlNVYUtxRUZoamVzdE54QUJfbGhzSk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeV9SX3hMQ092blp4WGVyeko0RDIxLVNiVEprdkRnTGgybE5wMVhoQzdRaFE3bVVrcGtTWXc3amh4QnNNX2xOVWRzMXkyZUF5LTJtS1p5WUlCdlNVYUtxRUZoamVzdE54QUJfbGhzSkkxajdmSkI0aEdOTElzQ0xlVndGaXdacXg4UGZ0elVKZw?oc=5",
         "type": "rss"
       }
     ]
@@ -2200,6 +2514,87 @@
     ]
   },
   {
+    "id": "nutrien-2026-04-30-071",
+    "date": "2026-04-30",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Food Crisis on the Horizon? Nutrien and Nestlé on Edge, MustGrow Biologics Offers Solutions - Stockhouse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQllTd1dvUlRoWE9sNnRHNE1XZk8wS2o3dm1MNUU1M0hWUC1WbzdkaG5BVUUxc0pjdDhlNW11alk5TVp5RTZqNFgxVVZra0FISEFjMUVRQ2FaQU9rc1psYkdvVnVqSkxTUzItZ09san",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQllTd1dvUlRoWE9sNnRHNE1XZk8wS2o3dm1MNUU1M0hWUC1WbzdkaG5BVUUxc0pjdDhlNW11alk5TVp5RTZqNFgxVVZra0FISEFjMUVRQ2FaQU9rc1psYkdvVnVqSkxTUzItZ09sanpZcXlQVnQ2ZEY2Q3dvc1N5NGk5YTIxdjNGY3lGeFpaQlFvVk5FY19yWGpld3VlYTczdEd4ZE1lOXhCRXMtb3VmN213cmltTVYydU5tS0drX3Vkb2p3TnNwMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-04-30-072",
+    "date": "2026-04-30",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Two new directors join Corteva board as company plans split - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQm9SaExCZ1c5OHllcVllVnBFOEhfYWxHOHdKNGtqZFluazlKTWk5cEg0RWI5MG85WEplWDc0Tk1ic3MxY0FkT0h5RUdMSUVLenRFcG4yR0c0NVZ1QjBCTWtsN1lHcVJVMWNZQUdkNE",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQm9SaExCZ1c5OHllcVllVnBFOEhfYWxHOHdKNGtqZFluazlKTWk5cEg0RWI5MG85WEplWDc0Tk1ic3MxY0FkT0h5RUdMSUVLenRFcG4yR0c0NVZ1QjBCTWtsN1lHcVJVMWNZQUdkNE5hd0JzVWY0NFFYQ2ExOTVaa0NYUnlkMi1FbEYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-04-30-073",
+    "date": "2026-04-30",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Reports Q1 2026 Revenue of $759 Million as Rynaxypyr® Post-Patent Pricing and India Divestiture Weigh on Adjusted EBITDA - iGrow News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ycFJGTUpTX0FiS2pBQnVRTjI3V3RrZEUySEZ4ak9NY01EZzlTOFFZc3RqdDRXSmNETEdyRlpmNG5kdTBLZFFSdndsYzJjZi1vMkpDbU9OYVFsSS1MWTdB?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ycFJGTUpTX0FiS2pBQnVRTjI3V3RrZEUySEZ4ak9NY01EZzlTOFFZc3RqdDRXSmNETEdyRlpmNG5kdTBLZFFSdndsYzJjZi1vMkpDbU9OYVFsSS1MWTdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-04-30-074",
+    "date": "2026-04-30",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corp (FMC) director granted 9,175 common shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMU41dXk0UWZmbkFEcW4xTmQya1pfZjY0Y2s5UFM5U3pBMDRoSWtsV3JmQlo1Q0RmN0FFQzV6ZDBxa2pXZExwYkVIZTNuR2hSRlQ0RFlPWHMyTWpQZW1fS05ZUE9qdktHeUowN2dLZl",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMU41dXk0UWZmbkFEcW4xTmQya1pfZjY0Y2s5UFM5U3pBMDRoSWtsV3JmQlo1Q0RmN0FFQzV6ZDBxa2pXZExwYkVIZTNuR2hSRlQ0RFlPWHMyTWpQZW1fS05ZUE9qdktHeUowN2dLZlBSVWZYQmJnZlV1OTZwQjVDZW1CNzhGa0otdkF2MFFsVGNqRFBUc0lIT0J4SjVOUEJkVDdz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nutrien-2026-04-29-001",
     "date": "2026-04-29",
     "companies": [
@@ -3416,6 +3811,105 @@
     ]
   },
   {
+    "id": "mosaic-2026-04-29-063",
+    "date": "2026-04-29",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pekin Hardy Strauss Inc. Sells 54,041 Shares of The Mosaic Company $MOS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDNaZnoyYzBrakZEc3B3Z3pYcmgzSnBKTXZrSkFRNW51ajVDUkxOSDZuSUJnbzdVOU55eEtHWDdyTzE3SGJsb294N2t4aDZfWnlEemlhWHlPaXJtcWUyRmJta3VXcVpSSGx1bjkySm",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDNaZnoyYzBrakZEc3B3Z3pYcmgzSnBKTXZrSkFRNW51ajVDUkxOSDZuSUJnbzdVOU55eEtHWDdyTzE3SGJsb294N2t4aDZfWnlEemlhWHlPaXJtcWUyRmJta3VXcVpSSGx1bjkySm9ZNnZiMU15eG5EWFJvWllxcWNYVW1iRjFpRnRoZHVHYzRtVHBaMmR2azU1Ung3OGFuMktPRi16R2FueGVGMngwc0s5SVd5WFZVM3IzQ3JDRTIxeWs0TnhLUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-04-29-064",
+    "date": "2026-04-29",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "The Mosaic Company Announces Sustainability Targets For Long-Term Value - Caledonian Record",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTlE1bXZJQzNqNV9hc0FQYnhUME9pZlljay1ZdE1LcUtQck9fUGVIaUhYMkRGNFVzZ2hRMGdqYWF0UG54eDNFSm82bTlLOHZpdWRpcGZIMnFIYl9tVFJnV3lGWTBmSGZtLWk3STdIeX",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTlE1bXZJQzNqNV9hc0FQYnhUME9pZlljay1ZdE1LcUtQck9fUGVIaUhYMkRGNFVzZ2hRMGdqYWF0UG54eDNFSm82bTlLOHZpdWRpcGZIMnFIYl9tVFJnV3lGWTBmSGZtLWk3STdIeXBHZm1NVlZRZk9QamxTQXYyVkllUFVVZmtieU1iQV9adnJQN1hDVkhuTXVEc09kYkY1N0dyUzlETUhpOVlMM2Y4X19EZ0VzeTU0ZFZvdkl6cEJjYkpUZDlsTHZwZnJxbnFoTnJjaTluRmhEaVdxMEhvb2tyRjhMYnktSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-04-29-065",
+    "date": "2026-04-29",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash (NYSE:IPI) Stock Price Passes Above 200-Day Moving Average - Time to Sell? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTEhCeWpxemxDSG9yOHIwX1lfY0lGcFgxcldFcllhcEt4VW4yVmtwcXBtRTBSQW00M3JqLVVLUm5wcUdSQ2wxZUpJWGtoa296TlZRcHdBUjJ4SHJ2X25ZRXp0YWpmNGNqXzgweVpHb1",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTEhCeWpxemxDSG9yOHIwX1lfY0lGcFgxcldFcllhcEt4VW4yVmtwcXBtRTBSQW00M3JqLVVLUm5wcUdSQ2wxZUpJWGtoa296TlZRcHdBUjJ4SHJ2X25ZRXp0YWpmNGNqXzgweVpHb1VTZmNtMWpGd0QwQ01abkVoRTlxeUFGbWE4T2hjLUN4anRKTzJwOVZENjI3Q0xJVGZzMmtjZWlVQXZvUm50bHdoWHBleUdVTkpIM21OTnFkSEF5WWx0aXVWUllrYXk0NjZ1WXQ0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-04-29-066",
+    "date": "2026-04-29",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash (IPI) Projected to Post Earnings on Wednesday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1RkeXRUU2ZHS3RVdTBHc2p6UlZXSzN2RHN3SHF2NHJyLTAtcEZtM3NpLV9YN0NOQU1qWGU1MkpnNkVDQXpjbjdVekQ2SmY0Z24yLWtoNldvMjZGd3ZfZkNGUTE5a1B3a1VnQUcyUE",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1RkeXRUU2ZHS3RVdTBHc2p6UlZXSzN2RHN3SHF2NHJyLTAtcEZtM3NpLV9YN0NOQU1qWGU1MkpnNkVDQXpjbjdVekQ2SmY0Z24yLWtoNldvMjZGd3ZfZkNGUTE5a1B3a1VnQUcyUElMQW5YYzA5MVppS0hVbzhKRUpteUNsUWNDQVpRSUlWMEZZbVFlTk56SHFNNWhTbV9XU0tjY3B2c01ldFUzSjhHUXhCOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-04-29-067",
+    "date": "2026-04-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Announces Quarterly Dividend of $0.08 (NYSE:FMC) - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFVCcjQycGpZVjdMYkU1c1h5TXFFbkJENXNUNHhTQVFjc1BBRFpMNmZRZ0Z2M2JwS2RDUTlKRmZkRWdVSDIzbmNWcUd0MHItWGtiR1E3dmw5by00WnZIWno5bFM4YjlLSHpMaHpxaX",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFVCcjQycGpZVjdMYkU1c1h5TXFFbkJENXNUNHhTQVFjc1BBRFpMNmZRZ0Z2M2JwS2RDUTlKRmZkRWdVSDIzbmNWcUd0MHItWGtiR1E3dmw5by00WnZIWno5bFM4YjlLSHpMaHpxaXdydnh2VUpvTlJRR2hfVFdiZVB4VUlOdEQtM1Q4cnplWUpPNmY4dU5yWGE2bWNqazl3WjdZY2VvTVMxd1M3cURGazZmVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-04-28-001",
     "date": "2026-04-28",
     "companies": [
@@ -4379,6 +4873,26 @@
       {
         "name": "fmc",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1AtMklOdXBlN2tWYzVzMm8tMmFNdUdYVk5QRHZYaU1NR21mWHRYSFZCd2VCRlItbFVSNE1jU2NGSE9Gb280R3NvNXlNYTYtVG1mRGQwQW93VVRXa2hfbzZtWHRzNjBDa00xX2hwTm5pVHVZVWhTbmx4dlM3aTcwVksxUk1sVXhMdzhqMC1kZ0k1LXBTWTZPWkFrZF9rQ1I0czg3M0VtNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-04-28-051",
+    "date": "2026-04-28",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings, Inc. Declares Quarterly Dividend - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUtQSmdGM1VuT09mZ0d1bkNSVVJGOEFhSTZRSkswSDNkeU55S1JzQm5zaEhDVl9uRlAxZmtleUZqelphWnd1Ui04MEJSZmdXeU45azVRQzFMZEo5YmtKR2traV9lMVRNVE5sLTg5SD",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUtQSmdGM1VuT09mZ0d1bkNSVVJGOEFhSTZRSkswSDNkeU55S1JzQm5zaEhDVl9uRlAxZmtleUZqelphWnd1Ui04MEJSZmdXeU45azVRQzFMZEo5YmtKR2traV9lMVRNVE5sLTg5SDlCRUIxNVhTVE5WWjRCQWxxaENBanFUbGk5SVNTcVUtMklNZ3BoTEVySG5DTFZhVHhvQkU2WnNUdk1vYmhCTzEzVkxR?oc=5",
         "type": "rss"
       }
     ]

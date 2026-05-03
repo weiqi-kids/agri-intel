@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:13:57.314686Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-05-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Danske Bank A S Trims Stake in CF Industries Holdings, Inc. $CF - MarketBeat",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDktSVlJM3k5Z3JOT2tLR25kaTRiVFBrSHE5Z2p4Njg2ZW5qSFphZ0RHTHFwY19VZzMzcjZSdV9HLWtJdmJ5eUlDWmJpNlFNbUQ0NHVRaGJsa3BQWVoxc2JVRnNDS2h2dFZIb1hBRzlKZjgtVjRlVU1VYVdndFZEZjhHRl9vNDM3OVRjQU8tMGhYNmg5Ui1oYVY1cTVodjgzTjBFOFR2MVhOVGVncC1PZVBlblZndFp0bERDSU9R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-05-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Holdings, Inc. (NYSE:CF) Given Consensus Recommendation of \"Hold\" by Analysts - MarketBeat",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmtVdlZ1dFVGM0xkZDlPZV95bEN2VzZZTURiVUZUY2ExSU8wSWI4OEd5WDRUajlTajdKYTJva0s4NVQ3OEpIaUw1a05jWFJfaGdQb0FINjJ6cFEzdW9odEdTaE1qU2ZFRG04amFDZUF2LS1Sa3dxS2JPN2I3R2FYR290ekd3V0FhaXI5bk5MbkNMQ3ZvWWUzMU9qeFM5N19kTFh6V3NhaEQ1SklxVDlmYmgyR0xlVWlBS01CLXk2T0dUOTJyQUlmdG81U0FIbEhYYnhWMQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fmc-2026-05-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Corporation (NYSE:FMC) Receives Consensus Recommendation of \"Reduce\" from Analysts - MarketBeat",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFN2Q0R0OVdMb0lYY0Y2MUI5Z0RxdTNEZXhyWmhiNDhvd2s5RERQMGVDOUt4dEk5azdoemlzdXJOTE9NdEFGUHBwVkpscGxYTWRZVkNCckpqRlR2Ym01aVc0YjJUUDVLdGRoUzh3eHVzSktucTBXS1Zrb29XVThVUzg3VENYcWRmWjExVklxOVRDR3pNNHNRV00tcjJscXJKQktkTmVFYjl2UzBHVUw4c21URHg5NDRFaWhZUEpGVF9aanFrUHRDQ193cnpucTlS?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-05-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company (NYSE:ADM) Given Consensus Recommendation of \"Hold\" by Analysts - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNzFadm5oRnlUbUljMG1iUXhpMEVOZWM1ZUJmaC1mYlBuTHVEQjVJcnpXTEZBczNoOXhtNWx1bzAzb00yQkZYa0xpWjNZQ1pwQzg5Z3QxSmdEMk5mbmVlbmtqanFqNXhSRnh4ZlpabkhFNC0yemRxaHlueHl6dFp2ZlNyU3JmendHb2xkOW5oc2x2ZW9pa0JyLTY1OFFhOUZBV2JyR3BhNUpyMFZfWHliQVpQX2R3QkhLLUVqdmtpdnV3bld2WVpSSnB4Y0E0TnljdFB1WkcySlNYck0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-05-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Co. Hits New 52-Week High at $74.88 - Markets Mojo",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLVM1MkplZlk0WlRXVjhSUW1BbUY3YU5IdnZoRVd0Z2R0YnFhNGVKb3RncDNUdDg0ZDZ0OGlQTGRhU3R5WnFkWHRsYUlIRXlGakxmdWoyeXNfNEQ0VXVoUldRQkRoMmR2ZzM5cy1JV1ZBSGVzTHFTMU1PcElWNVpEQ043REJ2V1pnWHd1TVNfOEwzZjJaNFBrdEVfRVpjUHk1TVY2a0hkY24zTldqXzRtZUZFMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 177,
+    "too_old": 154,
+    "gate1_blocked": 2,
+    "gate2_blocked": 12,
+    "passed": 26,
+    "pass_rate": "13.4%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Is The Mosaic Company (NYSE:MOS) Potentially Undervalued? - Moomoo",
+      "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+      "Corteva says surplus steam is causing noise in Midland - Midland Daily News",
+      "Corteva trying to find noise reduction solution for residents following complaints - WNEM",
+      "Midland police say Corteva is working to reduce overnight noise at Dow Industrial Park - Huron Daily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為CF、ADM、FMC相關動態：「Danske Bank A S Trims Stake in CF Industries Holdings, In...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Danske Bank A S Trims Stake in CF Industries Holdings, Inc. $CF - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "CF Industries Holdings, Inc. (NYSE:CF) Given Consensus Recommendation of \"Hol...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
