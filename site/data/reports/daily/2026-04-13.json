@@ -1,0 +1,86 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-05-03T02:34:51.015305Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-04-13-018",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Morgan Stanley Lifts CF Industries (CF) Target, RBC Capital Follows with Increase on Strong Fertilizer Prices - Yahoo Finance",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "cnhi-2026-04-13-035",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Citigroup Issues Positive Forecast for CNH Industrial (NYSE:CNH) Stock Price - MarketBeat",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
+  }
+}
