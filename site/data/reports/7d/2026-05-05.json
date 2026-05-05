@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-05",
+  "date_range": {
+    "start": "2026-04-29",
+    "end": "2026-05-05"
+  },
+  "generated_at": "2026-05-05T09:52:51.890551Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nutrien-2026-05-04-012",
+      "date": "2026-05-04",
+      "title": "Nitrogen surge to lift CF, Nutrien earnings; Mosaic faces headwinds - Reuters",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 68,
+      "last_week": 27,
+      "week_over_week_change": "+152%",
+      "sentiment_this_week": 0.01
+    },
+    "natural_gas_feedstock": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "fertilizer_price": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "planting_season": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.25
+    },
+    "earnings": {
+      "this_week": 17,
+      "last_week": 11,
+      "week_over_week_change": "+55%",
+      "sentiment_this_week": -0.0
+    },
+    "trade_policy": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nutrien": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "taifer": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cf_industries": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "fmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 6
+    },
+    "bunge": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cnhi": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "adm": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "yara": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "corteva": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 276,
+        "last": 185,
+        "change_pct": 49.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-29",
+      "event_count": 69,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 77,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 46,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 12,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 14,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 38,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 20,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-29 ~ 2026-05-05）共 276 則事件，重點為「Nitrogen surge to lift CF, Nutrien earnings; Mo...」。Yara表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nutrien Ltd",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CF",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "FMC",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

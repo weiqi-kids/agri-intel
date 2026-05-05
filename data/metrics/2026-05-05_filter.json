@@ -1,0 +1,16 @@
+{
+  "total_raw": 367,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 4,
+  "gate2_fail": 17,
+  "passed": 55,
+  "gate2_samples": [
+    "Is The Mosaic Company (NYSE:MOS) Potentially Undervalued? - Moomoo",
+    "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+    "CF Industries Shareholders Back Board, Pay and Auditor - TipRanks",
+    "Corteva says surplus steam is causing noise in Midland - Midland Daily News",
+    "Corteva Agriscience splitting into 2 separate companies - MSN"
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:52:51.833008Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-05-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors Are Reacting To Nutrien (TSX:NTR) Analyst Upgrades And Fertilizer Demand Outlook - simplywall.st",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONy1aRnMxcDQtRUR5dTVJNGxYdlNmWXhvRlp4UUpkOTZ2MHZGNHJ3VnFvODBzektOeGsxaDU2cjcwTFFwT3dEWEZJbTRjVWNoX0RjTGRPTEVSc1BSUEdJaHR0ajJQYVVtNkpIdnEtTWJHZWZDODA3T09OTXNYYk0yaGFNZTNScEduR29VZmRZUllHTDU0TjE3Qmp4ampxT2E3U1diX1R3Mk12ckxjd0JNcV93ZURQa213V21qMmxPamotajdJdzFuZ3RR0gHPAUFVX3lxTFBHSWhoOTZkYzlJQ0VkV3pFX01ZSG9oQ1pRMThvRG8xN0pYQ3pfQ3ZCY0J3cG9jdWdFYmdFWC1obWhZdDVJaWxKR3QySnRQcDA0TVV3LUdYUnBBa2JUemU3d2RsVlViNVdpUjMzUFBjb0d4cnAwRHhFNFdzY0lPaTlCWjkyMEZtWXRkMTJiMnQ2SUtnekk1YnJZNVZUc1lEdEY2ZVRRSmpFdFJTdWpQVFp2VGZSblplZzcyUWlUSmJIdVZXa0pXSXFTc0RHRG4yTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-05-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Boost profits by mastering financial literacy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business-planning/boost-profits-by-mastering-financial-literacy"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-05-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Spring planting outlook: Here’s what to expect",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/planting/spring-planting-outlook-here-s-what-to-expect"
+    },
+    {
+      "rank": 4,
+      "event_id": "corteva-2026-05-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corteva Agriscience strengthening farm resilience in a global market - Farmers Review Africa",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0UwWDRSWmVBVXI0MFZEaGFPZVl3UEFpcTFneHhMbTFKZS1YWkw1eHo4bTdlTE13T1JWbENLeWVOX2V5RFhTMk1ENU9HNzJBbG1lempwUFlhQzhhaEhKMDRQdTRzbnE4Zmp1OHl5RTIzNmpuU1E1d1hMaE9LdmVzYnFXeG1IVHd2anREWmNPSDNiZVg1RlltWWZCZkx4UFN4SmhR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corteva-2026-05-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corteva Community Betterment Grant supports Cross County FFA livestock program - York News-Times",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlFKYW1NQVotOEtEVFR0Tko5NmdMV2hkUHR6OWVHRFBGZ0tjQjhjV1dOZHpVTklXeWRpSWN0cEJmckRDdGxTcGJCcnBLMlFqcks1enphQkEyWWRrX3h5TUNfeXdYQldELUdBZmRXYW11ZmpFbktEREw5dFo0QnJOZ0MxSGFWN1R0dTVYZy1Ta01pX0VJbjJXclREWEc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "corteva",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 367,
+    "dup_title": 137,
+    "too_old": 154,
+    "gate1_blocked": 4,
+    "gate2_blocked": 17,
+    "passed": 55,
+    "pass_rate": "23.9%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Is The Mosaic Company (NYSE:MOS) Potentially Undervalued? - Moomoo",
+      "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+      "CF Industries Shareholders Back Board, Pay and Auditor - TipRanks",
+      "Corteva says surplus steam is causing noise in Midland - Midland Daily News",
+      "Corteva Agriscience splitting into 2 separate companies - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Corteva、Nutrien Ltd、ADM相關動態：「How Investors Are Reacting To Nutrien (TSX:NTR) Analyst U...」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Investors Are Reacting To Nutrien (TSX:NTR) Analyst Upgrades And Fertiliz...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Boost profits by mastering financial literacy（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

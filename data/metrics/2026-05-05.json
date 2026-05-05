@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-05",
+  "total_events": 20,
+  "by_company": {
+    "nutrien": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corteva": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnhi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fertilizer_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
