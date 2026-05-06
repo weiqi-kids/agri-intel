@@ -1,53 +1,53 @@
 {
   "nutrien": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "mosaic": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "icl": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "kpluss": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1942
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 2007
   },
   "sqm": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "intrepid": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "cf_industries": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "yara": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1920
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 1985
   },
   "oci": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1959
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 2024
   },
   "taifer": {
-    "earliest": "2018-09-07",
+    "earliest": "2018-06-11",
     "latest": "2026-05-06",
-    "count": 1855
+    "count": 1918
   },
   "corteva": {
     "earliest": "2019-05-24",
@@ -56,43 +56,43 @@
     "history_complete": true
   },
   "fmc": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "deere": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "agco": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "adm": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "bunge": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "kubota": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-01",
-    "count": 1867
+    "count": 1931
   },
   "etf_moo": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "etf_dba": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   }
 }

@@ -4,7 +4,7 @@
     "start": "2026-04-30",
     "end": "2026-05-06"
   },
-  "generated_at": "2026-05-06T06:02:05.765193Z",
+  "generated_at": "2026-05-06T10:09:34.075746Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,23 +18,23 @@
       "type": "emerging_relation",
       "company_a": "cf_industries",
       "company_b": "nutrien",
-      "co_mention_count": 3,
+      "co_mention_count": 4,
       "rank": 2
     }
   ],
   "anomalies_7d": [],
   "topic_7d_summary": {
     "industry_general": {
-      "this_week": 60,
+      "this_week": 84,
       "last_week": 39,
-      "week_over_week_change": "+54%",
-      "sentiment_this_week": 0.02
+      "week_over_week_change": "+115%",
+      "sentiment_this_week": 0.01
     },
     "earnings": {
-      "this_week": 19,
+      "this_week": 22,
       "last_week": 12,
-      "week_over_week_change": "+58%",
-      "sentiment_this_week": 0.05
+      "week_over_week_change": "+83%",
+      "sentiment_this_week": 0.04
     },
     "trade_policy": {
       "this_week": 2,
@@ -43,15 +43,21 @@
       "sentiment_this_week": 0.0
     },
     "planting_season": {
-      "this_week": 2,
+      "this_week": 5,
       "last_week": 3,
-      "week_over_week_change": "-33%",
+      "week_over_week_change": "+67%",
       "sentiment_this_week": 0.0
     },
     "fertilizer_price": {
       "this_week": 1,
       "last_week": 3,
       "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "crop_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
     }
   },
@@ -62,8 +68,8 @@
       "rank": 5
     },
     "cf_industries": {
-      "event_count": 9,
-      "sentiment_avg": 0.06,
+      "event_count": 10,
+      "sentiment_avg": 0.05,
       "rank": 1
     },
     "fmc": {
@@ -77,49 +83,54 @@
       "rank": 4
     },
     "cnhi": {
-      "event_count": 8,
-      "sentiment_avg": 0.0,
-      "rank": 2
-    },
-    "adm": {
-      "event_count": 8,
+      "event_count": 9,
       "sentiment_avg": 0.0,
       "rank": 3
+    },
+    "adm": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
     },
     "yara": {
       "event_count": 2,
       "sentiment_avg": 0.25,
-      "rank": 7
+      "rank": 8
     },
     "corteva": {
-      "event_count": 2,
+      "event_count": 3,
       "sentiment_avg": 0.0,
-      "rank": 8
+      "rank": 7
+    },
+    "sqm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 247,
-        "last": 240,
-        "change_pct": 2.9
+        "this": 278,
+        "last": 241,
+        "change_pct": 15.4
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-30",
-      "event_count": 77,
+      "event_count": 78,
       "sentiment_avg": 0
     },
     {
       "date": "2026-05-01",
-      "event_count": 46,
+      "event_count": 48,
       "sentiment_avg": 0
     },
     {
       "date": "2026-05-02",
-      "event_count": 12,
+      "event_count": 13,
       "sentiment_avg": 0
     },
     {
@@ -134,17 +145,17 @@
     },
     {
       "date": "2026-05-05",
-      "event_count": 50,
+      "event_count": 52,
       "sentiment_avg": 0
     },
     {
       "date": "2026-05-06",
-      "event_count": 7,
+      "event_count": 32,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-30 ~ 2026-05-06）共 247 則事件，重點為「Nitrogen surge to lift CF, Nutrien earnings; Mo...」。Yara表現正面，整體氣氛穩健。",
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 278 則事件，重點為「Nitrogen surge to lift CF, Nutrien earnings; Mo...」。Yara表現正面，整體氣氛穩健。",
     "watchlist": [
       {
         "company": "Nutrien Ltd",
@@ -152,7 +163,7 @@
       },
       {
         "company": "CF",
-        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "FMC",

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:05.707304Z",
+  "generated_at": "2026-05-06T10:09:34.018899Z",
   "top_events": [
     {
       "rank": 1,
@@ -72,53 +72,66 @@
     },
     {
       "rank": 4,
-      "event_id": "cf_industries-2026-05-06-001",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Is It Too Late To Consider CF Industries (CF) After Its Strong Multi‑Year Rally - simplywall.st",
-      "companies": [
-        "cf_industries"
+      "event_id": "unknown-2026-05-06-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
       ],
+      "title": "Jefferies raises Archer Daniels price target on earnings outlook - Investing.com",
+      "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
+        "earnings",
         "industry_general"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdk9vcFlWYjN6UlpoQmRNSmR1dXVMS0RoSVcxenV3VUg3SHVVdWRESjRKSUdCVWFSYVRsM0VJeUhwczduamJfdUpvT29NTWdGQkVqMHhWdEVpMWdwbEtBcXVkWFc1bkxCUFYtS1UybTBlNXhOclZ1OHVhaGl0LXU1Tjd6bDdNQ3NjUkM1YzRLaHVuc0xVTTUxYm5KVVFkZmc2TXdtajJaWkFDM0lsV0cxYVNQdVhkVTdXdnh3dTRHSUdRdV8waHl6MUJXUE1yVEg4SzRGYk5kdmlFZ9IB2gFBVV95cUxOdk9vcFlWYjN6UlpoQmRNSmR1dXVMS0RoSVcxenV3VUg3SHVVdWRESjRKSUdCVWFSYVRsM0VJeUhwczduamJfdUpvT29NTWdGQkVqMHhWdEVpMWdwbEtBcXVkWFc1bkxCUFYtS1UybTBlNXhOclZ1OHVhaGl0LXU1Tjd6bDdNQ3NjUkM1YzRLaHVuc0xVTTUxYm5KVVFkZmc2TXdtajJaWkFDM0lsV0cxYVNQdVhkVTdXdnh3dTRHSUdRdV8waHl6MUJXUE1yVEg4SzRGYk5kdmlFZw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0M4LXhrenVjZDJjUW9pNWxEaEpBbkRFcmJybE1PcHR3c3VXaUd3S0JvYlpNSk15b2pBdzVTZ0FMTmc0TUozU0szRU84blhhWGJ0NzdXbUk5ZGhPSEwyWnRIbU5rUG9RUkdMc2k5UkVEVlAxUkxSVmZSU240U3dCYm1uT1lGLWoxYmdKdzJ0OFFIM0xuaUlDSEFoSjVmTGp2RUV4WnlNQmVGVlpPS184Mk5KcFpTTXZrWWs0and4ck53UQ?oc=5"
     },
     {
       "rank": 5,
-      "event_id": "yara-2026-05-06-002",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Yara International (OB:YAR) Valuation Check After Recent Share Price Momentum And Mixed Signals - simplywall.st",
+      "event_id": "cnhi-2026-05-06-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial Labor Talks Test 2026 Guidance And Earnings Resilience - simplywall.st",
       "companies": [
-        "yara"
+        "cnhi"
       ],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
-        "industry_general"
+        "earnings"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdU0xWDZzckZMSFNDR1JRMFEyRDdKTDM4bHppRFRoY1M3RS1VZlJnMTU1UWs0U0F1OXh3aFBULTZmRHlTTDhiaEhUTFFpdDJuUFFZWER1NTl1TllhTEZma3YwUElkQUUwRWpGcmdveklQVFJ0WXFlSW5sMTBsb1JETU5wYzFzSXQ3ZmFGWlYtMUJiX0FKSkpWSThvMnJTSlJFcm1wSFB6dGQwUGZwdTc3cl9MVThUOTNaX0R2VDFJX0VWNmpKdjAtaHd6RHNPMVRJRm1MclRCLXhGemxHSEHSAd4BQVVfeXFMTnVNMVg2c3JGTEhTQ0dSUTBRMkQ3SkwzOGx6aURUaGNTN0UtVWZSZzE1NVFrNFNBdTl4d2hQVC02ZkR5U0w4YmhIVExRaXQyblBRWVhEdTU5dU5ZYUxGZmt2MFBJZEFFMEVqRnJnb3pJUFRSdFlxZUlubDEwbG9SRE1OcGMxc0l0N2ZhRlpWLTFCYl9BSkpKVkk4bzJyU0pSRXJtcEhQenRkMFBmcHU3N3JfTFU4VDkzWl9EdlQxSV9FVjZqSnYwLWh3ekRzTzFUSUZtTHJUQi14RnpsR0hB?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ19RdE9UVHNJSW11ak9USEF2ZVo4NkN3SVpSam1QQVZ4am5HQVNNU2dKUGxCQkpBb3dGcWt0RWdhRXR6aFlWZ2RFVE43c2VldjVjUFQ2cGhpNEZVOGtKdGNXZVJhNmJ1SlBnSV96Nks5a0Mtc3hob19Ydzg1TjZrR2dlaFlvQjhqT0RsTUx3OGRjTVZ6ZkUzek5qdEZtS1NzLU5kTXNYTFp0emFKeWRaYlFQUmRydU1yaWNjeV9jZk9WRFFlLXJEZzhsOF9qRkRx0gHWAUFVX3lxTE5aazFJc1NBYldpSDI0bGRCUzdUdXY4YjJ0SGh2NVBQRmZON1RpRXgxc3BuZUNvQUkzOXZHQnZ2XzFiOG5YNWJCWUVuRFUwMnZhbWZuVlZzdzZEeHhhSzNUQ3JHc3NpRXlQcmQ4TDZ2b1VUMktuVjNtdkpUNzEwWU5JeUlTUkJsaHJZNVh4VTNLS0poT0ZGUloyRmlRT3NzQWRDeDd1LXBGeXNjQWhWX0R5V0ZuYS1BaXNXUnRxdWp1dkgtSFNpMFFIdmJkanFQMm9kNzRIZnc?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 4,
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -127,7 +140,17 @@
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     },
-    "earnings": {
+    "crop_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
       "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -140,50 +163,62 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 7,
+    "total_events": 32,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 7,
-      "negative": 0
+      "positive": 1,
+      "neutral": 29,
+      "negative": 2
     },
     "top_companies": [
       {
         "id": "adm",
-        "count": 2
+        "count": 4
       },
       {
         "id": "cf_industries",
-        "count": 1
+        "count": 2
+      },
+      {
+        "id": "cnhi",
+        "count": 2
       },
       {
         "id": "yara",
         "count": 1
       },
       {
-        "id": "cnhi",
+        "id": "sqm",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 4
+        "count": 28
       },
       {
         "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "planting_season",
         "count": 3
+      },
+      {
+        "id": "crop_price",
+        "count": 2
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 369,
-    "dup_title": 162,
-    "too_old": 150,
-    "gate1_blocked": 5,
-    "gate2_blocked": 12,
-    "passed": 40,
-    "pass_rate": "19.3%",
-    "gate2_block_rate": "5.8%",
+    "total_raw": 740,
+    "dup_title": 332,
+    "too_old": 302,
+    "gate1_blocked": 9,
+    "gate2_blocked": 25,
+    "passed": 72,
+    "pass_rate": "17.6%",
+    "gate2_block_rate": "6.1%",
     "gate2_samples": [
       "Is The Mosaic Company (NYSE:MOS) Potentially Undervalued? - Moomoo",
       "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
@@ -194,7 +229,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 7 則事件，焦點為ADM、CF、Yara相關動態：「Archer Daniels Midland Q1 Earnings Call Highlights - Yaho...」。主要關注主題為農業產業通用、法說會，市場情緒中性。",
+    "summary": "今日共 32 則事件，焦點為ADM、CF、CNH相關動態：「Archer Daniels Midland Q1 Earnings Call Highlights - Yaho...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
         "text": "Archer Daniels Midland Q1 Earnings Call Highlights - Yahoo Finance（法說會）",
@@ -202,6 +237,10 @@
       },
       {
         "text": "ADM Earnings Call: Guidance Raised Amid Volatility - TipRanks（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 2 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]

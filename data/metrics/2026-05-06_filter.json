@@ -1,11 +1,11 @@
 {
-  "total_raw": 369,
-  "dup_title": 162,
+  "total_raw": 740,
+  "dup_title": 332,
   "no_date": 0,
-  "too_old": 150,
-  "gate1_fail": 5,
-  "gate2_fail": 12,
-  "passed": 40,
+  "too_old": 302,
+  "gate1_fail": 9,
+  "gate2_fail": 25,
+  "passed": 72,
   "gate2_samples": [
     "Is The Mosaic Company (NYSE:MOS) Potentially Undervalued? - Moomoo",
     "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
