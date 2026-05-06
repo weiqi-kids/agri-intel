@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 5,
+  "gate2_fail": 12,
+  "passed": 40,
+  "gate2_samples": [
+    "Is The Mosaic Company (NYSE:MOS) Potentially Undervalued? - Moomoo",
+    "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+    "CF Industries Appoints Andrew Scribner as New CFO - TipRanks",
+    "CF Industries names Andrew Scribner as CFO effective May 26 By Investing.com - Investing.com Canada",
+    "Corteva Agriscience splitting into 2 separate companies - MSN"
+  ]
+}
