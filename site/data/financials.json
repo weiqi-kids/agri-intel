@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T10:09:31.114309Z",
+  "updated_at": "2026-05-07T10:14:56.082453Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -7,28 +7,28 @@
       "name": "ADM公司",
       "ticker": "ADM",
       "currency": "USD",
-      "ar": 3594000000,
-      "ar_prev": 4960000000,
-      "ar_qoq": "-28%",
-      "inventory": 10369000000,
-      "inv_prev": 8700000000,
-      "inv_qoq": "+19%",
+      "ar": 4537000000,
+      "ar_prev": 3594000000,
+      "ar_qoq": "+26%",
+      "inventory": 11741000000,
+      "inv_prev": 10369000000,
+      "inv_qoq": "+13%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "agco",
       "name": "愛科",
       "ticker": "AGCO",
       "currency": "USD",
-      "ar": 1079400000,
-      "ar_prev": 1220900000,
-      "ar_qoq": "-12%",
-      "inventory": 2709300000,
-      "inv_prev": 3081100000,
-      "inv_qoq": "-12%",
+      "ar": 1242300000,
+      "ar_prev": 1079400000,
+      "ar_qoq": "+15%",
+      "inventory": 3001800000,
+      "inv_prev": 2709300000,
+      "inv_qoq": "+11%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "bunge",

@@ -1,0 +1,249 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:15:00.942932Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intrepid-2026-05-07-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Intrepid Potash (IPI) Q1 Earnings Surpass Estimates - Yahoo Finance Singapore",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcU9EWmN4WGZDYjI4VFQ4b1pQRUdWc3E5UDVTUHVJR2ZQalVwOGlFUUd0TEt1NEJ4ZHhUMXIxN1NNeklyanlEWDhuZVBkYzRMc2RWczVDT3M2dWtXRElvQTVUNGRkLVluTTREWktsaE1GeXVXc3R2UlliY0dRaWF1TDZ1NHk2ek0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Archer-Daniels-Midland (ADM) Valuation After Q1 Earnings Beat And Full-Year Guidance Raise - simplywall.st",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR29pR2RydE1VbFFvcWk0UE1ULTRZQ2RwUC1XYWFkR1NxenJCM2prdmVTRzlZNDFjajlmV2p5eThZSVYxaXpMcnVPRkpuM3pnSXNnMF9QLUhqcEVsMU8zNVRDdHI3UVhEWEJUd3Bqek1vUkloS19iVG5ocmJaX0FXZnBsSjBWYjNnY0d0UVlhRGl3UWdXbk9xQXZRSUVpazY5Q3pJLVI4M3FLY21WMkg5Z2R1Vm82c2hxR2RoVmd4N1FudHh0Rm5ndWEwbV9iek5YSjY4SldhQ2M4RV9yZ2taMGJqamZwUdIB6wFBVV95cUxPYkNpXzRqdmU4V2RGODhoNlZTdXZLRXJBeWdxYXRRS3Nud0lBYlNBcUtjZ2pHdVZTd0ZNWnp2dVFXdFdfcFd4Q3dEMUJBVE4yQzQtMTNPVzl6RUJzVmZzZVY5dFRWRDBuejU1dnBmT1piZVhwQlVQdGhqWThsNHI0U0IxQzVLWXhiQWtPMjlGZHY2ZXB3SW53YllQdVBIVnNGY3BZY0pTaFB3MG5UWEVrSDBlcS01YVExZFFBb2VMMEp1R0V3Y3ViNlpqbW1SRy1TVjJKd3NfRXFxUTVWZlg4TjF0WFRoLUl6bFZn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-07-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What does the new DEF guidance mean for farmers?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/what-does-the-new-def-guidance-mean-for-farmers-"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-07-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "$7 wheat is back as Plains drought slashes crop prospects",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/wheat/wheat-prices-surge-as-drought-grips-southern-plains"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-05-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries on track to begin construction this year on massive blue hydrogen and ammonia complex - Hydrogen Insight",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeDg3OTFNdm5xR29OU2ZINTI2TDhfeTBFc3hzbTktMHBRd0w2OHVEX25hMlQ0eE9hVnJWOGZBS1diUHlxMHpHSXZOZlBuVHJKVVg3UnpnVmFMeDQ3LTBQV2NJQ2ltNGpLTkdudlBTdzVwYzZHMFR2VnBZb292cHRCbV9DbG1RNEpRbmppcW9YSzNxRkhFYjBFVGx0NWh3cUMxckpiN1g1cDhOOGpBRmFMOTBNSWpDbzFkeEUxVUNRSGlwcDA4M1NjcFVHaTBpbHpfS1F5c1JBc2Jrem5wOF9yMnN0RkFnMXhzZVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 148,
+    "too_old": 145,
+    "gate1_blocked": 9,
+    "gate2_blocked": 12,
+    "passed": 56,
+    "pass_rate": "25.2%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Wealth High Governance Capital Ltda Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBe",
+      "CF Industries Appoints Andrew Scribner as New CFO - The Globe and Mail",
+      "FMC: Significant Complexity Means Patience Required (NYSE:FMC) - Seeking Alpha",
+      "FMC Corporation Is Maintained at Neutral by JP Morgan - Moomoo",
+      "Archer Daniels Midland (ADM) rises as market takes a dip: Key facts - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為CF、Intrepid、ADM相關動態：「Intrepid Potash (IPI) Q1 Earnings Surpass Estimates - Yah...」。主要關注主題為農業產業通用、法說會、天然氣原料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Intrepid Potash (IPI) Q1 Earnings Surpass Estimates - Yahoo Finance Singapore（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "A Look At Archer-Daniels-Midland (ADM) Valuation After Q1 Earnings Beat And F...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
