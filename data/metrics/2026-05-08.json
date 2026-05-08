@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-08",
+  "total_events": 15,
+  "by_company": {
+    "intrepid": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cf_industries": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": -0.08
+    },
+    "fertilizer_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
