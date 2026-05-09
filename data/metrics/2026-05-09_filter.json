@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 7,
+  "gate2_fail": 13,
+  "passed": 38,
+  "gate2_samples": [
+    "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+    "Robeco Schweiz AG Has $47.14 Million Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "CF Industries names Andrew Scribner CFO - MSN",
+    "Corteva Agriscience splitting into 2 separate companies - MSN",
+    "FMC: Significant Complexity Means Patience Required (NYSE:FMC) - Seeking Alpha"
+  ]
+}
