@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:22:14.547291Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien: Fertilizer Demand Isn't Going Anywhere, And The Market Is Undervaluing It - Seeking Alpha",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT25obDc2MHRlbVJPT255eS0zeDdlS2ZHQzd2d01Xck1FNGltS1VOVWtFN3Q5MjhMdGlLb2RjT2NPQS1HUXFBV3ZSTG83ZFZGemRHSUY3elBHY2Y0alRHaGpyVGRfWXVUTTRQNEVlVzRKeHpWMUNheGlsd0tsOWlkT21lYWtfZGlkUWdQaXZCeENLSzRxRUhlOHB6OWZqTFViM2hfUldadlQ4WE9TckhXOVR3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-05-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At CF Industries Holdings (CF) Valuation After Recent Share Price Volatility - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV0dIUWVaRTJNQW10VnpSOE9xYkJ4NzB1ZUpJRExOTURoUldqelhUNFBmYWZWVGZJcHBsZFN6c2tfX2ZabF9sdHd5Rm40eDVDNjMzU1UwZGxTQVFfdnRjV241WGFmeWVwTlJ2dms4elZWS1pYbkZ2NTBBeUVFNkNKSHl4dDMyelpuSUQ1UnlhdE1ibjRadHowQ1VFV2p5ZnB3NmRKWFJFcGxXeDlYR0xMMFZ4UGsxc3VRNWVldzBIWkVfTzZocUo1TVJ0T0J2amxqU3pfUtIB2gFBVV95cUxNTW52THBzRXRVamZCTXBhTFUzT1BibTJfQTBzYmQzaDg2YnR2bVB3Q1FmQl9TZ2p4eFoxRFdMQXkxbjQwanB5RlMwbTBlVlliQTFUdjJ3WkpjaDJ6VzhXdkFLRENEY09jVjdhQ3FGS29LZ25kVWYxajZiV1NicjlpUGI1WmJOYVBsXzYxR0dQeU9QX1dtelczaXI3S0RFRHR6aENOSzFMZG1xV1IzMnp5R185amo2QmQ0WkgxbHdzMDlYd1dSX2djWEZPNkZNenZ4dzVlVC0zOFBkUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 195,
+    "too_old": 133,
+    "gate1_blocked": 7,
+    "gate2_blocked": 9,
+    "passed": 28,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+      "Robeco Schweiz AG Has $47.14 Million Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "FMC: Significant Complexity Means Patience Required (NYSE:FMC) - Seeking Alpha",
+      "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+      "Mitsubishi UFJ Asset Management Co. Ltd. Grows Position in Archer Daniels Midland Company $ADM - Mar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Nutrien Ltd、CF相關動態：「Nutrien: Fertilizer Demand Isn't Going Anywhere, And The ...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nutrien: Fertilizer Demand Isn't Going Anywhere, And The Market Is Undervalui...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A Look At CF Industries Holdings (CF) Valuation After Recent Share Price Vola...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

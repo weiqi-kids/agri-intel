@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 7,
+  "gate2_fail": 9,
+  "passed": 28,
+  "gate2_samples": [
+    "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+    "Robeco Schweiz AG Has $47.14 Million Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "FMC: Significant Complexity Means Patience Required (NYSE:FMC) - Seeking Alpha",
+    "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat",
+    "Mitsubishi UFJ Asset Management Co. Ltd. Grows Position in Archer Daniels Midland Company $ADM - Mar"
+  ]
+}
