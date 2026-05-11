@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-11",
+  "total_events": 20,
+  "by_company": {
+    "nutrien": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mosaic": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "sqm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intrepid": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cf_industries": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "cnhi": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "kubota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": -0.03
+    },
+    "natural_gas_feedstock": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

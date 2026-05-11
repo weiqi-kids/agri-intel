@@ -1,0 +1,237 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:53:28.503498Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-05-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mosaic Company stock (US61945C1036): Earnings pressure and 52-week low test investor sentiment - AD HOC NEWS",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODQyTjlDV1BpazFDNVVYaFpYUklzcVVIRktuazJVSEd0UktqZGRkUElIQmNKdFBVaW5nZGo1T0pSWTVfU1BZQnlLQ0xKcktCX0ZqVlBOeHFQX2p6Wk96dW5WeGIxNWttRGpDTXZSeXRkb3k5Z0pvS2ptaS10X1B5RXItbGwxeDR1LWEyTGxmTHRTazFqX2lTcW5VUlZCUFlvZDA2Y3VCc0kyekV0ZmlJZmNxZzVOQm5SU1lGdnVRVldFOW42?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sqm-2026-05-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What is Scotiabank's Estimate for SQM Q1 Earnings? - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "natural_gas_feedstock",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzNVSW1Da2lzU0xxMjlGME5aZjRmR2RxeDBUbXlkcXI0LXNpSmt4ZkhzTTFRYXVpODVNb0E4YjZlSFMxU28zTXNKMllHSVhxNXVRc3NZMDgtREtUZkxUNFN2WGRqYmNkQlRtQzFWZFlqOGpIRHNaTFRDVDZHWjRXS09sU19DVzFwOTl4TXlrNVRPRFBmcHU4OG1XZFVDeXBod19pSw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intrepid-2026-05-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Intrepid Potash Q1 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUczRzZFa2Vyak9UM2tScV9fN0FUOHN2MVZKT2JrRXZkTmNMUVlUVDNYSEFldGdOcG13N0xpSmQ0RmM5bVZUUS1faXJESVNqVDEtUmUxQzhkeTAwUk9GSDFPNXV0cG9kVVRpZ0hISkhQUzJoZDlyZkpDRjJvZkVhYi1RSk1IYlNGd0NnY2FTMWJPcGpjWnBXX2lSS2Y1Snc3SDlLWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-11-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What should hog producers know about pseudorabies’ reemergence?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/hog-and-pork-news/what-should-hog-producers-know-about-pseudorabies-reemergence-"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-05-11-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bunge Global SA stock (US12185T1043): Leading agribusiness player with global reach - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWEU1NmJ6SGROT3ZqMlVRZDBUZUpodDB4c2xJX1VlaW5QZ1RTMVF3UTg5ckhRZGdzdHlrbjQwUmszU256SDZfbXFveUl0QkhraTVJeVFKQ29hWmZtMkNuMjhFYXJCOGxuVGNTc1dMdXEzZjRiaHhjUzY0dWdZOWpONXd1aC0zSUM0UHJtOThNSEtjLXpWc2R2aU81RjJxM3hSTVMxUGp1NlNPZWRUV3NSV0pZckdnenNLZ0tSbGxZRjl4NDBU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "mosaic",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 184,
+    "too_old": 131,
+    "gate1_blocked": 4,
+    "gate2_blocked": 11,
+    "passed": 43,
+    "pass_rate": "22.8%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+      "Robeco Schweiz AG Has $47.14 Million Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+      "FMC: Significant Complexity Means Patience Required (NYSE:FMC) - Seeking Alpha",
+      "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Mosaic、Bunge、CNH相關動態：「Mosaic Company stock (US61945C1036): Earnings pressure an...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Mosaic Company stock (US61945C1036): Earnings pressure and 52-week low test i...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "What is Scotiabank's Estimate for SQM Q1 Earnings? - MarketBeat（天然氣原料、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

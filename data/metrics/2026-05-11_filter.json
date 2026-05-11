@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 43,
+  "gate2_samples": [
+    "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+    "Robeco Schweiz AG Has $47.14 Million Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+    "FMC: Significant Complexity Means Patience Required (NYSE:FMC) - Seeking Alpha",
+    "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat"
+  ]
+}
