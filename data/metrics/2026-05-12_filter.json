@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 6,
+  "gate2_fail": 10,
+  "passed": 69,
+  "gate2_samples": [
+    "Nutrien’s Cash-Flow Story Looks Strong, RBC Says - Finimize",
+    "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+    "Robeco Schweiz AG Has $47.14 Million Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "Oxbow Advisors LLC Invests $3.12 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Archer Daniels Midland (NYSE:ADM) Raised to Buy at Wall Street Zen - MarketBeat"
+  ]
+}
