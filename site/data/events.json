@@ -1,5 +1,189 @@
 [
   {
+    "id": "unknown-2026-05-13-001",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How interest rates reshape farm management decisions this year",
+    "summary": "Ag Marketing IQ In Depth: Ag economist David Widmar discusses how the cost of borrowing money impacts farm expansion and grain storage decisions. One tip: Fed action won’t solve the problem.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/how-interest-rates-reshape-farm-management-decisions-this-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-002",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bayer earnings top estimates on crop science, soybean gains",
+    "summary": "Q1 adjusted EBITDA beats forecast by 14%. Soybean sales doubled on licensing payment from seed tech dispute and dicamba re-approval aids prices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/business/bayer-earnings-top-estimates-on-crop-science-soybean-gains",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-003",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maryland farmer puts new technology to test",
+    "summary": "Field Snapshot: As input costs surge, Chris Weaver manages his 1,000 acres with precision tech and 91-year-old wisdom.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/maryland-farmer-puts-new-technology-to-test",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-004",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pest outlook 2026: What’s coming and what to watch now",
+    "summary": "Wisconsin farmers face heightened pest threats this season. Stay ahead of these three early-season pests with scouting tips and timing strategies that can protect yield before damage takes hold in cor",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/cool-wet-spring-raises-pest-risks-for-wisconsin-crops",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-005",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How does inflation impact land values?",
+    "summary": "Land Sales: Farmland holds on to value and appreciation for investors — and farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/how-does-inflation-impact-land-values-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-006",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farm to fork: An inside look at pork processing",
+    "summary": "Pork Pulse: Minnesota’s emerging pork industry leaders visit Hormel Foods’ flagship facilities, exploring the complete journey from producer to consumer.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/hog-and-pork-news/farm-to-fork-an-inside-look-at-pork-processing",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-05-13-007",
+    "date": "2026-05-13",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrition is vital for heifer conception rates",
+    "summary": "Hit pause before turning your bred heifers out to pasture. Ensure they have enough nutrients and don’t “starve” on lush grass.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cattle-news/nutrition-is-vital-for-heifer-conception-rates",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-008",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rice, soybean irrigation costs vary widely across eastern Arkansas",
+    "summary": "University of Arkansas research maps the true cost of pumping groundwater across the state, revealing dramatic differences driven by water depth and crop type.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/rice-soybean-irrigation-costs-vary-widely-across-eastern-arkansas",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-009",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to make more money by growing low-carbon crops",
+    "summary": "Discover this and more at the TopSoil Summit, slated for June 10 at the Riverside Casino &amp; Golf Resort in Riverside, Iowa.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/how-to-make-more-money-by-growing-low-carbon-crops",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-010",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How one tick bite sparked a new farm-to-table business model",
+    "summary": "A Missouri couple turned personal health struggles into The Safe Spoon, a restaurant powered by local farmers and allergen-safe food.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/how-one-tick-bite-sparked-a-new-farm-to-table-business-model",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mosaic-2026-05-12-001",
     "date": "2026-05-12",
     "companies": [
@@ -353,6 +537,133 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farming-equipment/1969-john-deere-2520-tractor-works-crops-not-just-shows",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-020",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wheat rockets ahead on tighter supplies",
+    "summary": "Afternoon Market Recap: Corn, soybeans also firm following USDA’s latest WASDE report.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-021",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soybeans soar to 2-year highs as USDA signals tighter stocks",
+    "summary": "Wheat hits two-year highs as drought slashes crop to 62-year low; corn tops $5.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/soybeans-soar-to-2-year-highs-as-usda-signals-tighter-stocks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-022",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "House set to vote on summer E15",
+    "summary": "Bipartisan bill may finally end temporary waivers and open year-round market for corn growers. Vote expected May 13 after multiple failed attempts in 2024-25.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/house-set-to-vote-on-summer-e15",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-023",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farm economy struggles as rural Main Street feels the pinch",
+    "summary": "Farm Progress America: Creighton University's Rural Main Street Index hits contraction territory for 13th time since January 2025, signaling widespread economic pain.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/farm-economy-struggles-as-rural-main-street-feels-the-pinch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-024",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Big, news-filled week ahead for farmers: Is your game plan ready?",
+    "summary": "Morning Market Analysis: Corn, soybeans follow wheat, crude oil higher overnight ahead of USDA’s Supply and Demand update.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-025",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China eyes U.S. corn deal ahead of Trump-Xi summit Thursday",
+    "summary": "Beijing in talks to buy American corn, sorghum, DDGs and soybeans during Trump's China visit.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/china-eyes-u-s-corn-deal-ahead-of-trump-xi-summit-thursday",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-026",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "trade_policy",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Trump delays move to lower tariffs on beef imports",
+    "summary": "Executive orders suspending tariff-rate quotas postponed amid outcry from ranchers and GOP lawmakers. U.S. cattle herd at 75-year low as beef prices hit records.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/trump-delays-move-to-lower-tariffs-on-beef-imports",
         "type": "rss"
       }
     ]
