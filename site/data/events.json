@@ -1,5 +1,269 @@
 [
   {
+    "id": "oci-2026-05-14-001",
+    "date": "2026-05-14",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI N.V. stock (NL0010558797): Recent price gains amid mixed technical signals - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTF2MEoxQ3VIMnloWjhQS2lINmRvM1duLUpOdHdGWnBuUENhWTk2MGtQNE80Qk5tUlJZc1NJZ2pscWJQY3lMbXM2SXVWOHpLUVkwTzc5Q1F0RURvQklzaExvX2JEeTlvOGF4bjdsVk",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTF2MEoxQ3VIMnloWjhQS2lINmRvM1duLUpOdHdGWnBuUENhWTk2MGtQNE80Qk5tUlJZc1NJZ2pscWJQY3lMbXM2SXVWOHpLUVkwTzc5Q1F0RURvQklzaExvX2JEeTlvOGF4bjdsVkNoY2JlVXduY2lXOUI3TVpKNDVmaC1JeDNTODVoNzh2Zm5oZFZjVjNVSmpPU19fR0E1c1Rxc1AtRXFZSDJGLWk5aUR5MHNxaGlLZ2dQRWtIUjZQLU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taifer-2026-05-14-002",
+    "date": "2026-05-14",
+    "companies": [
+      "taifer"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Taiwan Fertilizer Co stock (TW0001722002): Q1 2026 sector pressures amid global supply shifts - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NQQVA1dXZtMmJpaDRNeXhpNVB0Xy1mTUpLbFFHSy1DMWV6TnFHSGxEc0Zkamd6RmN6SVlGZWxBb2dDdkRPTDYtTWJ1cXZqVG1SLVRzQzRsWlRqcjdjMmxlUXB6ZVhBa2VOUmlxbH",
+    "sources": [
+      {
+        "name": "taifer",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2NQQVA1dXZtMmJpaDRNeXhpNVB0Xy1mTUpLbFFHSy1DMWV6TnFHSGxEc0Zkamd6RmN6SVlGZWxBb2dDdkRPTDYtTWJ1cXZqVG1SLVRzQzRsWlRqcjdjMmxlUXB6ZVhBa2VOUmlxbHI5MEIta0ZHWFh1ZjVWNVFmM2N2RUpvcEoxY2hIaENNOGZGQjBOUDJJd1ZvbnVZZFZSWTVwaGdycXRZVGpQVGtrSTR5ZFVwNThFTktSSHZBbWV2NWlRNnpr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-14-003",
+    "date": "2026-05-14",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Community Bank N.A. Reduces Stock Position in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTVFME5FSnpCLUZEX2lQYU9fZVVjY2c1amdBdEFKZFdLSUc1WkNTLUJ5RDRSOFlmWXZNaFo2Vzl6d2FoeGhOYVN1X3ZqR19CTWRFRWdMVlAyWUFwMzU2OWM1bE1XYmpzckNYLS0zU2",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTVFME5FSnpCLUZEX2lQYU9fZVVjY2c1amdBdEFKZFdLSUc1WkNTLUJ5RDRSOFlmWXZNaFo2Vzl6d2FoeGhOYVN1X3ZqR19CTWRFRWdMVlAyWUFwMzU2OWM1bE1XYmpzckNYLS0zU205cFdsQVVaVm4tdTZoZnhZM3N5NTBhUEZfVFRTUDhxUGhNYkh2Q2VhcHZvSTVHQ1JlY1ZVbUIxU0FxRktkT2Z1eGxDN3d2eHplTzNXSEVpSVNlM0pnRnlhVWloaHgzcnc0YV82QjN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-05-14-004",
+    "date": "2026-05-14",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kubota Corp stock (JP3264400007): dividend hike follows solid FY2026 results - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXd6MmVWU2VyLUlTenotYWVtc1kyZGJHRmxkODYtSEVZMlhZazVaVHU2MnVaUmVNVmJvM2hGeDdjMDBKMkFUbzlBSnlhUWpCdHlZYUNiNmplUTFOa05lSU82c2dZaWotbjhiY1lfQ0",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXd6MmVWU2VyLUlTenotYWVtc1kyZGJHRmxkODYtSEVZMlhZazVaVHU2MnVaUmVNVmJvM2hGeDdjMDBKMkFUbzlBSnlhUWpCdHlZYUNiNmplUTFOa05lSU82c2dZaWotbjhiY1lfQ053Mnh5RUxpU0RIZXFOajhHV2NUQXAzOW9QRjhocEg3VjhsUEQ2cmRKOFA0TzNfVWVOc200QnZOWlhZR1lqdF9xdTl0N3V1Q2VvZkNxVk16RTAzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-005",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "War strikes crop enterprise budgets in the Midsouth",
+    "summary": "Farmers have been slammed with unexpected input increases due to the consequences of war in the Middle East.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/war-strikes-crop-enterprise-budgets-in-the-midsouth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-006",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flower farmers make the most out of agritourism venture",
+    "summary": "Honken Farms in Rice County, Minn., has developed a successful flower-based agritourism operation alongside its crops and cattle. One of its operators has several tips for producers looking to add a n",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/flower-farmers-make-the-most-out-of-agritourism-venture",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-007",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Ag and oil mix to support feedstock for alternative energy",
+    "summary": "Bayer and BP commit to expanding camelina seed varieties and developing a value chain for the oilseed as a biofuel.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/camelina-gains-traction-as-biofuel-crop-diversifying-income-and-promoting-sustainability-for-northern-plains-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-008",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tech cuts labor costs, boosts ROI for dairy farmers",
+    "summary": "From robotic milkers to AI tools, dairy technology tackles labor shortages and animal health.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/tech-cuts-labor-costs-boosts-roi-for-dairy-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-009",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "For youth in agriculture, no dream is too big",
+    "summary": "Alice in Dairyland: Today’s ag careers stretch far beyond the farm, with young people stepping into roles in technology, policy, sustainability and science.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/wisconsin-invests-in-youth-to-shape-agricultures-future",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-010",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Real policy change starts in the tractor cab",
+    "summary": "Hoosier Perspectives: Margins are tight. Profits are thin. Morale is low. It’s time for legislators to ride a round in the tractor to remember who they’re working for.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/real-policy-change-starts-in-the-tractor-cab",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-011",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "8 ways to eat healthy on a budget",
+    "summary": "What’s Cooking in Illinois: A dietitian shares practical tips to help farm families slash grocery bills while following dietary guidelines — from planning meals and shopping sales to maximizing pantry",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/8-ways-to-eat-healthy-on-a-budget",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-012",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Authentic rural life on display at Nebraska county fairs",
+    "summary": "County fairs offer farmers, ranchers and rural residents a chance to gather, socialize, compete and celebrate farm life.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/authentic-rural-life-on-display-at-nebraska-county-fairs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-013",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The power of mentoring the next generation",
+    "summary": "Experienced farmers are mentoring first-generation newcomers, proving that agricultural success doesn't require generational inheritance but rather dedicated guidance and support.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/the-power-of-mentoring-the-next-generation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-014",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Next year’s GPS update could affect field operations",
+    "summary": "Satellite reference points are shifting in 2027, potentially affecting field maps and guidance systems for some farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/next-year-s-gps-update-could-affect-field-operations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-13-001",
     "date": "2026-05-13",
     "companies": [],
@@ -179,6 +443,637 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-business/how-one-tick-bite-sparked-a-new-farm-to-table-business-model",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-13-011",
+    "date": "2026-05-13",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic upgraded as RBC Capital says phosphate pain won’t last forever (MOS:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVJFUnVDRm9LMDJZUEVFeThjbVVoOTNkTlJNMk5SLVZGRGxvRHU2cW1acEJOTGVNUXoyZERHeVJrWlhkYmtMRTVCaEgxOXVkbTZwamo5VkRnT0U5YWpzOXpTWmpJU1MyQjhyNWhxOU",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVJFUnVDRm9LMDJZUEVFeThjbVVoOTNkTlJNMk5SLVZGRGxvRHU2cW1acEJOTGVNUXoyZERHeVJrWlhkYmtMRTVCaEgxOXVkbTZwamo5VkRnT0U5YWpzOXpTWmpJU1MyQjhyNWhxOU9idDItVmhPZWptVEFnSWV2bmxoR2xZQUlfXzI3NDhDdktCSVJaZFZLZmw4S0xQWTRUanBLUEZxc3dsRTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-05-13-012",
+    "date": "2026-05-13",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Química y Minera de Chile stock (US8336351056): Infrastructure project boosts lithium oper - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeURjVzA0aWFQRmxaSkFBRXhCTUVXT05FbWwwc2xtQUlQZ0N0SzN1a2lRWi1HS1hnTjIwem92OF91YkRMRHdHUldSLWFIang4Zml1STA3ak9aazAyT0Z3cGNiaUI3eUR1LTBoaThJeF",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeURjVzA0aWFQRmxaSkFBRXhCTUVXT05FbWwwc2xtQUlQZ0N0SzN1a2lRWi1HS1hnTjIwem92OF91YkRMRHdHUldSLWFIang4Zml1STA3ak9aazAyT0Z3cGNiaUI3eUR1LTBoaThJeFBTRXNJTkU2QVZzemNNdGtud0NrMDJPUVNWSHJWeElxU1BmcGp2VkJDNDBjZ1FMU3BjWU40a2FTVWV4Zy1JR1B0LW5zQmo3X1VLa1QteGt6ZS1HUFB1OFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-05-13-013",
+    "date": "2026-05-13",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Donates $25,000 for USU Moab Scholarship Endowment - Utah State University",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlplLTFGSG1TYWdhZ1IyeDRFOGJNM1pTWlhYd2NlSlZ3eE5LSjhGUDZrWlYwaUVxZlQxdVlnU3BSS3c4YW1kaDREbTlDN2EzN0xPUGY4SW5TYmlvR09Nc2J3RnJUSEwyRXF0dmtCWG",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlplLTFGSG1TYWdhZ1IyeDRFOGJNM1pTWlhYd2NlSlZ3eE5LSjhGUDZrWlYwaUVxZlQxdVlnU3BSS3c4YW1kaDREbTlDN2EzN0xPUGY4SW5TYmlvR09Nc2J3RnJUSEwyRXF0dmtCWGp4bnVoc0ZHMWk4SDhZZzdQc29RdVN6aVd4X0dlaERDOTU0MlFhTGJ4VWNSamQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-05-13-014",
+    "date": "2026-05-13",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Intrepid Potash Q1 2026 beats expectations, stock fluctuates - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZVRiUUE4cWVMM3JCZ3ZrNC1ab2wzQUhSdXUyeFk0Z2FmZEY2eWRFanh6SUttT0Z0UGVLdVo2RmRfS2xXdFhzUE0wSTFPaGFtV2h6cndDOHRsNnktYXl3enNIbkN0bE5id0NLQ3MyTm",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZVRiUUE4cWVMM3JCZ3ZrNC1ab2wzQUhSdXUyeFk0Z2FmZEY2eWRFanh6SUttT0Z0UGVLdVo2RmRfS2xXdFhzUE0wSTFPaGFtV2h6cndDOHRsNnktYXl3enNIbkN0bE5id0NLQ3MyTmlpMnBvdWZNVF9xb19RdjBqWVJoV1ZWMV9yNEV4NjlxV0lRWjc1WG9xQWZrRTVZVE5QaVNJd0R4VU9OTUdrOFhBNnRiM0lWWUd1bXc1WUNtdERqX01VY2w3c3ZhTmxHY3hMWEsxU0RZN2tVa0FES2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-13-015",
+    "date": "2026-05-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTJEcmNmaWZrSmoxNmVhWk54LVp3dnVuR3dUelp2cGNLTTU4N1BpYjVxZjR1dVRBeDdhdG1TTjNTWXl1Ukt0YUhLTms1c2lsTUhxUVR3V3lvUThON2UyVUc3TElSSjd3ckFnOEZtSl",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTJEcmNmaWZrSmoxNmVhWk54LVp3dnVuR3dUelp2cGNLTTU4N1BpYjVxZjR1dVRBeDdhdG1TTjNTWXl1Ukt0YUhLTms1c2lsTUhxUVR3V3lvUThON2UyVUc3TElSSjd3ckFnOEZtSllQdFNkR3Nxa3ctWjBnYzByT0NyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-13-016",
+    "date": "2026-05-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWlhpdHZmQ21NMGRDczZjSURjODhlVVp6MGZsdzNYaGlSdldCSnMtNnQ5ZkxwZnlTdjR5dXlaODZMLU8tUjItNG42aUdCdUdYZlZXU0liWUtsSzVrLUZwMkdoV2tiWU1WVU5ZalBfN0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWlhpdHZmQ21NMGRDczZjSURjODhlVVp6MGZsdzNYaGlSdldCSnMtNnQ5ZkxwZnlTdjR5dXlaODZMLU8tUjItNG42aUdCdUdYZlZXU0liWUtsSzVrLUZwMkdoV2tiWU1WVU5ZalBfN0hZbE10U0tCeWRNNk5hY1NTaldhUDB3OEU5ZDBuTWF5c1FSY2xyN1FZTTJ0dXByYjdzQ3MzNm5zeEQzdG9FNnhhbHpOUFZZdFlDdzNsNzNoYTk3TkZKZlJtM04tVkl0d3JqdUNEblNoVUViV0tCQWNZdVV4OUNyWm9faTNwUVl0VEdaSlNmSXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-13-017",
+    "date": "2026-05-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Investors Are Reacting To CF Industries (CF) Q1 Earnings, Low‑Carbon Ammonia Push, and CFO Change - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNDZaRE5DNE1sd2RPcUNpM3NIV1VYQXBTdkZ2d3ExT25makRUUGhNZ2F6MW4zRnZELWIwU2NGR2w5QXhENS1wOEdEMnpUMk5hTmpSb24zUGowWWZrdGVRXzZzVE5mY1pHeVJSWVRFcV",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNDZaRE5DNE1sd2RPcUNpM3NIV1VYQXBTdkZ2d3ExT25makRUUGhNZ2F6MW4zRnZELWIwU2NGR2w5QXhENS1wOEdEMnpUMk5hTmpSb24zUGowWWZrdGVRXzZzVE5mY1pHeVJSWVRFcVE5eVdmUTNOb00xd3FEOHRwR01VTmVBTW1hMjNDdDdyUVc0amhneFpQWm1kMVJzSEZXYVBNbkZkNXpCRWZOWUpUQm9EdzU0Zjl3cDFCY3hpT3VPM1BXVFN0aDF3cGdJa05QRDZPUtIB2gFBVV95cUxQaFhmNml3aU54YThOQWx1aUEybUVnbXlvaHJTTk15YzRSVnY4aXBlOE9vV0lCbF84bE44MndlN1pGbzdYb1ZYX0c4RXRLbTE1S3laZHVVXzdEQm1CdWYtX1UzYkVwaERXRjA2aVNFdTFiYUNxb1loTDl0M0ZUSGVPTEZhTzJNR2xnTDUwUW1tLUhhb2xuVUtFZDVZTjBYSjNreVVYNXJwYUdGMGZ2LXJjZ0ZMb0hxal9PamVpbXpZcVZEcVJmSWxYYTBTZmpFVlFOZm13RENfVEpwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-13-018",
+    "date": "2026-05-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries reports on the company’s 1Q26 earnings - World Fertilizer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzJYNTBBRHNwa2ZidEVGQ2lTVnVSSTVCMW5TNF9YN1V2ZnFOWC03NUhGS2ZLRGkzaUl5NmQzak91bGtnem5zSHBZMk1YMlp3TmQxV2pUY281MVJoVk1zOVIyLVhtWTVieFlPTUs5ZV",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzJYNTBBRHNwa2ZidEVGQ2lTVnVSSTVCMW5TNF9YN1V2ZnFOWC03NUhGS2ZLRGkzaUl5NmQzak91bGtnem5zSHBZMk1YMlp3TmQxV2pUY281MVJoVk1zOVIyLVhtWTVieFlPTUs5ZVVfenpKbkdJZXdGNHZmVm4tbzgyWksybkFMcDBaeDRaMnNQdkNOdk9yTDN3T3Ezdm1UQlZyWNIBqgFBVV95cUxNRElzbDljalA1MnBXNXFZSWpfbjg3R21HaEpLd09HLWlfbnllR3pjZGdHUldqcmRuN3RZQVYxMU5rZUVGMXU0WFF0M2Z4dU95di0wc2hSOGZ0ZGhYUXpGS094MmhXVi1zZmNqMXR1S0I2OElEbXlET3BpNjB1cEV6N05OVmM0TU92b1pxZ2k4Ukh2YnBvbzhUZ3NXblAtcTcydTJvYnYyNXJZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-13-019",
+    "date": "2026-05-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings Inc (CF) Stock Up 13.4% but GF Value Says Overvalued -- GF Score: 79/100 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9IWlNTREljU05uLW9ncnVPX2ctVzc0OFgtaXVFUW5ack5HR2hRTE9BN2E2eUw3Y0EyMENuT3JVUTd2b2cyLUNaYjFRdHZSQkgzai1LeTBBTmVpQjI4YXA0aE1vMnhURDVtdUM4R0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9IWlNTREljU05uLW9ncnVPX2ctVzc0OFgtaXVFUW5ack5HR2hRTE9BN2E2eUw3Y0EyMENuT3JVUTd2b2cyLUNaYjFRdHZSQkgzai1LeTBBTmVpQjI4YXA0aE1vMnhURDVtdUM4R0daamtoRHA2Q2E0aDdoTGM3TDVScEhfX1dhOHl3YzVFc3E2WmU2VDJGZHRaaDdZRWg2TDBydGI3S3Y0LV9TOXRMWFZzZHVBdHhNS0NQMVRkUHdONGlKWVo2eXRfMDdnaXdKQl9V?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-13-020",
+    "date": "2026-05-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "CF: Supply constraints, decarbonization, and strong financials position North America for growth - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQcFhTWGZ0RjNpY29BdnFlek14TkJNYXpGY2U5TmVKYkg3ZGZZcG1tbkxZME42eEdHNXRmVkJOY3VUOTNnQ3ZjeGRjRkNHemhtUExPSTM2dENaaVpGbmhfQjV2cm15RHhMSTh5eUlOSV",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcFhTWGZ0RjNpY29BdnFlek14TkJNYXpGY2U5TmVKYkg3ZGZZcG1tbkxZME42eEdHNXRmVkJOY3VUOTNnQ3ZjeGRjRkNHemhtUExPSTM2dENaaVpGbmhfQjV2cm15RHhMSTh5eUlOSVV6SWlKMGFmelBkNDB5REwwQ3lNeU5XX29tN0dZdl83SC1pb1hMaUE5dXYtcHhzN1lYbkdTSzlsTHFwUFRUZmlVbnN4enE3VVp2cXU5ZkgwT0ZtcWhCMWZNMnN1WUowbXBwMkoxOFNYTUhLVXN6d1NDcWlibmFZNjltWUNSSnQ4cmUyYVUtZ2lOSDVwUXNmMmRXTVQ2RjdrN2RZTjlQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-05-13-021",
+    "date": "2026-05-13",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yara International ASA stock (NO0010208051): Global fertilizer leader navigates market shifts - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObml6OUMwV0c1LW9VcEtsN1I5RVpTeFVoSFBweW13eVlQeVpkQVV2amVpQ2psT0RJY1NHeS14WWpiNEV1bXBXWkMtTEtwcFIyZ1llcjhrRlhJQXYyVVBhQy0zeHl3b0dnVHBfeDVFX1",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObml6OUMwV0c1LW9VcEtsN1I5RVpTeFVoSFBweW13eVlQeVpkQVV2amVpQ2psT0RJY1NHeS14WWpiNEV1bXBXWkMtTEtwcFIyZ1llcjhrRlhJQXYyVVBhQy0zeHl3b0dnVHBfeDVFX1VkVEY3SnU5UEJQY1JiOVhuLUxSTjh6SXh1UU1zWE9XWXRWSXUtenhCb0VseEFlMVl3RW1ESUFxclp0cDVoWmNKMjkxTEtIN3JoLXhPNTJhSXk3M1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-05-13-022",
+    "date": "2026-05-13",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI N.V. stock (NL0010558797): Recent 2.41% gain on Euronext - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEtsdnRXZVg1TUZxLS1EdWtPYm5hZUh0bTNZQmZkZmFJd19fUkI5NjUyVmgwbkZUZXJSSGYtN3hkMi1MSm9VRVFZTUlRNWY4bjk4VWFtaFF2MVhsRDkyZ1hVdnM3WXBFUUdWaTVXTH",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEtsdnRXZVg1TUZxLS1EdWtPYm5hZUh0bTNZQmZkZmFJd19fUkI5NjUyVmgwbkZUZXJSSGYtN3hkMi1MSm9VRVFZTUlRNWY4bjk4VWFtaFF2MVhsRDkyZ1hVdnM3WXBFUUdWaTVXTHZYV3g3U1ZjQW01aTBxWWtSdlU3aGpBMmZFNWF2MjAxSFJCWGw0UlVlbTlrVHpOTE9yOHFGeTlHV1BKMUQxc3FnWnhsWjNsRmNRZjhqZ1BFRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-05-13-023",
+    "date": "2026-05-13",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI N.V. stock (NL0010558797): Recent price gain on Euronext - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1BCRk9mTVFkMENjSGMzckItSVhMaTczOTQ3WlVaUkp4ZHJkZ211WjQzVk5VMjdUQ2JOa2JybE90RjZuTGhDT24xNXpMWGhwVGIzMjJjT09rOTFWTzlEMG5CbnJWNHcxUC14OUJnMU",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1BCRk9mTVFkMENjSGMzckItSVhMaTczOTQ3WlVaUkp4ZHJkZ211WjQzVk5VMjdUQ2JOa2JybE90RjZuTGhDT24xNXpMWGhwVGIzMjJjT09rOTFWTzlEMG5CbnJWNHcxUC14OUJnMUU2cDYwRlk4eVFrX3NVNWNHM25sajFKNDhxLTgtSS15Sk5IT3FnVkJSU2wzbERPRTZDSzJsR1JwVnFTUFlMSTdvN0FqTFkxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-13-024",
+    "date": "2026-05-13",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New headquarters announced for \"New Corteva\" and Vylor - Brownfield Ag News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3RuSkxrVGhiamVnMV9iTHFVNVlzUHU5U01zTXd4S1M1azNTM3RlcU1rVGRBd1h4M1RHQ0VEM2J4djU2S1pwVHlzWmVRbXF5VjhWQldlY0d4RG5zZE9yckdEeXlmX09tdTVxcEhqbE",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3RuSkxrVGhiamVnMV9iTHFVNVlzUHU5U01zTXd4S1M1azNTM3RlcU1rVGRBd1h4M1RHQ0VEM2J4djU2S1pwVHlzWmVRbXF5VjhWQldlY0d4RG5zZE9yckdEeXlmX09tdTVxcEhqbE5hR29nbTRwN3FtNTZiSlVMRThMd0lPRlBnZWwyYm52R0oyNXVncEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-13-025",
+    "date": "2026-05-13",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Launches New Fungicide For Sugarbeets - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEhRTldQUTRLeDkzQjVFRTRGVEF4V2hUNGJjOHIxYjR3blROVE52RTdHUWFQS29rRzE2Tk5LYmttTW9kTnc1UW01QmxPZE03N200M3k1dkdmSzFYTm83WlhfWWR5enZEWjNydG1hdj",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEhRTldQUTRLeDkzQjVFRTRGVEF4V2hUNGJjOHIxYjR3blROVE52RTdHUWFQS29rRzE2Tk5LYmttTW9kTnc1UW01QmxPZE03N200M3k1dkdmSzFYTm83WlhfWWR5enZEWjNydG1hdjM0RmZCTjlzTklYRkc1Tnp0T2h4OUk2b1UwbXNrMUt4WkZLbkVK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-13-026",
+    "date": "2026-05-13",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vylor Plans Iowa Headquarters as Corteva Spinoff Moves Forward - Successful Farming",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVN5Wk5NWW1KN0tOdkw3Wm1Fb3JaN0ZLUVA3aFdzcmRFSnVUN2tvUzRJUktrRDU4YmVrZVM1bW9xaU81LUVVZ1ZJLWV6SmNLVWpIRnU4WUN0b1dVQUNaRkp4ZFh4dzR6Y0Flemc4SE",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVN5Wk5NWW1KN0tOdkw3Wm1Fb3JaN0ZLUVA3aFdzcmRFSnVUN2tvUzRJUktrRDU4YmVrZVM1bW9xaU81LUVVZ1ZJLWV6SmNLVWpIRnU4WUN0b1dVQUNaRkp4ZFh4dzR6Y0Flemc4SEVmLXd5YjBsVVZqVmFMY0tITFE5bnBac0hSekJjQnUtN1JfcW5obnZlLTlNdFRjc1F3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-13-027",
+    "date": "2026-05-13",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Agrisciences to split headquarters between Indianapolis and Iowa - WRTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVozdXpYSjVMdGlHdjhrZ3RwbzgtaGxoaE5ZT0FoakhseER0UlAtNjNodElvaU9nZlNUWHVXMkdiMHI0dTBxMEZkdnVDRlBjOFhmWi1CMmhpckZ0NWRETmx5RWVlMWdnYjhlREQ2UW",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVozdXpYSjVMdGlHdjhrZ3RwbzgtaGxoaE5ZT0FoakhseER0UlAtNjNodElvaU9nZlNUWHVXMkdiMHI0dTBxMEZkdnVDRlBjOFhmWi1CMmhpckZ0NWRETmx5RWVlMWdnYjhlREQ2UWYwYjFpX0dJQk0zWjBGOS1ENDZSUW9qRndPVmx5dTQ4YmNWOTQxck5CZHNaWmV3WHF2WG13bmJ4NDZ1N3V4S2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-13-028",
+    "date": "2026-05-13",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Article: US DOJ warns Corteva patent case risks stifling seed market competition - IAM Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2JuN2huNFl5NVNyX1NudXRLaEN0RkF5YU5mRGppdEFORUE3dFJqZVZyejFmQ0ZFWUhQeFJuXzE5QWhZRlRSSWtONFpxektDb0tQSy10ejNNTXJadmwyMWdwMFRTeC1pN3hIR1I4Nj",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2JuN2huNFl5NVNyX1NudXRLaEN0RkF5YU5mRGppdEFORUE3dFJqZVZyejFmQ0ZFWUhQeFJuXzE5QWhZRlRSSWtONFpxektDb0tQSy10ejNNTXJadmwyMWdwMFRTeC1pN3hIR1I4NjFWMFVrUVVOdkFCNFhocWNXSlNTaDZxcS00ZFZZSk52eHJySXVKbUl6dUFGcUdxUXhGWmduNGMyVzk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-13-029",
+    "date": "2026-05-13",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iowa to be headquarters for Corteva’s Vylor spin off - Storm Lake Radio",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2ZVQzE2YUh4QjFwd2lZdEJkTnBtT0ZmenBMMExkX0dVZF9tdzNPY0EtRFZPaENTalJzRHBJb2ZtMUh2REpwMXdubk1KbWNyZDFMcC1KYmh6bEZQLWYwbmVzREI3b0NxVVpyRHFhbT",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2ZVQzE2YUh4QjFwd2lZdEJkTnBtT0ZmenBMMExkX0dVZF9tdzNPY0EtRFZPaENTalJzRHBJb2ZtMUh2REpwMXdubk1KbWNyZDFMcC1KYmh6bEZQLWYwbmVzREI3b0NxVVpyRHFhbTRhMTdQNXJ1Yjg0bVZtVkRWZTl2SHpoeWlYZF9HSkRCTzFrQm5w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-13-030",
+    "date": "2026-05-13",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC agrees to sell India crop protection business for $252m as it reworks presence in market - AgTechNavigator.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVF9zaXNoMlRLY3Fva3BlZVdPdzVMRnJfSU9xTjVIdmFPTGZ4WkU5Rkl0eTNDVVczZkhSbjd4UGhWMVZHanRIdXhJRWt2N0Y4bjI0UFYtMU1rdnc2cldQRnkwZDMtSTVIendDMjhKdE",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVF9zaXNoMlRLY3Fva3BlZVdPdzVMRnJfSU9xTjVIdmFPTGZ4WkU5Rkl0eTNDVVczZkhSbjd4UGhWMVZHanRIdXhJRWt2N0Y4bjI0UFYtMU1rdnc2cldQRnkwZDMtSTVIendDMjhKdE9VLWUyY3FJa1lPbFFIQUg1R1R1MFhLZUY4Y3REdDhCaDlDaGVLZG9tZV9lOEp4cktRZFRj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-13-031",
+    "date": "2026-05-13",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Archer Daniels Midland (ADM) Stock Outpacing Its Consumer Staples Peers This Year? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTU4d1pQbWNDY1MxZ05mUnJ3MW8zZnNuT3J1Y0NjTmNpelducndsaG1NeUpHOHZTQk1PNkJrUVoyZDNwUzlmazF0Njg5cVpOR3FRS2ZYa1FueFpxVTRZZ0hOM3o3UURsdVhLaS1TVT",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTU4d1pQbWNDY1MxZ05mUnJ3MW8zZnNuT3J1Y0NjTmNpelducndsaG1NeUpHOHZTQk1PNkJrUVoyZDNwUzlmazF0Njg5cVpOR3FRS2ZYa1FueFpxVTRZZ0hOM3o3UURsdVhLaS1TVTA5NnkxWVdtTm1aZ1V2MnpVSkxIZFo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-13-032",
+    "date": "2026-05-13",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look at Archer-Daniels-Midland Co (ADM) After 4.0% Gain -- GF Value $59.39 vs Price $80.73 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnlWbGtENlhPOEFfOVVjNnAyTWxsbGlVV0RyXzRTMURoZWt3alhxanZMTmNZRHRJUTdUT1dvVXg4X0xhSTJkbjVzd3VuOGRMNE9VYzlIazJsQmtEc2R2YzMtY2ZFZ1BfaUNYZHdxU3",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnlWbGtENlhPOEFfOVVjNnAyTWxsbGlVV0RyXzRTMURoZWt3alhxanZMTmNZRHRJUTdUT1dvVXg4X0xhSTJkbjVzd3VuOGRMNE9VYzlIazJsQmtEc2R2YzMtY2ZFZ1BfaUNYZHdxU3dQcHNkeXdsbXVLNGhEM05FZUZrai13WkxYcFFzbDNRWkxkclI1ZWNqdEI5Y3h5WHBnZlJxREYxUzZ5TzN0NFJTeGx5WHdSSUpYaTBxOU9pRkhFWVRjYmc1SGRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-13-033",
+    "date": "2026-05-13",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA stock (US12185T1043): Global agribusiness leader with diversified operations - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWNPaUkxSFR0M1VFS05ZaTNwVFFUU3l5M3JhS1RGRC1WcUJyVElhYnNEdmYxbU1RRUdSc1FJLW90V0hGUnJiaGNDU3hUM0xpMHZ2ZmM3dURNRFJHVVMzNGJULVlid3FjRzlyWFJCR1",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWNPaUkxSFR0M1VFS05ZaTNwVFFUU3l5M3JhS1RGRC1WcUJyVElhYnNEdmYxbU1RRUdSc1FJLW90V0hGUnJiaGNDU3hUM0xpMHZ2ZmM3dURNRFJHVVMzNGJULVlid3FjRzlyWFJCR1lOTnNYQUs2WC1JWll0SFVuMUlSOGtpOGRmRWVKNUFqb3Q2eUlPeUJ1Rjg0VXJVczhlTWtnMjIyWG9mWHBZRVdpa2ozRXJxeFE3WUlRMTQ1Q05ESkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-13-034",
+    "date": "2026-05-13",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial AGM Highlights Dividend And Board Moves As Earnings Tighten - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORV9vd01BZFROMWVKTzBKMlFpQ1dsc0hZT3ZtTC02WWhxUGdVOXg3SnJncnZWb1kxZXBNOGZLQUNaUXViTVRUZXZaQno0blNWclVkcHpJV0VBZmgzWjBaMVF1c09RMWUteWRIYXkwSD",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORV9vd01BZFROMWVKTzBKMlFpQ1dsc0hZT3ZtTC02WWhxUGdVOXg3SnJncnZWb1kxZXBNOGZLQUNaUXViTVRUZXZaQno0blNWclVkcHpJV0VBZmgzWjBaMVF1c09RMWUteWRIYXkwSDcwSjZkbFRMeVZ2cnpnRERiY3hLM0FUdGxOTHdBWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-13-035",
+    "date": "2026-05-13",
+    "companies": [
+      "cnhi",
+      "deere",
+      "agco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights Deere & Co., CNH, AGCO and Alamo - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakFodVRwYWRGcExSeGJIWFlhdnR6OV9KLUlUV2ZuU285R3ZmNl9SZzdXLTVVU3BSLWloc0hGUjVKakEyZ3VEc2F3UVhYa2FyczZRV2VPbUt0bEtLX01IMVFmLXhGRWhOWnkxS0pwdk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakFodVRwYWRGcExSeGJIWFlhdnR6OV9KLUlUV2ZuU285R3ZmNl9SZzdXLTVVU3BSLWloc0hGUjVKakEyZ3VEc2F3UVhYa2FyczZRV2VPbUt0bEtLX01IMVFmLXhGRWhOWnkxS0pwdk9XVWNLaGptRnE3aUJjRzUxVFhwS2JRVlhQRVRvUVMxTVI1R3pZazBYa0tqNEdVcW9jOElwRG9XTmNWbDI0NWNPcktZMkNrcHp4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-036",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "House approves year-round E15 in bipartisan vote",
+    "summary": "Senate vote looms as American Soybean Association seeks changes to the legislation.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/house-approves-year-round-e15-in-bipartisan-218-203-vote",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-037",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Soy group won’t support bill on E15 gasoline",
+    "summary": "American Soybean Association cites study showing corn price gains offset by soybean losses. Corn growers and biofuel groups criticize research ahead of House vote.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/soy-group-won-t-support-bill-on-e15-gasoline",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-038",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn, soybean rally holds the line in midweek trading",
+    "summary": "Afternoon Market Recap: Wheat prices took a step back after capturing massive gains on Tuesday.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-039",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "‘If I was there, could I have done something different?’",
+    "summary": "Rethinking Grain Bin Safety: After a grain bin accident took his father’s life, Cory Ritter reflects on the dangers of farming and the importance of safety. Learn how he’s changed his operation since ",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/tragic-grain-bin-accident-reshapes-farm-safety",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-040",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farm Progress promotes Allison Lynch to editor of Indiana Prairie Farmer",
+    "summary": "Lynch to lead editorial direction for Indiana's farming community",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/farm-progress-promotes-allison-lynch-to-editor-of-indiana-prairie-farmer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-041",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will Trump’s Chinese arithmetic add up to more U.S. soybean sales?",
+    "summary": "Morning Market Analysis: Soybeans extend rally to two-year highs overnight on bullish USDA data, U.S.-China summit hopes.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-042",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Record beef imports surge as U.S. herd hits 75-year low",
+    "summary": "Farm Progress America: Brazil and Argentina fill gap as domestic production struggles to meet strong American demand for beef at record prices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/record-beef-imports-surge-as-u-s-herd-hits-75-year-low",
         "type": "rss"
       }
     ]
@@ -664,6 +1559,442 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-policy/trump-delays-move-to-lower-tariffs-on-beef-imports",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-12-027",
+    "date": "2026-05-12",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Fertilizer concerns grow as Mosaic reduces domestic phosphate output - Brownfield Ag News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjNnUnZJUjRmTlpDUm9VRnU3QndTU1ZBbXVraEYzV0ItNGViSkZBU0EzelRicGJWWm9qZlo2MHhJUHIxMnpyZ2NzZ21jZm9jSGt6U196MHVHdlFWQnlZR1NYWURxdVFMTlV6SWcyT3",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjNnUnZJUjRmTlpDUm9VRnU3QndTU1ZBbXVraEYzV0ItNGViSkZBU0EzelRicGJWWm9qZlo2MHhJUHIxMnpyZ2NzZ21jZm9jSGt6U196MHVHdlFWQnlZR1NYWURxdVFMTlV6SWcyT3RYZVZfdTJ6ZnVHNGEwN1JZak1vRFNaUHprd1dDVzRHdFc2ZmdIbjBTSDBrQVBWRXBnUllRMXhQOUMtajQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-12-028",
+    "date": "2026-05-12",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Mosaic Company (NYSE:MOS) Q1 2026 Earnings Call Transcript - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxvTlkwdXEwY1hGT0hqamNjc0xnTzllWmZXVzctZ1Nmb1FVNXR6b1hLMkVFNFNPNHNoelFKanVtWE0wWE9zN19SNnNYbG56Z3AyRkxOekdNRkN3dEJCNnpuaFh6Z1hGQ29yTWp5V1",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxvTlkwdXEwY1hGT0hqamNjc0xnTzllWmZXVzctZ1Nmb1FVNXR6b1hLMkVFNFNPNHNoelFKanVtWE0wWE9zN19SNnNYbG56Z3AyRkxOekdNRkN3dEJCNnpuaFh6Z1hGQ29yTWp5V1lENGNuNVd1bHYzVVJqeDl2UndfOUtBSVE2V0xFdkQ4TUJrMW9DbzZ2bFBZZ00zaERfQlZ4cURn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-12-029",
+    "date": "2026-05-12",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THE MOSAIC COMPANY REPORTS FIRST QUARTER 2026 RESULTS - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVjJFVnNaOG9OYU04ZHJTT1g2RmhSUy1zTEZUMU1OTTkxMUpfSGhBMkdwY09nT0pXdmFqcW5rX3FLa0pHa2JFZzFDaUg2blFhZW8xNE0yVnF0QnFqR1BVSmx4RlVMQjVpdFBRQWpEOH",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVjJFVnNaOG9OYU04ZHJTT1g2RmhSUy1zTEZUMU1OTTkxMUpfSGhBMkdwY09nT0pXdmFqcW5rX3FLa0pHa2JFZzFDaUg2blFhZW8xNE0yVnF0QnFqR1BVSmx4RlVMQjVpdFBRQWpEOHJuOTBFc1ZOVlVjUGd4cjhzaXBYY3JUQld5d2syNW81dllxTTBJMDVJYXo2WTlnX0h5TmkzNFpwcmp5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-12-030",
+    "date": "2026-05-12",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASA Statement on Mosaic Phosphate Production Cuts - Oklahoma Farm Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3AyR2VpUzh3bW9yWm4wdlBLWllTTmdqX3hJWXNMWnRNTVNZTFlCZ0s0ZXpiNV9jSGRubkxnQ1lZdk5RRTNBd3JpOXNYN3hocUE1VWxFZ1ZLT2stUVpMUEZFOW1rdUNOeGt6SURVeV",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3AyR2VpUzh3bW9yWm4wdlBLWllTTmdqX3hJWXNMWnRNTVNZTFlCZ0s0ZXpiNV9jSGRubkxnQ1lZdk5RRTNBd3JpOXNYN3hocUE1VWxFZ1ZLT2stUVpMUEZFOW1rdUNOeGt6SURVeVFfMXZYaUFPUE1CcFJ4Qy14X2JnRFRRY3FyQzBMQTFucVROb3h6SkxrNTlDcTM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-12-031",
+    "date": "2026-05-12",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Mosaic cuts output as input costs soar, but bets on biosciences for future growth - AgTechNavigator.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeTl3LVdlaDFWRUpuT1ViQ1V2YXZ3ZFM5c2xnWGlLX3JtZmo1aDFHODFhWDkyZFJ0aU9xa2M2dWQ2LVM0cVdhSEQ4TS1BcTFMdkFUX2RVM0pCSWpFcUh3NnJLTVlDSzAzNmJVZmVpZE",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeTl3LVdlaDFWRUpuT1ViQ1V2YXZ3ZFM5c2xnWGlLX3JtZmo1aDFHODFhWDkyZFJ0aU9xa2M2dWQ2LVM0cVdhSEQ4TS1BcTFMdkFUX2RVM0pCSWpFcUh3NnJLTVlDSzAzNmJVZmVpZENoMGdGdm5NaHREUFFiT216VmU5UjRRNUZOdURqR1J5RjVTV0h2TFB6cTc2b2cxNER4NDM2M2ZJaTd2allYWnM4S3NJeGRXQk1OZEVzVUJSUW5Kck8zM3Jsa3FEVDM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kpluss-2026-05-12-032",
+    "date": "2026-05-12",
+    "companies": [
+      "kpluss"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "K+S AG (KPLUF) Q1 2026 Earnings Call Highlights: Strong EBITDA G - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQazllUG92N3RKN1B5dEhQYXk5LWZhT3dsS1FRN3FyTDdrcEtsb010THczdUJJbFZjNk9pcXMxX3pGNEZtOEtmSHFvZ2EtZzlNRndIdlhPbzQ3MXZ3R1g1bGhzMW1kOWdpR3dFUUlDTD",
+    "sources": [
+      {
+        "name": "kpluss",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQazllUG92N3RKN1B5dEhQYXk5LWZhT3dsS1FRN3FyTDdrcEtsb010THczdUJJbFZjNk9pcXMxX3pGNEZtOEtmSHFvZ2EtZzlNRndIdlhPbzQ3MXZ3R1g1bGhzMW1kOWdpR3dFUUlDTDB5d19UUTlabVJ5VXFYOHJYZXZVTEdMZjZmcjBlbmQwMFR5MVhKMURXQUNMM2V1ay0tUUcwVTRmeUNGMDZHaENBQm5VRkhLTWpyNUt6NDVFNDg0bnBUT2Ryd1Njcm9hcVYtb3lFVXY3bVktc1JnVUVBZl9Dc1JKU0RxUFBkUzF5Y1UyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-05-12-033",
+    "date": "2026-05-12",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is It Time To Consider Buying Intrepid Potash, Inc. (NYSE:IPI)? - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXFUTVAtUWR3QzJaSXFGUWkwVmw5YnIyaXBkTXRYeWdJZk9INFZ3NnEwQzZPXzZGT1A0Yi1lWEZrMm5HbVVINUxKVWZDXzhNTndDZ0o3YV94TTdjcnpLTXV1TnlENllwbEZJcFF2ZV",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXFUTVAtUWR3QzJaSXFGUWkwVmw5YnIyaXBkTXRYeWdJZk9INFZ3NnEwQzZPXzZGT1A0Yi1lWEZrMm5HbVVINUxKVWZDXzhNTndDZ0o3YV94TTdjcnpLTXV1TnlENllwbEZJcFF2ZVhGNTk1cWdEaUhaUlVrUURZNUdEUkJiV2huQklfMS1LY3RPajBacUlQX3cwZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-12-034",
+    "date": "2026-05-12",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Did CF Industries' Q4 2025 Earnings Beat Signal a Turning Point? - Kavout",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUk5oWEJLQkhnSFNOLXVIeW8xT0ZUek9GcjlEelpzVzdwTWlzYkJDd1VWTEhnaEdBazhsTFBEUll2R09OQlJYOGo5NFJkUFZFSWtjZHNmTUNycUd4NnRiSjNvejFFLVRRUHFyc09XRk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk5oWEJLQkhnSFNOLXVIeW8xT0ZUek9GcjlEelpzVzdwTWlzYkJDd1VWTEhnaEdBazhsTFBEUll2R09OQlJYOGo5NFJkUFZFSWtjZHNmTUNycUd4NnRiSjNvejFFLVRRUHFyc09XRkJoc2tIQ3liQTZDR2JNVTBJSXlEdklRZGhpUXg5OEFLMGR0TFR4SEFSX1JpZTRRUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-12-035",
+    "date": "2026-05-12",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Adapts Strategy Amid Nitrogen Supply Disruptions and Low-Carbon Transition - ChemAnalyst",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVRLakhKQVc3cjFyREJVR3MtNUlwVFdPSDV2YnZLbzg4WUl3b0NranFlbG9DT2ZIUVViNWF3ckpFQkVoTm1GemJNRXAwNGVvVy1Oa1hmVzAwUkRSaUZnenlXdjFqNlNsOExYYXUzbG",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVRLakhKQVc3cjFyREJVR3MtNUlwVFdPSDV2YnZLbzg4WUl3b0NranFlbG9DT2ZIUVViNWF3ckpFQkVoTm1GemJNRXAwNGVvVy1Oa1hmVzAwUkRSaUZnenlXdjFqNlNsOExYYXUzbGdyTjNrZU9uZ2U5aHdtNGlhN1I0TWNuVW9ORlpMOFVuM2VVWUtSLVFkam9YaFAyN1Vsd2dvMk16ekVWaUhqb1A5Tk85dDZNWTRJRFpkNFdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-12-036",
+    "date": "2026-05-12",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's Why CF Industries (CF) is a Strong Momentum Stock - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU90MVJkZEJzbzNQMEhiakRxRElWZ05LNklSUXhqNUM1elZ0d3AyZnJncXcxUFpkd2UyT2V0NjN1R3ZXVHJPdVJwMkp2WEM0bGpHYU1HeXR0SXRTSkhpejEzN015OHZDWFppYUxNZE",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU90MVJkZEJzbzNQMEhiakRxRElWZ05LNklSUXhqNUM1elZ0d3AyZnJncXcxUFpkd2UyT2V0NjN1R3ZXVHJPdVJwMkp2WEM0bGpHYU1HeXR0SXRTSkhpejEzN015OHZDWFppYUxNZEtWbG5QYWpvWmluMjVMM1NwckxUYnpsWXhZZlNobFBqZmFtQkw1V2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taifer-2026-05-12-037",
+    "date": "2026-05-12",
+    "companies": [
+      "taifer"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Fertilizer Co stock (TW0001722002): Investment in Japan's welzo highlights global expansion - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNLVdkeHFFcXJHMDhhTEI1aEdWU1Q5UmFDSjVQejBJZnBacVMyMEc0MGNTbi1GdUxPRC1uWl9QM1dQTF9XeG9SMkszV2h4eTUzMFExMjhjOXpMeFNVWlVwZ2JwVUpoZWo3blZ5eVhDSU",
+    "sources": [
+      {
+        "name": "taifer",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLVdkeHFFcXJHMDhhTEI1aEdWU1Q5UmFDSjVQejBJZnBacVMyMEc0MGNTbi1GdUxPRC1uWl9QM1dQTF9XeG9SMkszV2h4eTUzMFExMjhjOXpMeFNVWlVwZ2JwVUpoZWo3blZ5eVhDSUJNa2NEZzljNnZxLTBXQndFRXFSMXllVnBta001SzFvR2dmNDJqUmxEV2pPeklOVG5PYkJqdkp0Sm0zVmgxYkZsZTI3aG1wY1cxeDVKajFHLWRhTWM2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-12-038",
+    "date": "2026-05-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seed spinoff Vylor to be headquartered in Johnston, Corteva announces - The Des Moines Register",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1VkN25QWXBwcjlDTjNlQUYtQkRIVjZtOWMyTDhoX0lLcGZXVnhTZzd0QnQxcVdHdmhta0UydkZWamxLWFhDc3hOcllPbndKYnV0VVVEYU45SDctMDhValFVSUs4d0pzeVYtUUdxRX",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1VkN25QWXBwcjlDTjNlQUYtQkRIVjZtOWMyTDhoX0lLcGZXVnhTZzd0QnQxcVdHdmhta0UydkZWamxLWFhDc3hOcllPbndKYnV0VVVEYU45SDctMDhValFVSUs4d0pzeVYtUUdxRXk0aE45cUVUSDluQUVwcUtsUVJjcnVHR2gwdGd2WWVyZUxKUzVnX0RwWWFfNkpQQnI4N2ozcUtabDVydnAwenc2RHF1cnBQdTNIdkhfbmMtckZzY3doYlhWa3REak04eVVTbFVsbm9DTzFXd1JtT2I4bg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-12-039",
+    "date": "2026-05-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva's future crop protection company to be headquartered in Indianapolis - WTHR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVJNZkhfS3ZDSWVRZmRzVlRhazZlenYwd05HUG1qN2RlMVE5d3k5dFBjOEFPQTJRTXgyaF9Iak1jV0hDQnNGOU5vNW1HZ05XS25ZeHl6TzJTOE1TUlNFN3RwbFNlLTREZkVKSC1vdn",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVJNZkhfS3ZDSWVRZmRzVlRhazZlenYwd05HUG1qN2RlMVE5d3k5dFBjOEFPQTJRTXgyaF9Iak1jV0hDQnNGOU5vNW1HZ05XS25ZeHl6TzJTOE1TUlNFN3RwbFNlLTREZkVKSC1vdnB6c09VTVppVXIzbkFzYTNoSi1QWnJmU2tEU291Z0c1RDdGZzFSVzE3QTZYTmxjSFI4X0c0NlhqaFpXQ2l3SzB6dmhTTldyeTlkbmdGOFYyamdFblpHQTMxWC1ieXNjOWhaOWNTcGlHQkZ3dWU2QUNROVF6UGtwSHBCNW00MHlCMDBoVkI1MHJlVnAwSnBxX1p6WUx3ZHh0Vks?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-12-040",
+    "date": "2026-05-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Announces Headquarters for Two Future Companies Following Planned Separation - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRlc0SjhpY3Q4T2tPMGNBQTZNSUItSVhYaUl5SWpTNlNQUUY0X3ZHNUQzZVFpVzU0WnBRemZvRzNkRGU3WXlLRkk0dkhDUXl1a2FaMUhqdHlWMlR0dmpvd0VSWWphRm5zRUpSbGFMM1",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRlc0SjhpY3Q4T2tPMGNBQTZNSUItSVhYaUl5SWpTNlNQUUY0X3ZHNUQzZVFpVzU0WnBRemZvRzNkRGU3WXlLRkk0dkhDUXl1a2FaMUhqdHlWMlR0dmpvd0VSWWphRm5zRUpSbGFMM1RkdWVsOUpQYWNHeWR0RllVYk9uVTMtSmZ2ZTcxa0VSelpYVkU2OTRndGp2aUdXdXctdkt1WmcxUFNMTS1DZlZ0RHdaWDBReC1zOUZWc051cVlRM3E4SUtBQ1lpQU12dEd0b0lXQl9qYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-12-041",
+    "date": "2026-05-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iowa to be headquarters for Corteva’s Vylor spin off - Radio Iowa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjBGZmE0NF9XX2FYSUZOcHkyT0xjbzZkZmdGaVpEMEFpZjYzQjJxZFpUTllPNk1MSW9haDJRR1dIdXFIU2c2aXItTGpDRjZ4VXJ3NjV1alBXNjlLVHVSODZHSG5mUnJibWhvckwwNk",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjBGZmE0NF9XX2FYSUZOcHkyT0xjbzZkZmdGaVpEMEFpZjYzQjJxZFpUTllPNk1MSW9haDJRR1dIdXFIU2c2aXItTGpDRjZ4VXJ3NjV1alBXNjlLVHVSODZHSG5mUnJibWhvckwwNkpaaGFNT0k3bW94dEl4ZkNibEdPeUNLQlpQbFg2WGNES3JCa0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-042",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Future crop protection and seed firms to base in Indiana and Iowa - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPTnc5dmFtSTJuMzBGZzg5SVRfeVUyS0JTNXNUNkNzSm9ERjFHazVQN051V2VSVE1Hb0UyS0l1eGRaTzBzTW5PX0RHaURnUDh5TFkyTUhuX2xVZlNYa29uSDdpQXk2MEpKRUJXdjRra1",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTnc5dmFtSTJuMzBGZzg5SVRfeVUyS0JTNXNUNkNzSm9ERjFHazVQN051V2VSVE1Hb0UyS0l1eGRaTzBzTW5PX0RHaURnUDh5TFkyTUhuX2xVZlNYa29uSDdpQXk2MEpKRUJXdjRra1F4RUdnWER0bkd0UWNRcmgxQUVCVnotc21ZcGRxV3FqSnZFdEI2Z1U2MUhUVzBTbUs2Q2lLTE5PTWlSclFyYWZJNUNiMkhXVVhtMHpKWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-12-043",
+    "date": "2026-05-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland: Why My Cautious Outlook In 2021 Was Correct (NYSE:ADM) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWItWkQtTURNNjFuUFJndHUyUm0yV2VZbE5BUDBzNjBZU2otQXVmemJuRW9NQlJUeENuS2N1RUZHeTMyQkVwTWZhbXhLTjlicFFQRkFIOF9tbUFGclZRS042aERLSmZtaHRaMFhBTl",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWItWkQtTURNNjFuUFJndHUyUm0yV2VZbE5BUDBzNjBZU2otQXVmemJuRW9NQlJUeENuS2N1RUZHeTMyQkVwTWZhbXhLTjlicFFQRkFIOF9tbUFGclZRS042aERLSmZtaHRaMFhBTlR4dThpdlh0ZnBrSFdzYUp2Z0xvYUZiNUpEbUpTUjkwU25HaThKR1hhVEF1eEZrS2tYcVFUTGNzRXZFMFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-12-044",
+    "date": "2026-05-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (NYSE:ADM) Hits New 1-Year High - Here's Why - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEdRVnZqZmpmTUt5SGNCejVNSGVuM3pCVHlmWTlWX0tSUy0zXzhVN3BWeEhGSHJBWUFBMGZWUDZFeHZIV1BTNlBrb0tVTEozQ0l1VUVMQVdkMDJBV0VkR2wzZk9iQThZdFo2a3piU0",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEdRVnZqZmpmTUt5SGNCejVNSGVuM3pCVHlmWTlWX0tSUy0zXzhVN3BWeEhGSHJBWUFBMGZWUDZFeHZIV1BTNlBrb0tVTEozQ0l1VUVMQVdkMDJBV0VkR2wzZk9iQThZdFo2a3piU0oyU3JvTkFVa1QxeGlYN2hpeFRleXNNMy1ReGhNSXJrVUNzR01HMDNEOU1xM2xRN3lleDhUWVNpd055UFg5UFJRZXRYMjc4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-12-045",
+    "date": "2026-05-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM (NYSE: ADM) investors approve 9M new incentive shares and reject pesticide report proposal - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGpxb1JHV245b0hzMEpOcDlYNDlnVDl6T1FCRUlnOWE4RTdtWVZVT0Nvc3Z1M3dUbTRLb0otUFg0b2tlU0h5MXBpczdBdlE1c05xYkVUZXpXc0FOaFJWQ2hiSFRjdzJpZHRsdzNGWk",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGpxb1JHV245b0hzMEpOcDlYNDlnVDl6T1FCRUlnOWE4RTdtWVZVT0Nvc3Z1M3dUbTRLb0otUFg0b2tlU0h5MXBpczdBdlE1c05xYkVUZXpXc0FOaFJWQ2hiSFRjdzJpZHRsdzNGWktOc2w2UGVrT2lVYjM5N3hzRGlHQkNGc1FhZWh2OWowa3pfdnR0MjcwdzNSYkRaMEo3RDVFal91VUt4NG1fckI2b3piQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-12-046",
+    "date": "2026-05-12",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[Form 4] CNH Industrial N.V. Insider Trading Activity - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxON2lsdkZnM0Q1VTYyVWtMLWdfUEc0UHdISjVZdWh6ZzVLT3Y0Mm94MURic1hMU1h1SXlUdjlYa2RocmY4bmt2ZE1tNlZYeHZtTmRiaUp4c0pMMEFaZzFPVXo4ZFl0aldUa3VhTDBPUn",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON2lsdkZnM0Q1VTYyVWtMLWdfUEc0UHdISjVZdWh6ZzVLT3Y0Mm94MURic1hMU1h1SXlUdjlYa2RocmY4bmt2ZE1tNlZYeHZtTmRiaUp4c0pMMEFaZzFPVXo4ZFl0aldUa3VhTDBPUnRoSEJmemtwMl9KWFB0YjFBYTJLbDhZT2VDTFN5dEYyWW5VNGlxb25uSzBqWU9kTnFLOUxZaWRfaGtsZ20wM1BuSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-05-12-047",
+    "date": "2026-05-12",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Kubota Corporation Just Recorded A 33% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNa1ZRU3YtV3Y2bFJQSURYbFZETGZuS2o0clBGWlZxaGtNcml5UFQwLVRuSlJyS21FQVFJeXphemZDRmIwR1BKLVRDRWhtQlUtdmhHVzhpRWo5WDZBOG16dUxnU3R1SUZFNFJDekhLbW",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa1ZRU3YtV3Y2bFJQSURYbFZETGZuS2o0clBGWlZxaGtNcml5UFQwLVRuSlJyS21FQVFJeXphemZDRmIwR1BKLVRDRWhtQlUtdmhHVzhpRWo5WDZBOG16dUxnU3R1SUZFNFJDekhLbWdNN0xQdnBvVDdQZ3d1dDRVT3hQa3daelBnVVhMOFZwTTFQUWFYOXhlNFNwUU4wOHlSMUo2cnN5cFJiUWxzSUVaU1JSOTZfMkg5bURCNzRhUHdFc0trOUdXQnYtRmdoUWPSAdQBQVVfeXFMTWhQa01rckJkWm4ya2p5S05uNFJmTXF5S2hRT3RmNGtXc1FVODdfSXBNY2RwRTJWd1A1YzNRdk40WE93VGR1UmN1RGU4ZmlNUjg3MTY5Y3l4N1ZodVNLNFdtX1BCNDlLMU4zcEVmZXJaUjRKNlgxQW5aclRPRjIxTmhiN1hvaEl1TmVYcnRPV2VzRk9VNERuVGk3UmhaXzFKeUhhc2oyQXZLU2R4NG9Zek1VTDF2RDlJMDN6SE5NbnJHZzcyajdJQXFSelU3MVhCVWFqTEs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-05-12-048",
+    "date": "2026-05-12",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kubota Corp stock (JP3264400007): Recent price gains amid strong earnings momentum - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQk9fdHRwbTE4MjJwbXdlOExMczd1YjBBUjdwY2lxTGx2ME95QXUzYzlkNEpLQmpkMUtaaFY5MlFPa3FHV0dralBjc2xkY1pZTUQtTEJYMGVhWUhLcEJBMmhZREpBLUV6MVlRN3EyS0",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQk9fdHRwbTE4MjJwbXdlOExMczd1YjBBUjdwY2lxTGx2ME95QXUzYzlkNEpLQmpkMUtaaFY5MlFPa3FHV0dralBjc2xkY1pZTUQtTEJYMGVhWUhLcEJBMmhZREpBLUV6MVlRN3EyS0dYRzFGYTJzQ2pXYU8wbjAyR3VlcGdRaUFSWmRJdmp5X0FFbndVaDNtQ20xUFZJbUM4Q1RUU3VDNWVXTUpXSGFqM2RnNlpZZUd4MURqSHRXMllQRVNkVlhIdQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1729,6 +3060,127 @@
     ]
   },
   {
+    "id": "mosaic-2026-05-11-055",
+    "date": "2026-05-11",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Research Alert: CFRA Maintains Hold Opinion On Shares Of The Mosaic Company - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFpSYjhic3RyZzJuTUdrWUdYU2JBdVFmOERKbUNpRk5VQlJFeEUxa3Rzbi1FOWd3alo1UUVYU0xEUXBEd2hUMmZDcGJ4WDg1bFFzZjJFN1FvODF6d01tSVNkRWt5UTFXSF9OQkVFZm",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFpSYjhic3RyZzJuTUdrWUdYU2JBdVFmOERKbUNpRk5VQlJFeEUxa3Rzbi1FOWd3alo1UUVYU0xEUXBEd2hUMmZDcGJ4WDg1bFFzZjJFN1FvODF6d01tSVNkRWt5UTFXSF9OQkVFZmVDQ2Nza1hqZ0JaWDNsTEd4OXdMaG9Ea3RLS3JiVGM5cnUzc3BFbTdKN1NOQ005cGpWckZZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-11-056",
+    "date": "2026-05-11",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at BMO Global Farm to Market Chemicals Conference - Your Wyoming Link",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRHJiQnlqb05lMm5JY2dXd1dHdUtRaDFwZVBnMlVJUzlnSHFoek83aTRIMWxNWXlEdEFvRHZHQkJLRHVuNkpMR2JNY1llUkk5dWlfWm13U2tjYURUUW9aQ3ZLSWFETDB6VV9uOVpxOX",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRHJiQnlqb05lMm5JY2dXd1dHdUtRaDFwZVBnMlVJUzlnSHFoek83aTRIMWxNWXlEdEFvRHZHQkJLRHVuNkpMR2JNY1llUkk5dWlfWm13U2tjYURUUW9aQ3ZLSWFETDB6VV9uOVpxOXhWVVRnUGxCbDhha2N5TnZuZ19leUFrZ2tOMHFFM3pLZXpRVmlvMkVYUkUxdVdZbXQzRXEyUHpWTG83WVU1TTBiMzNlLWFLcDZoQ0t0eGRZZVo5Vnhtbk16WVN3Q2FyVmpjZDUyZjZxbzZLOGhwc3M3QzZZQ1hIQ05DRzNxSEVpaGg4eFRqYzZWRnpEd05xZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-11-057",
+    "date": "2026-05-11",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at BMO Global Farm to Market Chemicals Conference - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeFRWNFB1T093YVZxRlkxc2NuT3g4MWNXMmZIUWNKU1FtV29vYkM0ZDBka1NjbC1TUVJUX1RWRlN3ZDBSU1Zzak9RWWItUTA1RHRiNGVvYXpRb2ZhOWQ2emdQbDRWZnE1LXBzclQwTm",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeFRWNFB1T093YVZxRlkxc2NuT3g4MWNXMmZIUWNKU1FtV29vYkM0ZDBka1NjbC1TUVJUX1RWRlN3ZDBSU1Zzak9RWWItUTA1RHRiNGVvYXpRb2ZhOWQ2emdQbDRWZnE1LXBzclQwTmJKQjVvZm1tTmRsWEVJZFZMWGc0NEZQcDN2UTNXd3kwcWdqb2k3Rm1La2lLb29ZdzFWcURESnBocG9YNG1sYU1pUVBQT2ZBaXJyMUoxTld5V3JYZTVaQUxSbHhQZ0haQWF2WmpOSy1xMkRwVEMxOWJQbGlPTWVuSnNQbE14dDdCNW4yZjVtSDZ5XzFfRDFmZWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-11-058",
+    "date": "2026-05-11",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge opens new soy protein concentrate plant - World-Grain.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2pSR0NJc2t6QkFUUDBpT0pQRTVEdzJUVWFfbURRMEtiNks5QXBtV05NYVEtSjBKWWhxTFMwUF9ZU3BqZ2VGVzBOdzJSWnJUMi1VVWxqc19RZFgxNFRsNkh2N3l1VnJJYnB4VTZ4Ql",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2pSR0NJc2t6QkFUUDBpT0pQRTVEdzJUVWFfbURRMEtiNks5QXBtV05NYVEtSjBKWWhxTFMwUF9ZU3BqZ2VGVzBOdzJSWnJUMi1VVWxqc19RZFgxNFRsNkh2N3l1VnJJYnB4VTZ4QlVRSVN1cDhBVWlvWGx6Y0hTQTI4OTZzeDZqUVVma182VFN3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-11-059",
+    "date": "2026-05-11",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CNH Industrial cut at Goldman Sachs after stock's strong outperformance - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQODlvUzZhZkNfTy1RVjU1QWx1ZzN2aDBxdExCLXd1YUZzTmV0eVhVNkJzOXZfU3JzUzBFUEtIeEVkY0RyUjV2bDFuOTNJUUFoVVpMdWp3dW1QS0doandRWjJaWGtyY3J1dWxxTlFJVk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODlvUzZhZkNfTy1RVjU1QWx1ZzN2aDBxdExCLXd1YUZzTmV0eVhVNkJzOXZfU3JzUzBFUEtIeEVkY0RyUjV2bDFuOTNJUUFoVVpMdWp3dW1QS0doandRWjJaWGtyY3J1dWxxTlFJVkIzcURsOWFQOTl5UTJLMUduWTZGTTFaRjAxQkZaVDJZMXZiZE43NjhFdlhCdVVFYU1MS29ld2Q3OTh0RUgzeGoyaUN4Wk1JMHZPNFk5RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-11-060",
+    "date": "2026-05-11",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Goldman Sachs downgrades CNH Industrial stock rating on demand concerns - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOazQwWkdHZzFYRGhZdGE2WFpFbC0tMHU1elpERUZfTTRueThva3J0Q3NuRDhCV2FmRElTbzlLWTIxSkczcFljaFZLQUtNeGlLbjZsTGUwdi15X2hRVnJBTFpIenZxV3F1V3VmcnljLX",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazQwWkdHZzFYRGhZdGE2WFpFbC0tMHU1elpERUZfTTRueThva3J0Q3NuRDhCV2FmRElTbzlLWTIxSkczcFljaFZLQUtNeGlLbjZsTGUwdi15X2hRVnJBTFpIenZxV3F1V3VmcnljLXppT01vVmJ1MGlSN09kNjNReUxONTZvUF9QODBJUUY0b0tleDM1SDNXMDgxM0VnWFJ4WlF6OHFuNjl0U1dzenktaVF0aTkzLUNsODk4M09fYnhDeEtIbzIwZzZXdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nutrien-2026-05-10-001",
     "date": "2026-05-10",
     "companies": [
@@ -1936,6 +3388,27 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa0tBTkxpSTRrQ1hTbUc4eDdNQkRvWjZvMk03bGs3SmRFdkV3TUNmeWZjVG5jakFLdVRWZ2ZfaXpwcVc2MEp6T0NNaTFDblRfSmY4cFF0X2tFNkMwbUQ2Z1o4RGZNTm9HNVY4bzBMRHBVSUlaZkhpaWVEYkhjbUVLQ3VtV3dHNzE5dnZoWFNReXpBUlp5MWxTZU9BUGNVVFdKaDNyU3RVeVR3VE5BNmxwTVdEd0JpQTFXVWQ2dWZPOU00OHNiRzQxU2o0UGlhVHZoYkdRSTVERGFpeTZTbjNPZ3BNR1JtWXFjZGhuS0lNZjN6aXRBWWJyVEpraEM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-10-012",
+    "date": "2026-05-10",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Mosaic Company Provides Earnings and Production Guidance for Second Quarter and Full Year Ending 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUWpPQ3JsWmRtdk1sdVlXeGdEUEJRa2dYbDc1NUJFaFpMa1d4N0ZJZmhHb1JVcm5GMC11Z3BNM3VHT0hmeGNjVzFNWXFtc2dZMlYzRFl6SkNfcHJ3WWZtLTZtcU1XVjluZUxDMHUtcW",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUWpPQ3JsWmRtdk1sdVlXeGdEUEJRa2dYbDc1NUJFaFpMa1d4N0ZJZmhHb1JVcm5GMC11Z3BNM3VHT0hmeGNjVzFNWXFtc2dZMlYzRFl6SkNfcHJ3WWZtLTZtcU1XVjluZUxDMHUtcW9WcmxWMmZ6M2NhbHQzYXI4VnlwR0RYT0F5QlRHcTJ3TUxKSmI2ZmNkMHRBdE1QNXlPRGRHQ29IaE5mdlJDa3Y0X3Y1M0xma0Y4aGp0QXVoc0p4VnFGT2x1STZSQi1MUFF2TXJmTXdad29WemF1eTh6MjBac2lWSkxk?oc=5",
         "type": "rss"
       }
     ]
@@ -2440,6 +3913,27 @@
     ],
     "impact": "neutral",
     "title": "CF Industries posts $615M Q1 profit amid tight nitrogen markets - msn.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjdrLXN5eDc4WDhza0tQaHp1UkJ3VTlvVDZwRWFQYVAwUFMzeFVsdEJib05HWGVvVmU3Sm9FSUpLOHh3YmktQkJOX043VkhZZFRLMUl5VzZ6UlZMS2tSeE5sLWw3OVh3bDRjcGJxTm",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjdrLXN5eDc4WDhza0tQaHp1UkJ3VTlvVDZwRWFQYVAwUFMzeFVsdEJib05HWGVvVmU3Sm9FSUpLOHh3YmktQkJOX043VkhZZFRLMUl5VzZ6UlZMS2tSeE5sLWw3OVh3bDRjcGJxTmdTZzhHVmJXbmQ1T3RzeWtyS1RGM2piZ2YtMlJiWi05dnlIUFVmUG5semtuWl9rakx4YWtnVEFKR1UzMUhnUERaam1kMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-09-027",
+    "date": "2026-05-09",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries posts $615M Q1 profit amid tight nitrogen markets - MSN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjdrLXN5eDc4WDhza0tQaHp1UkJ3VTlvVDZwRWFQYVAwUFMzeFVsdEJib05HWGVvVmU3Sm9FSUpLOHh3YmktQkJOX043VkhZZFRLMUl5VzZ6UlZMS2tSeE5sLWw3OVh3bDRjcGJxTm",
     "sources": [
       {
@@ -3450,6 +4944,66 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDRSdEdjQjQxOG56bnNuc0pMaXd5VW5sY0dLVVJnekpySlJqV1YtNU05WV94SmtVSENIQzRVM3hxekNHbjJpU0FIcDZKNzdIeE42RUFQSzlnOUdlMUlJbjBEUkVxZE9tWUpBNWdOWXBiSkcxSW1BaVdKcFdKTk44d3RrYUNDTTdocWxVZDJsVGd0UXJEMUstTEJIWS1fcWMwelJteHFnREJDVVQ2cDN2ZFBvWkxNb19lR3NGOVFzRmNiZHF3UmVSNXFfcHlrTklBdkZJaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-08-052",
+    "date": "2026-05-08",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Agrees to Sell India Commercial Business to Crystal Crop Protection for $252 Million - iGrow News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ycFJGTUpTX0FiS2pBQnVRTjI3V3RrZEUySEZ4ak9NY01EZzlTOFFZc3RqdDRXSmNETEdyRlpmNG5kdTBLZFFSdndsYzJjZi1vMkpDbU9OYVFsSS1MWTdB?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ycFJGTUpTX0FiS2pBQnVRTjI3V3RrZEUySEZ4ak9NY01EZzlTOFFZc3RqdDRXSmNETEdyRlpmNG5kdTBLZFFSdndsYzJjZi1vMkpDbU9OYVFsSS1MWTdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-08-053",
+    "date": "2026-05-08",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH announces voting results of 2026 Annual General Meeting and publishes 2025 Sustainability Report - CNH Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNb1AtNG1Rc2RMa2NTQk1Dd0REY3lqblFkYzgxLWgyTzB1aG92TjZmM2EyWUFpOGcyZkxhZERIR0ZWc1hpaTVxMjdYSzcxdldsQnNjQTJGc0lJZjgyYWtNZnZzckZFVE9qenNOTXhfUT",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNb1AtNG1Rc2RMa2NTQk1Dd0REY3lqblFkYzgxLWgyTzB1aG92TjZmM2EyWUFpOGcyZkxhZERIR0ZWc1hpaTVxMjdYSzcxdldsQnNjQTJGc0lJZjgyYWtNZnZzckZFVE9qenNOTXhfUThGNDhBMEJSM182SVhGMUE3ZWt3ajgzQk9Ka01zSHd5X0l5U2c5SmZhT2QyczRYanU4VWlVeFlsZXpXTTdjLUZQamUtVVBvLThmUmFuMzUwcEdaT081RGNpRnk2N0RBWGV5TloyU1ZsMW44SjF6M1pPdWVPRlByTFBNcnM0a3RsSW9aYjNwMklBVzlHM1h2WUs2OS1uQkRfZjJCUlJHSkhPaEdvdFFCOFVnSkVWOFRTSjM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-08-054",
+    "date": "2026-05-08",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH SEC Filings - Cnh Industrial 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fakNucHU2dmg4NnhtQzl2bEsxb1FZM0VfUGhzZkxOc01nQVFUSS1kZjBDTFczUlJ3eUE2Z21LVV9zdHNHa3pRRmUwU2lDZGpNZ1NwYjd1VTZyVWxhcm9FM3Q4ekk?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fakNucHU2dmg4NnhtQzl2bEsxb1FZM0VfUGhzZkxOc01nQVFUSS1kZjBDTFczUlJ3eUE2Z21LVV9zdHNHa3pRRmUwU2lDZGpNZ1NwYjd1VTZyVWxhcm9FM3Q4ekk?oc=5",
         "type": "rss"
       }
     ]
@@ -4881,6 +6435,26 @@
       {
         "name": "cf_industries",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTk1VVVJaU1k3dXpUZFVmMnV4VXJlY25vMWJ3WVNwb3RqLVhnaDNvTTFUZlJsM24xTndNRjkzcHNYbF9OMmZqUjN0U2hXLTZfOUI0YzdRWG44azFXUnNWRUQ4TUdkWFRLdFRlTWFpUlRPb2Z4clpwQ2o3cGtrVGdvZmo2Y3NaUFdGVm0xRDJCY1NRaHV2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-07-073",
+    "date": "2026-05-07",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Announces Agreement to Divest India Commercial Business to Crystal Crop Protection Limited - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQWRNcGVRRzBTeHd6XzhCelpTcEdoRjdvNXpPYnFYOGZCNldYWlk1ZHlBTnZuZDFvNHphdXpvWDNiRjlGa1dVcnlqYlB6c3BET0RJSldYWGFLbUpYYy1jQllHdmFLLTRDWDRHMU8yWH",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQWRNcGVRRzBTeHd6XzhCelpTcEdoRjdvNXpPYnFYOGZCNldYWlk1ZHlBTnZuZDFvNHphdXpvWDNiRjlGa1dVcnlqYlB6c3BET0RJSldYWGFLbUpYYy1jQllHdmFLLTRDWDRHMU8yWHNYYXhYbHk1LVpHTEZGZlIzRjJWaUJnVGluVGdoTmVUUXVMZnBLeC1QOTQ5Zm5ySnJoSDRiVUNmMkF2VVB5UXA1cmxZNlZWalN5dTVsT2lpNmJFeDJUSnUtdUVsZ280TFFuOW5pUVh1QzFPbWQyVlowQ004NzlDb05WTjFyYmk4Z2FNWWxSNXc2Y1lMQQ?oc=5",
         "type": "rss"
       }
     ]

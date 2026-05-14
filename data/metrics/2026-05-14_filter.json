@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 4,
+  "gate2_fail": 15,
+  "passed": 80,
+  "gate2_samples": [
+    "Nutrien’s Cash-Flow Story Looks Strong, RBC Says - Finimize",
+    "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+    "Hillsborough College Honors The Mosaic Company With Champion In Education Award - Osprey Observer",
+    "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+    "DOJ files statement in Corteva-Inari litigation - Agri-Pulse"
+  ]
+}

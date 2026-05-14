@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-14",
+  "total_events": 14,
+  "by_company": {
+    "oci": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "taifer": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kubota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.04
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

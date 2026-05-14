@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:06:22.160559Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flower farmers make the most out of agritourism venture",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/flower-farmers-make-the-most-out-of-agritourism-venture"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-14-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Real policy change starts in the tractor cab",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-policy/real-policy-change-starts-in-the-tractor-cab"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-14-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The power of mentoring the next generation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/the-power-of-mentoring-the-next-generation"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-14-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Next year’s GPS update could affect field operations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/technology/next-year-s-gps-update-could-affect-field-operations"
+    },
+    {
+      "rank": 5,
+      "event_id": "oci-2026-05-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI N.V. stock (NL0010558797): Recent price gains amid mixed technical signals - AD HOC NEWS",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTF2MEoxQ3VIMnloWjhQS2lINmRvM1duLUpOdHdGWnBuUENhWTk2MGtQNE80Qk5tUlJZc1NJZ2pscWJQY3lMbXM2SXVWOHpLUVkwTzc5Q1F0RURvQklzaExvX2JEeTlvOGF4bjdsVkNoY2JlVXduY2lXOUI3TVpKNDVmaC1JeDNTODVoNzh2Zm5oZFZjVjNVSmpPU19fR0E1c1Rxc1AtRXFZSDJGLWk5aUR5MHNxaGlLZ2dQRWtIUjZQLU0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "taifer",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "kubota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 155,
+    "too_old": 118,
+    "gate1_blocked": 4,
+    "gate2_blocked": 15,
+    "passed": 80,
+    "pass_rate": "36.9%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Nutrien’s Cash-Flow Story Looks Strong, RBC Says - Finimize",
+      "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+      "Hillsborough College Honors The Mosaic Company With Champion In Education Award - Osprey Observer",
+      "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+      "DOJ files statement in Corteva-Inari litigation - Agri-Pulse"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為OCI、Taiwan Fertilizer、ADM相關動態：「Flower farmers make the most out of agritourism venture」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Flower farmers make the most out of agritourism venture（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Real policy change starts in the tractor cab（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
