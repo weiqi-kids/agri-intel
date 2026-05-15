@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:13:24.081102Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-05-15-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global SA stock (US12185T1043): earnings update and Cargill JV exit reshape the agribusiness s - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2FrN011bmpJVTNpMTlpM0VReUJVNFVxZ3ZkRG9qR3c5Z3BvRllKOHNxUVFOYUNJazRNbzA5Ry1uQklTdGdGRUs5bVlxNE0zVUhneXRLanRRRUFCcGcwWFFVTXFyeFFEcU13TmM5dnBSa1Q0VEl2dmhXTEhSS3BRZGJEdXo3S1I2NFc0aDRiY1llQWxKRVlXU3hjb0U0SjNYRllwNzNvWmN1RzdWaE00SjBsZktzSk1NdWM5X3JUOEEweXM4bXlMdA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intrepid-2026-05-15-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Zacks Investment Ideas feature highlights: CF Industries and Intrepid Potash - Yahoo Finance",
+      "companies": [
+        "intrepid",
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYnhpeVg1ODdoOV95SHZrclRKRmd5TThpUERPb0RFUFBXTXVhWDdicDMxN0V5TEpLS2NHd3ZNU2R2dTk0NjBoTDd2dHdZT01kWlh3TUs2empFeEdTeEZjZ1F1UkI1VGo3N3dFbVhELTNNN1AyQTlYb0JWaDRTTUhsb0tNd1lERzM4WW1KWUNWRE5sREVoUVN0alotOHl3X3RfeG5zUUZ0RTRXZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-15-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Frozen out: Pennsylvania grower starts long slog to orchard recovery",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/orchard-crops/frozen-out-pennsylvania-grower-starts-long-slog-to-orchard-recovery"
+    },
+    {
+      "rank": 4,
+      "event_id": "nutrien-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Canadian Potash Giant Nutrien Picked A US Port - thedeepdive.ca",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNXpYVWZNM1phRjNyckVlRERRZ0ZYVzY2MVZ3QTFwYmQ0Wlh0WVpEczN2Z1lVeHRDTm9qdTV1ZjdKekFaN051am1vTVJYYXZJNVFrNVlSWVF6ZE11UkVjdW1yamFERkUwYzJmb2NqOWtoVjBRY3lQTVVvREduZlk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mosaic-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic Company stock (US61945C1036): Wells Fargo cuts target after latest rating call - AD HOC NEWS",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdlQ3enNjWEhFU1pPZHhPRDI0Z0RVX2dCeGswMlRqOE45YWZwSnIxYnZsbndtSl9vcWVWX3I4eVFRYWNGMGw2RHlQR3NrVWJPS2VLRzJPc0NkaXZ1OWR4MXRmTERSdVA1MUZhTTZZUGxmdjNPWUVIcWlOYlVEcUd2ck5hMmFpYUI0aVUxUmJrME0wbE90TDRYNnBhZkRreXZxTzNULXp4Mnlad05PekZCRG11dGZUamRyc0tmY2g4MjItdk9ERHMwWg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 4
+      },
+      {
+        "id": "oci",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 178,
+    "too_old": 121,
+    "gate1_blocked": 4,
+    "gate2_blocked": 15,
+    "passed": 51,
+    "pass_rate": "26.7%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Nutrien signals stabilisation in volatile fertiliser markets as retail arm cushions shocks - AgTechN",
+      "Hillsborough College Honors The Mosaic Company With Champion In Education Award - Osprey Observer",
+      "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+      "Why Sociedad Química y Minera de Chile Is Sinking - TipRanks",
+      "Bull of the Day: CF Industries (CF) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為Intrepid、OCI、Nutrien Ltd相關動態：「Bunge Global SA stock (US12185T1043): earnings update and...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Bunge Global SA stock (US12185T1043): earnings update and Cargill JV exit res...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Zacks Investment Ideas feature highlights: CF Industries and Intrepid Potash ...（農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
