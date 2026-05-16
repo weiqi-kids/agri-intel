@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 7,
+  "gate2_fail": 15,
+  "passed": 29,
+  "gate2_samples": [
+    "Hillsborough College Honors The Mosaic Company With Champion In Education Award - Osprey Observer",
+    "Why Sociedad Química y Minera de Chile Is Sinking - TipRanks",
+    "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+    "CF Industries Holdings (NYSE:CF): A Decent Value Play with Strong Fundamentals - ChartMill",
+    "Bull of the Day: CF Industries (CF) - TradingView"
+  ]
+}
