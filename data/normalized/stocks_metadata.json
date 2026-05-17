@@ -6,49 +6,49 @@
     "history_complete": true
   },
   "mosaic": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "icl": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "kpluss": {
-    "earliest": "2015-12-25",
+    "earliest": "2015-09-28",
     "latest": "2026-05-15",
-    "count": 2638
+    "count": 2701
   },
   "sqm": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "intrepid": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "cf_industries": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "yara": {
-    "earliest": "2015-12-30",
+    "earliest": "2015-10-01",
     "latest": "2026-05-15",
-    "count": 2603
+    "count": 2665
   },
   "oci": {
-    "earliest": "2015-12-28",
+    "earliest": "2015-09-29",
     "latest": "2026-05-15",
-    "count": 2656
+    "count": 2719
   },
   "taifer": {
-    "earliest": "2015-12-28",
+    "earliest": "2015-09-29",
     "latest": "2026-05-15",
-    "count": 2519
+    "count": 2582
   },
   "corteva": {
     "earliest": "2019-05-24",
@@ -57,43 +57,43 @@
     "history_complete": true
   },
   "fmc": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "deere": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "agco": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "adm": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "bunge": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "kubota": {
-    "earliest": "2015-12-30",
+    "earliest": "2015-10-01",
     "latest": "2026-05-15",
-    "count": 2553
+    "count": 2613
   },
   "etf_moo": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "etf_dba": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   }
 }

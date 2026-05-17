@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 8,
+  "gate2_fail": 17,
+  "passed": 16,
+  "gate2_samples": [
+    "Nutrien’s Cash-Flow Story Looks Strong, RBC Says - Finimize",
+    "Hillsborough College Honors The Mosaic Company With Champion In Education Award - Osprey Observer",
+    "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+    "Why Sociedad Química y Minera de Chile Is Sinking - TipRanks",
+    "CF Industries Holdings (NYSE:CF) Screens Strong with High Growth Momentum and Flawless Technical Set"
+  ]
+}
