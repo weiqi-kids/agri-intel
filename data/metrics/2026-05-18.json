@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-18",
+  "total_events": 19,
+  "by_company": {
+    "sqm": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "cf_industries": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "yara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oci": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnhi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": -0.03
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

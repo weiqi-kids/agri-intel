@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:37:54.957794Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-18-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Unpacking Q1 Earnings: Ingredion (NYSE:INGR) In The Context Of Other Ingredients, Flavors & Fragrances Stocks - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV21mb3I5WXBEckN3V1k0SHJXVG9ZRnc2Y0RTaEpJTk5QZGRSdUtLbDZKbVZkRUdLNkpFNXh0bTB1ZTBtNXRCTnhsRlFsWW1Wbk9Fd2NSX1cxTTducmhENmlJSkN5V2RCMGFCNnVscExlc05Ia0NWdlJKXzAwcmM0SjE3R1RSME5yX3dZR3UtU01SaXZBMk5iV0pFdUZzRnFkNmp1RzJRNV9iaFNqaTJHeXRWUTBhZkVFTzZZR1RrZVJ6WmFWNEdrZzNtS3RwbkJfVlNYN0pfb1ZFYkNzZjlXcy16WDdPRzhKWnlmZGpOWXVOdHNDV0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-18-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "More money in milk checks after rough start to 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock-and-dairy/butter-and-nfdm-exports-drive-milk-price-surge"
+    },
+    {
+      "rank": 3,
+      "event_id": "sqm-2026-05-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After A 145% One Year Rally? - Yahoo Finance",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkJYc1h6LV9CY0pVMTAtVV9sVXhhZkYxZXUxRFhFSXhYdjhNQndxSjRiTFZ2Vk8tUEd0VEtMcGQ1bE5oRGhTeC01UkpET3JDWXg0ekN6WmJRQ0Y2ekgySk1LWWtKSE9ZVDFldjZHVFY5am5zNVlRRGJ0RENpNkV5NGJKQXUwSl9JV0o2aG54UXNIdGdG?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sqm-2026-05-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Química y Minera de Chile stock (US8336351056): Vanguard stake increase and valuation in f - AD HOC NEWS",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWVJqT2ZSYXQzV0NUcEwzZHQ4UmhhdmhYTTJFUDFqTGFHLXowTVNNaHBhQmZGLTIxVzBHcENNaU95bVhqZ3dLZGJNQWRRTEt5QjZDeTk5aFBtWDgwUXlIVlhYc2FESG1zZUR4SnJ4ZnE3OFFCR3gxdThCczNmbEJBWThMOC11OGVmckFEZGo0RDVpaG9EdUUza0xVeGR3MC0yZlNIMjRCZDMtX2xkbHNxN3c2SzZZVUhGUTRWVGN3emt2T0xUY2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-05-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FY2026 EPS Estimates for CF Industries Raised by Scotiabank - MarketBeat",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW5lZ21xOWx0X2haaHk0NW9jamdEVE95V0ZiY243QVpPRlk2NXpjdGZsdHNidkdqaDUxMFNfeHhVdmoxc2tlcmVTVWtSeDF1T3FwTmoxR0syZkctTXFxZFhITVpfVHZpTVl2TGRMUDZtX2kxclphY040by1HWV81eGdEX3U5el9tc3lXQjhYMkFBUzc2SVVEa3I2M0luU1JmSUV6M19lTndRNmtUUEFKVVJUTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 191,
+    "too_old": 124,
+    "gate1_blocked": 7,
+    "gate2_blocked": 15,
+    "passed": 31,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Hillsborough College Honors The Mosaic Company With Champion In Education Award - Osprey Observer",
+      "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+      "Why Sociedad Química y Minera de Chile Is Sinking - TipRanks",
+      "CF Industries Holdings (NYSE:CF) Screens Strong with High Growth Momentum and Flawless Technical Set",
+      "CF Industries and Norwegian Cruise Line have been highlighted as Zacks Bull and Bear of the Day - Ya"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為SQM、CF、Yara相關動態：「Unpacking Q1 Earnings: Ingredion (NYSE:INGR) In The Conte...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Unpacking Q1 Earnings: Ingredion (NYSE:INGR) In The Context Of Other Ingredie...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "More money in milk checks after rough start to 2026（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 7,
+  "gate2_fail": 15,
+  "passed": 31,
+  "gate2_samples": [
+    "Hillsborough College Honors The Mosaic Company With Champion In Education Award - Osprey Observer",
+    "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+    "Why Sociedad Química y Minera de Chile Is Sinking - TipRanks",
+    "CF Industries Holdings (NYSE:CF) Screens Strong with High Growth Momentum and Flawless Technical Set",
+    "CF Industries and Norwegian Cruise Line have been highlighted as Zacks Bull and Bear of the Day - Ya"
+  ]
+}
