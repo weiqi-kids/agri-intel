@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:54:27.000562Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fmc-2026-05-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FMC Corp. stock (US3024913036): Outlook after dividend cut and debt focus - AD HOC NEWS",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlJ3UGtSQ1ZxMGstbWRRMzNnSHhFUk9RdnJzRUdvLTR6QURJbC00eENmQ3ZYVi1lejgwTHRoMzRadmRLWU5sc3pfX2o2dkJVTVRaYktCZ1BWTGFfMlNBa1VmRk1CSHV5U3lPa1p4UDJQR04tQTFyMWpCMjRwLVNhY1RBYUZsc2FxNUtib1JINzZIUlVDQWszLUc2cHROaS1YdGJNWWNDN2tXYmNfRGRvNmZPcDZjZWNjdlp6NVBhYzM0N21hR0tV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-19-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland stock (US0394831020): earnings questions, buyback pause and accounting probe - AD HOC NEWS",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0JuTXpENE95ZmNZZkhkT1NmQ0pyUi1WWTRBRUtkSDFYYzNsUlk1ZXhSekJmR0RoUlNqTGU1dFRHTnFFZDJHWWQtS2FRUkZWWGNDUjFaSmxWeWtZVEpLVHg3N1BPU2wtcGVLSUJERDhUZlpuWGw4akdlbHFkTGNXaHNVUkh3MkZyR2pMVmtuSVJzSVJnVVJDX19mYjVuazRxQmxNYVk5MDcyRi0tYnRZY1hRQ0FWUk9zaDYyR3puQjZHS3pUSVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-19-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Arkansas farm plants corn where ‘no corn had dared venture before’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/arkansas-farm-plants-corn-where-no-corn-had-dared-venture-before-"
+    },
+    {
+      "rank": 4,
+      "event_id": "nutrien-2026-05-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien’s SWOT analysis: fertilizer stock navigates cost cuts - Investing.com",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXpyZmtGdkVnR1BoSVZkSFA4RnFjeUtEdzY0NnNjN18zRHdmbWtJZUtiSXN0OTJ1Q0NabElKc1dIWjJrS29oS3R4ekZmTW5IZ0tzaUVTTEtGRHBHMWxDakJ6czRtNFQxWEROVzdlUzdyMDhKR3htWE5OVkc3MW4wMkIza2FlVGN6b1BYUlVBcnpNa012dnl1RnVPNTd4ZEVXVi1PQ2ZXUnRRX0xiNWVlN3FWa21RemdM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nutrien-2026-05-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien Plans to Sell Overseas Nitrogen Fertilizer Assets to Advance Global Business Strategy Optimization - ChemNet",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4bkRLNzRBNjNFMjVFZ1RpWTk2cmN4QkNaYVRaUVh4SXJTc2tvZlZhTTNqNWZpa1Y1VlZDZ2NMYnJETDRVaVd4bHNzX0FCR1BC?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "nutrien",
+        "count": 2
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 176,
+    "too_old": 134,
+    "gate1_blocked": 2,
+    "gate2_blocked": 13,
+    "passed": 45,
+    "pass_rate": "23.2%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Mosaic: A Fleeting Geopolitical Crisis Creates A Buying Opportunity (NYSE:MOS) - Seeking Alpha",
+      "Hillsborough College Honors The Mosaic Company With Champion In Education Award - Osprey Observer",
+      "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+      "Why Sociedad Química y Minera de Chile Is Sinking - TipRanks",
+      "CF Industries Holdings (NYSE:CF) Screens Strong with High Growth Momentum and Flawless Technical Set"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為ADM、Nutrien Ltd、Yara相關動態：「FMC Corp. stock (US3024913036): Outlook after dividend cu...」。主要關注主題為農業產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "FMC Corp. stock (US3024913036): Outlook after dividend cut and debt focus - A...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer-Daniels-Midland stock (US0394831020): earnings questions, buyback paus...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:37:51.638494Z",
+  "updated_at": "2026-05-19T10:54:22.984025Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -133,14 +133,14 @@
       "name": "鉀鹽",
       "ticker": "SDF.DE",
       "currency": "EUR",
-      "ar": 726400000,
-      "ar_prev": 709200000,
-      "ar_qoq": "+2%",
-      "inventory": 702500000,
-      "inv_prev": 708200000,
-      "inv_qoq": "-1%",
+      "ar": 816000000,
+      "ar_prev": 726400000,
+      "ar_qoq": "+12%",
+      "inventory": 734000000,
+      "inv_prev": 702500000,
+      "inv_qoq": "+4%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "kubota",
@@ -161,28 +161,28 @@
       "name": "The Mosaic Company",
       "ticker": "MOS",
       "currency": "USD",
-      "ar": 14700000,
-      "ar_prev": 9500000,
-      "ar_qoq": "+55%",
-      "inventory": 3363000000,
-      "inv_prev": 3279100000,
-      "inv_qoq": "+3%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": null,
+      "ar_prev": 14700000,
+      "ar_qoq": "N/A",
+      "inventory": 3422900000,
+      "inv_prev": 3363000000,
+      "inv_qoq": "+2%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "nutrien",
       "name": "Nutrien",
       "ticker": "NTR",
       "currency": "USD",
-      "ar": 72000000,
-      "ar_prev": null,
+      "ar": null,
+      "ar_prev": 72000000,
       "ar_qoq": "N/A",
-      "inventory": 6977000000,
-      "inv_prev": 5281000000,
-      "inv_qoq": "+32%",
+      "inventory": 8681000000,
+      "inv_prev": 6977000000,
+      "inv_qoq": "+24%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "oci",
