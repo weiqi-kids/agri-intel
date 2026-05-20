@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T10:54:22.984025Z",
+  "updated_at": "2026-05-20T10:42:27.402268Z",
   "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
   "companies": [
     {
@@ -63,14 +63,14 @@
       "name": "Corteva Agriscience",
       "ticker": "CTVA",
       "currency": "USD",
-      "ar": 5034000000,
-      "ar_prev": 6428000000,
-      "ar_qoq": "-22%",
-      "inventory": 5667000000,
-      "inv_prev": 5310000000,
-      "inv_qoq": "+7%",
+      "ar": 7759000000,
+      "ar_prev": 5034000000,
+      "ar_qoq": "+54%",
+      "inventory": 5202000000,
+      "inv_prev": 5667000000,
+      "inv_qoq": "-8%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "deere",
@@ -105,28 +105,28 @@
       "name": "ICL Group",
       "ticker": "ICL",
       "currency": "USD",
-      "ar": 8000000,
-      "ar_prev": null,
+      "ar": null,
+      "ar_prev": 8000000,
       "ar_qoq": "N/A",
-      "inventory": 1934000000,
-      "inv_prev": 1778000000,
-      "inv_qoq": "+9%",
+      "inventory": 1865000000,
+      "inv_prev": 1934000000,
+      "inv_qoq": "-4%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "intrepid",
       "name": "Intrepid Potash",
       "ticker": "IPI",
       "currency": "USD",
-      "ar": 33776000,
-      "ar_prev": 25024000,
-      "ar_qoq": "+35%",
-      "inventory": 112305000,
-      "inv_prev": 110860000,
-      "inv_qoq": "+1%",
+      "ar": 46255000,
+      "ar_prev": 33776000,
+      "ar_qoq": "+37%",
+      "inventory": 95685000,
+      "inv_prev": 112305000,
+      "inv_qoq": "-15%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "kpluss",

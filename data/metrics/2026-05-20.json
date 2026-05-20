@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-20",
+  "total_events": 25,
+  "by_company": {
+    "mosaic": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "intrepid": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cf_industries": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "yara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oci": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "cnhi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": 0.04
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "natural_gas_feedstock": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
