@@ -1,0 +1,248 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T10:59:02.157170Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "taifer-2026-05-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan Fertilizer Co stock (TW0001722002): earnings recovery and fertilizer cycle in focus - AD HOC NEWS",
+      "companies": [
+        "taifer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDNPNDlOcHJHbVQ2S0p4dzNvczh0UGViWlZXNzVGSER4ZjhRS1NlYV9sVWhYZWI3ZUtaNng5T0JJSk56TnNMWHZyWEp2Y1pYWEtZMllYUFhmNzFYdlBJTTA5RF9kaGJEdjZLcG9zZzF4eFg4cVoyVmI0V1NsaWlQNi1qSld1X19TV2N5SVc3UTA5M3AtcFg3VGMwZ2JoVHVzOFh5VHZaQm1mU01ac2FJOTZrSF9MeGp0aElsdQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-21-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should farmers lock in soybean prices now?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/soybean-futures-surge-as-usda-forecasts-tighter-supplies"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-21-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nix hidden yield loss by harvesting corn early",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/nix-hidden-yield-loss-by-harvesting-corn-early"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-05-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What CF Industries Holdings (CF)'s Completed US$294 Million Buyback and Low‑Carbon Push Mean For Shareholders - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmgyNXVXSlMxdjJhbmVlNS1hbXIzOTlpSnB6VURlRXdGTHZocEFmRk1XcE9IUXZBZloxWlphempOOW92OU1SWnVuTmgtYnFlelhpMFJZZENoZGVMTjhhWWFVenk4MEZlTWtlUnhETFBqdklfYXBTR0NUUkFvUUlZQkM1RUg2NkdZNnVqRlNvdG5VVmJGTGlnanNxQXY3QXZFbGFxcGhPRWdDX3JhNDFtZEVvNXBidU1RMUVUb0t4OU5qVU1uMXRQYVNSSi1ST1hydUF5RtIB2gFBVV95cUxPdjc2QW5PMWZkdmJpT3VoZHEzM1NpYk02a2pvQUI4dV9aNGdhMWZqLVRRSTVxb25xMTFUQUVqTlg2XzJaR0FQQXhFclZqeVB6SlUzZFNMdmFpcXRIbllUWlJpbnY1VWE1TmpPRkp4MlZtWl9tOG9NbDZKTTBSbDVDX0ZZN2FQbE93T1lmSzZiR19RT1M2ckhaamFHeWFJaVg0d25iNjFRTXNTWEJEQ3RXdW5hbnF4V3B4dC1LN19Md2tCME5xX3lLWHJONzAwYnRlSFBMRWNSX2ZCZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "yara-2026-05-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assessing Yara International (OB:YAR) Valuation As Recent Trading Revives Debate On Overpricing - simplywall.st",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONXIxZlFOc3lKLS1wWS1XUVVqa0ZFVU1tNkxVLTZYNlpVVVZhd1NrU0stNlk2Z1ZvSGJYSmgwU3ZoQjdFdFpjN3BPcFNXZkFhM1JLbExITVdUT2ZtS2NsUHZ4S08weUJZNXd0X19qOWZSZHk1ZDVVaGhfMXpjcHVTRUpfaTIwWDRWUEJXcXk1ZmZPbUdqNEZ2MTYxM0d0czNCNFdUUHlEY1JQQWtjR2twUlRmdldqeEE5THJDZFRhMFpNUkJkYjFVMDMzVVJES1lOMGNHZW82QdIB3AFBVV95cUxOX25BY292M2pYQW9Odk8xd3lhUExTQ25uUV9UWC1ESUFraXN3b2htenRVemtfWFN5SjRublBXQmdON2VsYUswcjE5ZVpSSW9DM3VtM2V5bUFOdVNheEFsY3RFdXR0bEZzUWxDZWo5Y1k2TjV1OGM1NlJhVGRxOGM4UDdRTlQyY2tWQU91akJDU2hWb1JybHZZTnUzS1NKMzA2cmQzQUpLdXhHRVA0c2ZqQWJkWjV2SE8zSHRDcmQ4R2U0SXhIMFMtTTltakY0dDh4T0JFYzlnM0doU2pU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "taifer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "planting_season",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 181,
+    "too_old": 136,
+    "gate1_blocked": 2,
+    "gate2_blocked": 16,
+    "passed": 37,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Mosaic: A Fleeting Geopolitical Crisis Creates A Buying Opportunity (NYSE:MOS) - Seeking Alpha",
+      "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+      "CF Industries (NYSE:CF) Trading Down 5% - Should You Sell? - MarketBeat",
+      "CF Industries Holdings Drops 5.1% Amid Sector-Wide Selling - AlphaStreet",
+      "CF Industries Holdings (NYSE:CF) Screens Strong with High Growth Momentum and Flawless Technical Set"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為CNH、CF、Yara相關動態：「Taiwan Fertilizer Co stock (TW0001722002): earnings recov...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Taiwan Fertilizer Co stock (TW0001722002): earnings recovery and fertilizer c...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Should farmers lock in soybean prices now?（農作物價格、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

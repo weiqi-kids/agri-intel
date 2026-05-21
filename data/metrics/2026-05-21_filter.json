@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 2,
+  "gate2_fail": 16,
+  "passed": 37,
+  "gate2_samples": [
+    "Mosaic: A Fleeting Geopolitical Crisis Creates A Buying Opportunity (NYSE:MOS) - Seeking Alpha",
+    "Is Sociedad Química y Minera de Chile (NYSE:SQM) Still Attractive After Its 157% One-Year Surge? - s",
+    "CF Industries (NYSE:CF) Trading Down 5% - Should You Sell? - MarketBeat",
+    "CF Industries Holdings Drops 5.1% Amid Sector-Wide Selling - AlphaStreet",
+    "CF Industries Holdings (NYSE:CF) Screens Strong with High Growth Momentum and Flawless Technical Set"
+  ]
+}
