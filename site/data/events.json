@@ -1,5 +1,285 @@
 [
   {
+    "id": "oci-2026-05-22-001",
+    "date": "2026-05-22",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI N.V. stock (NL0010558797): dividend move and strategic refocus put fertilizer group in the spotl - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkJGbXhlbHZSalFmVG1iZHpyTndvVzFjSDZISGN6Vzg4U3ZWbHhlem1uck9uaFlUYlBKbmRicUJzTnowYXRGYzItazJna0Jpejk5VUpQYzhzNkE3V0hiaTlxc1dIdEMtVklhTlN0en",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkJGbXhlbHZSalFmVG1iZHpyTndvVzFjSDZISGN6Vzg4U3ZWbHhlem1uck9uaFlUYlBKbmRicUJzTnowYXRGYzItazJna0Jpejk5VUpQYzhzNkE3V0hiaTlxc1dIdEMtVklhTlN0enl5ZF9MdExPSDFoRm9wS1pqOExzS0UtVVFGazRkYmk2TVlqYjZwYTdTZnpPUHU0dDFDcU1wWmZlYVc0cVBYdTl5aVRHU0lVWURJRWl6WW1JOERJVEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-22-002",
+    "date": "2026-05-22",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "FMC Corporation Announces Pricing of $1.2 Billion of Senior Secured Notes - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDJydU1NcHdPclp3Y085QnhUcC1HTUstWjFRXzI3Sm9qVkF1ZUJmMDMzX3NIU0dSaWRCZ0xsQWswXzB6MnpuemZPdlRpZmhPeG84Y2dySk43NXQ3ejFDanF5YmYxUkNZVU1HZElvak",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDJydU1NcHdPclp3Y085QnhUcC1HTUstWjFRXzI3Sm9qVkF1ZUJmMDMzX3NIU0dSaWRCZ0xsQWswXzB6MnpuemZPdlRpZmhPeG84Y2dySk43NXQ3ejFDanF5YmYxUkNZVU1HZElvakRPNk5Jejlya1l4SWROWkhobzJtblBKMjZLaFV3bmpxa3NsTW9tbDk3b3VoVGxCVElwRFVWQ1hkREJmTDRxT3d2cUNtbGxvSmNnd19vOHJwQnRLdUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-22-003",
+    "date": "2026-05-22",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Prices $1.2 Billion Senior Secured Notes Offering to Repay Debt and Support Corporate Purposes 1 - Minichart",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbW95WkE1U3o3VmZLRFFkQkVfQWFoclFFV2RsR3hkTUhXQVBLNTQ2VVprbzZYUkxiZFNxYlVRajlDZnVYb2VXNC01UFlUX0hRV3BjZWtJb2FMalhJZkFYLVY1LVYtN0Nqa24wU0ozbk",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbW95WkE1U3o3VmZLRFFkQkVfQWFoclFFV2RsR3hkTUhXQVBLNTQ2VVprbzZYUkxiZFNxYlVRajlDZnVYb2VXNC01UFlUX0hRV3BjZWtJb2FMalhJZkFYLVY1LVYtN0Nqa24wU0ozbklWY084Tk0ybm5PcjR4M2RpVHU5YzBhOWpHZVBXYnc2eVRfc0tKaGdKek4wdUxWaFZ4ZThOSzg2N3lzeEktUG9zb1FFM054aWVxeXF5NHJBNTQ1N3UyN2NHLXFfMlBlUjdyaklncUlPb2NWcl92cko4al9XbUN1Qkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-22-004",
+    "date": "2026-05-22",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Handelsbanken Fonder AB Has $15.14 Million Stock Position in CNH Industrial N.V. $CNH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaGI3MVpYY3B0VlhiQ2ZsUWRwR0FoQWJZYW5uNHFydFI1R3I0SnZpNzBNT0t0ZzhJX2pBUlNfZHdHRldyVERWb05tWUFtYmxzaXZKcDdJQW5aTnZoRkUxcE1pb0QzR2tCdVdCNnZJR0",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaGI3MVpYY3B0VlhiQ2ZsUWRwR0FoQWJZYW5uNHFydFI1R3I0SnZpNzBNT0t0ZzhJX2pBUlNfZHdHRldyVERWb05tWUFtYmxzaXZKcDdJQW5aTnZoRkUxcE1pb0QzR2tCdVdCNnZJR0R6YWozQWYzQW5tc1B5SDlCZXFOS1VyOWZRZ0U3b1BDekJfVEsxcUlEX1B5RW9DbFp5MnhYVl9lQXA4US0yaVlZbFc1RnhDc3VMUWF5dExKdjg5ZGhhcEczdC1UV0JTVEhwQS1XWUpwTlg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-22-005",
+    "date": "2026-05-22",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GSA Capital Partners LLP Purchases Shares of 126,999 CNH Industrial N.V. $CNH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNblRnVUQycm5JWE9lQ1dMVHdINmRweHlNSXhnbDZYMjU4dlF6UEFFNV91aVR5ZWZFV0pHandZX2FRci1oT1FrQS1xc1FlMy15LTVBSjk2WGtnWkYzNGRjRHhHeGpVS3J6Y2xjMnN2VD",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNblRnVUQycm5JWE9lQ1dMVHdINmRweHlNSXhnbDZYMjU4dlF6UEFFNV91aVR5ZWZFV0pHandZX2FRci1oT1FrQS1xc1FlMy15LTVBSjk2WGtnWkYzNGRjRHhHeGpVS3J6Y2xjMnN2VDFpdHIyUzFrN1YxZHlVOXdSY0hMYWozRFNYWDZDdUNmY0hlUm9XSzNPYlgwMkNfdjRnZ3pmdFBqaVZNSmR5bk0wb2FkWU5hTTN6Ylluak1oQTFuOUFDUjlyUHVMalY4SlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-22-006",
+    "date": "2026-05-22",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fideuram Intesa Sanpaolo Private Banking S.P.A. Invests $1.76 Million in CNH Industrial N.V. $CNH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRXRCMnlDMlhaLVo5RDN4aTEtaEFGS0FhRjh3Rk1wWXk5Tk43LXJLUk54SHlNQk1GZ2YxbmJWV1Q3Z1MycTNjQ2tWZURidXpwaFl6YkF4Vlg1a1FUS2VFdUNDd183OUR4eHgwbmdEdj",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRXRCMnlDMlhaLVo5RDN4aTEtaEFGS0FhRjh3Rk1wWXk5Tk43LXJLUk54SHlNQk1GZ2YxbmJWV1Q3Z1MycTNjQ2tWZURidXpwaFl6YkF4Vlg1a1FUS2VFdUNDd183OUR4eHgwbmdEdjc1MVdJeS01MEJYVWhQX0Jad3ZaOWhDT0pSZERwNHRrTmxEUXg1VmtWM1lHZ25HWjFLNFk4d3ZGRzZtQ0VjdWlTVDhhVmpOT0JqME9ZSlRMMzBlYUJWVVVlOEU0d1UxSlo2WllVQ2xKdmk5cHB5d0tzcnhaalM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-007",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Are you ready to fire a family member?",
+    "summary": "Family Farm Coach: When a leader fails to either better or boot a farm employee — even if they’re related — the business suffers and the work ethic declines.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/management/leadership-failures-erode-trust-and-morale-in-business",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-008",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lower the farm fuel bill: 3 tips to save tractor fuel",
+    "summary": "Diesel fuel costs are up drastically from a year ago. However, there are simple ways to save on fuel costs and improve efficiency.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/lower-the-farm-fuel-bill-3-tips-to-save-tractor-fuel",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-009",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New groundwater regulations reshape farm operations",
+    "summary": "Legal battles reshape groundwater rights as aquifers face critical depletion.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/conservation-and-sustainability/new-groundwater-regulations-reshape-farm-operations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-010",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "4 critical things to know about grain bin entrapments",
+    "summary": "Rethinking Grain Bin Safety: Grain bin entrapments are simultaneously increasing with the growth in on-farm storage. Here’s why they occur, what you should do if you are entrapped and how you can prev",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/grains/4-critical-things-to-know-about-grain-bin-entrapments",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-011",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Rethinking grain bin safety: How to come home at night",
+    "summary": "My Generation: Real families share their stories of loss and survival from grain bin accidents — because statistics don’t save lives, but learning from tragedy might bring you home safely.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/rethink-grain-bin-safety-to-save-lives",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-012",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Help continue a legacy of making farmers smarter",
+    "summary": "As Things Look to Me: Henry A. Wallace’s legacy of making others smarter is alive and well. We’re looking for such folks to become 2027 Iowa Master Farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/help-continue-a-legacy-of-making-farmers-smarter",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-013",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "When will high wheat prices head out?",
+    "summary": "Wheat Outlook: USDA’s shockingly low winter wheat forecast boosted prices. World stocks are expected to tighten, but U.S. exports are dropping, and traders like to go short on wheat.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/usda-forecasts-smallest-us-winter-wheat-crop-since-1965-as-drought-devastates-key-growing-regions-in-the-plains",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-014",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Grilling season serves consumers mixed prices",
+    "summary": "Memorial Day and summer grilling season welcome lower chicken and pork prices compared to beef as beef herd levels remain at record lows.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock/grilling-season-serves-consumers-mixed-prices",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-015",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alfalfa field conditions hinging on moisture",
+    "summary": "Field Check: Even with recent rains in parts of Nebraska, forage growers are relying on more precipitation this summer in places where there is continued drought.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/forage/alfalfa-field-conditions-hinging-on-moisture",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-05-21-001",
     "date": "2026-05-21",
     "companies": [
@@ -354,6 +634,283 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-business/how-remote-work-is-keeping-farmers-on-the-farm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-05-21-020",
+    "date": "2026-05-21",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Nutrien Navigating a Shifting Fertilizer Landscape - Kavout",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnh2cXNwanVPYXFuLVhsN0dXdk5qTW5lU0tXTXVsQlpJbHVfSzJZdkJIX0taczE1VlF2YVFSbHVQeHpPNmdWV1ZucUlDUDRZY0V1LW4wenRqLWxkT0l5R1A0WkdDOVdKbi02OHVfRm",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnh2cXNwanVPYXFuLVhsN0dXdk5qTW5lU0tXTXVsQlpJbHVfSzJZdkJIX0taczE1VlF2YVFSbHVQeHpPNmdWV1ZucUlDUDRZY0V1LW4wenRqLWxkT0l5R1A0WkdDOVdKbi02OHVfRms3bllROEYwUklkd2w1RXFCeEZORmVNVmtCZ3F1cmNjYmV2dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-05-21-021",
+    "date": "2026-05-21",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien Reviews Trinidad Nitrogen Fertilizer Assets Amid Global Portfolio Optimization - Global Agriculture",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVTlGTWNMcFFNS255WFNOUnpDN1JRVlM4c2FOUE4yR0p6OVVDUDdiQ3k1bTZ5ajFoYUdWLV96bzBEVHFWZXlmNF83RXN2UVFwSk5qRC1VbEtlVXRHQ1prTkJwWER6UkVOYXRHRE1GYn",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVTlGTWNMcFFNS255WFNOUnpDN1JRVlM4c2FOUE4yR0p6OVVDUDdiQ3k1bTZ5ajFoYUdWLV96bzBEVHFWZXlmNF83RXN2UVFwSk5qRC1VbEtlVXRHQ1prTkJwWER6UkVOYXRHRE1GYnM0M01oR0U3SW9OYUhvaEN6WjhRZ3FOWUYyUGd3elVWOHF0MFRrZTRYRE5oRDl6aG11TTZST0xEQ0tIM3N6bEJuSGYxQTMxMDBaTllUY05KNE5DWE5aRXhSSEdqbWVTXzdmMDhr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "icl-2026-05-21-022",
+    "date": "2026-05-21",
+    "companies": [
+      "icl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ICL Expands Higher Value Ingredients And Fertilizers Footprint In China And US - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObzVBdWl1UGsydjFkZWNhNmR4N3podnZ4MmlDcUduSkRCd1p2QUtQX0RGMFhaZG9qSGpqME13NXhVa1EzTkFCbnhJYVVrOEUzOHp2bDdDcVNBVTFwV3RmQVZhX0tMM0JZOGhfdXV3ND",
+    "sources": [
+      {
+        "name": "icl",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzVBdWl1UGsydjFkZWNhNmR4N3podnZ4MmlDcUduSkRCd1p2QUtQX0RGMFhaZG9qSGpqME13NXhVa1EzTkFCbnhJYVVrOEUzOHp2bDdDcVNBVTFwV3RmQVZhX0tMM0JZOGhfdXV3NDhNUHBGSFplV3k1aFZ0cTNWdElXb2U4dW10OXpfVFpzYnJBa0x1Y1JtTmJjM1kyQzZOd25wcTBfRlhNUU5aNjlKNDRMNmJTeF9NYkktekFNUFhYOWt50gHKAUFVX3lxTE9MWjhjVGhTMVV3eU1rT2tRNTB2RWtoRHhYUnFlWjYxQkQ1SmxkRXBIaEIyckVLbVh1N0Q5ak5YS080MzVRVG9DeDA3WXZHZDZvTmg2ZHZEUFdrb1pQc0owZUZ5M1NEUDlidTFmdkVjbkVMR2hPN3BQSGdQZmt6NFVNWDlPdUpkVFJmMXJMUXhRSjM1Z1NPV0ROakZyczRoNWttSzBhci1UdXY4X01JVE02MU4zRU4yRm1kV3p2bmZacUVtNkJwaHc5REE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-05-21-023",
+    "date": "2026-05-21",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yara International ASA stock (NO0010208051): fertilizer group adjusts dividend and outlook after mix - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWlY2RWVwaXAxUlkzeGRfYTNCYnhId2I4NVo1a2FzNzZNUE1SQ2V2QUxuQ1ZlQ1czX2dVdnAwd3hVN2MzRWJJa0V2MkQ0QzBCa3o3amZXVzE3UkcxbHNScVN2Y0lBWWZNRkhFSWItaC",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWlY2RWVwaXAxUlkzeGRfYTNCYnhId2I4NVo1a2FzNzZNUE1SQ2V2QUxuQ1ZlQ1czX2dVdnAwd3hVN2MzRWJJa0V2MkQ0QzBCa3o3amZXVzE3UkcxbHNScVN2Y0lBWWZNRkhFSWItaC1MckxYa1NxQ0NyREZIT0pHQzU0QldNNHo3SXFIQ2REVjJXak4wUmF1bVRiejRNSUFaTnBTSGo0YmY3YW5mSjVMeVV4MFZya1psalEyZlAxbmpBbms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-21-024",
+    "date": "2026-05-21",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva schedules Q2 2026 earnings release and webcast dates - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNENtUFdvdkxadXZ5M215eVpGOWY1R3ltX3lLc3BKNVdObGVfYjVRNXlQZ2JCZ25wMmhtTzhmUDVkRm9MY2dvM0dLUlBxSjRQc0R6Rkp2Nm8wS3VHbjU5UHA4aXhvMWRrX3phSndieV",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNENtUFdvdkxadXZ5M215eVpGOWY1R3ltX3lLc3BKNVdObGVfYjVRNXlQZ2JCZ25wMmhtTzhmUDVkRm9MY2dvM0dLUlBxSjRQc0R6Rkp2Nm8wS3VHbjU5UHA4aXhvMWRrX3phSndieVJsMDJ6b3dEVUEtTUtKdXNtNG05US1KcHBDNUtiOXBQQXlMM1AwWHJrbEtEcGtnMWRUcmFJXzhRU25jZUo0cHZlQ1ZBMnVBakJtcnhEVTZsTUo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-21-025",
+    "date": "2026-05-21",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Precision Trading with Fmc Corporation (FMC) Risk Zones - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcTM1SnJBZjdCUzBQV2NZVmpVbDA5WGxoeE9vVk5rUzdaWXpXTEVvTXdxZDRfeVhTNjdaR0kzVW9UdTRDRmp6aEZGRDVvWFdPcE9zVmVFemlNaDB1VnZWSElqQ1M1NmZPbnZEY2xrZm",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcTM1SnJBZjdCUzBQV2NZVmpVbDA5WGxoeE9vVk5rUzdaWXpXTEVvTXdxZDRfeVhTNjdaR0kzVW9UdTRDRmp6aEZGRDVvWFdPcE9zVmVFemlNaDB1VnZWSElqQ1M1NmZPbnZEY2xrZm1ZU29UNGNGdFlSTFh5STVONmQtY3JOQTZQOWRjZHhlcjhvMXFKS2JRY3FxRDBzckFQOTY1dHpqblduZkM2WjF1STA0cFlYLXQwS3MyXzhhZE9Hd0VnVDJubWVCSExBUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-21-026",
+    "date": "2026-05-21",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC (NYSE: FMC) prices $1.2B 8.000% senior secured notes due 2031 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzBkLVRqb3Z1S3dDV0I3ZGg5ZGNyd2VKZ2ZhbWFybXVRdzJmSTZHdmhRUnFPZHhIY2FCaEFMN1FkdVluRi1mSjI5MU13SDdfdnhpYXdjNFhObXpMWkJMLUEwbWFndUREUzBUbnN0Zm",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzBkLVRqb3Z1S3dDV0I3ZGg5ZGNyd2VKZ2ZhbWFybXVRdzJmSTZHdmhRUnFPZHhIY2FCaEFMN1FkdVluRi1mSjI5MU13SDdfdnhpYXdjNFhObXpMWkJMLUEwbWFndUREUzBUbnN0ZmFxbnNNQmJFYUZHVk4tTV9DamFYVkVrMXNnU0NlaVU4aFdEbF9XcnFzcG10NVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-21-027",
+    "date": "2026-05-21",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's Why Archer Daniels Midland (ADM) is a Strong Momentum Stock - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeXdMN19veVVvVWIzSTMzcW5WOVhlS1E1VlZWWUUxam1ZMW5LZi1BZXgwRkdWRDg1QURMelZxZkRhZ0tHQ0Rpa3pxbnI0MDBfUkZkY0xua1g1NDNpTG5vUFppb1BDb0pJNVY5Mldrek",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXdMN19veVVvVWIzSTMzcW5WOVhlS1E1VlZWWUUxam1ZMW5LZi1BZXgwRkdWRDg1QURMelZxZkRhZ0tHQ0Rpa3pxbnI0MDBfUkZkY0xua1g1NDNpTG5vUFppb1BDb0pJNVY5MldrekFEWWR1UEN6b0Y4c2tURWp1NUg4Mjdzc0p2aTd6Z1BrbzhZUTFVVmEtRTVwYl95Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-21-028",
+    "date": "2026-05-21",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Do Wall Street Analysts Like Bunge Global Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3BDUTRlMk1Fa3hrN0ZfYlBzOWZGajl3cFNfa2hraXlJbUtXOWNPN01YSGtEbVUzYzJvQ2l4ZFpqUEVpRjdRa0tHUVNucXd5dGFlcW9zM2hDTUU4VjJ6QjVXeFlpdTJmSzRjQUQwN3",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3BDUTRlMk1Fa3hrN0ZfYlBzOWZGajl3cFNfa2hraXlJbUtXOWNPN01YSGtEbVUzYzJvQ2l4ZFpqUEVpRjdRa0tHUVNucXd5dGFlcW9zM2hDTUU4VjJ6QjVXeFlpdTJmSzRjQUQwN3hmcE1JOEFaenV0dnVwdTdjQWdMWTROLUE5b082U0RieEJVdDJhY0lyY0RzeFhoUTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-21-029",
+    "date": "2026-05-21",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Research Alert: CFRA Adds Shares Of Bunge Global To The Total Return Portfolio - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZU9QSm1mYWMyOF8yYWQzVk9UdmFsMG9xTlRTX0Q0NlQ4WTM4YWdTTXhNM0Rya05yZ3VOOXBXemM2WUlhUGpSSGpfMTQ2eEtTMnF3cmhFb2NHNFRhekJMQnhCalZieVo0a09nQ0hsby",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZU9QSm1mYWMyOF8yYWQzVk9UdmFsMG9xTlRTX0Q0NlQ4WTM4YWdTTXhNM0Rya05yZ3VOOXBXemM2WUlhUGpSSGpfMTQ2eEtTMnF3cmhFb2NHNFRhekJMQnhCalZieVo0a09nQ0hsby1UcHpNR3F0NE5ENzRiOGlRc0p3eXI5d1R2ZmJpWjR4SklZN1Y0MlpTN3BDZVhBbWh0QktUeHdZaWlRUmRsalMyRTlSREU4OGJMS0tFSXFWWnZ6RWtkMGI0UDVLbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-030",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn prices cool despite playing hot export hand",
+    "summary": "Afternoon Market Recap: Soybean and winter wheat prices were also down in Thursday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deere-2026-05-21-031",
+    "date": "2026-05-21",
+    "companies": [
+      "deere"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Deere sees construction gains as farmers face tough markets",
+    "summary": "Deere &amp; Co. offsets weak farm spending with strong construction and forestry sales, as volatile agriculture markets and rising costs challenge farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/business/deere-sees-construction-gains-as-farmers-face-tough-markets",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-032",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Export Report: Corn sales return to form",
+    "summary": "Soybeans and wheat also found week-over-week gains through May 14.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/export-report-corn-sales-return-to-form",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-033",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Is a key demand pillar for corn bulls about to crumble?",
+    "summary": "Morning Market Analysis: Corn, soybeans extend declines overnight as enthusiasm over China fades, weather favors crops.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
         "type": "rss"
       }
     ]
@@ -1933,6 +2490,46 @@
     ]
   },
   {
+    "id": "nutrien-2026-05-19-046",
+    "date": "2026-05-19",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NTR News Today | Why did Nutrien stock go up today? $NTR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTd3E4c0xXNElVRHJnWG5DV0V6SkhUbjVhM2wwV0RZNS1UMXBYdzV0c3IxQ3dIZ0lQeHhEMmdwQjVKZlMxYUNPRF9iU1JNcklTN3d3YzFyeDFlZ3dX?oc=5\" target=\"_blank\">NTR",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTd3E4c0xXNElVRHJnWG5DV0V6SkhUbjVhM2wwV0RZNS1UMXBYdzV0c3IxQ3dIZ0lQeHhEMmdwQjVKZlMxYUNPRF9iU1JNcklTN3d3YzFyeDFlZ3dX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-19-047",
+    "date": "2026-05-19",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries (CF) is a great momentum stock: Should you buy? - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDVsTzlpTjIzT2lTV1JDbUNSd2t0bS1hdWdCN25CWElwdk9taVBucGpROElQUkJ1VXl5c01mdjRPTElXT0FIZGxsYWt1Q2dOdHhQQ2k0bmNWMEJ4UHhGNkhxOXN0ZGtuOERJX1FKal",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDVsTzlpTjIzT2lTV1JDbUNSd2t0bS1hdWdCN25CWElwdk9taVBucGpROElQUkJ1VXl5c01mdjRPTElXT0FIZGxsYWt1Q2dOdHhQQ2k0bmNWMEJ4UHhGNkhxOXN0ZGtuOERJX1FKalZlVDFuRVc0Z09wVGR3WWZpclh5eHk5a2FZMy13Y3pjVHF6VVR6Ylc2RW5DdUNWN1drc3V0OTVWalNsU3haU0VhQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-05-18-001",
     "date": "2026-05-18",
     "companies": [
@@ -2736,6 +3333,46 @@
       {
         "name": "yara",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1ZzVnNfWmI2c1N0Ui1Nb1NETU5YaXhMU2oxWFNLMnl5VHg2bGVXdUN1TzRoaVZ3SlkwcXVjQ1N5MTVaSmFqVzlLcTdKYkhRQUdJaV9iTWQ1aG8yQVlqYy1QM2trT1NmeURsZGthbWlOTGtMN1B0cE16WjZYSWJqWFlzWnNwMGpBRHVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-18-043",
+    "date": "2026-05-18",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Company stock hits 52-week low at $21.17 By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1VOem04eVM2RkZwMEpleEdiUFZwbzBuXzJEeWR3STJ3cWdYN0VlVTZvM01UN1MyOEc0UDdGWW1nZ0xZaUxKUWl3WU5SYnNuVFUzLUZYbU11U19TTGZ4Qm52amV1N1puM0lDTVl1Tn",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1VOem04eVM2RkZwMEpleEdiUFZwbzBuXzJEeWR3STJ3cWdYN0VlVTZvM01UN1MyOEc0UDdGWW1nZ0xZaUxKUWl3WU5SYnNuVFUzLUZYbU11U19TTGZ4Qm52amV1N1puM0lDTVl1TnZpYkxsRmttZE5BeVl1RGFUMmRlUXhSWHdPMjR0dmthS2UxVHJiNjVjeThMSHlYSWtGMEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-18-044",
+    "date": "2026-05-18",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should Value Investors Buy Archer Daniels Midland (ADM) Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPa25rNGs0aVd3MGV1cV9WXzg2d1dXaDFwbzdqS1ZwbDY0ZFpEczd2cmUwMGhyZTU4T1U4TFRUMWRYbXF0WDNUNWZFcGE2WHVtMlBWLUZqaXVUUXRydXVQbVYzUlBsX05jUzNySmdiak",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa25rNGs0aVd3MGV1cV9WXzg2d1dXaDFwbzdqS1ZwbDY0ZFpEczd2cmUwMGhyZTU4T1U4TFRUMWRYbXF0WDNUNWZFcGE2WHVtMlBWLUZqaXVUUXRydXVQbVYzUlBsX05jUzNySmdiaktWMmFBZkVKQlZQT0FqYWpEVGZxdFNtYU50Uk0yQ3JOcFFxaVFUTkFCMGtfa1NGTkRT?oc=5",
         "type": "rss"
       }
     ]
