@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T09:44:14.221491Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cnhi-2026-05-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial N.V. Stock 12‑Month Price Target Cut to $12.81, Implies 27% Upside - TradingView",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0dlendrV0xZQWdPaHlQUGNsd2N4Z3pCQ2tuakw0cjZBM0lJcDRVNlFueXRtYWdYUV9hZlVoNzFrMHVxRlEyYkp4M0pYSjd4dEVCSG5pLWtxekkxRDNCeUExS19Ic2RNdlRQNkt5Qmd5VENrdzlwbTZ5Zkt6cFpRRnB3X2tZclV4dEZUdzdWTHZpaU0xLXlmYlZWcFBVSTB2MDl2aWlta1czV0dsNFhZZV9fRzlxRG1rUTRWLVQ0Q2RvcGlBSUxqU2NOTENEdXJJOHR4QktB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Farmers turn to manure, urine as fertilizer prices surge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/business/farmers-turn-to-manure-urine-as-fertilizer-prices-surge"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 184,
+    "too_old": 142,
+    "gate1_blocked": 3,
+    "gate2_blocked": 11,
+    "passed": 32,
+    "pass_rate": "17.0%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "The Mosaic Company: - marketscreener.com",
+      "Mosaic: A Fleeting Geopolitical Crisis Creates A Buying Opportunity (NYSE:MOS) - Seeking Alpha",
+      "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - simplywall.st",
+      "CF Industries Holdings Drops 5.1% Amid Sector-Wide Selling - AlphaStreet",
+      "CF Industries (NYSE:CF) Trading Down 5% - Should You Sell? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為CNH相關動態：「CNH Industrial N.V. Stock 12‑Month Price Target Cut to $1...」。主要關注主題為農業產業通用、肥料價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CNH Industrial N.V. Stock 12‑Month Price Target Cut to $12.81, Implies 27% Up...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Farmers turn to manure, urine as fertilizer prices surge（肥料價格、農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

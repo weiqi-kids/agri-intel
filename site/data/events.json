@@ -1,5 +1,44 @@
 [
   {
+    "id": "cnhi-2026-05-23-001",
+    "date": "2026-05-23",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial N.V. Stock 12‑Month Price Target Cut to $12.81, Implies 27% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0dlendrV0xZQWdPaHlQUGNsd2N4Z3pCQ2tuakw0cjZBM0lJcDRVNlFueXRtYWdYUV9hZlVoNzFrMHVxRlEyYkp4M0pYSjd4dEVCSG5pLWtxekkxRDNCeUExS19Ic2RNdlRQNkt5Qm",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0dlendrV0xZQWdPaHlQUGNsd2N4Z3pCQ2tuakw0cjZBM0lJcDRVNlFueXRtYWdYUV9hZlVoNzFrMHVxRlEyYkp4M0pYSjd4dEVCSG5pLWtxekkxRDNCeUExS19Ic2RNdlRQNkt5Qmd5VENrdzlwbTZ5Zkt6cFpRRnB3X2tZclV4dEZUdzdWTHZpaU0xLXlmYlZWcFBVSTB2MDl2aWlta1czV0dsNFhZZV9fRzlxRG1rUTRWLVQ0Q2RvcGlBSUxqU2NOTENEdXJJOHR4QktB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-002",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "fertilizer_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmers turn to manure, urine as fertilizer prices surge",
+    "summary": "Iran war disrupts nitrogen fertilizer supplies, pushing farmers worldwide to adopt alternatives like chicken manure, human urine and biostimulants.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/business/farmers-turn-to-manure-urine-as-fertilizer-prices-surge",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "oci-2026-05-22-001",
     "date": "2026-05-22",
     "companies": [
@@ -275,6 +314,552 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/forage/alfalfa-field-conditions-hinging-on-moisture",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "icl-2026-05-22-016",
+    "date": "2026-05-22",
+    "companies": [
+      "icl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ICL Expands Higher Value Ingredients And Fertilizers Footprint In China And US - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObUw3cUQ5XzFoTWpqb1U5VGFrNk9tMWhfWVpVN1JHLTJfXzNGZWxIOXpwenkzYlZBNDNOQVhZd1dZb2JlM01tZGFTNmh4MUprVHNrNEFjQU9EYzlxcTRrMG9ZUU52WW5xcG1HUDJxLW",
+    "sources": [
+      {
+        "name": "icl",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObUw3cUQ5XzFoTWpqb1U5VGFrNk9tMWhfWVpVN1JHLTJfXzNGZWxIOXpwenkzYlZBNDNOQVhZd1dZb2JlM01tZGFTNmh4MUprVHNrNEFjQU9EYzlxcTRrMG9ZUU52WW5xcG1HUDJxLWlWamJIeEttWDduZVhRWXZIeGtCTEM0NXowQS1RdjZMb25wREw2SmZRRWRwN3pVaU85RkpxUk16M2lneW1PTFRnVmptWi0xMnhXUmxxSTFsLXJ0RUR3a0ttbHhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-22-017",
+    "date": "2026-05-22",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries: The Fertilizer Rally Is Far From Over - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFBMMF9sUDhvYUlaNU1Zdy00dGw4VjBDbEcwNS1qNlNaOU5pdXFWWmxMNG42OEZYUnlTbDBrWFhjWS1mdzdJeEUzSHR2eWJwdXhjNTZ5b2pDMGZpRHBWTmcwcWcxcVlwN0c4OHBnck",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFBMMF9sUDhvYUlaNU1Zdy00dGw4VjBDbEcwNS1qNlNaOU5pdXFWWmxMNG42OEZYUnlTbDBrWFhjWS1mdzdJeEUzSHR2eWJwdXhjNTZ5b2pDMGZpRHBWTmcwcWcxcVlwN0c4OHBnckF6MzBtSHlvNXRTYzZMeVVRVDc1alBmYzFNMG9ZTzBBcGFyUG1qY1pv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-22-018",
+    "date": "2026-05-22",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF (NYSE: CF) Form 144: Director/Broker schedules sale of 3,293 shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjFHdTFaMWdBcnVmR09iaFA4QVFaM1h5VXJCQmhCQ2R1Sm1MN0VEbTBXN3c0a0ItajBZZWhTdkNROXY2MWtNNjI5UFN1Tm1OV2x5SFVOWWlCQjZMV2lCcndwM0stQ2hfQW01TTk5SE",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjFHdTFaMWdBcnVmR09iaFA4QVFaM1h5VXJCQmhCQ2R1Sm1MN0VEbTBXN3c0a0ItajBZZWhTdkNROXY2MWtNNjI5UFN1Tm1OV2x5SFVOWWlCQjZMV2lCcndwM0stQ2hfQW01TTk5SE13c1ZQMUpZaXNVMHB4YXBkMDJraklwVFdjRlZBTDQ4dnNCdm1ST0hVaXhUMGdoeC1oMWg0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-05-22-019",
+    "date": "2026-05-22",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CF Stock Up 28% in 3 Months: Can it Keep Rallying on Strong Demand? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0pEU1dOeENoaFdWUm9jZGVrRmVaT3RVV21vUFNUTjBvMUtEZHRkR3Q2TjFOanVXLTZsZ2c0emU0Y0FOLWx6ZGpZbnI2RGJPcmhWSmpwU29ibEpjSEdwUTZUUERUQlJvV1ZxN3FXRV",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0pEU1dOeENoaFdWUm9jZGVrRmVaT3RVV21vUFNUTjBvMUtEZHRkR3Q2TjFOanVXLTZsZ2c0emU0Y0FOLWx6ZGpZbnI2RGJPcmhWSmpwU29ibEpjSEdwUTZUUERUQlJvV1ZxN3FXRVM0bG1YekZkU204ZzhJMmVWUm5UV3pieGZzSzR3T096a2w1ejkycE1zMDdnRzFxNkJVdWY2d2xDRXVsR2tINUxOT3plZHE4QjM5VVpOOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-22-020",
+    "date": "2026-05-22",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Interest in FMC Corp (FMC) Stock? Check Out 2026 Outlook - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjVzcG9TR0FPN2l6VVc4QUYtSWloNm1JU2R0c0U5SDJ5TlFEU2poWjV5NURJN3RKbnhESUdwYkk5NGtCUGJNZ0ZtR21GbnV5MjZLOVdxcG15Q1U3dFRyMFVoTTVmaEZPUWJaN2VQWU",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjVzcG9TR0FPN2l6VVc4QUYtSWloNm1JU2R0c0U5SDJ5TlFEU2poWjV5NURJN3RKbnhESUdwYkk5NGtCUGJNZ0ZtR21GbnV5MjZLOVdxcG15Q1U3dFRyMFVoTTVmaEZPUWJaN2VQWUVnNGQtbkoyNlc1UmkzdF9pVkFEWWxHVXdWRTZhdlFHaUxGeHBwVjBj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-22-021",
+    "date": "2026-05-22",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Announces Pricing of $1.2 Billion of Senior Secured Notes - Global Agriculture",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYkNkMmE2VU00QUJzOWQ5ek9PU0JqUHMyMi1aUjZwY094eVk0RHlIek5Gd0ZFcGpoZ21zSDRZYktGX3dZUk5QN1V1ZHJBSC0wUy00cWFQcW55bjlZcktJMGE2NW5BZzIzaVhfZGF1OW",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYkNkMmE2VU00QUJzOWQ5ek9PU0JqUHMyMi1aUjZwY094eVk0RHlIek5Gd0ZFcGpoZ21zSDRZYktGX3dZUk5QN1V1ZHJBSC0wUy00cWFQcW55bjlZcktJMGE2NW5BZzIzaVhfZGF1OW80UXFwcnZxWW5ZWWk2SFAwVURkdjMxeGNaZ3NuU0ZvMHdiQWJtbjUzVzljWjFfT1RqSDNTWE5venFZWGJteTlvbGtVYzVKbm1zRUl6QVNhbTJLUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-22-022",
+    "date": "2026-05-22",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Archer-Daniels-Midland (ADM) Attractive After Its 66% One-Year Share Price Surge? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjdWNk1Wc1RJS1c4LVVXNzE2MXN5VUJmYTlmTDR2dDZFMDFzMWhEalJjQnBDbUFRMklMY0l1T3NOT0t4eW9wcVNvM0dXeEpRVDh4cmhoeVhycC04MVFjbVV5ZE0ycWgySGQycFR4Nm",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjdWNk1Wc1RJS1c4LVVXNzE2MXN5VUJmYTlmTDR2dDZFMDFzMWhEalJjQnBDbUFRMklMY0l1T3NOT0t4eW9wcVNvM0dXeEpRVDh4cmhoeVhycC04MVFjbVV5ZE0ycWgySGQycFR4NmxGbjE4ZnJFOVBfTkVmSUhZRkxsQWhQbGxIdmtNS3ZNWUpVSlRfQ1pybDdzcXp6TnhJUFFMMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-22-023",
+    "date": "2026-05-22",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is It Time To Reassess Archer-Daniels-Midland (ADM) After Its 65.9% One-Year Surge? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM2MzMXotREFQYjRFZWdoWHFqM2FrRVVfdklmTDhuX3NqRTQtQTJBc05MOUhjcjkybE9OYnZEMXNiNXJPU3laZUtzTkhtRzZCOHFyWjRaVy1nU0lVckhoM0Nvb1lFRERESTEtX2ZTVn",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM2MzMXotREFQYjRFZWdoWHFqM2FrRVVfdklmTDhuX3NqRTQtQTJBc05MOUhjcjkybE9OYnZEMXNiNXJPU3laZUtzTkhtRzZCOHFyWjRaVy1nU0lVckhoM0Nvb1lFRERESTEtX2ZTVnZlSUFIR3FSc1RKZHhOZWQ1Vy1GcUE5MDNxaXFPc09OX3hWWjhLTjlIdWJDSXQ3bkJGeDZwQ01jZTIyaGgtdjVrZFRqNWJZbHlZNUZlU0ExSnhpVzBKbHN6Y0g0OGhZTzRqRTJOakxhZlo2eWxFbVJISW9IYTXSAeoBQVVfeXFMUHJaZl90ZmF4TjJ6LTJaUkJ3WnpPdlB6ZnI3NjZNODJTRUFWelRlV0NMRGo4MlBGaTlpU0RqaHh4ZXgtNDRVbEh4eFM2Ml9nWmtUVjFGZ29UN0k0QjJZRm84UnBNYWJKb1otdkZObmY5SjVicXBpSDJqV0R1c0JVOWFYU19HXzl1N0d2eUpPbmRKYWJWR2NDMmlieExOalRlWG9oMGZxMkk5bE1qYWpVcWNYZkNzRWpMb0NBWXFTNUtSTFlPNlFqakxIenJ2SllONEtSUHRjdjdmQkJFT1FYWEtVeDFIb2d1MFFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-22-024",
+    "date": "2026-05-22",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Final Trades: AbbVie, Millrose Properties, Archer-Daniels-Midland, GE Vernova and Estee Lauder - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0JyWS1yN1ltUGs5RzJEQlJaV296T0ROQl82bU1scGJZcGxVMmp6LTBqbXpwd0Z5eVhLSm0teXJIa1JTRExlNDFDbGVkRkl3bDhtSXhpV0lUS3V3Z080dThpRm9Zc3pMNXBWMW9UTX",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0JyWS1yN1ltUGs5RzJEQlJaV296T0ROQl82bU1scGJZcGxVMmp6LTBqbXpwd0Z5eVhLSm0teXJIa1JTRExlNDFDbGVkRkl3bDhtSXhpV0lUS3V3Z080dThpRm9Zc3pMNXBWMW9UTXpVSnBTMzJqbzNuOGJ6aE1fT01kLWZtc3RwN1BVNGNYeGctQ2YyWERYVTZlQVVhQkt0V0lzdTEzYnVoUFJFclFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-025",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) director receives 1,654 RSUs vesting in 2027 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHpDYVFPQUhqSnFESFRZR3pud3drbVpmYWNfYXdpZ2piVWMzVjBRcnZTaUx4bndKb21NTUJjWVlxVFFZaU4yZ3E2S2xHdEw3SGFPQmNsdXRiQW5VamxPUy1xV0puTHRvcENTbUhfdW",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHpDYVFPQUhqSnFESFRZR3pud3drbVpmYWNfYXdpZ2piVWMzVjBRcnZTaUx4bndKb21NTUJjWVlxVFFZaU4yZ3E2S2xHdEw3SGFPQmNsdXRiQW5VamxPUy1xV0puTHRvcENTbUhfdW5xdjdKQndrcGFZSzQ5ZVRTYVpLYktUMXdHQ0oxOXRuODR6UDhFU3ZiTHJaMjlFWl9XdTE4ZENXbFItem8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-026",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Director at Bunge Global (NYSE: BG) receives 1,654 RSUs in award - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0hxSFNpTmRjUGFIMmxWWlhDWUtSbGgxVHNObGUyWUM5cE00cndiWlRzNGxLM3NaLVBtN0pLVWhDcVNWZEhvRnhzdE5tVGtSQWNDYXVOV1hPQnUycmNVclRnZzZpTm9LOUQxcFhsNH",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0hxSFNpTmRjUGFIMmxWWlhDWUtSbGgxVHNObGUyWUM5cE00cndiWlRzNGxLM3NaLVBtN0pLVWhDcVNWZEhvRnhzdE5tVGtSQWNDYXVOV1hPQnUycmNVclRnZzZpTm9LOUQxcFhsNHlBVXpMY0xXRzlpZ2xEb05XODYwd1FfSFBjTU5tNlF4V2NKOWpWS2U4OEhCNjdVX3NnSmhuQWIxUTRrMGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-027",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) director granted 1,654 RSUs vesting in 2027 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGI5UndGT21xdWNZLXFLSjdZRXBRTS1LRHVOMDNVMUhRSnlMSjNoVUV6WUxxeERkYzR0Mk9fbWpKSDdSUENXYzRXT0Rya0RDSE5FVUNBb0d0VGN1djJtWEF2endFdmk3R0RVa2Z5ZV",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGI5UndGT21xdWNZLXFLSjdZRXBRTS1LRHVOMDNVMUhRSnlMSjNoVUV6WUxxeERkYzR0Mk9fbWpKSDdSUENXYzRXT0Rya0RDSE5FVUNBb0d0VGN1djJtWEF2endFdmk3R0RVa2Z5ZVhIQ0x1SUFPTkhsbWFMVGNxbU5SUVhLRlNfbURzRHVNZEo1Y21Ia0FGQWM4U3N1VWtPVVY4UmFXVFJHT0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-028",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA (BG) director receives 1,654 RSUs in equity compensation grant - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHY0cm9XQTFmN3JIZVBwUzdfYV9rTDZyNUR0b2Z1dDlCYUNJV1o2ai1NMDFoYi1BQzNNcXFFSnB3aGEyZG1lYVhMdjFWVTJ5ZVBLRjJTT0pJako4a1lWeFJkYm9SMWJRU3M1WWtLcn",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHY0cm9XQTFmN3JIZVBwUzdfYV9rTDZyNUR0b2Z1dDlCYUNJV1o2ai1NMDFoYi1BQzNNcXFFSnB3aGEyZG1lYVhMdjFWVTJ5ZVBLRjJTT0pJako4a1lWeFJkYm9SMWJRU3M1WWtLcnF3dHJKXzFUMXY3dUlRelczLWJXd0FiTXpIZmRFT2RqbDR5MFhfYkdEVU5vb0dCMVNvZmZwX0xNSWRGX3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-029",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA (NYSE: BG) director adds 3,308-share RSU stock award - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE1EN0ptaV9RcnJCcEVBa1h1b3pfS3Y5VjBVcGZzeW9uV2V1TEdBSGNNYm1LQ0RnUVdydVlGMDFjbHlZdVc1a0pMZG5sY25CX1VaTVdPUkFnMXY3SmtHM1pMcEpFWU9LZEJRZC1jMl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE1EN0ptaV9RcnJCcEVBa1h1b3pfS3Y5VjBVcGZzeW9uV2V1TEdBSGNNYm1LQ0RnUVdydVlGMDFjbHlZdVc1a0pMZG5sY25CX1VaTVdPUkFnMXY3SmtHM1pMcEpFWU9LZEJRZC1jMlZyNS10eDZROG5FamJNWjEwUGVtTEVIdXVKZmZYdTNGd181d1p5cGN1bVJQWkJUU3JNelFScUJXMzdSODQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-030",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge (NYSE: BG) director Christopher Mahoney receives 1,654-share RSU grant - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDNkY2ZMcjYxdlg0ZHZFVm5oc0JXQm9tYUc1cng4bE9lUnFRMDZJRUNsLTRGU3czelFKRE9xVW00QkFRcG4zdHFRYmFMUDZoeFJJY2Q1Y0diSkJTeUU3cERBMlN1SHhRRmk5cXZXaE",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDNkY2ZMcjYxdlg0ZHZFVm5oc0JXQm9tYUc1cng4bE9lUnFRMDZJRUNsLTRGU3czelFKRE9xVW00QkFRcG4zdHFRYmFMUDZoeFJJY2Q1Y0diSkJTeUU3cERBMlN1SHhRRmk5cXZXaEVKN0g2eFJXVFZFR2hFam93QzRMTzBBZi1KN2x0QXl6elNHNFpsQ0hBSEpyS2dVek5aZkdLZ044TmhrVXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-031",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA (BG) director Linda Jojo awarded 1,654 RSUs in Form 4 filing - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkdBVTRGWk00dDZnUFF1dklHNkctZF8wQmFCN1IteTAxUERMLW5iSlBHUWc2TnUxd2J1N1ZoeGhzeDk0cmRhclVfZVNSSnNjYTVNUklVZzVEb3loU2M0bDA5c0Rocm9yVjdIa1loak",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkdBVTRGWk00dDZnUFF1dklHNkctZF8wQmFCN1IteTAxUERMLW5iSlBHUWc2TnUxd2J1N1ZoeGhzeDk0cmRhclVfZVNSSnNjYTVNUklVZzVEb3loU2M0bDA5c0Rocm9yVjdIa1loaklDcFRHYU80UVBoZ2QxVmFIZ1pJeFNPNUNhRUQxYlpCLXpweG1lNlBhZE8tMEZ1Qm1GMEhjYng0UmFtYmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-032",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge (BG) director Monica McGurk granted 1,654 RSUs, total holdings 7,079 shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFpZMndNZzExbFlXUDJYZ2hQWnpEeFZFbVJKSWh6bEdxMUpnMUM2MlNic0dXdXdZbXM3VURTR3hqZmZWVU9UOGRITC1tLTRNSVBNeXdBZjBXc3Bhc1F5TGE2bC1xMFFNU2J2X01KRk",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFpZMndNZzExbFlXUDJYZ2hQWnpEeFZFbVJKSWh6bEdxMUpnMUM2MlNic0dXdXdZbXM3VURTR3hqZmZWVU9UOGRITC1tLTRNSVBNeXdBZjBXc3Bhc1F5TGE2bC1xMFFNU2J2X01KRkRpeFo4WGNUcDByYnluSVFTN3VRQUh4dXVOdkh0UHM3Vm0zUVJZZm51ZC1tSHFvVGZWVDFMNEtsdU9JV3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-033",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Director Adrian Isman (NYSE: BG) receives 1,654 RSUs vesting in 2027 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMC1tQ0UxeU1ZSWtoQTFqTnJxaENTVTdUOF9kTGlza3poTkUxOEVHMEZneDFsbk1ocFhVU1haX19nVUNpZW44Wld5X2JHQS1XeEVRZ1FmU21JYUplQUYzemZfU05LcXR1WUZ1OTNpYW",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMC1tQ0UxeU1ZSWtoQTFqTnJxaENTVTdUOF9kTGlza3poTkUxOEVHMEZneDFsbk1ocFhVU1haX19nVUNpZW44Wld5X2JHQS1XeEVRZ1FmU21JYUplQUYzemZfU05LcXR1WUZ1OTNpYWozN0dFY3VmVF9hWmwwVjBOVHJIY3l5a3dRVHQ4elZSVzFreHp2ZVFBNjNyYS14YXE0YnFkb0hIT2dJN3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-034",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (NYSE: BG) holders back higher dividends and board slate - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFBhVmNEaFYxQ1R1YzR4X3ZIQWRBTUpzeVJZOGh6YjMxanNaYjBJczB4NExjYUdkemdEbFpZejZZMUt0dmYyNjRVX1ZxMXZBbVBrLUY1VHJYb2pneGFHLXV4MXBNcW4xZ1R5TzBxdW",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFBhVmNEaFYxQ1R1YzR4X3ZIQWRBTUpzeVJZOGh6YjMxanNaYjBJczB4NExjYUdkemdEbFpZejZZMUt0dmYyNjRVX1ZxMXZBbVBrLUY1VHJYb2pneGFHLXV4MXBNcW4xZ1R5TzBxdWpyU2JpRXpVWjlxSHRCd1hWeHlYc0dnT2s1TXpjOWw2aHhYeUdKVkhEeTlZTzBNMTRnaWNaLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-035",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge (BG) director Carol Browner receives 1,654 RSU stock award, holds 30,606 shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVNDWE5oVjN5ZTZJSXpMTVZTaTVOdFpqR3ZndWpCNjA5T3ZXNTl5RmhqQXBDRVNfMTVISFMyQklhVlZTbzc2ajVoMEFNMnI4MkdPUmNiU3VWd3ROc2hlOGtsSGxVS0RZM2lUSnpEdT",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVNDWE5oVjN5ZTZJSXpMTVZTaTVOdFpqR3ZndWpCNjA5T3ZXNTl5RmhqQXBDRVNfMTVISFMyQklhVlZTbzc2ajVoMEFNMnI4MkdPUmNiU3VWd3ROc2hlOGtsSGxVS0RZM2lUSnpEdTNTZEl5N2dlUEFaaWtENDJodWNHNktyWVVJYzhQRG94cHBKS3pub1JDUXlCWW1LNzBsZWhaa3d1TkJqZkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-036",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge (BG) director granted 1,654 RSUs, raising total holdings to 7,273 shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeF9Qb2VmWE9qbUtCZm9HUXYzRVBQZ3JNS1VLakdHQmhaVjFLU3lRTTdzY0kxUXdzUWR3MmhhdG5rZHQzSEJCZ2V1bnBPdXMwOXdqQ0VpV21abExSdnl5UTVkaEJ6X3B3YlpveF9CaX",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeF9Qb2VmWE9qbUtCZm9HUXYzRVBQZ3JNS1VLakdHQmhaVjFLU3lRTTdzY0kxUXdzUWR3MmhhdG5rZHQzSEJCZ2V1bnBPdXMwOXdqQ0VpV21abExSdnl5UTVkaEJ6X3B3YlpveF9CaXdfejlWR2VjQVVOdDAwa19RRFJOZ0xsdGtNTFA2a2hZaGNWNllFVzR3cTB4aHpHTWV6a243MkVKZ21pYWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-22-037",
+    "date": "2026-05-22",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Reassess CNH Industrial (CNH) Story As Cautious Targets Meet Execution Questions - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeU1wUjlfQlNDRVBXb2dVQjQ4Z2VWUTV0bEVYRDFoU0RXejBnS3RLa2FyeDlSSUVQTmxJNWYzblR3eklGUTRLZG9Oc1ZMN080bFFyQXQxc2ZZUnE3MnhENWtWeEhuT3Rmb09sRGkteV",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeU1wUjlfQlNDRVBXb2dVQjQ4Z2VWUTV0bEVYRDFoU0RXejBnS3RLa2FyeDlSSUVQTmxJNWYzblR3eklGUTRLZG9Oc1ZMN080bFFyQXQxc2ZZUnE3MnhENWtWeEhuT3Rmb09sRGkteVZVeHA0OFZRSnJXdjl5TDRkMUV0aUN2d1pUWVZTdHhFREpsQXBYTWhJQzFoQWNBSU4tN0hj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-038",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NADF unveils harmonize fertilizer manual to boost crop yield - The Guardian Nigeria News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGt0SkE2TzBTbGFHSzJOX2Jldnk2SDE1ZEw4QUx4c2M5UDZxNTFmbllmdW5vYS02cVNWSk1pV1d1MVBEYmlNQTBFRVRoMGpRSThJemlKdUtLcndDQ0dVSVVMS0ZlT3hnYkpYMzlGWD",
+    "sources": [
+      {
+        "name": "google_news_agriculture",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGt0SkE2TzBTbGFHSzJOX2Jldnk2SDE1ZEw4QUx4c2M5UDZxNTFmbllmdW5vYS02cVNWSk1pV1d1MVBEYmlNQTBFRVRoMGpRSThJemlKdUtLcndDQ0dVSVVMS0ZlT3hnYkpYMzlGWDFXSWlpbGRfZDdNdTE3UVNkc3ozNTI1M2JIX0tyb0U4N0Y5R1J6aVU4NlA2eVU2NDJzRnJvM3BmMF94ZkxLMHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-039",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA set to add 30 million additional base acres",
+    "summary": "Undersecretary Richard Fordyce said the agency is close to announcing specialty crop payments.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/usda-set-to-add-30-million-additional-base-acres",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-040",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grains little-changed in unmemorable Friday session",
+    "summary": "Afternoon Market Recap: Corn and soybean prices captured modest gains heading into the holiday weekend.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-041",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA exports – 3 more flash grain sales announced Friday, May 22, 2026",
+    "summary": "The 2026-27 marketing year for corn and soybeans begins Sept. 1.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-042",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Racing to the finish of Plant ‘26",
+    "summary": "Between the Fencerows: The last of the corn and soybean seeds go in today on this northern Indiana farm. A late, compressed planting window already challenges high yield opportunity.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/commentary/racing-to-the-finish-of-plant-26",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deere-2026-05-22-043",
+    "date": "2026-05-22",
+    "companies": [
+      "deere"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why its Deere season for stock market bears",
+    "summary": "Morning Market Analysis: Corn, soybean futures posted a corrective bounce overnight as traders nervously eyed Iran ahead of three-day weekend.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
         "type": "rss"
       }
     ]
@@ -911,6 +1496,24 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-034",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland’s SWOT analysis: stock faces policy headwinds - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUFwMWtWbTNRZ0ROTlJ3aW11WTJBUjNvQk91NEZwcHRkQnZseFdQNzlFTVdDeklpaElCdjRBUlFOakZjeGJuZGR3QjdWY0l5NVFiZ080RlNqZVlfTjc0NWFYNzByVjJEcFJzckEzYk",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUFwMWtWbTNRZ0ROTlJ3aW11WTJBUjNvQk91NEZwcHRkQnZseFdQNzlFTVdDeklpaElCdjRBUlFOakZjeGJuZGR3QjdWY0l5NVFiZ080RlNqZVlfTjc0NWFYNzByVjJEcFJzckEzYkRmZzhmeWhUV0FCOFBBckMxTzRtajRXekN5alp1dXV1YmlnWWppUUFwc3YwVDhvOG5mZGZ0T2E3aGJUX3hqNk1jekFFaXR5N0IyWTBiUkxpaThDUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1619,6 +2222,24 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-038",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Africa Fertilizer Market Expands as Food Security and Modern Farming Drive Agricultural Transformation - vocal.media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjRsRFp2S0lmVGp3NTVIYmtqbXk2YkNMNHpnNFROc1k1S1duLTRoZ214ZE9oZEFYTUtFTzBLUUUxbnlvWk92OVlIR1F4dXNQQUUyRHJkQVR1TGlYb0pWSFlMU0NYSUlnLUlSWmpGbF",
+    "sources": [
+      {
+        "name": "google_news_agriculture",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjRsRFp2S0lmVGp3NTVIYmtqbXk2YkNMNHpnNFROc1k1S1duLTRoZ214ZE9oZEFYTUtFTzBLUUUxbnlvWk92OVlIR1F4dXNQQUUyRHJkQVR1TGlYb0pWSFlMU0NYSUlnLUlSWmpGbFZjU3BVcDFWNTJpbU1zXy1BTnppTHdWNzNhdVR2MmpfYm91OS1JdFNWb3ZXUTc5VHpEdExVc2pWc0pSblI0VjZ4NjhHNDBlNTRaT3B5SEdnTVc3NmhCY0NB?oc=5",
         "type": "rss"
       }
     ]
