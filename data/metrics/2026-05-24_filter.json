@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 4,
+  "gate2_fail": 10,
+  "passed": 8,
+  "gate2_samples": [
+    "The Mosaic Company: - marketscreener.com",
+    "Mosaic: A Fleeting Geopolitical Crisis Creates A Buying Opportunity (NYSE:MOS) - Seeking Alpha",
+    "CF Industries Holdings Drops 5.1% Amid Sector-Wide Selling - AlphaStreet",
+    "Is It Time To Reassess CF Industries Holdings (CF) After Its Strong Year To Date Run? - Yahoo Financ",
+    "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - simplywall.st"
+  ]
+}

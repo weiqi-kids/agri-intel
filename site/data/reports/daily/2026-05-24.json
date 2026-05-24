@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:48:23.064344Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-05-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "32,217 Shares in Archer Daniels Midland Company $ADM Acquired by ABN Amro Investment Solutions - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORkZkYk4tVnNYRlo1SUtaS2d0THNqM012TktBSFFkSl9xd0t3cWhjUE5oNnIzVktHeDV0cjA2MUpaeVV2NnpqZGp3OEU3T2lWMkxTeEFQbEtKVDcxTi1TVjdKTklhTUxtSzU0R2V0U1hNMzFOa3NjMmNTaVJQOHJScDByVFhwM2l2TV9mSHdnS1dvUUxYTkZzTWhnaGFjOURrR0M2ejlITEZiVjNMN0E2OE5jcTRfV19NUG9LTXpDZTZNSG14YW5GeHEtR2M3RWo4Z052X2hYNXNCamJfcDJnU1N6cUlpQ2Mt?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LSV Asset Management Has $116.19 Million Stock Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLV9mcDcwOVJFZVJKQThaS3BTdFgxcFBVN3RYQXN6Q25zd2ViV1lnQklPQ2Jkandxd3U1eDdVSEEwQmZ3S1J3ZzVzbG43Rk5xM1JQaFJtOVlwelBQRVdBMTdXazlnRVVLakc3M19xN3ZfMVk4U3F3VEJFaWxxM3VJLS1aQjU2aUh0Wm45N2RqVldxM1hfeDFvNlpxWWNlaHJYNU9TS2U5TXFEbEo0N0k4bk9fZHhjelR5RFllTlZHekFtMFlqb0U2a1FFTV9HV280Z01DWkhhYmdyd01qUmpYVE1yTU1RX1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-05-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global Dividend Increase And Valuation Gap Catch Investor Attention - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVi1zWGhUaFdsd1ZHaXl4NDU0WjdIRU5tOXVoMDEzQ09MZW02V1BFWWx0aGlkcTE1S1U2ZGc1aHNTSkdOdmp5THhYTEJ3VGNkaC0zNjJMSXNrMHc5aTF5ZFBmX01TN3M5UXMwZ3NqUWlBUTRYTi1LVE9JbklpUjFVY1MzTlRfU2JnTzdyLTI5MENSSVV0SHRPUW0wdU8xcjlQSHd3Q1NYODZFTTJOU3hNZzViWnJ3Tk9rbXBUOC1yQmphVHlVbER6bUVoT0RJZ1YtX0w0OW9pUdIB3AFBVV95cUxQaHNycDdUYWhSVjFLTVFvcEk3WHdWUHJiTlVTUW1TSEJaUS1TUDB0OTBpNi1zTl9MMnQzWjhDVTRlVEVJcW04X3QtUUl5VG1vdnZyQnlIYzdCOTk1d2gxSmtFNWZIelFhMzRKcUZ1NnVELV9aWV95MzRGemUxbWR3X3RjQkNWZEhlMWU0QWUyY2ROelAzSzYxYnh1QVJFY3ZSeGc2OF84TzBDLXpGYzRmSzVUYkVIQnlyRTdVaW9BQTdUXzhkMlQ5UG1TcW1RMDYtQzJQbVNEdl9scEd4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 196,
+    "too_old": 155,
+    "gate1_blocked": 4,
+    "gate2_blocked": 10,
+    "passed": 8,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "The Mosaic Company: - marketscreener.com",
+      "Mosaic: A Fleeting Geopolitical Crisis Creates A Buying Opportunity (NYSE:MOS) - Seeking Alpha",
+      "CF Industries Holdings Drops 5.1% Amid Sector-Wide Selling - AlphaStreet",
+      "Is It Time To Reassess CF Industries Holdings (CF) After Its Strong Year To Date Run? - Yahoo Financ",
+      "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為ADM、Bunge相關動態：「32,217 Shares in Archer Daniels Midland Company $ADM Acqu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "32,217 Shares in Archer Daniels Midland Company $ADM Acquired by ABN Amro Inv...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LSV Asset Management Has $116.19 Million Stock Holdings in Archer Daniels Mid...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
