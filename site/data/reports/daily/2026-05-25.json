@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:43:12.076658Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 191,
+    "too_old": 162,
+    "gate1_blocked": 4,
+    "gate2_blocked": 10,
+    "passed": 5,
+    "pass_rate": "2.8%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "The Mosaic Company: - marketscreener.com",
+      "Is It Time To Reassess CF Industries Holdings (CF) After Its Strong Year To Date Run? - Yahoo Financ",
+      "CF Industries Holdings Drops 5.1% Amid Sector-Wide Selling - AlphaStreet",
+      "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - Sahm",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-25 無農業產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
