@@ -1,5 +1,659 @@
 [
   {
+    "id": "sqm-2026-05-27-001",
+    "date": "2026-05-27",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lithium giant Sociedad Química y Minera de Chile (SQM.US) more than doubled its first-quarter profit and raised its full-year sales guidance across the board, marking a strong start to the year. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFVQd3VfMklqLUNXWjAyTzhFaWNoSlEyMGh2OXN3akY5ZC04c2cwVDBXVGRYQlk3d2JtLVVRZjRFU0lYdmVkRG9MeEk1bDZsYWJFZDZPc3ZMUzhGc1ZKRlVPcTZIMzVfbklqbVNINE",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFVQd3VfMklqLUNXWjAyTzhFaWNoSlEyMGh2OXN3akY5ZC04c2cwVDBXVGRYQlk3d2JtLVVRZjRFU0lYdmVkRG9MeEk1bDZsYWJFZDZPc3ZMUzhGc1ZKRlVPcTZIMzVfbklqbVNINERYbDdyamhGSm9ycXpVbm1TZmt0dXI5dVJJNTYtTWJYbXp6bWdDZ09wcVBmUDE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-002",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera de Chile Q1 Earnings, Revenue Rise - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDVhUVFHN2FnWW1PQW5ZVFl0ck1GRkthMy1VZTl3cnN5UU1xVXBDcXQwTGpGOFNuM2R0RE5BVUJzOWhMV0RUOElNSDR1WnM2Sk5GTzZkZWJOM3gtVW9pWUs0N2NZb0JSSHJfNVJaME",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDVhUVFHN2FnWW1PQW5ZVFl0ck1GRkthMy1VZTl3cnN5UU1xVXBDcXQwTGpGOFNuM2R0RE5BVUJzOWhMV0RUOElNSDR1WnM2Sk5GTzZkZWJOM3gtVW9pWUs0N2NZb0JSSHJfNVJaMEwwWVBPQWpreVh1YU9ud1hjczZ5OVl5U0xoaHM4Qk9BOWFWbHI0SndsRG5sOGhCUmhvUU1FUzY4bGgxcnRoS0xiYjh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-003",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How one farm either loses $1 million or earns $250,000",
+    "summary": "More Than Dirt: Know your farm’s operating numbers and clearly communicate with your lenders so they see what you’re seeing — and act on your true business performance.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/farm-profits-soar-with-accrual-accounting-clarity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-004",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FFA student builds garden to help feed community",
+    "summary": "An FFA project has transformed into a community-wide effort to ensure no child is left hungry.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/ffa-student-builds-garden-to-help-feed-community",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-005",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "These 2 emerging pest threats have farmers on high alert",
+    "summary": "Pyrethroid-resistant corn earworm and the arrival of soybean gall midge mean growers can’t rely on last year’s control strategies. Here are early-warning systems and management tools that can help.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crop-protection/these-2-emerging-pest-threats-have-farmers-on-high-alert",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-006",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. sunflower production surges in 2026",
+    "summary": "Sunflower Extra: USDA estimates 2.38 billion pounds of production this season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/u-s-sunflower-production-surges-in-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-007",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dairy farms need involvement from next generation",
+    "summary": "The Dairy Ambassador program gets the next generation engaged not only in dairy farming, but also in advocating for the industry.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock-and-dairy/dairy-farms-need-involvement-from-next-generation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-008",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why it’s a bad year to be a U.S. rice farmer",
+    "summary": "The U.S. rice market is in jeopardy as farmers continue to face high input costs and low commodity prices. This is putting Midsouth infrastructure used to grow and mill the crop at risk.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/rice/why-it-s-a-bad-year-to-be-a-u-s-rice-farmer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-009",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Brothers grow 'Apples of Distinction,' plant seeds for future",
+    "summary": "Master Farmers: Mark and Seth Boyer are continuing the family tradition while making a name for themselves.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/brothers-grow-apples-of-distinction-while-planting-seeds-for-future",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-010",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Michigan farmer pivots to popcorn, goes global",
+    "summary": "Ed Shumway transformed his family's 170-year-old Michigan dairy farm into a thriving international popcorn operation, shipping premium kernels to 28 countries.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/michigan-farmer-pivots-to-popcorn-goes-global",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-011",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elementary school’s focus on agriculture builds next-gen farmers",
+    "summary": "From hydroponic gardens to running their own farmers market, Springfield AgAcademy students are gaining business experience that’s shaping their futures.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/elementary-school-s-focus-on-agriculture-builds-next-gen-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-012",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First crop of winter durum wheat in Kansas nears harvest",
+    "summary": "Field Check: Wheat harvest is just around the corner in Kansas. Heath Koehn shows the progress of his irrigated winter durum wheat during this tough season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/harvest/first-crop-of-winter-durum-wheat-in-kansas-nears-harvest",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-013",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Heavy rains? Assess nitrogen loss in corn",
+    "summary": "Corn Corner: If you experienced a string of rainfall events shortly after planting, you may face nitrogen loss in some of your cornfields. Assess the situation to determine if a rescue application is ",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/heavy-rains-assess-nitrogen-loss-in-corn",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-014",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Navigate forage challenges with smart pasture management",
+    "summary": "With hay in short supply, here are stocking rate and rotation tips to help maximize horse pasture health.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/pasture/navigate-forage-challenges-with-smart-pasture-management",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-015",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Robot moves toward full grain bin autonomy",
+    "summary": "By fall, Grain Weevil will let farmers set it and forget it, saving time while keeping them safe.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/robot-moves-toward-full-grain-bin-autonomy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-05-26-001",
+    "date": "2026-05-26",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Evaluating SQM (NYSE:SQM) After A Strong Year And Cooling Short Term Share Price Momentum - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVlE4aGwwTnNIMFY3cU1VZzZPYnAxY0RrdmdJSFpZQWppYXVLZktlM0R4S3ljdzZwNkFMZVJ6em90ODFiaENDYm9PMWdZTUc0cTlLdGxKSjk3TFVXUGlaV0w1STIwV2R1OHNDbkNTb0",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVlE4aGwwTnNIMFY3cU1VZzZPYnAxY0RrdmdJSFpZQWppYXVLZktlM0R4S3ljdzZwNkFMZVJ6em90ODFiaENDYm9PMWdZTUc0cTlLdGxKSjk3TFVXUGlaV0w1STIwV2R1OHNDbkNTb0t0cXBHdjZIVkpFSVY0MWpLelNDanl3UlFIUVNCWVZ3RWxRNVlTQUtEOUxOOWVUa1FUcjNQa0xXZmNPMXlzMzh4TU4zODhGcnFfZFVmR2pDbi1uOHVzU3ZoSGNoOWZ1STZ1RnJua2J1aXF5aGdFdXdWcW9MY0ZyYmdtT3Q40gHrAUFVX3lxTE9WUThobDBOc0gwVjdxTVVnNk9icDFjRGt2Z0lIWllBamlhdUtmS2UzRHhLeWN3NnA2QUxlUnp6b3Q4MWJoQ0Nib08xZ1lNRzRxOUt0bEpKOTdMVVdQaVpXTDVJMjBXZHU4c0NuQ1NvS3RxcEd2NkhWSkVJVjQxakt6U0NqeXdSUUhRU0JZVndFbFE1WVNBS0Q5TE45ZVRrUVRyM1BrTFdmY08xeXMzOHhNTjM4OEZycV9kVWZHakNuLW44dXNTdmhIY2g5ZnVJNnVGcm5rYnVpcXloZ0V1d1Zxb0xjRnJiZ21PdDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-002",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera de Chile Q1 2026 Earnings Preview - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVBUVEIzT2ZUVERkN0t4ZUxjV0RuTjdRa1N1bm9jU2RmZmQ0alJjaVg2WlZzVkZTeU1pYmxFMlZNeWtkX3lZbWpyQnk0VGNZWmUxV2NBTjc5MEhWdUJtNGsyV2RTS3locU5iUDdsb3",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVBUVEIzT2ZUVERkN0t4ZUxjV0RuTjdRa1N1bm9jU2RmZmQ0alJjaVg2WlZzVkZTeU1pYmxFMlZNeWtkX3lZbWpyQnk0VGNZWmUxV2NBTjc5MEhWdUJtNGsyV2RTS3locU5iUDdsb3VkamlENGR0WVpOVnBJdDRINEhJLVZaTVN3dW1hUVhOenlIS1ZHRWRZT3Y0aDZVRVpxcmRVeE1ySGdWUl9x?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-05-26-003",
+    "date": "2026-05-26",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera de Chile SA (SQM) MAR/2026 Earning Prediction - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ1NkZDNRdUVNWjJZdzAxUUljU3ZqX0lac1dnT3p1ZlZuMVBJYTdsNno5UE9GYWJKbnNHTVQza0RxbnQ1YWcwQUpGUTJVZU9hSFBRNlk2MVV6REFaZUhzaDVuODBGQTY4S0x5RGFWbU",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ1NkZDNRdUVNWjJZdzAxUUljU3ZqX0lac1dnT3p1ZlZuMVBJYTdsNno5UE9GYWJKbnNHTVQza0RxbnQ1YWcwQUpGUTJVZU9hSFBRNlk2MVV6REFaZUhzaDVuODBGQTY4S0x5RGFWbUs2TmZqaVhtaFRYZjVVYl92Qg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-05-26-004",
+    "date": "2026-05-26",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EXCLUSIVE | Yara poised to begin operations at flagship European blue ammonia plant within weeks - Hydrogen Insight",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWWgyZWJud3BGWEVDSU84bWplaS1IS2ZnNTJFZ2RELXBTSmJsMDlmOGZaSlotRFFvd0hsS09XRlNJSkgtX3JBVURPLTdlaGJDalhTdDF1ZUo2RmNWaUJJaWNOc2ZIckxwemcteEhJUV",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWWgyZWJud3BGWEVDSU84bWplaS1IS2ZnNTJFZ2RELXBTSmJsMDlmOGZaSlotRFFvd0hsS09XRlNJSkgtX3JBVURPLTdlaGJDalhTdDF1ZUo2RmNWaUJJaWNOc2ZIckxwemcteEhJUVBMU1p1aEFOS3Zrd1lrMnVuU2E4Nm83SkkwM2tQWEx3TTJUSHpNU1BCdExRRDNfQ2oyTUU2LW9uOU53S1JuZWtlWW5oamkzTW1FNkNrX0dTVUV0cHVfUEhjZlZIVXg1UzFZYUZ6UVkwV2xHSk5XdHBuM3FOaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-26-005",
+    "date": "2026-05-26",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation CFO Andrew Sandifer to speak at 16th Annual Wells Fargo Industrials & Materials Conference - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWU2Vm4tc1dtcFZPblFLQ2FpZGxiRVhWd21TOGY5dDYxRFc0MGswUlp0VUZLQlMtYm51Zm1BakcwVEpnYzdtRHI4eWdJSHlqekd6eUVYdXItM2NKWDNYU0xBd2tpemJxVHY3UzNSaG",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWU2Vm4tc1dtcFZPblFLQ2FpZGxiRVhWd21TOGY5dDYxRFc0MGswUlp0VUZLQlMtYm51Zm1BakcwVEpnYzdtRHI4eWdJSHlqekd6eUVYdXItM2NKWDNYU0xBd2tpemJxVHY3UzNSaGlxcjBQYUtFa3pWY1JKXzZYRVJERC1Tc0luZC1nVjhQX1lJdVlkN3JhTWlBTWl0VlpYV1lkWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-26-006",
+    "date": "2026-05-26",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC finance chief to appear at Wells Fargo industry event June 9 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXRwOXJMSjB4YUN6aGdQbTZ5RTE3YU1ETk9NZWx4UXZkQTFxWDNqbU5QNzAtMXpUUzVZWm95X292RUE3ajBCYUdwVlFOODF1X3BrbUx6WjJCYW9sMzBFRkJTSDVfOHN6SUFZaVg4Tn",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXRwOXJMSjB4YUN6aGdQbTZ5RTE3YU1ETk9NZWx4UXZkQTFxWDNqbU5QNzAtMXpUUzVZWm95X292RUE3ajBCYUdwVlFOODF1X3BrbUx6WjJCYW9sMzBFRkJTSDVfOHN6SUFZaVg4TnM3dHI0dVZZZGkxMVRwSEdpbVFWaTBfWk9vcXN3bXJ5ZGdWdHhudkRNN2JEVTVSdHE2elVGaGk4S2pKLTQwWmdnLXRId0NKU0EyQk04?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-05-26-007",
+    "date": "2026-05-26",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NTT, Kubota and NTT DOCOMO Demonstrate Communication Technologies Enabling Remote Operation of Robotic Agricultural Machinery in Mountainous Areas - JCN Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaWJIR01McXNaOGVDSGdPR2lKdG9xY21PdWRyMGtmYWxGNS1FSnJheGsxSkVCdWczaDA5ZzRkc1pNcDFyQWdRT1FiaFV1WHE1RWtSRE5LbmVmbzhlR2ZLN01zTWpyeDdYdnkzN1dHdV",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaWJIR01McXNaOGVDSGdPR2lKdG9xY21PdWRyMGtmYWxGNS1FSnJheGsxSkVCdWczaDA5ZzRkc1pNcDFyQWdRT1FiaFV1WHE1RWtSRE5LbmVmbzhlR2ZLN01zTWpyeDdYdnkzN1dHdVlpYktPUlNHUVNtVWplZ29SSWY3TW9ZZ281VlFjN1hTQWpWVzR4WHIwZ1FneGtmRnF0YU1NazBudXhNbGM3T2JrLWlhOTRZRG5BOG5UbG5aRDJRYUlPclBKc3l0c1B1WkhtT2tXTG1aYl9oUk9Zb24tS2c2VTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-008",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn yields at risk as nitrogen prices soar - WKBN.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQkhQbzRmZ3E4Rm5IMlU5TzhIbkRTZzVMRGI1TDZVdFRDeG9FUE81YWtac2ZwNllObklKRVdXOWNGVGZXTEIta29VMVRoNFM3c0xhOWxEc1d0RWJvczJvOC03dTBReF9YTDVnbDMyQ2",
+    "sources": [
+      {
+        "name": "google_news_fertilizer",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQkhQbzRmZ3E4Rm5IMlU5TzhIbkRTZzVMRGI1TDZVdFRDeG9FUE81YWtac2ZwNllObklKRVdXOWNGVGZXTEIta29VMVRoNFM3c0xhOWxEc1d0RWJvczJvOC03dTBReF9YTDVnbDMyQ2I4b3JfQ052bG5TR0pwUC1URFh0Q245OWdaZDNpc3R3RjYxQ0XSAZMBQVVfeXFMT0JIUG80ZmdxOEZuSDJVOU84SG5EU2c1TERiNUw2VXRUQ3hvRVBPNWFrWnNmcDZZTm5JSkVXVzljRlRmV0xCLWtvVTFUaDRTN3NMYTlsRHNXdEVib3MybzgtN3UwUXhfWEw1Z2wzMkNiOG9yX0NOdmxuU0dKcFAtVERYdENuOTlnWmQzaXN0d0Y2MUNF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-009",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Crop progress: Winter wheat quality still on the downward slide",
+    "summary": "Corn and soybean plantings continue to march towards the finish line.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/crop-progress-winter-wheat-quality-still-on-the-downward-slide",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-010",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grains saw red in post-Memorial Day session",
+    "summary": "Afternoon Market Recap: Corn, soybeans and winter wheat prices all trended lower on Tuesday.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-011",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. sugar farmers push for trade investigation amid import surge",
+    "summary": "Farm Progress America: Domestic producers say subsidized foreign sugar is flooding the market, threatening American farms and jobs across the industry.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/u-s-sugar-farmers-push-for-trade-investigation-amid-import-surge",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-012",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shift up, throttle down: 3 tips for saving precious fuel",
+    "summary": "Morning Market Analysis: Corn, soybean futures sink to lowest level in over a week as crude oil tumbles, planting nears completion.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-013",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hilarious farming memes to get you through tough times",
+    "summary": "Farming is a tough job, but it's easier with a few laughs and these memes will keep you cool in the heat of summer.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/23-hilarious-farming-memes-to-get-you-through",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-014",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How farmers raise the quality of life in the U.S.",
+    "summary": "Dr. Kohl’s Commentary: Lower food costs freed income for cars, college and vacations. What happens to a family’s standard of living when food costs increase?",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/business/how-farmers-raise-the-quality-of-life-in-the-u-s-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-015",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parts program keeps work moving",
+    "summary": "Dealer‑managed parts cabinets help farms stay efficient by reducing trips and keeping critical components in stock.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/parts-program-keeps-work-moving",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-05-25-001",
+    "date": "2026-05-25",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash donates $25,000 to endow USU Moab scholarship in trades and engineering - Moab Sun News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVhXTlEzYkd6Y29HSDZBcjM4bEVXQnBxQkg0c3NhaXZXRkV6anFfeGdoVDRSX0k3bmtRSmtkMmMwaHlnV19WRXpaUkYxQnc3V1Q0RWwzUk4xQUxWLWJYUVlRNF9ZWE1vU2YtRjFycm",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVhXTlEzYkd6Y29HSDZBcjM4bEVXQnBxQkg0c3NhaXZXRkV6anFfeGdoVDRSX0k3bmtRSmtkMmMwaHlnV19WRXpaUkYxQnc3V1Q0RWwzUk4xQUxWLWJYUVlRNF9ZWE1vU2YtRjFycmV0WEd3ZGFhcVpaM1BhMEo0VU43NXQ3RDd2LXVtREhBcnFpWDdWb2l6NXExOUZScnoyU0I3OHhIc0RLdFdGN2N1eTBzc0dlZG5oS1JvNkJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-05-25-002",
+    "date": "2026-05-25",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI N.V. stock (NL0010558797): After Fertiglobe restructuring, investors watch nitrogen and methanol - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWElqdjhDMFdVY2tEOHg5U0xMa0dvYVRWMTVSRVhub2huUzdTc0dqQVk5dnI0NXNjMFpUSWcxQWphSm1PeFVVeV9ITmg3czdmSnlxSmVyR1EtVVhIVkpFcHdfQjlka0VCNjVrcUlLMV",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWElqdjhDMFdVY2tEOHg5U0xMa0dvYVRWMTVSRVhub2huUzdTc0dqQVk5dnI0NXNjMFpUSWcxQWphSm1PeFVVeV9ITmg3czdmSnlxSmVyR1EtVVhIVkpFcHdfQjlka0VCNjVrcUlLMV8wTVBIX05mUi1mTUdHTDhoZGZIeEdlUjFRTDJ1aGZGaDFQVXJ4RE9KNndLZHc1dng3alhMSTd5S3d3MkFQNl9zNHhSRE84TXFHUk1vWFdvR2thUkxC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-25-003",
+    "date": "2026-05-25",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge’s SWOT analysis: stock navigates merger integration and earnings recovery - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMEs2a3Iyd0FHdUx3TGtGczhYbTY5Yzk1dTdSUXZ6czJaZGFwbWQ4bW9YWEIzQVhwTnFUQ1VJRXlwS1VkbTVGd1NDYW92QWZvZUJjV0NDbmtnMEU2b2d0ZXR6QkFSc2Nod2hBQTBGUD",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMEs2a3Iyd0FHdUx3TGtGczhYbTY5Yzk1dTdSUXZ6czJaZGFwbWQ4bW9YWEIzQVhwTnFUQ1VJRXlwS1VkbTVGd1NDYW92QWZvZUJjV0NDbmtnMEU2b2d0ZXR6QkFSc2Nod2hBQTBGUDdMSzhvZ3l6RjUwR01zNGNfbUxDb01hS0gtWUtibHFneV9uNGxwZVNWWlhELS1sZXM2UXFKX1pZbG1YamR6NjNHU1k5bG40LVRiWFhLdHhmeGxiQ2ZYZnpxVEo4ZWRJdWF5Z1hQZ3NRWkNnaWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-05-25-004",
+    "date": "2026-05-25",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beau’s and Kubota launch Ontario tractor giveaway celebrating rural life - Farms.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNalotdFowWGpmbWRtSlhZeEgtM25YTzRZVWhfYm9uY1AtRTU5RHFTWE1Pc3czQXE3dWtZMksybWJ3T0t6T1BQUGJzNE1DZkNiazRaNk1NSHAtUXVNWUV0UU1Ydm1Rc3p6LWoxRVdHbz",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalotdFowWGpmbWRtSlhZeEgtM25YTzRZVWhfYm9uY1AtRTU5RHFTWE1Pc3czQXE3dWtZMksybWJ3T0t6T1BQUGJzNE1DZkNiazRaNk1NSHAtUXVNWUV0UU1Ydm1Rc3p6LWoxRVdHbzN5dlgwbV92MkxCOHRkWWYzdXFZU0NJeUZqV2FwMGZPaFZ4aDdwUFVzMzhBLVVXR0dCSlFoUTdWUUtZSEg1VFZsUk8tTGlReWNyVTJadQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-005",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer Shock Forces Farmers to Bet on Manure as Costs Soar Worldwide - Agrolatam",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOc2FqYVZaOEtWRURfVWRNcjFHVFc1SHVSSURuSUFtUnBtdWxBY2kybFc0OHhNdTJyTW5MeHZNaHNGZ2JoRVVtNmVaN1FqVjdxYl9uM1lDc0Jub3FJcVMzQkN1N1dTOUlzMjh5SnZ3Nk",
+    "sources": [
+      {
+        "name": "google_news_agriculture",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc2FqYVZaOEtWRURfVWRNcjFHVFc1SHVSSURuSUFtUnBtdWxBY2kybFc0OHhNdTJyTW5MeHZNaHNGZ2JoRVVtNmVaN1FqVjdxYl9uM1lDc0Jub3FJcVMzQkN1N1dTOUlzMjh5SnZ3NktOQ2dSMzRxcWtMVi1EazJBbG5fZXRtQ290SDBuWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-05-24-001",
     "date": "2026-05-24",
     "companies": [
@@ -1080,6 +1734,106 @@
     ]
   },
   {
+    "id": "cf_industries-2026-05-22-046",
+    "date": "2026-05-22",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Stock Price, Quote & Chart | CF INDUSTRIES HOLDINGS INC (NYSE:CF) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WekJuT3QwRjNXaWUzb1Vxb3I0V2pTS1NpTmRVd2FNcVZTaE1VLXVaajBTbXVRcXNFaXZGMXVoMl9NejVzTGJibjZhVEM1VjRqdXRpSHpGSWt2S1N0?oc=5\" target=\"_blank\">CF ",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WekJuT3QwRjNXaWUzb1Vxb3I0V2pTS1NpTmRVd2FNcVZTaE1VLXVaajBTbXVRcXNFaXZGMXVoMl9NejVzTGJibjZhVEM1VjRqdXRpSHpGSWt2S1N0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-05-22-047",
+    "date": "2026-05-22",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "YAR.OL Stock Price, Quote & Chart | YARA INTERNATIONAL ASA (OSL:YAR) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oQkVwdHc4TjRuR1lkMGM3bE5Jc05BYV9kMHREWHFzVzYyYWVSTVFvS0JGcE5ibUh6YWIxVlZpTUlhQmVrWGJaN2YyYjBxb1pqa2p0NDhuSllhaHJ3SF83YzZn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oQkVwdHc4TjRuR1lkMGM3bE5Jc05BYV9kMHREWHFzVzYyYWVSTVFvS0JGcE5ibUh6YWIxVlZpTUlhQmVrWGJaN2YyYjBxb1pqa2p0NDhuSllhaHJ3SF83YzZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-05-22-048",
+    "date": "2026-05-22",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI.AS Stock Price, Quote & Chart | OCI NV (AMS:OCI) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qUHdpUkI1elZOTjJobE4yWjhQcDd6VHRmYkVPdW1Bb1Y4S3pxMEV3OVVKZ1FKVTIzLUw4NENuUS1MSHhPSTJPM3lGcTVkUm1uM29fdEZfWjA2eFlBcFdsSGpB?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qUHdpUkI1elZOTjJobE4yWjhQcDd6VHRmYkVPdW1Bb1Y4S3pxMEV3OVVKZ1FKVTIzLUw4NENuUS1MSHhPSTJPM3lGcTVkUm1uM29fdEZfWjA2eFlBcFdsSGpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-22-049",
+    "date": "2026-05-22",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADM Price History for Archer Daniels Midland Stock - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMzZxWTNtcUQ0eEhzMGNYQy1WQzFkZUZXdE1PQTFMV1hGN2w4YkR2c1lzVWZibHgxZjE5MVNac1Iwa25MNzQyRU80RGlmQWRjQkJNc2RCdWFGd0hTTGFNdGE3cm9MZ01xWU9zT1FHam",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMzZxWTNtcUQ0eEhzMGNYQy1WQzFkZUZXdE1PQTFMV1hGN2w4YkR2c1lzVWZibHgxZjE5MVNac1Iwa25MNzQyRU80RGlmQWRjQkJNc2RCdWFGd0hTTGFNdGE3cm9MZ01xWU9zT1FHamtrZjlFSEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-22-050",
+    "date": "2026-05-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BG - Bunge Global SA Stock Price and Quote - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzekVhOUEyRnRwZEtZRlJpOTNFbGxsTDh0NTdvVi1mVXZuc3JreFRVNXZreVZ1SXFBRkdaS0I1Q3ZMRW8?oc=5\" target=\"_blank\">BG - Bunge Global SA Stock Price and",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzekVhOUEyRnRwZEtZRlJpOTNFbGxsTDh0NTdvVi1mVXZuc3JreFRVNXZreVZ1SXFBRkdaS0I1Q3ZMRW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-05-21-001",
     "date": "2026-05-21",
     "companies": [
@@ -1750,6 +2504,26 @@
       {
         "name": "corteva",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemtXNGIzM28zWGJMTmFLZlNzVk9ZTHpVWkloZFA4SGhYdm90alEwTlU5MU1kR0lrMGFtaVpoQ0dOd0JadTN1WmMzMDI1aW9CRkl5SWJMNzBpUVNDbWxYYWt3R240Q1MxZEFES1JRMV9jQjNlT2l6Rk5XbFFiYi0zQ0k3RUhaNU96VDZnMFZocXVaQkJzeTBqX0F1QnJyTEo2eTQwZm1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-05-21-036",
+    "date": "2026-05-21",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Do Wall Street Analysts Like Bunge Global Stock? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVo0ZzFCMWhucFVOTWhMNGZ3bGhtU1dBbEMxZ2ZRREpqNW8zVjNibjBUbkhlbkRqcnVNR3RoVnFPaTFSRS16Y2hxQV9ncnR5SUxwMXpaakRJS1h4dHdhZzRWYlhNNEFrN0p0T0t6X3",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVo0ZzFCMWhucFVOTWhMNGZ3bGhtU1dBbEMxZ2ZRREpqNW8zVjNibjBUbkhlbkRqcnVNR3RoVnFPaTFSRS16Y2hxQV9ncnR5SUxwMXpaakRJS1h4dHdhZzRWYlhNNEFrN0p0T0t6X3R4QWIxcm45VWJ1RWtocml1dnRUYUdPeTJQdnNfNl9OWE5EWmhGZ2c?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 41,
+  "gate2_samples": [
+    "CF Industries Holdings Drops 5.1% Amid Sector-Wide Selling - AlphaStreet",
+    "Is It Time To Reassess CF Industries Holdings (CF) After Its Strong Year To Date Run? - Yahoo Financ",
+    "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - simplywall.st",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+    "Corteva expert says now is the time to prepare for tar spot - Brownfield Ag News"
+  ]
+}

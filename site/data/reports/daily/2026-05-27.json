@@ -1,0 +1,211 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T11:29:26.318657Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-05-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lithium giant Sociedad Química y Minera de Chile (SQM.US) more than doubled its first-quarter profit and raised its full-year sales guidance across the board, marking a strong start to the year. - Moomoo",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFVQd3VfMklqLUNXWjAyTzhFaWNoSlEyMGh2OXN3akY5ZC04c2cwVDBXVGRYQlk3d2JtLVVRZjRFU0lYdmVkRG9MeEk1bDZsYWJFZDZPc3ZMUzhGc1ZKRlVPcTZIMzVfbklqbVNINERYbDdyamhGSm9ycXpVbm1TZmt0dXI5dVJJNTYtTWJYbXp6bWdDZ09wcVBmUDE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sociedad Quimica y Minera de Chile Q1 Earnings, Revenue Rise - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDVhUVFHN2FnWW1PQW5ZVFl0ck1GRkthMy1VZTl3cnN5UU1xVXBDcXQwTGpGOFNuM2R0RE5BVUJzOWhMV0RUOElNSDR1WnM2Sk5GTzZkZWJOM3gtVW9pWUs0N2NZb0JSSHJfNVJaMEwwWVBPQWpreVh1YU9ud1hjczZ5OVl5U0xoaHM4Qk9BOWFWbHI0SndsRG5sOGhCUmhvUU1FUzY4bGgxcnRoS0xiYjh3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-27-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "These 2 emerging pest threats have farmers on high alert",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/crop-protection/these-2-emerging-pest-threats-have-farmers-on-high-alert"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-27-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Heavy rains? Assess nitrogen loss in corn",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/heavy-rains-assess-nitrogen-loss-in-corn"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How one farm either loses $1 million or earns $250,000",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business-planning/farm-profits-soar-with-accrual-accounting-clarity"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 162,
+    "too_old": 163,
+    "gate1_blocked": 3,
+    "gate2_blocked": 6,
+    "passed": 41,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "CF Industries Holdings Drops 5.1% Amid Sector-Wide Selling - AlphaStreet",
+      "Is It Time To Reassess CF Industries Holdings (CF) After Its Strong Year To Date Run? - Yahoo Financ",
+      "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - simplywall.st",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+      "Corteva expert says now is the time to prepare for tar spot - Brownfield Ag News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為SQM相關動態：「Lithium giant Sociedad Química y Minera de Chile (SQM.US)...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lithium giant Sociedad Química y Minera de Chile (SQM.US) more than doubled i...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sociedad Quimica y Minera de Chile Q1 Earnings, Revenue Rise - marketscreener...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
