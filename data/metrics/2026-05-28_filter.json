@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 53,
+  "gate2_samples": [
+    "Is It Time To Reassess CF Industries Holdings (CF) After Its Strong Year To Date Run? - Yahoo Financ",
+    "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - simplywall.st",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+    "Legal & General Group Plc Increases Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Steel Grove Capital Advisors LLC Decreases Holdings in Archer Daniels Midland Company $ADM - MarketB"
+  ]
+}

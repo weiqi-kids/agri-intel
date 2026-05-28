@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:29:19.594448Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-05-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SQM (NYSE:SQM) Q1 EPS Surge Tests Long Term Earnings Skepticism - simplywall.st",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZDFZMWs4RElUNUlrdUE3SFUwa3p6SVg4Skk3NnAwTXJMMXZJcWUyenFlVURlWjJiaTI1NlpVSEZ2c2h0amt1N0M0YmFJckdaYUp4QzZlUTdtMjZJMy1KOHdTRFRwMFVhd1laY0I4OFBzSzJvWXMtUW5mWVdSV0pmZnEwSWVJeDZxUG5fcVBkaWw0bnNDTUx6ckU0b3J3djBtM19iNVdGajhseVY3dzBsTmljNTBfMWQ5X2lZalFMY1FBSjRQMmh0Y21SVVIzem1sOUFEdGZUZEktUHBKZ3Ywei1OYWI3NUpUTGVv0gHrAUFVX3lxTFBkMVkxazhESVQ1SWt1QTdIVTBrenpJWDhKSTc2cDBNckwxdklxZTJ6cWVVRGVaMmJpMjU2WlVIRnZzaHRqa3U3QzRiYUlyR1phSnhDNmVRN20yNkkzLUo4d1NEVHAwVWF3WVpjQjg4UHNLMm9Zcy1RbmZZV1JXSmZmcTBJZUl4NnFQbl9xUGRpbDRuc0NNTHpyRTRvcnd2MG0zX2I1V0ZqOGx5Vjd3MGxOaWM1MF8xZDlfaVlqUUxjUUFKNFAyaHRjbVJVUjN6bWw5QUR0ZlRkSS1QcEpndjB6LU5hYjc1SlRMZW8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland stock (US0394831020): Earnings probe, leadership change and what it means for - AD HOC NEWS",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdzNOVkVtS1Naa3lBNXNDMFVpUWFNcXZGcFJWMGxKdmtiUUJHT2JtbVJLcDl1SGxuTHBCMEt4SWswbU9FUVJlT1JMQ2lPblJPdVpJM3QwclUwUzNpS0FUakFrcXQ4Q1NDXzhQRUx3TDNHbFp4QzlodS1YM0ZBRUNvcXA3dnllVWdwMDF1ODVydFpDaUdUZ2RxVFNZVDdWSWxoMjQxc0RpcHhvMXNQMHZXMU15N1ZSMWlWZ19XZTFMVGlUSVNs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-05-28-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global SA stock (US12185T1043): shares steady after Q1 2026 revenue jump and Viterra merger pr - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0FMSXpNXy11OUs3blZNdVJSTHc5X1gyOFl3SmZlc011Y0VCZjRuV0ZiWjFDdHZQek1YbDFvam5NZUVQZk90M0ZGeUdZRXRrRHhkYzU3XzZTR0pXcTNwRlcxQmI1cVBZQ3QyU2h3QjFHUV9FbTNOd2pGaE9DcThpV0JXTGNhakRHNUdDaklXVFF1VVJSMVdkd0t2bEZGV1VRUFJ4MFBmblQxSXhEeDBqYllNVFZlNGhWUmI2aFdNQ3BQcXU0dWJFTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sqm-2026-05-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Química y Minera de Chile S.A. (SQM) Reports Strong Q1 2026 Results - GuruFocus",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFNvSm1ZY2RiZ2dGMWJyc0NUZlVCRWtod1NNNEJhRVNmZnpscnA5MElic00zeFpiaFdmYnA3ekdZbTh0U1BPcTBKVHFkRTY1d0tDcVlET1hndFlZRTZUV28zU0hrYUxVdnU2bVBaQmZ0QzZyQ3F6QnZScmdGM0hhNlZaYlZaRDJPSGFhVjFsellVVXVuMkFFbUNzbEVHTTJsaVNwbWd3MnIyb0o3RG1V?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-05-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berenberg Adjusts PT on CF Industries to $106 From $86, Says Upside Priced In, Supply Risk Ahead; Maintains Hold Rating - Moomoo",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHNMOHZvTjI1ZXNhYTFvcWUxTnBzWnVwUVNDek9RNUxEVlBCNG85enFIWklSaGdwSWRqRTlSWFF6ZnI1cDc0T0YxT01zWWJ0U0VHX1Nmcy1hczBlQ2pjbTgwQ3hrZnZySEtNSjZGNjF1UWVzUE9Vb2JNeUs3VGpxa0oyOWdtVjlaWVYySHEyamp3dWMzYlNEN1pn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 153,
+    "too_old": 158,
+    "gate1_blocked": 5,
+    "gate2_blocked": 6,
+    "passed": 53,
+    "pass_rate": "23.9%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "Is It Time To Reassess CF Industries Holdings (CF) After Its Strong Year To Date Run? - Yahoo Financ",
+      "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - simplywall.st",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+      "Legal & General Group Plc Increases Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Steel Grove Capital Advisors LLC Decreases Holdings in Archer Daniels Midland Company $ADM - MarketB"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為SQM、CF、Yara相關動態：「SQM (NYSE:SQM) Q1 EPS Surge Tests Long Term Earnings Skep...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SQM (NYSE:SQM) Q1 EPS Surge Tests Long Term Earnings Skepticism - simplywall.st（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer-Daniels-Midland stock (US0394831020): Earnings probe, leadership chang...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
