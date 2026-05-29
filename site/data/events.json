@@ -1,5 +1,263 @@
 [
   {
+    "id": "oci-2026-05-29-001",
+    "date": "2026-05-29",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI N.V. stock (NL0010558797): Amsterdam-listed fertilizer group trades quietly as investors await n - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3djaUZwbGU4ZlFqS0NZbjVkVmp3UHpVQkctQkY0RktGUTlLRFNZM2tFSzRNeGloUDlzZk40MjFtVl8yVWxuSG81azBoWUNqSHlRaGhMQnIwY3FyUW1jUGtkMHUwa3dPUUhSV0dhLW",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3djaUZwbGU4ZlFqS0NZbjVkVmp3UHpVQkctQkY0RktGUTlLRFNZM2tFSzRNeGloUDlzZk40MjFtVl8yVWxuSG81azBoWUNqSHlRaGhMQnIwY3FyUW1jUGtkMHUwa3dPUUhSV0dhLW0ydGNoTUdUdVZBamtRRmp2QnZTeEQtMmpQeDdIUFRnell6Q1ItSWItc2VFVVdCUTViTHRlUERjWm4tc0NzX00wZWMtRk5USk5fak9MbDZaYnNjWmhm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-05-29-002",
+    "date": "2026-05-29",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Allstate Corp Has $2.08 Million Stock Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNampuSnhwN3FfTGFfcEI2Uy1oM2RFY2JfbThCSUhNc3hoYmZ1SlB5bVoxdVJCNVRWdGxCYUQzeWtSQnQ2ekF0RGJoRXR1WXV2anpWZk5famt1ZVRXS0xINmlHYm04SDFVa1o5UTZYa1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNampuSnhwN3FfTGFfcEI2Uy1oM2RFY2JfbThCSUhNc3hoYmZ1SlB5bVoxdVJCNVRWdGxCYUQzeWtSQnQ2ekF0RGJoRXR1WXV2anpWZk5famt1ZVRXS0xINmlHYm04SDFVa1o5UTZYa1pvRUk5TEtCdXdPZ01qdzJyYkZxaDBiaklOVEtJTXJUV1ZwaTlsUzJhX3JLN3hFcUZpWVZ0M05QTExxLWhuZWl3TEloQ29uaVBYYmpobVdjUVgyNk1kUkIwSTF1dlVBRXQ2Rjl0blRaVnc4NGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-003",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSU field days and events set for summer",
+    "summary": "The events focus on everything from pollinators and dairy to wheat and mechanical weed control.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/msu-field-days-and-events-set-for-summer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-29-004",
+    "date": "2026-05-29",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World’s 1st methane-powered production tractors donated to UNL",
+    "summary": "Nebraska’s ENREEC research farm and facility near Mead recently received two methane-powered New Holland T6.180 tractors from CNH.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/world-s-1st-methane-powered-production-tractors-donated-to-unl",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-005",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Excessive rain, frost hit Ohio soybean crop hard",
+    "summary": "From delayed planting in the north to frost-damaged stands in the south, Ohio's soybean crop faces multiple setbacks.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/excessive-rain-frost-hit-ohio-soybean-crop-hard",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-006",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alabama family transforms their dairy into cow-calf success",
+    "summary": "In 2023, the Gilmers turned off the vacuum pump in the family’s dairy barn for the final time, the culmination of a multiyear plan to transition the operation from raising dairy cattle to beef product",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cattle-news/alabama-family-transforms-their-dairy-into-cow-calf-success",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-007",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From rock picker to regenerative pioneer: Jim Harbach’s 50-year journey",
+    "summary": "Master Farmers: Long before cover crops were trendy, Harbach was helping transform Schrack Farms into a model of regenerative agriculture.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/from-rock-picker-to-regenerative-pioneer-jim-harbachs-50-year-journey",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-008",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Looking back at stories from 2026 so far",
+    "summary": "As summer nears, The Farmer reflects on the biggest stories in Minnesota agriculture so far in 2026.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/looking-back-at-stories-from-2026-so-far",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-009",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to measure soybean stands",
+    "summary": "Soybean Watch: Grab your hula hoop or tape measure, determine which stand assessment measure is right for you and head to the field.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/how-to-measure-soybean-stands",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-010",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A-to-Z corn and soybean scouting guide",
+    "summary": "Slideshow: Check out this photo library of insects, diseases and weeds — all to help you better identify and stop problems before they get out of hand this crop season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crop-protection/a-to-z-corn-and-soybean-scouting-guide",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-011",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "European corn borer remains a potential threat",
+    "summary": "Across Agronomy: European corn borer once devastated yields, costing growers 60 to 70 bushels per acre. Bt corn traits have nearly eliminated the pest for three decades, but recent isolated resistance",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/european-corn-borer-remains-a-threat-despite-three-decades-of-bt-corn-success-in-midwest-fields",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-012",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Late-planted soybeans aren’t necessarily cause for panic",
+    "summary": "Did spring rains force the soybean planter to sit idle? Don’t panic — you don’t need to uproot your plans. But there are some small changes that will set those delayed soybeans up for success.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/late-planted-soybeans-aren-t-necessarily-cause-for-panic",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-013",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reflections on 1 year of covering Missouri agriculture",
+    "summary": "Show Me That: Working at Missouri Ruralist brought me to the exciting farm country, where you learn something new every minute with this ever-changing industry.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/reflections-on-1-year-of-covering-missouri-agriculture-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-014",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farm Press highlights water management, irrigation technology trends",
+    "summary": "Slideshow: Farm Press covered irrigation, water management and Western water issues throughout the month of May.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/farm-press-highlights-water-management-irrigation-technology-trends",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-05-28-001",
     "date": "2026-05-28",
     "companies": [
@@ -356,6 +614,197 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/planting/iowa-farmer-optimistic-despite-rain-delay-rising-costs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-020",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FTC chair says agency is probing fertilizer industry over price hikes - Crain's Chicago Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWNrTE02UXI4THBVWDhPMTljVG12S3NnREhWUzhhQ252TTZUdFlEUjU3UkU1VVdyUXFDMExfNENTQS1lcDVSVFctREpfOWhPWUJIN0ZnaGxpUFFJeVB0MG50QklFSkFrZkYzclRqaU",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWNrTE02UXI4THBVWDhPMTljVG12S3NnREhWUzhhQ252TTZUdFlEUjU3UkU1VVdyUXFDMExfNENTQS1lcDVSVFctREpfOWhPWUJIN0ZnaGxpUFFJeVB0MG50QklFSkFrZkYzclRqaUIzVVZyMl9kREVwZkgzRWY1ajItRXRwMjhpLV9FaHpjdDE3MVZoNEFyWmZnaW5zYXA5eUwtZ2cyUjR0UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-05-28-021",
+    "date": "2026-05-28",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic: Dividend Yield Nears 5-Year Peak Amid High Earnings Uncertainties (NYSE:MOS) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEk5U3ZLNE0yNVRIUkx5Zi1FcURJZmRVV1lkbnNxSXk3cHMtM2ltUzR3NTF5YVFZMVhmYUNTUUZYQ3lmeE82TlEwRUZqUWNDN3ZJMEFSdGwwa1JpVWNZYlNiSzJqWTRaVkh2OUxoQV",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEk5U3ZLNE0yNVRIUkx5Zi1FcURJZmRVV1lkbnNxSXk3cHMtM2ltUzR3NTF5YVFZMVhmYUNTUUZYQ3lmeE82TlEwRUZqUWNDN3ZJMEFSdGwwa1JpVWNZYlNiSzJqWTRaVkh2OUxoQVBGbl91MVpZRzh4OWxZYkxJcFc5WkRzS0VNNTFuXzZ0VXJ4R2ZPXzR1b256T0x4c2lOVHZvWDRhd1p1RndCbW5TWWFkbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-28-022",
+    "date": "2026-05-28",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US DOJ to argue at high-stakes Corteva-Inari hearing in seed patent deposit row - MLex",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVdTRkE5NmhQZjB0MGN3ZzM2d29nZE9sVlo2V3laY3kwSlBQUlI2ZUxLRFhfTktpTFB1OXRlZTlEMjY0cDQ2REFNYzJGVzduS19QOG4zY3JQRDR5YmIxOEZZSjhjMG10RTBLUUZUbE",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVdTRkE5NmhQZjB0MGN3ZzM2d29nZE9sVlo2V3laY3kwSlBQUlI2ZUxLRFhfTktpTFB1OXRlZTlEMjY0cDQ2REFNYzJGVzduS19QOG4zY3JQRDR5YmIxOEZZSjhjMG10RTBLUUZUbENIbWtsVkpHUGozYU0yRGppSEFUV3N0SmVqb2Q3Q2pfQ2VMbmNUYlRjcjEwYnJBeF91cWpWQzNqNnh5d1BTeTdia0dJaHZMUUtjWVpablI2RdIBWkFVX3lxTE41U2tCNS1sLXowc2tYN0F1LXpZMlZIRVBBU0xLTlE4aUhzLTdCV3h1ZHdfS05VQWlOcWdibkZ6TXhZRTdqX1Z3RnNhSUFVcE9CTXpsVVVzcEFUUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-05-28-023",
+    "date": "2026-05-28",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Stock: Two Businesses, One Price (NYSE:CTVA) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSGg1RzM0M19ndDNCdjFMNHdXUDhjdFAyZ0tYcjVUNGdkMXcxdUp1em9EZzVsTnp4WEhTQWNKVU9yU3hLdFFlSkxlM1ptUHhoZWM1bWxDd09NQWh5M0U4ZE1zNWVpMzdHWTRZcmJHRm",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSGg1RzM0M19ndDNCdjFMNHdXUDhjdFAyZ0tYcjVUNGdkMXcxdUp1em9EZzVsTnp4WEhTQWNKVU9yU3hLdFFlSkxlM1ptUHhoZWM1bWxDd09NQWh5M0U4ZE1zNWVpMzdHWTRZcmJHRm80bVZUcUp2b0NJUXBZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-28-024",
+    "date": "2026-05-28",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corp. Just Agreed to Sell Its India Commercial Business. Here's What That Means for the Stock in 2026. - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTZyajRNN3o5c291NXpHRlVvZDA2WXpQblVYV1VBOFVCMHBOTW1qcFF3OGQ0TXl5Tl9LTEV3Tm1mbllzZkgwMUdMVkE5azFXUU5McFFDSUw0TEtiOGZzSUtCcE1OaDFCY3o4YXVNM2",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTZyajRNN3o5c291NXpHRlVvZDA2WXpQblVYV1VBOFVCMHBOTW1qcFF3OGQ0TXl5Tl9LTEV3Tm1mbllzZkgwMUdMVkE5azFXUU5McFFDSUw0TEtiOGZzSUtCcE1OaDFCY3o4YXVNM2tXQm16dUxLQ0dlTjN5ZE5yWU55ZXVFa2dFUzRlb1Q0bGh6Z2Yx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-05-28-025",
+    "date": "2026-05-28",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: York Space Systems, Inc. (YSS) and CNH Industrial (CNH) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxQc3hTUDNJSnJRV2Z5ajI2SHlrR1NjMW9EQjZpbmVsUWphaXByNFpEZ1hOY0JfX2pMcHcxWkd3eDM3ZVVKWU0tWkRNRjVMYUZkM040aWF3Um1Ga2RQVjNjdHJtdFFJa0tOWVBSN01IQX",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQc3hTUDNJSnJRV2Z5ajI2SHlrR1NjMW9EQjZpbmVsUWphaXByNFpEZ1hOY0JfX2pMcHcxWkd3eDM3ZVVKWU0tWkRNRjVMYUZkM040aWF3Um1Ga2RQVjNjdHJtdFFJa0tOWVBSN01IQXE3c2hCdVBBT2FYbGUyNzlkOGx4emVTTG0teFRZT2ViaDBZX1JRUFpmdnZNbTlOSm50UnB4R196VloyZVFiNzFCd081TEtTRXFmdGE4dXZDaWFVSWR1a3d3cTBicmJvYVFqUE16MTdvTW5wdUlYNkY3ZHhra1ljclc3ZU1LRXhXTFlTUkM1Yk1ZZklSU2ZET2lNSlcyLXFra2dJNGxtRW1xcDVxV0dlb1lWbGpPR2hlRlNKWVVfS21aY2lMWFl1eU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-026",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Ammonium Thiosulfate Fertilizer Companies Supporting Modern Agricultural Productivity - SNS Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUUN3ZFh5dXNBTFhxUkpIMUxLRTBBZDBSMjF0M0pRSHNRanhHUFEtd2p1TXNUaE5rSWdDUTROb1ItQkR4SVBIUVhCbEdHeXM2MHRiTnVJRlRITTlJcWw5ckx4NEU3bWtfMXFZVUY2NH",
+    "sources": [
+      {
+        "name": "google_news_agriculture",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUUN3ZFh5dXNBTFhxUkpIMUxLRTBBZDBSMjF0M0pRSHNRanhHUFEtd2p1TXNUaE5rSWdDUTROb1ItQkR4SVBIUVhCbEdHeXM2MHRiTnVJRlRITTlJcWw5ckx4NEU3bWtfMXFZVUY2NHRuZ2hmalczXzdvcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-027",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is this the start of a new corn, soybean rally?",
+    "summary": "Afternoon Market Recap: Prices made moderate inroads in Thursday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-028",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "June coming soon: Reasons not to give up on rally prospects",
+    "summary": "Morning Market Analysis: Corn futures rebounded from six-week lows overnight as U.S., Iran trade strikes, crude oil jumps.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-029",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "USDA to notify farmers of expanded base acre eligibility",
+    "summary": "Farm Progress America: Landowners should watch their mailboxes for notices about up to 30 million new base acres being added to farm safety net programs.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/usda-to-notify-farmers-of-expanded-base-acre-eligibility",
         "type": "rss"
       }
     ]
@@ -1203,6 +1652,24 @@
     ]
   },
   {
+    "id": "unknown-2026-05-27-045",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn yields at risk as nitrogen prices soar - WOWK 13 News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTGpLekZHMDRTcnFreHB1LWhqdzlPMXotU21zdTdaUDRyaU5FYm5LVnpJMnVtOHZiTDBtU2tSa3FkYWdhUzY4cUFGMWxDZnJUcWhaOXR3ZDJvWjIxVkMxVU9ldWNTVFZVR3Z0SmUyNW",
+    "sources": [
+      {
+        "name": "google_news_fertilizer",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTGpLekZHMDRTcnFreHB1LWhqdzlPMXotU21zdTdaUDRyaU5FYm5LVnpJMnVtOHZiTDBtU2tSa3FkYWdhUzY4cUFGMWxDZnJUcWhaOXR3ZDJvWjIxVkMxVU9ldWNTVFZVR3Z0SmUyNW5mamJnWXE4Vm5vMU9OS0c2amNZNkpzTFdSZTdUblRB0gGOAUFVX3lxTFBMakt6RkcwNFNycWt4cHUtaGp3OU8xei1TbXN1N1pQNHJpTkVibktWekkydW04dmJMMG1Ta1JrcWRhZ2FTNjhxQUYxbENmclRxaFo5dHdkMm9aMjFWQzFVT2V1Y1NUVlVHdnRKZTI1bmZqYmdZcThWbm8xT05LRzZqY1k2SnNMV1JlN1RuVEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-05-26-001",
     "date": "2026-05-26",
     "companies": [
@@ -1557,6 +2024,26 @@
       {
         "name": "google_news_fertilizer",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSjkxZDRtTnB4N3g3OG1zRnlTbFZUeHFrN1dMbFNnRnd5b0xOUXJTLW1wWXBvR1luVDVzUkxsSTgyY2VRaGlsZnE2NjdyYl9vWHN3ellUQ05OajhWYWpCVmY2YmpSZXJCTEhnQU95Wl9rbzJuMzV2Zjc1a1BjTzVYTEhOMEw2Q01YUEFj0gGLAUFVX3lxTFBKOTFkNG1OcHg3eDc4bXNGeVNsVlR4cWs3V0xsU2dGd3lvTE5RclMtbXBZcG9HWW5UNXNSTGxJODJjZVFoaWxmcTY2N3JiX29Yc3d6WVRDTk5qOFZhakJWZjZialJlckJMSGdBT3laX2tvMm4zNXZmNzVrUGNPNVhMSE4wTDZDTVhQQWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-05-26-020",
+    "date": "2026-05-26",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation CFO Andrew Sandifer to speak at 16th Annual Wells Fargo Industrials & Materials Conference - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlhiYVRIWmowbUxpWnZvSXJCQlRvVWg4b0hTZ1hsaC1sTFNIckhwanQ0RFF1NHQ1bi05Sm8zalZrZTBNYzYwdFB3NVhIalhZZE9LYUg5NVhQcUUtVm9DSmhBcFBGbmotaGNRZjMxSG",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlhiYVRIWmowbUxpWnZvSXJCQlRvVWg4b0hTZ1hsaC1sTFNIckhwanQ0RFF1NHQ1bi05Sm8zalZrZTBNYzYwdFB3NVhIalhZZE9LYUg5NVhQcUUtVm9DSmhBcFBGbmotaGNRZjMxSGxwYjcxYWVyaGpjT1N0Nk80N25qVUo2VkpMSDBieUdkX25zZ3VfTXVtdmtTS0xDWWZXc3c?oc=5",
         "type": "rss"
       }
     ]

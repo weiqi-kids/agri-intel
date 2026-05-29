@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:19:48.378945Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oci-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI N.V. stock (NL0010558797): Amsterdam-listed fertilizer group trades quietly as investors await n - AD HOC NEWS",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3djaUZwbGU4ZlFqS0NZbjVkVmp3UHpVQkctQkY0RktGUTlLRFNZM2tFSzRNeGloUDlzZk40MjFtVl8yVWxuSG81azBoWUNqSHlRaGhMQnIwY3FyUW1jUGtkMHUwa3dPUUhSV0dhLW0ydGNoTUdUdVZBamtRRmp2QnZTeEQtMmpQeDdIUFRnell6Q1ItSWItc2VFVVdCUTViTHRlUERjWm4tc0NzX00wZWMtRk5USk5fak9MbDZaYnNjWmhm?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Allstate Corp Has $2.08 Million Stock Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNampuSnhwN3FfTGFfcEI2Uy1oM2RFY2JfbThCSUhNc3hoYmZ1SlB5bVoxdVJCNVRWdGxCYUQzeWtSQnQ2ekF0RGJoRXR1WXV2anpWZk5famt1ZVRXS0xINmlHYm04SDFVa1o5UTZYa1pvRUk5TEtCdXdPZ01qdzJyYkZxaDBiaklOVEtJTXJUV1ZwaTlsUzJhX3JLN3hFcUZpWVZ0M05QTExxLWhuZWl3TEloQ29uaVBYYmpobVdjUVgyNk1kUkIwSTF1dlVBRXQ2Rjl0blRaVnc4NGM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MSU field days and events set for summer",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/msu-field-days-and-events-set-for-summer"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-05-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "World’s 1st methane-powered production tractors donated to UNL",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/world-s-1st-methane-powered-production-tractors-donated-to-unl"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Excessive rain, frost hit Ohio soybean crop hard",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/soybean/excessive-rain-frost-hit-ohio-soybean-crop-hard"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 374,
+    "dup_title": 173,
+    "too_old": 160,
+    "gate1_blocked": 8,
+    "gate2_blocked": 7,
+    "passed": 26,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Is It Time To Reassess CF Industries Holdings (CF) After Its Strong Year To Date Run? - Yahoo Financ",
+      "CF Industries Weighs Yazoo Outage Against Low Carbon Transition Prospects - simplywall.st",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+      "Archer Daniels Midland (ADM) just overtook the 20-day moving average - MSN",
+      "Legal & General Group Plc Increases Holdings in Archer Daniels Midland Company $ADM - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為OCI、ADM、CNH相關動態：「OCI N.V. stock (NL0010558797): Amsterdam-listed fertilize...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "OCI N.V. stock (NL0010558797): Amsterdam-listed fertilizer group trades quiet...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Allstate Corp Has $2.08 Million Stock Holdings in Archer Daniels Midland Comp...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
