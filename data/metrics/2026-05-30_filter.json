@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 8,
+  "gate2_fail": 8,
+  "passed": 21,
+  "gate2_samples": [
+    "BioPrime AgriSolutions Partners with The Mosaic Company to Integrate Biological Technologies - Chemi",
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+    "Barclays Remains a Buy on Cf Industries Holdings (CF) - The Globe and Mail",
+    "OCI N : Global Q1 2026 Trading Update - marketscreener.com",
+    "Legal & General Group Plc Increases Holdings in Archer Daniels Midland Company $ADM - MarketBeat"
+  ]
+}

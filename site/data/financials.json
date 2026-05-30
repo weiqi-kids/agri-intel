@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T11:19:44.685689Z",
-  "quarter": "2025-12-31, 2026-01-31, 2026-03-31",
+  "updated_at": "2026-05-30T09:51:14.552910Z",
+  "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
       "id": "adm",
@@ -92,17 +92,17 @@
       "name": "迪爾",
       "ticker": "DE",
       "currency": "USD",
-      "ar": 5993000000,
-      "ar_prev": 5386000000,
-      "ar_qoq": "+11%",
+      "ar": 7571000000,
+      "ar_prev": 5993000000,
+      "ar_qoq": "+26%",
       "ar_period": "QoQ",
-      "inventory": 8286000000,
-      "inv_prev": 7508000000,
-      "inv_qoq": "+10%",
+      "inventory": 8188000000,
+      "inv_prev": 8286000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-01-31"
+      "alert": true,
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "fmc",

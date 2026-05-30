@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:51:17.916639Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-05-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Holdings, Inc. Stock 12‑Month Price Target Raised to $127.78, Implies 14% Upside - TradingView",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa3VZTWtsU1ZyMWd4RlA1QllPeU82VWhwdGQtVzlLajd2UFJXTGdjcjd0dzFhcF80UWN0RjE3MTlhWDFlRXA4Um1GTXlnWVVUcFY5QlQyMUw3YlBhODI4QU9JRUpmdGRBN1ROSDN0eWt4Y3dGdEJlOFJQY0hJNEVsaEQxRW9qdEhQODhCSUtsNWkyMzdqX0o0UHZ6VFBuaWdzQ2g1Zk1NcXBBQmxvaksxZ0VmUnBtVnVyeVRNTGhGWUNwTmoyYlpSTFM4TTNGTFBZM3NRY3NnN00xUlFqQnZtRm9nYzVYUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-05-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assessing Archer-Daniels-Midland (NYSE:ADM) Valuation After Strong Recent Share Price Momentum - simplywall.st",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWUlXRDhtV25UVTR0QmZMSUk5S1B4Yy1uQnA0U25mUm5MaE8xU1NucEdNMzVHOHdXQjFQZDZtZmtGejdVVDBkWFJsUUl5NHVEOTBEVHllc2RFQkk1Tm1EaVY3cjBCT2FpdXZWdlFvcFdtbGpSTjFNY045aHFKVjRBaWlhbFFZRmotNjJFN2dNa1ZaSTNvWjE5V05HNVg5YnYtV2dVdzZqQlhCYTFGdEVsN1RyR3R0RS0xRllZY0RJSFVsQUNIZkJpVm92WElPRjBLMTZXSC04X2JZUk9iSWxkS0tLSTJBUdIB6wFBVV95cUxPVGJsUEF0LVktSFJUX3ZlM3Y1VE4wYkk3Qk5FSGZEMmxmUHJTT1hkYllMLXVNWk9mWHdSSWZxUFZ2VGlXQkpURWNtb216TEhXbDZkWFRZRXNKWXJETllFalltT1Q5ci1tYzFybnRCdmhTb3ZfamZNcWxXNW5DT0JRa29yZXE1dk5udWVlVUVGM1NJMk1jZFpLSlpFM3F0dENOTUhSWjJwMDBTUlk3N2FQMHZEUmFHbHYwVGFZaC1iLWw2VUltX2ROX2JpTGNjUkM3MjNjb2VnNXQtR3Q1RHFRaXgwR1lNSnBBSUVJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 179,
+    "too_old": 159,
+    "gate1_blocked": 8,
+    "gate2_blocked": 8,
+    "passed": 21,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "BioPrime AgriSolutions Partners with The Mosaic Company to Integrate Biological Technologies - Chemi",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+      "Barclays Remains a Buy on Cf Industries Holdings (CF) - The Globe and Mail",
+      "OCI N : Global Q1 2026 Trading Update - marketscreener.com",
+      "Legal & General Group Plc Increases Holdings in Archer Daniels Midland Company $ADM - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為CF、ADM相關動態：「CF Industries Holdings, Inc. Stock 12‑Month Price Target ...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CF Industries Holdings, Inc. Stock 12‑Month Price Target Raised to $127.78, I...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Assessing Archer-Daniels-Midland (NYSE:ADM) Valuation After Strong Recent Sha...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
