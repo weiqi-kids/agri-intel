@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 8,
+  "gate2_fail": 11,
+  "passed": 12,
+  "gate2_samples": [
+    "BioPrime AgriSolutions Partners with The Mosaic Company to Integrate Biological Technologies - Chemi",
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+    "OCI N : Global Q1 2026 Trading Update - marketscreener.com",
+    "Is FMC Corporation a \"Dirt Cheap\" Value Play or a Value Trap - Kavout",
+    "National Pension Service Decreases Position in Archer Daniels Midland Company $ADM - MarketBeat"
+  ]
+}

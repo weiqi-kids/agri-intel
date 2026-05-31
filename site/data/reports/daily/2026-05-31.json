@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:08:12.542609Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-05-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why SQM Is Up 7.1% After Strong Q1 2026 Results And Higher Lithium Volume Guidance - simplywall.st",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdUN6WktfUVZUcVEtUWJtQkFSdnV4RlN2VThkdW9KSWZuSXhENnpwYVJIRmduaGpfT2t6X3dpYy1FSmlhVkFPalFLSXh5WThqZE1fOHE0NEhqMExhaV9PNExoeUE3SzdISTNkbklyck5DQ2xXbkwxNzZaeTZ1STJRWEZudGM2dFBGN09aaWNzN1NRRlJWRk5HVDFhU0kzQ21ZbVBwMlgtWXpNQmdFVmRlcHRwWDZjaENmSHNNU0dpeml3UTR1cElWVm52MndCelFJbVhreU53bDRjWXVhREh0eDRWc2JEbVJ2RzFj0gHrAUFVX3lxTE11Q3paS19RVlRxUS1RYm1CQVJ2dXhGU3ZVOGR1b0pJZm5JeEQ2enBhUkhGZ25oal9Pa3pfd2ljLUVKaWFWQU9qUUtJeHlZOGpkTV84cTQ0SGowTGFpX080TGh5QTdLN0hJM2RuSXJyTkNDbFduTDE3Nlp5NnVJMlFYRm50YzZ0UEY3T1ppY3M3U1FGUlZGTkdUMWFTSTNDbVltUHAyWC1Zek1CZ0VWZGVwdHBYNmNoQ2ZIc01TR2l6aXdRNHVwSVZWbnYyd0J6UUltWGt5TndsNGNZdWFESHR4NFZzYkRtUnZHMWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What makes CF Industries stock a solid investment option now? - MSN",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2VGdUEwV2xQX0JqTjhjTGRjX0UzRlRTcDJsRmJLbVJBd0c3TTlTOVg1T2pEZ1BVbXpNelRwcnYtdE1lNlBVN3BSemVudG1nYWNFY3N4YWdLVEZBWk93em1KMVJGSDF2bnZlRF9CZGs5dEhaS05ZSno3SVI3U3VtQXUwLVE5NWtQLV9yZ3pibmEtYnZDNUJmTzgtUjVtNjdDcklpcGhhbXZxSXlHVV8tX0RSNXI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-05-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Geode Capital Management LLC Purchases 109,556 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNlVNOE1ydmpkZmNVQ1BoXzA5eXJJdTI1VjZ5ODBXYzNwblpTaVR5LWd3YU1TNDF2cUVaRzZRZXFYdDhoeUdlNlJyQUZHZ3pmMFdvSEtjVzB2WlRqamJVMll1X1BGdnhUR3ZaTzd3UnQxZGU4RzRLdExOUlB0VDFNYzJCbVczSEZlay04S3hzX2JXekdMZ0w5cHpuNDZVeGE1NVhpY2VPU3NxejhHTy1zdi1UZEdndEFfTk1PZ2NDMWxTSFA4YkdDdmVfNGExOTd5NnJuamRlT2M5NDlvMzdnNDQ0WlBodw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 184,
+    "too_old": 161,
+    "gate1_blocked": 8,
+    "gate2_blocked": 11,
+    "passed": 12,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "BioPrime AgriSolutions Partners with The Mosaic Company to Integrate Biological Technologies - Chemi",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+      "OCI N : Global Q1 2026 Trading Update - marketscreener.com",
+      "Is FMC Corporation a \"Dirt Cheap\" Value Play or a Value Trap - Kavout",
+      "National Pension Service Decreases Position in Archer Daniels Midland Company $ADM - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為SQM、CF、ADM相關動態：「Why SQM Is Up 7.1% After Strong Q1 2026 Results And Highe...」。主要關注主題為農業產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why SQM Is Up 7.1% After Strong Q1 2026 Results And Higher Lithium Volume Gui...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "What makes CF Industries stock a solid investment option now? - MSN（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
