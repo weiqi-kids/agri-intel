@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T10:08:12.005643+00:00",
+  "updated_at": "2026-06-01T13:27:34.480124+00:00",
   "companies": {
     "nutrien": {
       "name": "Nutrien",
@@ -211,61 +211,61 @@
           "holder": "ADVISORS' INNER CIRCLE FUND II-KOPERNIK GLOBAL ALL-CAP FUND",
           "shares": 5548336,
           "pct_held": 3.1,
-          "value": 82170858
+          "value": 81671507
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 2577147,
           "pct_held": 1.44,
-          "value": 38167548
+          "value": 37935604
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 1675362,
           "pct_held": 0.94,
-          "value": 24812111
+          "value": 24661329
         },
         {
           "holder": "FlexShares TRT-FlexShares Morningstar Global Upstream Natural Resource",
           "shares": 1679565,
           "pct_held": 0.94,
-          "value": 24874358
+          "value": 24723197
         },
         {
           "holder": "ADVISORS' INNER CIRCLE FUND II-KOPERNIK INTERNATIONAL FUND",
           "shares": 1565743,
           "pct_held": 0.87,
-          "value": 23188654
+          "value": 23047737
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 1282312,
           "pct_held": 0.72,
-          "value": 18991041
+          "value": 18875632
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Continental Small Company Series",
           "shares": 751775,
           "pct_held": 0.42,
-          "value": 11133788
+          "value": 11066128
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
-          "shares": 674829,
+          "shares": 673229,
           "pct_held": 0.38,
-          "value": 9994217
+          "value": 9909931
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 650565,
           "pct_held": 0.36,
-          "value": 9634867
+          "value": 9576316
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 630086,
           "pct_held": 0.35,
-          "value": 9331573
+          "value": 9274866
         }
       ]
     },
@@ -479,7 +479,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1314,
           "pct_held": 0.0,
-          "value": 660679
+          "value": 653977
         }
       ]
     },
@@ -492,7 +492,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 488,
           "pct_held": 0.0,
-          "value": 1825
+          "value": 1791
         }
       ]
     },
@@ -638,7 +638,7 @@
         {
           "holder": "Blackrock Inc.",
           "shares": 18315823,
-          "pct_held": 6.78,
+          "pct_held": 6.79,
           "value": 9930472779
         },
         {
@@ -650,7 +650,7 @@
         {
           "holder": "Capital World Investors",
           "shares": 12272894,
-          "pct_held": 4.54,
+          "pct_held": 4.55,
           "value": 6654117579
         },
         {
@@ -662,7 +662,7 @@
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 9490443,
-          "pct_held": 3.51,
+          "pct_held": 3.52,
           "value": 5145528316
         },
         {
@@ -907,7 +907,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 18912,
           "pct_held": 0.0,
-          "value": 53747904
+          "value": 52755024
         }
       ]
     }

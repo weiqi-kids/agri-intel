@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:27:35.073884Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-06-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Bull Case For Archer-Daniels-Midland (ADM) Could Change Following Upgraded Earnings Outlook Learn Why - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZW45MUh2Y2VBSmY3UFEzZVJjVmEwUUhyMDV2ZUNOTEw1eV9tdHVhNml2blR5czhRUWtpTmx1X010RXotVTFoaHZxUWFjVTNxRFBsRi1CanEzcEtCek1UUGhZNWRsMnE4X2F1b2p2LVlRVjZuQ2RlSTFZbjRnX0UtOGwxblVlVUxPbUJjZVFsaDlERXk4Zk13cGpNTGhOQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-01-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ranchers face new risk as drought deepens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock/ranchers-face-new-risk-as-drought-deepens"
+    },
+    {
+      "rank": 3,
+      "event_id": "nutrien-2026-06-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reasons Why You Should Hold Nutrien Stock in Your Portfolio Now - TradingView",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTkpCWjR2LWtxLWlOSXRBWmxoV1ZLVnliNk5BSXFoNzhnc1d1NDd2RVRER0tSWkZSb2xiZnhPR3pfWFJNSVJxQ25NenZnX1JIYUppaWhtSUxQS1FMbUxweW5yQjU0RFdpUXRDcGc4Z1N3VV9RNlNPb2tPUDdSTzhwdmFUMTRsNzl6U1hJX0FwdUdveWprMVcxNkY4aWZuU0RJRmp6ZmpEdFhzcllCa01XSkNaS3haeVhWVmh3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mosaic-2026-06-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Mosaic Company $MOS Shares Acquired by Thompson Siegel & Walmsley LLC - MarketBeat",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmpDM21zc3BsYy1zZ3E5ZU40T3pFckRDSVozeERoLWFHdTIzZ1VTSlYyNFN1Tmg0VnNINUhBdUNlazNtMFFpLXBZVFZCeTVaWnRtT0Q2ZkZiVEM1M3FvcmpaN2g3Vm95TUpHeVVSWDh1ZlY3X1FCV0Z2alJGMUZnVm1zUzR1eXd4eU85T3p0SVMzTmhGbzJzR0pOSGh3OURiZGpVSzI0NmZrWFQxZ24tcDFiRHJ1QXRlYUY2UUhEekdZX2hkUjZDS040VQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sqm-2026-06-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Legal & General Group Plc Buys 285,668 Shares of Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmVtZEhEWW5HWEVCN0pBZmR3QmJhaTJ0MDZyZE9qaXFVLW9CWnRTZ0kzNjF4ekNEdjh0dDg1aHpDTFJHTzB0WTMwcWw5VmJET1ozVGlOZ3Mwa01oZGo2Q0xibTRVLUZtUHRGYXh2NXk4UUZnOG56YXo4NEtLZ25WM2l6cWxBajNvc3haX3hDeG1BZ1g4NXY3UVVPc0tiX0NVTUpsNGxVTk12SklhSjU4N1k4ZzFJTDBsUUJ4d2VEdjJPY09pQWd0eDkxM093VmIwdENiRUJB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "oci",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "nutrien",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 173,
+    "too_old": 162,
+    "gate1_blocked": 7,
+    "gate2_blocked": 13,
+    "passed": 21,
+    "pass_rate": "10.3%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Top Mosaic (MOS) Competitors 2026 - MarketBeat",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+      "Top CF Industries (CF) Competitors 2026 - MarketBeat",
+      "Pride in action: Why inclusion matters at Yara - Yara",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為OCI、ADM、Nutrien Ltd相關動態：「The Bull Case For Archer-Daniels-Midland (ADM) Could Chan...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "The Bull Case For Archer-Daniels-Midland (ADM) Could Change Following Upgrade...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ranchers face new risk as drought deepens（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
