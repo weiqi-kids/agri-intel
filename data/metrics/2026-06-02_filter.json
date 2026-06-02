@@ -1,0 +1,16 @@
+{
+  "total_raw": 356,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 3,
+  "gate2_fail": 14,
+  "passed": 40,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+    "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+    "Pride in action: Why inclusion matters at Yara - Yara",
+    "OCI N : Q1 2026 Trading Statement - marketscreener.com"
+  ]
+}

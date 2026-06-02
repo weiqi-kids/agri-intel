@@ -1,0 +1,258 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T11:58:09.569739Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-02-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Farmers delay equipment purchases as machinery costs climb",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/farmers-delay-equipment-purchases-as-machinery-costs-climb"
+    },
+    {
+      "rank": 2,
+      "event_id": "nutrien-2026-06-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien Ltd stock (CA67077M1086): Canadian fertilizer group in focus as institutional investor raise - AD HOC NEWS",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTQ5UlV5dnBvdDd3RTN2bjRGVWwxTFJFcVl3UlFnbnJJbDdadkdWRWVFREFteTlsbU84ZDkxTmJqM0NWa1BNUjBmclRQR1EzMTRkSmZYWVRaWDNNRHVSdUFtMDdDekU5Nnlfc0FJUHNDaXVzWGdQNGllYW9SLWdfX1lkZlp1Y09iR25rWWRrMHlUTzhTNl94bTV4MmRheDY4a05MUHd5dWNacHNRWUk0d1JaWExuS1ZNdGw3RmZXTDVWQ2d3TUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sqm-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BW Gestao de Investimentos Ltda. Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjVWcWptclJxdklhWGpEQUR6UmNBMWFJNkJlRVk0VHcwQlJqaGRvTml6QkYzcGQ4WUJQTjdUeWQ2VFc3Sk5FX2lfTHFJLUo5M0J0ZTZGWkdCZEJhcGVubDBMdEtuREFCWDlvNm5pT19rMTBOZnk4UnhFbkU2R3pMazd0YmxDTWJWd3ozU0E1R2h1QVU5UmlIRHdWY2RYeU5IOVp2TGdyMEhXb0J2SjVhcm9LS0ZLeks3Q3c3Zml0X3NqUnpaZnhTeVRMb0VWdFJBN0JNMU0tWDQxS0k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-06-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is CF Industries (CF) Quietly Reframing Its Narrative Around Nitrogen Tightness and Low-Carbon Ammonia? - Yahoo Finance",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmFNSUZGU2JJbVZodlhQbXVEOUVqdUozUWxYQnhXR2dvMEtKSGJKUGVnZ0xka2VpdmpYUHpkZ3lRZFVaTUpVM0JpLUdSSEY5OEFTMmZRdEVlZm9qT2l5RlowaXFNUnBsbFdvOGRzTDFtSk5Fbm1hbFU5c25aLWVzRnluMEdQWWFoVUc5VlI5ZGJIY1h2b0tWSlRfckJaVWlr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-06-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Does CF Industries (CF) Analysts’ Cautious Upgrades Reveal a Deeper Shift in Its Fertilizer Edge? - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDZBUFRWeWthakJGczFsREQ5Z253S2RsSGxoR0hGVTlvaFlhRGR4dEUtZ3hneVdtZ2txUXB3SE9mUlBYNjRnR1hZbW9pY0hReVczdGRjMm9Wdk5NZHVzR1lsRFhyVlFnbThfNmtYR3ZPcGl4UmNvZlFCSWpES3VRWHNWQmhLaVJuR2l4ci1iM2JMQ3llcE1oZHQ5S0FscW5td1NNbV9EbmVadlZuQlQzRERFY2pTYTl5SHMzdDdwbVNQSnNtX0FtcnEteUNNSENZdHMxOdIB2gFBVV95cUxORmNSSkw3SWRRZkJBOERXR3Z6RmNmVkdYTFkwenZNTGdPTXF6Q2Ywa1p6Y19GLXppa0RTQTZGTENyeEFBVk1GMjZNZ2Znd0NyY1VFVWhWQ2gyQ0lLOWhDR2ZHY01lOUM4TFB4T1J3UjVSNkxXdWxNMHQyMTNzM2NRbGpLYXFUNGpFVUdpMFpkNUtweFRvdWZpV3pKYnNfZ0d6QVJJLUxzTWc4aTVyTEloZnVSazRjbUk5cUZJT1hRZTJWNHhnWXE1NkY2dWlJcnZaYTBXTEQwc2VHZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "crop_price",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 356,
+    "dup_title": 156,
+    "too_old": 143,
+    "gate1_blocked": 3,
+    "gate2_blocked": 14,
+    "passed": 40,
+    "pass_rate": "20.0%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+      "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+      "Pride in action: Why inclusion matters at Yara - Yara",
+      "OCI N : Q1 2026 Trading Statement - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為CF、CNH、Nutrien Ltd相關動態：「Farmers delay equipment purchases as machinery costs climb」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Farmers delay equipment purchases as machinery costs climb（貿易政策、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nutrien Ltd stock (CA67077M1086): Canadian fertilizer group in focus as insti...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "農作物價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
