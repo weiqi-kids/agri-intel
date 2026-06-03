@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 3,
+  "gate2_fail": 14,
+  "passed": 43,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+    "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+    "Pride in action: Why inclusion matters at Yara - Yara",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill"
+  ]
+}

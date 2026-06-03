@@ -1,100 +1,100 @@
 {
   "nutrien": {
     "earliest": "2018-01-02",
-    "latest": "2026-06-01",
-    "count": 2114,
+    "latest": "2026-06-02",
+    "count": 2115,
     "history_complete": true
   },
   "mosaic": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "icl": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "kpluss": {
-    "earliest": "2012-01-24",
-    "latest": "2026-06-02",
-    "count": 3641
+    "earliest": "2011-10-26",
+    "latest": "2026-06-03",
+    "count": 3705
   },
   "sqm": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "intrepid": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "cf_industries": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "yara": {
-    "earliest": "2012-01-27",
-    "latest": "2026-06-02",
-    "count": 3595
+    "earliest": "2011-10-31",
+    "latest": "2026-06-03",
+    "count": 3659
   },
   "oci": {
     "earliest": "2013-01-25",
-    "latest": "2026-06-02",
-    "count": 3412,
+    "latest": "2026-06-03",
+    "count": 3413,
     "history_complete": true
   },
   "taifer": {
-    "earliest": "2012-01-30",
-    "latest": "2026-06-02",
-    "count": 3500
+    "earliest": "2011-11-01",
+    "latest": "2026-06-03",
+    "count": 3558
   },
   "corteva": {
     "earliest": "2019-05-24",
-    "latest": "2026-06-01",
-    "count": 1764,
+    "latest": "2026-06-02",
+    "count": 1765,
     "history_complete": true
   },
   "fmc": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "deere": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "agco": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "adm": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "bunge": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "kubota": {
-    "earliest": "2012-01-27",
-    "latest": "2026-06-02",
-    "count": 3529
+    "earliest": "2011-10-31",
+    "latest": "2026-06-03",
+    "count": 3588
   },
   "etf_moo": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   },
   "etf_dba": {
-    "earliest": "2012-01-26",
-    "latest": "2026-06-01",
-    "count": 3607
+    "earliest": "2011-10-28",
+    "latest": "2026-06-02",
+    "count": 3668
   }
 }

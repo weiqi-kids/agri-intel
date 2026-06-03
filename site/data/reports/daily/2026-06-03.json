@@ -1,0 +1,230 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:30:55.049373Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-03-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Do underwhelming crop ratings signal ho-hum yields?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-03-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tug-of-war trade issues cause land market to chop sideways",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/management/tug-of-war-trade-issues-cause-land-market-to-chop-sideways"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-03-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "$5 corn shows staying power",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.farmprogress.com/marketing/-5-corn-shows-staying-power"
+    },
+    {
+      "rank": 4,
+      "event_id": "sqm-2026-06-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At SQM (NYSE:SQM) Valuation After Strong First Quarter 2026 Results - simplywall.st",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNHYtQjlyblI4VEkxUFFiempDRUFlWFFYMENsV1VQcTIxekZQRllOWkZ2QUtmNnpnRTE2YW82VFpoanpxVExLMEtZQUFvUWpzT1dkd0dzWHNyZGhFcGpub2szUFc5SzMtUm02dHZaTXJkNlRQZFdMQzctQ1BUSUFoRU15U0lDUWg2eVRSSFV4Q1pNcDlUa0VuVWk4NkY1Tm5iemYwemw2T0g1RjMzQnZoYzdWRmNLSzN2Mm9aZ0RwUGxPRkNmMmJYLTV2NTNsWk14Q2l1MTh2eVZsajBjaXhJdTFmVFU5WTF4Szc00gHrAUFVX3lxTE80di1COXJuUjhUSTFQUWJ6akNFQWVYUVgwQ2xXVVBxMjF6RlBGWU5aRnZBS2Y2emdFMTZhbzZUWmhqenFUTEswS1lBQW9RanNPV2R3R3NYc3JkaEVwam5vazNQVzlLMy1SbTZ0dlpNcmQ2VFBkV0xDNy1DUFRJQWhFTXlTSUNRaDZ5VFJIVXhDWk1wOVRrRW5VaTg2RjVObmJ6ZjB6bDZPSDVGMzNCdmhjN1ZGY0tLM3Yyb1pnRHBQbE9GQ2YyYlgtNXY1M2xaTXhDaXUxOHZ5VmxqMGNpeEl1MWZUVTlZMXhLNzQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-06-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JPMorgan Adjusts Price Target on CF Industries to $115 From $94, Maintains Neutral Rating - marketscreener.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb05UX2pNaFZYek1GYl9nRzBxb1RfdmV2LV9kcW1mUW1CTUpjTHVXdHA4OVFNdjBFTmRfd1pPdGhnWVYzcTZRZVNoZFgtMlVwTEV3Mm1qSHducHFDMDFVRHJBVEQxSDdLZDhHNGo0dnpySmFOdGl1aUFmVUNFQ19CTk9oWnVEVVZzTm5FV3hVVkhjeTNxYXZnUVI2WFdBeVF3T3l2Z0lndk8wU1hubXJuUURpR2JvRFRjWWtBSVpLMkFabkstdVV6QURFck5aOGVmWmkzY2VR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 177,
+    "too_old": 141,
+    "gate1_blocked": 3,
+    "gate2_blocked": 14,
+    "passed": 43,
+    "pass_rate": "21.4%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+      "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+      "Pride in action: Why inclusion matters at Yara - Yara",
+      "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為SQM、CF、Corteva相關動態：「Do underwhelming crop ratings signal ho-hum yields?」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Do underwhelming crop ratings signal ho-hum yields?（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tug-of-war trade issues cause land market to chop sideways（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
