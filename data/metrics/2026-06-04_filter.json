@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 3,
+  "gate2_fail": 15,
+  "passed": 50,
+  "gate2_samples": [
+    "The Bull Case For Nutrien (TSX:NTR) Could Change Following US$1 Billion Bond Refinancing And Portfol",
+    "Mosaic gives back to Moose Jaw with $1.5 million contribution - MooseJawToday.com",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+    "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw"
+  ]
+}

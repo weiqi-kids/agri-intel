@@ -1,0 +1,253 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T10:54:49.310786Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-04-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Reality check for soybean bulls: Record crop may be in works",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/reality-check-for-soybean-bulls-record-crop-may-be-in-works"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-04-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Farm income in Nebraska projected for record high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-policy/farm-income-in-nebraska-projected-for-record-high"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Industry hoping potash, other products stay tariff-free when CUSMA talks wrap - 650 CKOM",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmVhaEN0enliZFRJRHpZc2QwT3VkazhmYTF6cUt1cEFONEs2ay1POGFfWXhicl95MzhkejhXajB4clIxdXdoeTZEcjNYbW1fRm5JdFZUM1RKY2MybF9lVVRGajhrZXFLcW5jaWVsWFJQTDFvUzZRZWpTdVphejVXZHZTeWU0V202emxTRWxYUnFGUXVQWjZGS3lkWjlqaGlUUld3d05relc2NDdJT0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intrepid-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intrepid Potash increases share buyback program to $50 million - Investing.com",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRFdTX3V1dDBsTVE1VEJGMVNjbzBoRkdSYkhYdjhIWF9UZE5vLUFhY0FMSG9RVUpoNFowX2M4SWIxLU9CZzZiOFlQMUpMMl9mdGota0hCeWtvRE9jbTNvQTdTU3BzRFo1dEdLcmNXckVfbnR3Y3FJN1NtNzQwcHFkdHVlLVZxYmRNZ3dFWjVpVEJncERBb3ZmVzFObzNVWTVCWlRIOFU4MmtMMjl6RDAzaUpzeXRWNWRHdEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-06-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can CF Industries' strong cash flow drive more growth and returns? - MSN",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmdoY1VnLUpVZU5LeXplZnlDQV9Sb0V4UlNTczhuQlZfd3o4eDcxTFd4MDB0WGw2dVNBQW4zZV9PR01OQ2FKYmFldDJnczUyTnhUZHk3Q2N2cEozaFVxTFZnRHZ6ZDhHOXdHVXp3b2s5ak9scURXQVpIUktjVldzZ256aFUyYnRnNndiY2ZMWDVGQjh5OWhQSDhsVGNQXzlYY0JkckZOOEQtalhSUTA1am1UMHpOWEJvb3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 152,
+    "too_old": 159,
+    "gate1_blocked": 3,
+    "gate2_blocked": 15,
+    "passed": 50,
+    "pass_rate": "22.0%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "The Bull Case For Nutrien (TSX:NTR) Could Change Following US$1 Billion Bond Refinancing And Portfol",
+      "Mosaic gives back to Moose Jaw with $1.5 million contribution - MooseJawToday.com",
+      "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+      "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為CF、Intrepid、Bunge相關動態：「Reality check for soybean bulls: Record crop may be in works」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Reality check for soybean bulls: Record crop may be in works（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Farm income in Nebraska projected for record high（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
