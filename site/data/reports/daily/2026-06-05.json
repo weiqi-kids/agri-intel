@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:19:02.010219Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-06-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CF Industries Profit Boost From Strait Closure And What Comes Next - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNm1lSzNMeXExVnNhTVN1dVRvRmpnLXZwQ1F2ODQ1WEtXd2F5UXVnQnVUc1I3RERoUEtVVlNLWjA3VXBIazV4cGVzczI2UVllcTA5WURfbmF0c2FfNmQ3bkpFRHFxSjlEd0FWazJJcGdBTFZuZ1pWT1A0cUNTbWRDa3cxYkY0WFlveElCM256dEtfcEpXdjRwZ3V0ZDNyV0FhMVVEc3hNVDhBbmtIVzl6YmR5Sk55TkFTSDJEamh2RGMyUHhVdUYtejYwRVdwckxaMk5pZdIB2gFBVV95cUxPcW5LbGM5Z0lkWWlMS2c4djdvdHYwTkFmWkp0R0dCUWc5UnQ4Um52cVRMeXN1WHNSQlNlMEhBWHFQNXNzdjhlWE53VGpmc1hnbV9XcUlRbGktZGNBM2N6OVRRbm81U0gtQjlSNHFhNXZqS2dIT3JZU1dVMm1ld1hLY0FJNUtiWFo2Vkg1V1gzaWFJaDdWQ3lKaWlPOGQ4SVhWQlV2aVJVV2ViUnduMGFDanpYbW5icFowQjZPMEEzWEN4Y3h4Qk1YRW5DNmR6SC1DN1R2WHliOEFQZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-06-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing CF Industries (CF) Valuation As Fertilizer Supply Disruptions Support Earnings Expectations - Yahoo Finance",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVkyYThmYnhWU0Jsa3lvVTVIMVFuOXBPVFdNbjEwc1g3enZHQ0gycG8xdXZYRzdqR3F4bzRlUWR1QUxaSEZzVnViVzFaLUx2TjBPZXNwVjRGdnRiYWNSQzlISkpZVUl6N2t0ZGpoRFh2dl91LXU4a3o2RkVhbVhFd0hBYU5sYTBLSHlsSm9SLXhMblRwU0FNbXdyVlZqWUZiRF9R?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-05-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Profitable farming demands a corporate mindset",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/profitable-farming-demands-a-corporate-mindset"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-05-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wheat farmers are paying for Americans’ protein fixation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/wheat-farmers-are-paying-for-americans-protein-fixation"
+    },
+    {
+      "rank": 5,
+      "event_id": "yara-2026-06-05-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Punjab facilitates Yara fertilizer items’ supply to farmers - Business Recorder",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWnVXcFY3cmhGa3dLcl8xalh2MkdXT3RXN1IwQk5qN1prUG4xMzFFaXJWRjlUTERyWUxzQU1pclJqZ1VzRk53ZHpic1BPWElLdlM5cXJR0gFWQVVfeXFMT3BadVdwVjdyaEZrd0tyXzFqWHYyR1dPdFc3UjBCTmo3WmtQbjEzMUVpclZGOVRMRHJZTHNBTWlyUmpnVXNGTndkemJzUE9YSUt2UzlxclE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 3
+      },
+      {
+        "id": "yara",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 180,
+    "too_old": 149,
+    "gate1_blocked": 3,
+    "gate2_blocked": 12,
+    "passed": 31,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+      "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+      "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+      "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
+      "Are Investors Undervaluing CF Industries (CF) Right Now? - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為CF、Yara相關動態：「CF Industries Profit Boost From Strait Closure And What C...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CF Industries Profit Boost From Strait Closure And What Comes Next - simplywa...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Assessing CF Industries (CF) Valuation As Fertilizer Supply Disruptions Suppo...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

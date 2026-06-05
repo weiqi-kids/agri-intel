@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 3,
+  "gate2_fail": 12,
+  "passed": 31,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+    "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+    "Is It Too Late To Consider Sociedad Química y Minera de Chile (NYSE:SQM) After 169% Surge? - simplyw",
+    "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
+    "Are Investors Undervaluing CF Industries (CF) Right Now? - Yahoo Finance Australia"
+  ]
+}
