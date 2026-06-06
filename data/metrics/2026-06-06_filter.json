@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 1,
+  "gate2_fail": 11,
+  "passed": 19,
+  "gate2_samples": [
+    "The Bull Case For Nutrien (TSX:NTR) Could Change Following US$1 Billion Bond Refinancing And Portfol",
+    "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+    "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
+    "Are Investors Undervaluing CF Industries (CF) Right Now? - Yahoo Finance Australia"
+  ]
+}
