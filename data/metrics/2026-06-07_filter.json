@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 1,
+  "gate2_fail": 8,
+  "passed": 14,
+  "gate2_samples": [
+    "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+    "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
+    "Pride in action: Why inclusion matters at Yara - Yara",
+    "FMC Corporation Completes Private Offering of $1.2 Billion 8.000% Senior Secured Notes Due 2031 - ma"
+  ]
+}
