@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:21:56.502597Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-08-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adding ground pork offerings can boost retailers’ sales by up to $80 million",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/hog-and-pork-news/adding-ground-pork-offerings-can-boost-retailers-sales-by-up-to-80-million"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-08-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rethink Grain Bin Safety: 15 ways to keep you safe",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/rethink-grain-bin-safety-15-ways-to-keep-you-safe"
+    },
+    {
+      "rank": 3,
+      "event_id": "sqm-2026-06-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RWC Asset Management LLP Has $58.25 Million Stock Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdVVwS09UVERfdWwtaVd4bXpkeHRCRkF5OEs5TFJJZngzazBqa3c0dl9Va1poVzNwcGlCYkl5WktqNEVpTThJSHQzcFotM2FYbldGU1hGTUgwc080WklKMVVITTlIbnpDMldNTThHeE1hQUZpanZiMmVWWnliSGZyNlItcVVoSEFBMEpyUVlrMG5FeW5IVDZfTHc2QXBqR1VERXVBM19JSHh3WnhuRUhlN0lhOHFrVm5QU2t2U2dzMFhCaTNfaUN6MGVpOGhGMUJISHVhNlI1VnBiSGRZSWFJSWhDN1hnMjBE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-06-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BI Asset Management Fondsmaeglerselskab A S Purchases 85,169 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWGhLdWNGNkdvOV9xQlhkV1FpZUlqQUpFakZyRmlTZGVvR0oxbEdoU0ctYlVCczhiTE5fSlU1LWU5akxhSnFmc0tscDVTeGNEWFRFZU54V0hyeUxnTXpUZzB1UC16ZHZYb3FYNkZDUVVaMTVMelByUlpEN1RkaFFyaThudVVFN09lcWFGLTVzQVpzZGNibnp1Q2hDbEdFRDdtSkNRb21RaU5MNXVlcTg3XzFUWWptRHZTeEc1cWlxX2hOQ2wtZnBYS3pCdVZmSzFRbFc4SVFkakZRc3BjWUVyOVpyR3JxMGhWLVZ6ZU1iV2tCeHRFYkQycw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnhi-2026-06-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How The CNH Industrial (CNH) Story Is Shifting With Tariff Relief And Lower Price Targets - Yahoo Finance",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTR1UWJQa2ZIb0phWlQ4WlM5Q3hsTGVOcER1QUNvWm56dmlmOGhSNTN1SWc4WFBhQ2U3c2EyVTNnQ183NjdoYnpKWGZRUXFoaGlvNGZtQU9vNmpoeFJ4aDBUZlFMejE0WjVtUnV2LTBwUDMwVG9EdEFrN0N2bk5pV2wzY0Z4XzZpVWhWOTJzeV95UktDLXNOd0ZTVEY0alU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 183,
+    "too_old": 161,
+    "gate1_blocked": 2,
+    "gate2_blocked": 13,
+    "passed": 18,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "The Bull Case For Nutrien (TSX:NTR) Could Change Following US$1 Billion Bond Refinancing And Portfol",
+      "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+      "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+      "Total debt per share of CF Industries Holdings, Inc. – XETR:C4F - TradingView",
+      "CF Industries Holdings, Inc. Balance Sheet – XETR:C4F - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為SQM、ADM、CNH相關動態：「Adding ground pork offerings can boost retailers’ sales b...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Adding ground pork offerings can boost retailers’ sales by up to $80 million（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rethink Grain Bin Safety: 15 ways to keep you safe（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -6,50 +6,50 @@
     "history_complete": true
   },
   "mosaic": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "icl": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "kpluss": {
-    "earliest": "2010-11-02",
-    "latest": "2026-06-05",
-    "count": 3958
+    "earliest": "2010-08-04",
+    "latest": "2026-06-08",
+    "count": 4023
   },
   "sqm": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "intrepid": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "cf_industries": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "yara": {
-    "earliest": "2010-11-05",
-    "latest": "2026-06-05",
-    "count": 3909
+    "earliest": "2010-08-09",
+    "latest": "2026-06-08",
+    "count": 3974
   },
   "oci": {
     "earliest": "2013-01-25",
-    "latest": "2026-06-05",
-    "count": 3415,
+    "latest": "2026-06-08",
+    "count": 3416,
     "history_complete": true
   },
   "taifer": {
-    "earliest": "2010-11-10",
-    "latest": "2026-06-05",
-    "count": 3801
+    "earliest": "2010-08-12",
+    "latest": "2026-06-08",
+    "count": 3865
   },
   "corteva": {
     "earliest": "2019-05-24",
@@ -58,43 +58,43 @@
     "history_complete": true
   },
   "fmc": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "deere": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "agco": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "adm": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "bunge": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "kubota": {
-    "earliest": "2010-11-09",
-    "latest": "2026-06-05",
-    "count": 3829
+    "earliest": "2010-08-11",
+    "latest": "2026-06-08",
+    "count": 3889
   },
   "etf_moo": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   },
   "etf_dba": {
-    "earliest": "2010-11-04",
+    "earliest": "2010-08-06",
     "latest": "2026-06-05",
-    "count": 3919
+    "count": 3982
   }
 }

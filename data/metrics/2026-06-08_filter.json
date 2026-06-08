@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 2,
+  "gate2_fail": 13,
+  "passed": 18,
+  "gate2_samples": [
+    "The Bull Case For Nutrien (TSX:NTR) Could Change Following US$1 Billion Bond Refinancing And Portfol",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 7.1% After EPS Jump And New Vice Chair Appointment - ",
+    "Is It Time To Consider Buying Sociedad Química Y Minera De Chile S.A. (NYSE:SQM)? - Moomoo",
+    "Total debt per share of CF Industries Holdings, Inc. – XETR:C4F - TradingView",
+    "CF Industries Holdings, Inc. Balance Sheet – XETR:C4F - TradingView"
+  ]
+}
