@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 4,
+  "gate2_fail": 10,
+  "passed": 28,
+  "gate2_samples": [
+    "Total debt per share of CF Industries Holdings, Inc. – XETR:C4F - TradingView",
+    "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
+    "OCI.AS Technical Analysis | Trend, Signals & Chart Patterns | OCI NV (AMS:OCI) - ChartMill",
+    "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Prudential PLC Boosts Holdings in Archer Daniels Midland Company $ADM - MarketBeat"
+  ]
+}
