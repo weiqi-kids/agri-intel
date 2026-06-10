@@ -1,5 +1,263 @@
 [
   {
+    "id": "sqm-2026-06-10-001",
+    "date": "2026-06-10",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BNP Paribas Financial Markets Has $7.51 Million Stock Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZlpNSFZFSERMTWNZZXZIbFl3bFhwMmlUZndOcDR2Vy1hSEtBM2dSZ1dhYXg4QVFtTmI1eDFxN1NHTGV6YVVpa2tsa0RUTjl0c0s4X3dBOGJsb1BqNlhUZUtTZkU1MTlfVUZjQzRsU1",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZlpNSFZFSERMTWNZZXZIbFl3bFhwMmlUZndOcDR2Vy1hSEtBM2dSZ1dhYXg4QVFtTmI1eDFxN1NHTGV6YVVpa2tsa0RUTjl0c0s4X3dBOGJsb1BqNlhUZUtTZkU1MTlfVUZjQzRsU1l0LUxqRTE4TlhaREVvUFNjNERfQmplQjNpeEYtY05EUkhkb3RJYnctNXQ0aGJVbmh2Q0pOelhoNDFBdlZvRG5sTXlVeFM3aUl6SGlVSnRvZ0oyUjVPU1ZCZmxTcEVHakloSUlqOGxRR1otY3FTQWdXNV9sbXJ3dzJ5OVh4U2Z3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-10-002",
+    "date": "2026-06-10",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial N.V. $CNH Shares Sold by Franklin Resources Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWVmYUk0UExKc21DVUthWFlSSnlpTmZLbnJDLU9IR2F0SDNBay1iMGt0dWdhLVY3UFVSaVdsaDhBdUZuSW9ld3lLbnI2M2xOd05UbkZnclVqWkx1VE9QY3BIdGY1VDg5VFVtM2Q3OG",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWVmYUk0UExKc21DVUthWFlSSnlpTmZLbnJDLU9IR2F0SDNBay1iMGt0dWdhLVY3UFVSaVdsaDhBdUZuSW9ld3lLbnI2M2xOd05UbkZnclVqWkx1VE9QY3BIdGY1VDg5VFVtM2Q3OGFQekMwUjMySjJlcTA2OTVWTjV5WlY3MmZ6ekJTSE1wejlWcUw3QUVpOHhZUGNRdXhyVFBkV0tyV0VaaHJSWDh4MVVxTGU3WmlvVnRJbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-003",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Frost devastates U.S. tart cherry crop, industry at risk",
+    "summary": "A nationwide spring frost slashed Michigan's crop to 50 million pounds from the typical 200 million. Processors are fearing permanent market loss.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/fruit/frost-devastates-u-s-tart-cherry-crop-industry-at-risk",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-004",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "July heat wave devastated Minnesota in 1936",
+    "summary": "Climate Observations: In 1936, Minnesota endured its most lethal climate disaster — a monthlong inferno that claimed 900 lives, shattered temperature records and devastated crops across the state.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/july-heat-wave-devastated-minnesota-in-1936",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-005",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nebraska Farm Bureau president reflects on agriculture’s future",
+    "summary": "Mark McHargue farms with his family near Central City and has lived through many changes on the farm.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/nebraska-farm-bureau-president-reflects-on-agriculture-s-future",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-006",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Feed running low? Measure what you have, decide what’s next",
+    "summary": "An accurate inventory can help you decide on culling, ration fillers and alternative forage strategies.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/feed/feed-running-low-measure-what-you-have-decide-what-s-next",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-007",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New tech listens to insects feeding on crop roots",
+    "summary": "University of Wisconsin-Madison researchers use sound-based tools like the $120 Insect Eavesdropper to detect pests and analyze soil health in real time.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/new-tech-hears-insects-feeding-on-crop-roots",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-008",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rural development and AI: What it means for farmland",
+    "summary": "Land Sales: Farmland in demand for more than just producers with development projects.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/rural-development-and-ai-what-it-means-for-farmland",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-009",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New tech shows promise against damaging fruit fly",
+    "summary": "Oregon State University’s Decoy technology offers growers an eco-friendly, low-chemical alternative to fight spotted-wing drosophila.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/insects/new-tech-shows-promise-against-damaging-fruit-fly",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-010",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ohio's mini-mills spin a new future for wool industry",
+    "summary": "Commentary: Regional fiber mills are turning locally produced wool into profitable products while supporting small farms and reviving interest in natural fibers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock/ohio-mini-mills-spin-a-new-future-for-wool-industry",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-011",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More than a buzzword: How this farm turned ‘regenerative’",
+    "summary": "Slideshow: What started as adopting conservation practices from a cost-saving perspective has turned into a complete mindset shift for this Indiana farmer.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/conservation-and-sustainability/more-than-a-buzzword-how-this-farm-turned-regenerative-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-012",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anheuser-Busch awards grant to support farmers",
+    "summary": "Barley farmers set to benefit from investment in North Dakota ag tech initiative Grand Farm.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/anheuser-busch-awards-grant-to-support-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-013",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmland value depends on buyer’s plan",
+    "summary": "Land Values: Solar developers, data center users and residential builders see different value in the same ground. Understanding highest and best use protects landowners.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/farmland-value-depends-on-buyer-s-plan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-014",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Husker Harvest Days is getting ready for you",
+    "summary": "There are more live demonstrations and hands-on exhibits at HHD than ever before. The event is set for Sept. 15-17 near Grand Island, Neb.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/husker-harvest-days-is-getting-ready-for-you",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-06-09-001",
     "date": "2026-06-09",
     "companies": [
@@ -326,6 +584,231 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/cotton/u-s-cotton-industry-mounts-counterattack-on-synthetic-fibers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-06-09-019",
+    "date": "2026-06-09",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is It Time To Reassess Nutrien (TSX:NTR) After Fertilizer Market Headlines And Flat Monthlong Price - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2JJVTZESEZjcnk3SDczX09GY0ZMejg0TmRiVVJEOVpNSF9Nc2hhaXhncWVmaUdyQUZkbUE1dVJlbjNCLUVJd3FOaEprQlhEbF9qS2duY2d1NU1aWWV3VHVUbEVfdHd5N1gxMjJyT2",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2JJVTZESEZjcnk3SDczX09GY0ZMejg0TmRiVVJEOVpNSF9Nc2hhaXhncWVmaUdyQUZkbUE1dVJlbjNCLUVJd3FOaEprQlhEbF9qS2duY2d1NU1aWWV3VHVUbEVfdHd5N1gxMjJyT2RNa1lsMjMxbVRpSWdiTjFOcGtWQ083eXVUTnVaa2p6aERhYnREZmwwNVFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-06-09-020",
+    "date": "2026-06-09",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Nutrien Ltd. (NTR) A Good Stock To Buy Now? - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmpQNGlVNG1Fd2R5M2hoNktEcXlVMTNTbjNTX1FqSExIUmZkZlhUWmtsV3otc3FkNjRLaVpvUGhkX2Z1dEFxR0NSdFNiMTJOOHJCeUZXUjEwa25lUWRfUkpSZ1ZCWF9JbnY1VHNjdl",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmpQNGlVNG1Fd2R5M2hoNktEcXlVMTNTbjNTX1FqSExIUmZkZlhUWmtsV3otc3FkNjRLaVpvUGhkX2Z1dEFxR0NSdFNiMTJOOHJCeUZXUjEwa25lUWRfUkpSZ1ZCWF9JbnY1VHNjdl9CZi1jdW5va3pPdmNtTnE0ZXFCbEE5SFBGajhVMXNJSdIBlwFBVV95cUxPQTdkeWN1Yk5sUm15cTdrNElGQ09TYVRNblJyTElJOU1JeUtBNnpyOWFtZFlpN3FfRHhkN1ZzeF9tS0Rhd1h5bVdZdUN4SE1UNG5zZkpVWS1RRTdzdGZTdmxpU3BZaXJjdTV5WXRmc0JEa0tMRDhWU0l6STNRYWFkSjMyNUFmVjFHUWtFUG1kNmJvZmY5LTFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-06-09-021",
+    "date": "2026-06-09",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Company stock hits 52-week low at 20.88 USD - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNODFYVkk4NHlrWGI4cWJjamI4N0xyd0wxMHlNS0dXX2pXcTU0SWR1cmo4ZmxiT2xNLW5rTVFjMmVwUnZqd09rWXRjZnBVdEh2TDVxbW10NFJ3VDhCXzR2RUtzMzVTRHZJNXlGbEFwT1",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODFYVkk4NHlrWGI4cWJjamI4N0xyd0wxMHlNS0dXX2pXcTU0SWR1cmo4ZmxiT2xNLW5rTVFjMmVwUnZqd09rWXRjZnBVdEh2TDVxbW10NFJ3VDhCXzR2RUtzMzVTRHZJNXlGbEFwT1FaOFdiNmZDTHZOMGh1ZTB1ZnRnbFFHTjZMZDEwazlpX0FXSWVORHI1MFhhWV9Lc1c0djhtYkNycw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-06-09-022",
+    "date": "2026-06-09",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley reiterates Overweight on Corteva stock amid muted investor response By Investing.com - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU1NCOFVQNFNqeWVPMVpJWjVmb0lDakFpV1gzLUFPemo1OEo4R1d6R01YQ0JQcGhSZDVURVA3dDI3WmFsUnIzeGYxMzlpVGFqOXBCNXFoN2VNbDFHSUNBdWdnUUdzNU9WV1J5MXQ2WF",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU1NCOFVQNFNqeWVPMVpJWjVmb0lDakFpV1gzLUFPemo1OEo4R1d6R01YQ0JQcGhSZDVURVA3dDI3WmFsUnIzeGYxMzlpVGFqOXBCNXFoN2VNbDFHSUNBdWdnUUdzNU9WV1J5MXQ2WF9sQktPdVJNc3lza2VCbk1JWEM1TTNWZUNNaE1kWE5udlhsc2JwM29ETGo3dWh0TFhSUzBJNHFqU3lwR01ZeG5xMVFVdXllallxMHo3QVJXeDJqaUZFUTFHSjBPeXVPWG1LNWtNRlNnS215dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-09-023",
+    "date": "2026-06-09",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "FMC: Strategic review and new product launches aim to drive growth and restore financial strength - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQYk1peS1KWUpCT3pHYUtqMkIxYzJFa1dLeTZ5OWNUczd0ZlJCV0FOYjFGMmt0QTZOQWl5alJrdFYwU044M1VzSDNsbTZBNFJSYmNaN0dpYy1NQW9HLTM0U0o4UTdlMHFYcWYwc3U0RV",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYk1peS1KWUpCT3pHYUtqMkIxYzJFa1dLeTZ5OWNUczd0ZlJCV0FOYjFGMmt0QTZOQWl5alJrdFYwU044M1VzSDNsbTZBNFJSYmNaN0dpYy1NQW9HLTM0U0o4UTdlMHFYcWYwc3U0RVNFeTB0ejlNMkgtNGRfNGptVW15YkVHbWpHYV9BVlQtUmJOYUV2YkdRYjRFY20zakk0Tk82YVFJLUR6Q1A4TlN3NG1nakNzeEw2WHB1ZWwwMnYtVG5HRmxjNGlnWmhHVXFXU0xfRWs5T0pvQ0xkaWVKanpYSm9ZeDJUSEpQbnBsX19TN01EMkc3cDRGdVhRcWMxWlZZZ2FJd2wteDg0eWF0TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-09-024",
+    "date": "2026-06-09",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "FMC: Turnaround strategy combines new product launches, debt reduction, and active strategic review - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNbXZXOUFNZTlqVlNZY21qS0hRQ1l6LXVBTm0taGpTS0wycHhJWExCOVBRSFB6c2pBSzFxR09wa0lWaW42X3c0U3AzQnhCWmxyaWViUGMyUzVPamZOeHVsejBRWFhGOTlRd2JqaWdTOF",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbXZXOUFNZTlqVlNZY21qS0hRQ1l6LXVBTm0taGpTS0wycHhJWExCOVBRSFB6c2pBSzFxR09wa0lWaW42X3c0U3AzQnhCWmxyaWViUGMyUzVPamZOeHVsejBRWFhGOTlRd2JqaWdTOFUxd1RIYjNkbFVhS2VXS0VsdVE1REVXUkIwaEc5TWQ1RmpabHhHVHpZSWRIbXZuRkZNSU5HZS1RYXJtWUlsejhMa25RRlVxV0dKVzZPNUkyV3MxTGI2QjFaWnFmdVVPY0x3c29hUUZSZzJqUV9ZVDFMeGp1SDRHQ0pUTmNISTVRaFZxOEpwTEtkZGFxSVNFREI0MEZqX0tHVXFSaENjY3pUeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-09-025",
+    "date": "2026-06-09",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Norges Bank Takes Position in CNH Industrial N.V. $CNH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmo4WG9FZm1LeU02aHdYTkdXOEtMY2JfQXVxWUJocHViamtreU0tdUNzaTh6dXhJMmpYV2JJT0I1c01SaUs2LUNkQ2ctYmVmdmdpaHdfNGFiNlQzeGxuNDFJTzJ5bU43Rm9VbmN6NX",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmo4WG9FZm1LeU02aHdYTkdXOEtMY2JfQXVxWUJocHViamtreU0tdUNzaTh6dXhJMmpYV2JJT0I1c01SaUs2LUNkQ2ctYmVmdmdpaHdfNGFiNlQzeGxuNDFJTzJ5bU43Rm9VbmN6NXJEdDdRSjg5bjBEZUVyemFjcHl6YlRGVEt3ckZ1ZDJ0bjAyR3dKZGkyS2NGQlBpdzB6V3hHZXhhaDk3R2h3U1VhaFRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-026",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Paved Over: How technology is reshaping American farmland",
+    "summary": "As farmland gives way to tech-driven development, the stakes for future generations of producers are higher than ever. Download our free eBook to learn how real farmers are finding solutions.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://pgs.farmprogress.com/paved-over-v1",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-027",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn failed to mount a comeback",
+    "summary": "Afternoon Market Recap: Moderate overnight gains evaporated in Tuesday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-028",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New World screwworm outbreak spreads beyond Texas, USDA ramps up fight",
+    "summary": "Agriculture leaders emphasize urgency and confidence in combating screwworm while critics push for stronger policies to protect livestock.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/new-world-screwworm-outbreak-spreads-beyond-texas-usda-ramps-up-fight",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-029",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA rolls out $1.6B in specialty crop assistance payments",
+    "summary": "Farm Progress America: Farmers of fruits, vegetables and tree nuts can now apply for one-time bridge payments through Aug. 7 to help offset rising costs and import competition.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/usda-rolls-out-1-6b-in-specialty-crop-assistance-payments",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-030",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Church beats the casino every time: 3 farmer tips from Warren Buffett",
+    "summary": "Morning Market Analysis: Corn futures rose over 3 cents overnight as fund selling backs off ahead of USDA report, with soybeans mixed.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
         "type": "rss"
       }
     ]
@@ -769,6 +1252,46 @@
     ]
   },
   {
+    "id": "oci-2026-06-08-024",
+    "date": "2026-06-08",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI N.V. stock (NL0010558797): Latest company news and investor focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzNQdUd4RGl0TlZCd0hIekZlNV9DUlhPb2VkYUVYT3JzSUZYa3VuS1hEeHV3MUF4cGRQaHFMWkh0TS1jODZKcV9LM0FTcmFZeTBPczF3aVdaUU5nTWhqUWVOZ3NpSTM0SkxEakxPMC",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzNQdUd4RGl0TlZCd0hIekZlNV9DUlhPb2VkYUVYT3JzSUZYa3VuS1hEeHV3MUF4cGRQaHFMWkh0TS1jODZKcV9LM0FTcmFZeTBPczF3aVdaUU5nTWhqUWVOZ3NpSTM0SkxEakxPMC1MdkpJYUtnRHNKVTZWY0tPaEZtVnk5aVBDNzVvdHpDUlE4OGVBejU3TFdhX0pZUE9Zc2hmaGxVTGhtTVNrVDktMG5IQkZUYkVvcDBJYlp3N0FZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-08-025",
+    "date": "2026-06-08",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial N.V. $CNH Shares Acquired by Brandywine Global Investment Management LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPck5NUC1nUDZCU3E4S25SMDgxZ3JxRXE2ZDJUOGtiei1qcUo5RzZmZ05rR25UYkU3NFBrYmR0bGU4TU5CLUJkZ19oZGJBQ09jSjlpYTlXUW9RSzlkaUNEUVlWR0dlaEZKdEtjM2Rudk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPck5NUC1nUDZCU3E4S25SMDgxZ3JxRXE2ZDJUOGtiei1qcUo5RzZmZ05rR25UYkU3NFBrYmR0bGU4TU5CLUJkZ19oZGJBQ09jSjlpYTlXUW9RSzlkaUNEUVlWR0dlaEZKdEtjM2RudkN6SXpUak53VG1EQ1JfeTNxV1FrMFR1cUJhOVM1ZzItOUdMMEpNTk40X2NBc2lQNzdlcjRTSW1jY05oQkhZTkFXWUc1bjAxTi1xS1JLNy1DTDA5VTNjRXJPbVlGSTJ4aWZBdUszeUo1LWJqS1RQLUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cnhi-2026-06-07-001",
     "date": "2026-06-07",
     "companies": [
@@ -1080,6 +1603,26 @@
       {
         "name": "intrepid",
         "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQW1uSktocFR4R1VNU2dMUWNWVHFnSWFhOWMyWkRBNW1HOVRCRThzT3FqYkE3T2tTRGEteHF4SFNFZXF0UjV2dm9KYzhPZkFXbVBaTVJJdGp4ck5VX08wNUpuaG1SYk5TTjMyRW8wb0hWNWJnSzNiV0ctdGV4UUV1QUg0Mlg4SmRiZW5fdjhsdzJZTHVLcjU1cnlYemVCaDlnbWNSS2U1VG5zcXdfcjRibEdUWkM4bUlYNFlrcmpMSE9Cck9GSmI4OHJfdGVKUEtDR19pRjVpT2c2UEhrTDQ0c283bEF5NmJPYXROUk9vVlZCQUx6dC10TzB3c3pmS0EyNzA2akNGd01kMkhxeWdWM1pyT1RacS1KZTBTNjIyOTNSZVJxZHNrVW1wSHJqX18wdF9wekJ6c1pRUkl0ZnUxWVh2cTJ5Nm9BdHpWWG81aXMtNGVVUWdCQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-06-015",
+    "date": "2026-06-06",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial N.V. $CNH Shares Purchased by Nuance Investments LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2FZZFpVOU5oMXFVYVVkVzBHdGFFbHpvbi1MMDhGYU1mSGdnN3RfcHM4aHVPTTc0ckdDcVhuUUFoaUxDREtHSlByLTdEcENFRi1iRkVaTWtyRjZlc2dWZmFaMnBqRGc5MV9qbmJxTk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2FZZFpVOU5oMXFVYVVkVzBHdGFFbHpvbi1MMDhGYU1mSGdnN3RfcHM4aHVPTTc0ckdDcVhuUUFoaUxDREtHSlByLTdEcENFRi1iRkVaTWtyRjZlc2dWZmFaMnBqRGc5MV9qbmJxTkoyVzlyampzcnQ4VFRxZ05oMkJPbVpFRVRJZEo2Rjl5WWd6NkRrclc5YmZKY25TZXRGTk9wdzFRMjBpX2I4V21WZnJDeGtvcy1hTWRGdUx0YzBvbU0?oc=5",
         "type": "rss"
       }
     ]
@@ -1627,6 +2170,26 @@
       {
         "name": "fmc",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNkVPWUNoTWlyY0lDc2t5OUhXbXE1SVJPUVdVY2NqLU1wcngzU1FnOTc1dDQxNktoNHpHTTh5ZFU1dkxNZkk3djNsanZYQUI5UGFKOHgxRzhLOVdDUndoWFQ0YTlLNWkteWZsbDhNcXc2TWJqYndTTWM4ZDAxMEZYdmxjM0hNWlN0U0FVZXAtVU5KWWplUmU2V0ttLWdLeTNxRkdXMFU3TDBsN2hic29aZkFmSWJ6X0JPU3ZXN29nN2dxcmtNSXFsY1RtM1Z2Zjg2TmR5ekdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-05-030",
+    "date": "2026-06-05",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial N.V. (NYSE:CNH) Given Consensus Rating of \"Hold\" by Analysts - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQclQwb2NMdGdLNTFSWEo2RTBwT1Y1RDYwa1pZTF8wYXV0OWpjSmdEdEFmdFBHWS1RTUdMOVFocGtwZkx4VjZ1elhpZkd1NXRhdUNtNnE3SFJYbGZmeWlsal8zbXYzSThqdXJ6NjBvN3",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQclQwb2NMdGdLNTFSWEo2RTBwT1Y1RDYwa1pZTF8wYXV0OWpjSmdEdEFmdFBHWS1RTUdMOVFocGtwZkx4VjZ1elhpZkd1NXRhdUNtNnE3SFJYbGZmeWlsal8zbXYzSThqdXJ6NjBvN3ZDSXhUZ0NCTFR3MHZZOVJudG81XzhrY05oMm50dkJnOUZpWWM2bmNBV3p5WHdJZ3d5T3cyLWUydDdhQjhUbVh6bjU3bElVQ25ROFR1ZXBtdw?oc=5",
         "type": "rss"
       }
     ]
@@ -2209,6 +2772,26 @@
       {
         "name": "intrepid",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnV3T0ZhaVZCdTNSSHlHdWFFYkFGeVYyTTgtcG5icE1pejBtMUJLdElzYmFMdnhYenVGQUc5cGJlNWNMSm00RVN4c1Nad0FmZ2dUSmlRVFN6V1I3bTJmZHBTNnZET0lPMG5RSDdZVWlRa2NuMmhoakQwTlhNVm93Q1EyVHI1aVBEUjlqU1dUUV94a1dRZDN3bWN2Y3djNi1HMmdOb0xMSHpyUFh0SzIyejlFdEVIaGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-04-032",
+    "date": "2026-06-04",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Geode Capital Management LLC Grows Stock Holdings in CNH Industrial N.V. $CNH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUpIMVJPRjdSQ3dZSXpKclVwSmxkOGVTdnlHUXVRYnRUX1V1Qk5yc0xCOVdRRi13bkRpTFZkZ3ZYMG9wNXh4RDM0WUVnNDZoT05QVDhIdkJnWGNQc3BGVEtUNk9sWXE5bmNsTlUycH",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUpIMVJPRjdSQ3dZSXpKclVwSmxkOGVTdnlHUXVRYnRUX1V1Qk5yc0xCOVdRRi13bkRpTFZkZ3ZYMG9wNXh4RDM0WUVnNDZoT05QVDhIdkJnWGNQc3BGVEtUNk9sWXE5bmNsTlUycHp4S1hzYmtMejl3RGIzOHNBYko1QmZfNHlwMldyQ0tVMk5ITG56Y2xEZG5TTzI0WDc5WGNMaVlJTFdGZk83Zl9UR1dma2NXYVJ2OUhEamlhLTZQUGZ3bjE0cFFtbmtGZGdx?oc=5",
         "type": "rss"
       }
     ]
@@ -3332,6 +3915,44 @@
       {
         "name": "cf_industries",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGptbzFIekJCS3BWWUFvOVNxS2dSbG5EOTVwYzdlXzJINXRjZjVBeUxodEFqcjVQNEpuYWs0eVNpSlVyS2lXYUF3RmZqcUFfTDh2dDVlSVJZN1M5MXp3T25LbFQ4cEV3UHF2LWZheFNhN0R2b3owTlA2ZXMxd0hrbi1YbV9QWGpHQ3NIWm5wa05MMngydHM0T3cxblBjUWRDaE9scjFJcTJhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-06-03-059",
+    "date": "2026-06-03",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ducks Unlimited Honors The Mosaic Company and The Mosaic Company Foundation for Sustainable Food Systems with the Corporate Conservation Achievement Award - Ducks Unlimited",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOUFItRlZjUUhrUlV2UTB4UGRHMG9fc3JWWndNZ25XZmVFdDJvZ1diZmVBdmFZemRPV1RkWUI3elAtRFdacU5fUWo3N29kQUU1Sk8tWXdKM3RpNmV4S0thNFYzRjVsR1ZvUElYbXNuQj",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUFItRlZjUUhrUlV2UTB4UGRHMG9fc3JWWndNZ25XZmVFdDJvZ1diZmVBdmFZemRPV1RkWUI3elAtRFdacU5fUWo3N29kQUU1Sk8tWXdKM3RpNmV4S0thNFYzRjVsR1ZvUElYbXNuQjRZdDJRcl8tb3c4Y0htbE82SkloRDMwWURIWmtWYW10dkZOaTVmdktxa1Y1ZS1uWlJ4OEYtdE5CT0toY2FlN1YyT05jTEExNldpeWhod2gycERLZWJXTDd5a2R6MXZ2LTlJTnFMNmFmaHljTS1uOTNjRUdQMmtEckFNM0c3dHZDUV92OUtyOFNCc0FjMWRCSlM3em5ia1Y1VlZ3NEp5cms4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-060",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Clock Is Ticking: Fertilizer, Food, and the Fragility of Global Agriculture - Council on Foreign Relations",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVlCX0tWenlMeVlkd3NOZEl2ZXlsek51ZGcyLUI5VGM3bWpuTXhJR2JUeTQzWXhNTU93Y3hySExXRWZfMzFmTGNxakR1SG9ZMUU0RlhJN1RHMFFBZWJEdHFFVWlJM1lEMHlhT0J5R1",
+    "sources": [
+      {
+        "name": "google_news_agriculture",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVlCX0tWenlMeVlkd3NOZEl2ZXlsek51ZGcyLUI5VGM3bWpuTXhJR2JUeTQzWXhNTU93Y3hySExXRWZfMzFmTGNxakR1SG9ZMUU0RlhJN1RHMFFBZWJEdHFFVWlJM1lEMHlhT0J5R1FhX0M4UHBFZHN2cFhwUXV5RU81b1JjeXA0T2dvbHA0Vy1uWjZwVjJ4Z3MxTkRkeTVjbnFpcTdEUUQ?oc=5",
         "type": "rss"
       }
     ]

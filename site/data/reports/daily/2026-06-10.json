@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:31:35.165875Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-10-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ohio's mini-mills spin a new future for wool industry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock/ohio-mini-mills-spin-a-new-future-for-wool-industry"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-10-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Frost devastates U.S. tart cherry crop, industry at risk",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/fruit/frost-devastates-u-s-tart-cherry-crop-industry-at-risk"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-10-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "July heat wave devastated Minnesota in 1936",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/july-heat-wave-devastated-minnesota-in-1936"
+    },
+    {
+      "rank": 4,
+      "event_id": "sqm-2026-06-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BNP Paribas Financial Markets Has $7.51 Million Stock Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZlpNSFZFSERMTWNZZXZIbFl3bFhwMmlUZndOcDR2Vy1hSEtBM2dSZ1dhYXg4QVFtTmI1eDFxN1NHTGV6YVVpa2tsa0RUTjl0c0s4X3dBOGJsb1BqNlhUZUtTZkU1MTlfVUZjQzRsU1l0LUxqRTE4TlhaREVvUFNjNERfQmplQjNpeEYtY05EUkhkb3RJYnctNXQ0aGJVbmh2Q0pOelhoNDFBdlZvRG5sTXlVeFM3aUl6SGlVSnRvZ0oyUjVPU1ZCZmxTcEVHakloSUlqOGxRR1otY3FTQWdXNV9sbXJ3dzJ5OVh4U2Z3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnhi-2026-06-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial N.V. $CNH Shares Sold by Franklin Resources Inc. - MarketBeat",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWVmYUk0UExKc21DVUthWFlSSnlpTmZLbnJDLU9IR2F0SDNBay1iMGt0dWdhLVY3UFVSaVdsaDhBdUZuSW9ld3lLbnI2M2xOd05UbkZnclVqWkx1VE9QY3BIdGY1VDg5VFVtM2Q3OGFQekMwUjMySjJlcTA2OTVWTjV5WlY3MmZ6ekJTSE1wejlWcUw3QUVpOHhZUGNRdXhyVFBkV0tyV0VaaHJSWDh4MVVxTGU3WmlvVnRJbQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 163,
+    "too_old": 167,
+    "gate1_blocked": 4,
+    "gate2_blocked": 10,
+    "passed": 33,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Total debt per share of CF Industries Holdings, Inc. – XETR:C4F - TradingView",
+      "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
+      "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+      "Prudential PLC Boosts Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為SQM、CNH相關動態：「Ohio's mini-mills spin a new future for wool industry」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ohio's mini-mills spin a new future for wool industry（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Frost devastates U.S. tart cherry crop, industry at risk（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

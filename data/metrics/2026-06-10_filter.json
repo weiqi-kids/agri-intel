@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 4,
+  "gate2_fail": 10,
+  "passed": 33,
+  "gate2_samples": [
+    "Total debt per share of CF Industries Holdings, Inc. – XETR:C4F - TradingView",
+    "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
+    "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+    "Prudential PLC Boosts Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat"
+  ]
+}
