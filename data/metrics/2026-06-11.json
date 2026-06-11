@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-11",
+  "total_events": 13,
+  "by_company": {
+    "cf_industries": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corteva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnhi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deere": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "natural_gas_feedstock": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

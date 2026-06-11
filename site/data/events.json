@@ -1,5 +1,272 @@
 [
   {
+    "id": "unknown-2026-06-23-001",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New World screwworm: Ranchers’ views from both sides of the border",
+    "summary": "Farm Press will host two ranchers, one from Mexico and one from Texas, to get their boots-on-the-ground perspectives on how the issue has affected their operations.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock/new-world-screwworm-ranchers-views-from-both-sides-of-the-border",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-06-11-001",
+    "date": "2026-06-11",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Options Surge Contrasts With Pullback And Undervalued Stock Price - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOenkwb2tHZVpPemlhQ0pwa2hHb0tObWVoZWlHSHhjaGxlbmtKLV9UQjE1eVo4OFJqLWI0ZHd4bEJ2WW12X1Q4X1dLWkFSVHBHM3VkaFViSGg3dXlMU2RhWkp0WXZXbWxGU2k4Q0txdF",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenkwb2tHZVpPemlhQ0pwa2hHb0tObWVoZWlHSHhjaGxlbmtKLV9UQjE1eVo4OFJqLWI0ZHd4bEJ2WW12X1Q4X1dLWkFSVHBHM3VkaFViSGg3dXlMU2RhWkp0WXZXbWxGU2k4Q0txdFhPcDRiQjF6M0hfcHJBWGpCMHRMSHd6eTVaM2JPNWFfVVhXVzdLdW55NVdTTFZfSmJfcjBONGR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-06-11-002",
+    "date": "2026-06-11",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva’s Nicholas Goble takes the helm at Sansor - Food For Mzansi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkI1UFNCQnVZZlhZTWF4UktiRVdxcFpudVdGa1VmQnkzWTdRWWRRUE1Oek5jUVJ2aFlPb3RvVGRqa0ctS3JaZHF2Z21OUXBIVVAtUXM5LTNxVjVUT1JXejBTMjVMSjRJZUdhQ0NBcU",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkI1UFNCQnVZZlhZTWF4UktiRVdxcFpudVdGa1VmQnkzWTdRWWRRUE1Oek5jUVJ2aFlPb3RvVGRqa0ctS3JaZHF2Z21OUXBIVVAtUXM5LTNxVjVUT1JXejBTMjVMSjRJZUdhQ0NBcUhqd3lNWU5HZThNUEthWERObGlERmlHdml2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-11-003",
+    "date": "2026-06-11",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "O Shaughnessy Asset Management LLC Purchases 70,134 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnhfelF4NHdlak12V3gycUdBdGVDb1NFVmFLbnN1RGZyU2ZSRktkRzVNek14Q1M1T2lyNTRiNHhQMm1GZ2M5UG1rcmdBMnlVRVhGaE9RLW8wMVNScjVBWUhXYkdadnVyUnVBemE0dC",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnhfelF4NHdlak12V3gycUdBdGVDb1NFVmFLbnN1RGZyU2ZSRktkRzVNek14Q1M1T2lyNTRiNHhQMm1GZ2M5UG1rcmdBMnlVRVhGaE9RLW8wMVNScjVBWUhXYkdadnVyUnVBemE0dC1qOG00ZnY0aWpxR201VDRGbzBvU0xSb1NucFBLSjhxWjVaNVNRZTVwSi12ZE13OTI2dU5Ya1Q1VmxZOHdhX3NzNTlKNmtnY3hjTHZodjlXdFQ3UkFaUlZORGFGUk5naHVWMzFJNXZ6MkoyVF9VbHFSUWpnX09PN1JMbDZXeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-11-004",
+    "date": "2026-06-11",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "trade_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Tariff Relief Recasting CNH (CNH) as a Higher-Quality Agricultural Tech Platform? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVNKQXFNM2o2QUJHX0tzM0FiLXlmSi1lMHJZT19XdUs0TkF6b0V5NWNKNXVZTnFhTzV4Q0w2Wk1CMGszOE43VmhDbFkwdk1jd3dTcU9MWWNWcVYzRjhlbzVnQy14WmgxN2p1ckRlMX",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVNKQXFNM2o2QUJHX0tzM0FiLXlmSi1lMHJZT19XdUs0TkF6b0V5NWNKNXVZTnFhTzV4Q0w2Wk1CMGszOE43VmhDbFkwdk1jd3dTcU9MWWNWcVYzRjhlbzVnQy14WmgxN2p1ckRlMXVmVzFSR2hoWEtfSzl5WXVqdGljbDUxYlhOcy1rdmxqdXhENnI4VDZBYTY2eGRBcHo3UklGUFRVb203Mk1RdUVyOHpiS1FLLUtmZUtydWJMYmkxTVRkRW1wMDh1RnFoX2dW0gHWAUFVX3lxTE43THlDaU5OTUZUUkRNMGFTNmNBZnJlZXl0V3VoVDlySkFUNGNYaHZMalN3UWk3bk1CQmNVZFZOT0FCLXg2eTFzNHVwRHl1aHRDNEZDbUJMcW5YWmxwVFFWeVVmZW4yT2xSa0xRUDZkbHo5ZmtleUJ6V2ZlTEQxN3FGQnAtQXJOeVk2bWR0VEt3SUoxeGo2Wi1scGNfWWV1YUhYemFXR2RaUUE4YWp1d0pXbjdYSEF6aDZubFhQYXVkUzh6RVo5MjlPSHY5WGFlSmV5NDNFS1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-005",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should you book your grain-drying propane now?",
+    "summary": "Profit Planners: Rather than booking all your propane ahead of time or waiting to purchase at harvest, consider booking some now and buying the rest later to contend with market volatility.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/should-you-book-your-grain-drying-propane-now-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-006",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Could winter durum be your most profitable wheat crop yet?",
+    "summary": "Bread built Kansas, but pasta could make it richer. Kansas State University’s winter durum wheat is bringing a competitive edge to western Kansas farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/wheat/could-winter-durum-be-your-most-profitable-wheat-crop-yet-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-007",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "23-year-old farmer bets big on drone technology",
+    "summary": "Drones, Asked and Answered: Here’s how one young farmer started an agricultural spray drone business. Learn what type of investment it took and advice for starting your own business.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/business/23-year-old-farmer-bets-big-on-drone-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-008",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1954 Farmall Super H: 72 years strong and still working",
+    "summary": "Once relegated to gathering dust in a garage, this tractor found new life and surprised the original owner, Con Fischer, with a 90th birthday present in 2011.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/1954-farmall-super-h-72-years-strong-and-still-working",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-009",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Moving day: 100-year-old barn rolls to new home",
+    "summary": "A Michigan farmer relocates an historic dairy barn to preserve agricultural heritage and expand the family agritourism business for the next generation.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/moving-day-100-year-old-barn-rolls-to-new-home",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-010",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmers, ranchers can manage sun risks with these 4 tips",
+    "summary": "Video: In the final video of this skin cancer series, a dermatologist discusses sun protection tips for farmers and ranchers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/farmers-ranchers-can-manage-sun-risks-with-these-4-tips",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-011",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seed costs eat 25% of corn and soybean budgets, five times industry claims",
+    "summary": "International seed leaders say seeds represent just 5% of farm expenses, but U.S. data tells a dramatically different story for row crop producers facing $111 per-acre corn seed bills.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/seed-costs-eat-25-of-corn-and-soybean-budgets-five-times-industry-claims",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deere-2026-06-11-012",
+    "date": "2026-06-11",
+    "companies": [
+      "deere"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "John Deere unveils 2027 6R Series tractor for diverse farm work",
+    "summary": "The equipment manufacturer introduces 15 models across four frame sizes with enhanced transmission and hydraulic systems.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/john-deere-unveils-2027-6r-series-tractor-for-diverse-farm-work",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-013",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why farm wealth disappears in 3 generations",
+    "summary": "Estate Plan Edge: Farmers sacrifice to build estates, but research shows 85% of wealthy families lose top status within 10 years. Are your heirs prepared?",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/why-farm-wealth-disappears-in-3-generations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-06-10-001",
     "date": "2026-06-10",
     "companies": [
@@ -253,6 +520,295 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/husker-harvest-days/husker-harvest-days-is-getting-ready-for-you",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-06-10-015",
+    "date": "2026-06-10",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ducks Unlimited Honors The Mosaic Company with Corporate Conservation Achievement Award - No-Till Farmer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTFTbG1YT2l3YUtxeUxieTllSUctZW9POFhTX0xYbEREaWVtTk1qaWRKVk9HUlI4RUxRQ3RaTHFpcmkzWWR6ZW9JRktuU3Zva2tBaEkyZnlUNnNWMF93X0kySGY4anN0Vm44UTFrbD",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTFTbG1YT2l3YUtxeUxieTllSUctZW9POFhTX0xYbEREaWVtTk1qaWRKVk9HUlI4RUxRQ3RaTHFpcmkzWWR6ZW9JRktuU3Zva2tBaEkyZnlUNnNWMF93X0kySGY4anN0Vm44UTFrbDdFVWJWVVg1S3dHd1ZWNFFyUnd6VHo0M2x2RUxXVjBiUi1IVGFwMUJHVzVxV1hNbDJ5Qkd3Nk1mTXBxRmczQ1RtTFRsSWI5Szc2N0dJQkVuenBSai1MUWdNNU5jbHQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-016",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AGI Realigns Manufacturing to Deliver Storage Solutions Closer to U.S. Farmers - American Ag Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTZYcUx6Ukdxc2l5M3ZzcjcxNWZxeHdTdkRIS0dtM0xOWHJmcW82NVJYaWFabHlVYTFyREVZUWhJcDhrY0lkUm9XRTNGNWF5ZHJjRENHVzNCTE1QZmhsWC1NY09NZHd0VTR1SkJuMm",
+    "sources": [
+      {
+        "name": "kpluss",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTZYcUx6Ukdxc2l5M3ZzcjcxNWZxeHdTdkRIS0dtM0xOWHJmcW82NVJYaWFabHlVYTFyREVZUWhJcDhrY0lkUm9XRTNGNWF5ZHJjRENHVzNCTE1QZmhsWC1NY09NZHd0VTR1SkJuMmo2WHV2czZhNVZHVWtnVXdCMFBFY0pISUpET2RFMldjTTJ4VndxYXRiV1pGNWZkWnVKejZPa1BNRmc0eXZCS24xSjVDRUk3dFlLZUZDbkloWi0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-06-10-017",
+    "date": "2026-06-10",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Química y Minera de Chile (SQM) Is Down 5.5% After Strong Q1 Beat And Higher Lithium Guidance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMTdQUDhNeUZoTnBSYUZ2eHZMS2M2ekpiRXBpNGpYdUk0eWN5bWZqN25BOHE4X1VJaUhpeWROZ3R4T3dHaFRocjZXaWV5Uk92c0tQQXZWa3dWX2VGTjBRbjVPQTJPdXY4emtmNzJzbl",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMTdQUDhNeUZoTnBSYUZ2eHZMS2M2ekpiRXBpNGpYdUk0eWN5bWZqN25BOHE4X1VJaUhpeWROZ3R4T3dHaFRocjZXaWV5Uk92c0tQQXZWa3dWX2VGTjBRbjVPQTJPdXY4emtmNzJzblFvSmRxQmQtSGt5a0EzUXJqN1pBNmhSRGxIQkRkUkVsNGpoaWlJRGszOWZOSmFxYW9RcE40ZVk1VHkyNmd5RTJ5QmxDbW9fMmV5emJEdldrOWtDV0t5TUpkYVQ5ZG9KV0xnMElWU25mTFdGOWpQLVQ3Y0ZsT0xPZ9IB6wFBVV95cUxPM2FPbEhMWnNvOGU5Q3Exc3dPOGJ5OFBUWmlvM2RBN0VNUVp6LVlONElneDZkYjNEbGhBbmk0bk5FTTU2QkdVemdzOE1pelBESXU3VnRFdVhMUGpFdlh6Q0N1VEs2S3lQNkRCUElOMl80Wkl0Vm9nSUZPUFlNZ2p4M2M4WkRhNXYzd0VrS2M3eGxMRm0wcFpsLUJGSnJNMTVnUm5EMWpRNFFib2NuN1VzWnNSa19wREpDMkVLUTU4QWJKZmJvaHRTd3B0VGlmQjQwTkRKaHpNQXRNU1FxVEJmS0NWdjJzYW9STGE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-06-10-018",
+    "date": "2026-06-10",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is It Time To Reassess CF Industries (CF) After Recent Share Price Pullback - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTd4OGIzRF9FdUlnS3BqVnVWaWNzNlVjWTJkNFcyVDZaeU9BUnN6UERfb3NOWlZPVzJGVzA1djQyX0lWbjRoSW5kZHhOWUctd1dCeDZLQ0dpc3BfLUZRUERHUmIyQUJMTm96Q1pReU",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTd4OGIzRF9FdUlnS3BqVnVWaWNzNlVjWTJkNFcyVDZaeU9BUnN6UERfb3NOWlZPVzJGVzA1djQyX0lWbjRoSW5kZHhOWUctd1dCeDZLQ0dpc3BfLUZRUERHUmIyQUJMTm96Q1pReUtuYnB2SnVZM1ZQSTFBWXRPTUdQVnNQbGFwMVhaRnIwNnpIbTJXemJ4ZDVLRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-06-10-019",
+    "date": "2026-06-10",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Yara International (OB:YAR) Valuation Check As Shares Rebound After Recent Weakness - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkcyNDBNeDFsQTltczhyWEhPZUZQeF9tVEt1V3QtSk9JLXVkMTMycTQxdFJVbW5PR0dneVZJbFI3TVJhVFY3RFJwNlp5aWtpRlNSXzFFdFFHMVFTN3Ryd2ZORUJnUlBvRFcyZDBJMj",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkcyNDBNeDFsQTltczhyWEhPZUZQeF9tVEt1V3QtSk9JLXVkMTMycTQxdFJVbW5PR0dneVZJbFI3TVJhVFY3RFJwNlp5aWtpRlNSXzFFdFFHMVFTN3Ryd2ZORUJnUlBvRFcyZDBJMjlTTVh2M3RSWlJoOWRUeE1WQmJqYnhMdkV1Sl9uRG5Nd3V1Y1c1cUZFczY0eE5KM0FBcnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-06-10-020",
+    "date": "2026-06-10",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva to Participate in Wolfe's Materials of the Future Conference - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTRnTDU3WlNEeFlyOVVKeUVwaUQwV3pPRGp3VDhZTW1Sbl9fYkI2Z1lSc0ZPR3NtOTFLX19qSFRqakZNM2NNSmJtSTlwSXJWN3JnQWNQYW5KYXA3R1FoTS1DbW44TXE2SnpnYlJ4Rj",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTRnTDU3WlNEeFlyOVVKeUVwaUQwV3pPRGp3VDhZTW1Sbl9fYkI2Z1lSc0ZPR3NtOTFLX19qSFRqakZNM2NNSmJtSTlwSXJWN3JnQWNQYW5KYXA3R1FoTS1DbW44TXE2SnpnYlJ4RjhELV9CMTVqRU5kR1gxb085Q20ydkRGM181M0x1el9yY3hiNzM0MWhzd002dXZsSEVrN3pWU3JtdWxOcnhKQjhETXhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-10-021",
+    "date": "2026-06-10",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation CEO Pierre Brondeau and CFO Andrew Sandifer to speak at Wolfe Research 3rd Annual Materials of the Future Conference - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPTVR4anZjQTFKNVpPZk5NSmtLb1VFTkZxOFQ5dGNnUGFsT0VYdVFpOG9aMVVTT2xpNGFObmRwbTY3YURicWZ3NVQzY0Q4dVFOQ0MzRjFNc1B6Rm5KUWYyYnNzbzVsZXp1SDk3aHl2S0",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTVR4anZjQTFKNVpPZk5NSmtLb1VFTkZxOFQ5dGNnUGFsT0VYdVFpOG9aMVVTT2xpNGFObmRwbTY3YURicWZ3NVQzY0Q4dVFOQ0MzRjFNc1B6Rm5KUWYyYnNzbzVsZXp1SDk3aHl2S0RNd2laM1N0dXBtTV9zc3I5MlFlTG4yT1JWWTNCWENwNVBFZUlGUEFCLXh6M0ZPbnFLaUtDWldwNVpjMm1VUmtuRksxNnNxb3l1SzJLamtBTW84TkEyOWpXZDlQUUJYUkZmbUpyVzl0LUhWdTk3QWZyczd5RVBiUHdLaElfUzZNOFNscnhpb0NaY2FXbGR5ZFdRcE9HRlRIS2MxVjR2amtKSW5MMVBVdTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-10-022",
+    "date": "2026-06-10",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global S.A. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPZTBiQ29LN1NmdnZPUkNKdnZHNndjWDktOUNudnhWN29VY1pSTFUwUWJtcE9hM2hoa1BQejVZQW5jRWdtOUp2aWw4TUVuejlUYnM0dUc3YUpNR3pQVVBPc0JqZ3BIVllZRThkNFFuWW",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZTBiQ29LN1NmdnZPUkNKdnZHNndjWDktOUNudnhWN29VY1pSTFUwUWJtcE9hM2hoa1BQejVZQW5jRWdtOUp2aWw4TUVuejlUYnM0dUc3YUpNR3pQVVBPc0JqZ3BIVllZRThkNFFuWW1qaGRDeThyS2MwT3JlVHlEeEFLbkwwaEV1eUNnV3VwVFpmRXNjSFQweUlrWHVEZ280VzJZUkY3Q2R3UGF6Tk5kRGpxc2xOMVNoUU5zTWwyX08yUE5rdy0zS3pkeFpOX09jRjJTejBkcUZteXJLb2g1ZGthODZDN2ZFLWRGT3NZVV9vTTRFbkJHWUlraXh5T193MkVZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-10-023",
+    "date": "2026-06-10",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial NV (CNH) Shares Fall 5.2% -- GF Value Says Still Overvalued - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHBBYlVhRndRY0d3R1dpdUdoQnpFX3JRV3R6OF9PaEVPQjI5cFZOUkk0ODZ4WDMtODU5ekQ4Unp4cEJoREFFZXNSZFBZZWJvcWFBR3R4YzFpajk5cUR5UEpOMzZfUkVsN0JObGZJS0",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHBBYlVhRndRY0d3R1dpdUdoQnpFX3JRV3R6OF9PaEVPQjI5cFZOUkk0ODZ4WDMtODU5ekQ4Unp4cEJoREFFZXNSZFBZZWJvcWFBR3R4YzFpajk5cUR5UEpOMzZfUkVsN0JObGZJS0wtWHNNZXhpanJ3VjZoa3VlcGNfbDFkWEZ5WVhOSVpNNWNRWFZnRm8zMVBLRlRac0VoZVJzTzczYnM0UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-024",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grain prices lifted ahead of WASDE",
+    "summary": "Afternoon Market Recap: Corn, soybeans and most winter wheat contracts were firm in midweek trading.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-025",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How will New World screwworm impact corn markets?",
+    "summary": "Ag Marketing IQ In Depth: The courage to make a sale can be found at the bottom of a hedge. But for now, watch commitment of traders reports and prepare for USDA’s Planted Acreage report on June 30.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/how-will-new-world-screwworm-impact-corn-markets-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-026",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Beef prices hit record in May as screwworm impact looms",
+    "summary": "As drought and screwworm disrupt cattle supplies, USDA leaders defend containment measures while ranchers warn of tighter margins and prolonged herd recovery.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cattle-news/beef-prices-hit-record-in-may-as-screwworm-impact-looms",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-027",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. pork industry pushes for USMCA extension amid trade review",
+    "summary": "Farm Progress America: As the trade agreement faces review this July, pork producers emphasize Mexico's role as the top export market and the deal's importance for disease prevention.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/u-s-pork-industry-pushes-for-usmca-extension-amid-trade-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-028",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Financials matter in land transition: but don’t forget the family part",
+    "summary": "Morning Market Analysis: Grain futures extended rebounds overnight as trade eyed heightened Middle East tensions and awaited WASDE report.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-029",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to pick the best product to manage pests",
+    "summary": "Corn Source: Insect resistance to insecticides is increasing. Here’s what to consider when managing insects this summer.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crop-protection/how-to-pick-the-best-product-to-manage-pests",
         "type": "rss"
       }
     ]
@@ -1287,6 +1843,26 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPck5NUC1nUDZCU3E4S25SMDgxZ3JxRXE2ZDJUOGtiei1qcUo5RzZmZ05rR25UYkU3NFBrYmR0bGU4TU5CLUJkZ19oZGJBQ09jSjlpYTlXUW9RSzlkaUNEUVlWR0dlaEZKdEtjM2RudkN6SXpUak53VG1EQ1JfeTNxV1FrMFR1cUJhOVM1ZzItOUdMMEpNTk40X2NBc2lQNzdlcjRTSW1jY05oQkhZTkFXWUc1bjAxTi1xS1JLNy1DTDA5VTNjRXJPbVlGSTJ4aWZBdUszeUo1LWJqS1RQLUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-08-026",
+    "date": "2026-06-08",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FMC (FMC) Q3 2016 Earnings Call Transcript - MLQ.ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5RcVpENUhSZ3VpaDdzMDU1V1Vnb3h1M3paWmdTZlFaSnF4NG0ybEhHRXRGZWU5bV9nWTI3VHVjZ25EemJXVC1wYjZPMUVoZE5RR1A0em1USDVYaEFaOEVBZkdLWWNzdUN0V0lB?oc=5\"",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RcVpENUhSZ3VpaDdzMDU1V1Vnb3h1M3paWmdTZlFaSnF4NG0ybEhHRXRGZWU5bV9nWTI3VHVjZ25EemJXVC1wYjZPMUVoZE5RR1A0em1USDVYaEFaOEVBZkdLWWNzdUN0V0lB?oc=5",
         "type": "rss"
       }
     ]
