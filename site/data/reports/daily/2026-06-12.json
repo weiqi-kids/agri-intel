@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:34:36.961643Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Extreme weather is coming. Here’s a stock that can sail through it - The Globe and Mail",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdTJrU0JVUFMwZjEtS3NvX1dONm56MkhOeVRqTHBMcjFuWXNGY0lVZjUyVmw1Q0Z0TmJLTnU0Z2hNWWdsNVptanMtSWg1NFRMekVzb0xqeXRjMk54RDVuNHc2eVM4R0pHUkprX29ZVVZHT1NwUTRTOEZVUHg5TVh6UkJNa09XZHctZk1yUHlfZ2R3UHNaZHRPQVJhYWc4aUxwbTQ4LUhLY3FGYXZQS2cycnJWejI4THQzRE5xcERGRjNpdThnZTVzRFBQT2hLM2VNelIyQ3hPRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-06-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barings LLC Sells 73,984 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRUNYUjhvenI3MU8wdTVldzFDcE9XNTYwYXBHeTJ5UHd4VllXU0ZmNFFrVmc0NHJlLTNiaDZreVcyOEtSNVdnWlI0Y3FxcGM5NmxPcUxCMzRUVC14b29qM0toQnhDc3VqMGhfYUFrVmdpWU9wQUVsVlhMZ0VHZGt4VWJxRGJyQ0dVRDUwOExZcnJ2MWxOUXp5WnZjU1VLMWVDWllvVUlaX1dhMkdYbDhfQkFlWFNWc0RXRWFpeEFrNVdIaVFZSk9ySg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Europe Fertilizer Market Set for Sustainable Growth as Precision Agriculture and Food Security Drive Demand - vocal.media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUXAxX1VjbjR0ekVDdWQzTUJibXY0dk40b25FZ3M5VVhEQTRkZ1pOUUMzRGhJa09yWjBMTW9wSVhPdTZKX2dtUmd0dVlmVlYxb20xdmxUUTlYUjR5YlNQbHNFMHJid24yUUJnSEdDd1dVQXhTZVZaZ3c3S1hRS0hIelVUSWw2aEtGOS1pd2dBMkczZEdGaXVtTVJRVzUyMHFfSWl5ZDlXd1FCT3UyYUV5ZzItdU9SZ29lUDJNd0xlR3VQU0lqdU9PQkl5Z3JVdW8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Help The Farmer celebrate the past by sharing your family’s farm photos",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/help-the-farmer-celebrate-the-past-by-sharing-your-family-s-farm-photos"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New tomato support method brings hope of better harvest",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/new-tomato-support-method-brings-hope-of-better-harvest"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 174,
+    "too_old": 160,
+    "gate1_blocked": 5,
+    "gate2_blocked": 9,
+    "passed": 28,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Total debt per share of CF Industries Holdings, Inc. – XETR:C4F - TradingView",
+      "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Havemeyer Place LP Invests $901,000 in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Prudential PLC Boosts Holdings in Archer Daniels Midland Company $ADM - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為ADM相關動態：「Extreme weather is coming. Here’s a stock that can sail t...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Extreme weather is coming. Here’s a stock that can sail through it - The Glob...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Barings LLC Sells 73,984 Shares of Archer Daniels Midland Company $ADM - Mark...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
