@@ -1,0 +1,14 @@
+{
+  "total_raw": 375,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 31,
+  "gate2_samples": [
+    "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "CNH Industrial N.V. - Via Ritzau"
+  ]
+}
