@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:44:14.620928Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-06-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries (CF) Stock Valuation In Focus As Call Options Activity Rises And Growth Debate Builds - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMGc4dFZCV25yd3J2RlhZekVCeGRJU2VGVnhmejVyOWM0czhQZGYyNzJMLWI4Qk51SGVCQTNnTl9Jc1ZyTGpqWWE3ODJzVjBJWjg4aDB0ZGxqMGtNeGJXRi0takp1d0tSeDVoOEMxeVZGSWQ2Q19kaTV1M05LR1I2UnlnWVB4dXFxT3Vpb1VLOEFkemFXWWc3TjFkSFZlT3hrSTNELTI0SC16VUxwUmVRanV4aklsNlptN0xvM2swS3BwTW5fLWxHVWE0N1RfTXVpMG9yZ9IB2gFBVV95cUxNSlZjZUV4V2dKWnhMR1JublJtb2JiWUpBWUVzU19feWtrVFZ4bm1WbWlrTHBhZHJtQWhGRWhGWVlHWS1KYk1VdDFXd0FxWWl2aVNsMFNoOEsxTXRzU2k4VkRYRnlFQS0tUlJqb0JxUjRZM2pTazR1WmZBZjBETjYwODhGTFVXTm9XdTk0LTlaTFdqVmx5Z05Ka1REbW5BQVVBd0FBeHMxTk5aSV91bWZWS3dsbXR2eU1nSW5ReF9kcWNUaXVvR3BkZWE3N0FJSlhOTU54cUIzb19QZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 199,
+    "too_old": 157,
+    "gate1_blocked": 5,
+    "gate2_blocked": 4,
+    "passed": 11,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "CNH Industrial N.V. - Via Ritzau",
+      "CNH Industrial N.V. $CNH Holdings Raised by Los Angeles Capital Management LLC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為CF相關動態：「CF Industries (CF) Stock Valuation In Focus As Call Optio...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CF Industries (CF) Stock Valuation In Focus As Call Options Activity Rises An...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CF為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

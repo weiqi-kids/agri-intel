@@ -1,0 +1,15 @@
+{
+  "total_raw": 376,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 11,
+  "gate2_samples": [
+    "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "CNH Industrial N.V. - Via Ritzau",
+    "CNH Industrial N.V. $CNH Holdings Raised by Los Angeles Capital Management LLC - MarketBeat"
+  ]
+}
