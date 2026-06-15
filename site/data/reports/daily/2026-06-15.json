@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:46:34.070411Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-15-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Online tools support DIY repairs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/technology/online-tools-support-diy-repairs"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-15-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The new dairy gold rush: Which states see investment in processing?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/livestock-and-dairy/the-new-dairy-gold-rush-which-states-see-investment-in-processing-"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-15-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New parasite threatens cattle herds with significant losses",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/insects/new-parasite-threatens-cattle-herds-with-significant-losses"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-15-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Storms, flooding test corn and soybean farmers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/storms-flooding-test-corn-and-soybean-farmers"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BNP Paribas Adjusts Price Target on CF Industries to $120 From $140, Maintains Neutral Rating - marketscreener.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR1g5Zk5LZ1V6Q3pkZjlhWWQ3ZXE2MDhJX2xVMGFBaFE1YjU5dTVTOWVPS1NNV1EwdmhfcGdBY1pVRUt5SnRHY3o2ZTE5S3dRQy0xMGdLOFJlejJ6bm9XeVN0UTlobF9pSUI5Mjl0V0NQYmdjSm42ZUExVlVGMHhJWUdKUUdpWTV1TWRFcWRjNmRwZ0wtdVRKbG03aC10c2hERTlhSXJPZ2RxX2RqNGZuMFlucHRGWVVDY2dtY21WWkhjeUxWRnVpZklfY3BJTzlpTFZCWG1kMUxMUGM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 184,
+    "too_old": 158,
+    "gate1_blocked": 6,
+    "gate2_blocked": 5,
+    "passed": 20,
+    "pass_rate": "10.6%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+      "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "Spruce Point Capital Management, LLC's Bunge Global SA(BG) Holding History - GuruFocus",
+      "CNH accelerates product development and parts delivery with - GlobeNewswire",
+      "CNH Industrial N.V. $CNH Holdings Raised by Los Angeles Capital Management LLC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為CNH、CF相關動態：「Online tools support DIY repairs」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Online tools support DIY repairs（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "The new dairy gold rush: Which states see investment in processing?（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

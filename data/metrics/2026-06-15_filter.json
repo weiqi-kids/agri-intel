@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 6,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+    "Spruce Point Capital Management, LLC's Bunge Global SA(BG) Holding History - GuruFocus",
+    "CNH accelerates product development and parts delivery with - GlobeNewswire",
+    "CNH Industrial N.V. $CNH Holdings Raised by Los Angeles Capital Management LLC - MarketBeat"
+  ]
+}
