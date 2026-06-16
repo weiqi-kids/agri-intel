@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 8,
+  "gate2_fail": 9,
+  "passed": 35,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+    "ICL Group’s US$800 Million Bond Issue Could Be A Game Changer For ICL Group (ICL) - Sahm",
+    "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance",
+    "Healthcare of Ontario Pension Plan Trust Fund Raises Position in Archer Daniels Midland Company $ADM",
+    "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance"
+  ]
+}
