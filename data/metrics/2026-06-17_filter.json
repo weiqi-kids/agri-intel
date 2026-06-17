@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 38,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+    "ICL Group’s US$800 Million Bond Issue Could Be A Game Changer For ICL Group (ICL) - Sahm",
+    "Corteva agrees to $85 million settlement - The Fence Post",
+    "Stronger Crush Margins and Nutrition Growth Might Change The Case For Investing In Archer-Daniels-Mi",
+    "Healthcare of Ontario Pension Plan Trust Fund Raises Position in Archer Daniels Midland Company $ADM"
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:10:28.907713Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-06-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MOS Stock Hits Over 5-Year Lows – Why Did Mosaic Withdraw Its Phosphate Production Guidance For 2026? - Stocktwits",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTzkzNUVRSXV6aWZYb3B1anFQUGRjeXA1VWVpdEp4UENMemQzNVh3Ti1fT2tfRThwUUhvQVJYMUFJV2ZBVnZqbmt4dzR2N2Y4Znk3b0gxYjdWLUVLUGJPNkd5YThucFBqYVc5SWx2allNd1ZYSm93VndqOHVzVm1DbVhjY1hLOTJwWkZaVHp6QTRMemMzX09UOUpxazA2VU9VLWNuTkNyWDRCMnJLVnMzTGpEcHdpbnM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-06-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global SA (BG) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UVFZ0bk5lSmlXdzZDSDUxX3dUZTdxVHZSYWlGbG5GX2pBQjV5YkxlczE5aS1vM3BPYVpwQzR1a2NweG9XOXhtQVRxM2NrbURyYlh6MWl0am1YLThVcHpZSzNSbmdKMW9NRGxJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-17-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Suderman’s advice: Ignore the headlines and focus on fundamentals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/suderman-s-advice-ignore-the-headlines-and-focus-on-fundamentals"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-17-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corn prices near $4.35: Will weather or acreage report bring relief?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/corn-prices-near-4-35-will-weather-or-acreage-report-bring-relief-"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-17-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Drone spraying: Lessons learned along the way",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/business/drone-spraying-lessons-learned-along-the-way"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corteva",
+      "to": "fmc",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "fmc",
+        "count": 2
+      },
+      {
+        "id": "corteva",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 164,
+    "too_old": 155,
+    "gate1_blocked": 6,
+    "gate2_blocked": 9,
+    "passed": 38,
+    "pass_rate": "18.3%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+      "ICL Group’s US$800 Million Bond Issue Could Be A Game Changer For ICL Group (ICL) - Sahm",
+      "Corteva agrees to $85 million settlement - The Fence Post",
+      "Stronger Crush Margins and Nutrition Growth Might Change The Case For Investing In Archer-Daniels-Mi",
+      "Healthcare of Ontario Pension Plan Trust Fund Raises Position in Archer Daniels Midland Company $ADM"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為FMC、Corteva、Mosaic相關動態：「MOS Stock Hits Over 5-Year Lows – Why Did Mosaic Withdraw...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "MOS Stock Hits Over 5-Year Lows – Why Did Mosaic Withdraw Its Phosphate Produ...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global SA (BG) Revenue Breakdown: Business Segments, Regional Revenue &...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

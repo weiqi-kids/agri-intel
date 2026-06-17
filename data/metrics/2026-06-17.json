@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-17",
+  "total_events": 22,
+  "by_company": {
+    "mosaic": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intrepid": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fmc": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "corteva": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nutrien": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": 0.03
+    },
+    "planting_season": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "crop_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "corteva",
+      "to": "fmc",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}
