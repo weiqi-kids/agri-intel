@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-18",
+  "total_events": 20,
+  "by_company": {
+    "intrepid": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cf_industries": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oci": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corteva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.08
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "natural_gas_feedstock": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

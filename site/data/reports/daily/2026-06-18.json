@@ -1,0 +1,246 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:44:57.581170Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-06-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CF Industries Holdings Inc (CF) Financial Health: Profitability & Balance Sheet Analysis - TradingKey",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yUWFzaWNlNzZaUjgtdmtMN3NsUlJaTzF2WHZvaHNqbGZQSGkzZ2VjemhYQ1J6WFlvcGNDMldZNVE4TnVSZWNNRWNYV1pxYnpDamtTNkNTZG5lckJMcFd3OGhUZWFVNHU4MVVwMjd2Zzd0eHROYXVJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-18-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 ways to make more cash from crops",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/crop-protection/3-ways-to-make-more-cash-from-crops"
+    },
+    {
+      "rank": 3,
+      "event_id": "corteva-2026-06-18-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Corteva, FMC enter co-exclusive partnership on dual-mode herbicide rimisoxafen - agnavigator.com",
+      "companies": [
+        "corteva",
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkM4NnhVc2JNVDVGaXhQZ0toRTNvNnhZcmkwUEJxYzN5RVhOM1BlSXdrNVRkM0RQV3pLVWF1OWVjSGNJRFJCd1FlWWV5ZDZyeFJfcHBEZUFwR2U0UmZZejlMZjB2MjFwRUJ1dG5tZ08xQkxhcDBjU3FMWDUyc3B6WkFpNHdQaXlvSHVNTmpIbmxGalpBUExpYnhzRmJPdnMtZDFVag?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intrepid-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intrepid Potash Inc (IPI) Valuation: PE, PB & Fair Value Analysis - TradingKey",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yZ2VYVDdBaWw1bGxkdzJCVzlfaUxWN1NVbUtiMlctZGZuT01GVGRoNzNGTXI2LWp1Nm1rbUZZU2xERENqVnBiSDZ6WUlISjl3ekxUZUJhS3BveXIyTERCNUo4Q2NRQ0JmdE41TERsNlowOHY4ZHFfWVN3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intrepid-2026-06-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intrepid Potash Inc (IPI) Risk Assessment: Volatility, Financial Risk & Investment Risk - TradingKey",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OanpLX0NXcTFCbWVLNjNaU1F5YmFDaTVpSTVObU1Pcm5OTlh2SWNqUjZCREFXdW5QaVVxaDlfZU1NcGdYMk1ieXYyc0M5cU5GNnc1a3NxT0FWMHpHMTVTVnNTeGhodUdyTWNaZGZhcWF2ZU8zLXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "planting_season",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 163,
+    "too_old": 158,
+    "gate1_blocked": 4,
+    "gate2_blocked": 10,
+    "passed": 34,
+    "pass_rate": "16.5%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+      "ICL Group’s US$800 Million Bond Issue Could Be A Game Changer For ICL Group (ICL) - Sahm",
+      "Full-scale emergency training exercise at CF Industries on Wednesday afternoon - CHAT News Today",
+      "Why OCI’s bio-LNG opens a quiet backdoor to cleaner trucking - AD HOC NEWS",
+      "Why Oracle’s OCI Database with PostgreSQL matters for serious workloads - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Intrepid、CF、OCI相關動態：「CF Industries Holdings Inc (CF) Financial Health: Profita...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CF Industries Holdings Inc (CF) Financial Health: Profitability & Balance She...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "3 ways to make more cash from crops（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

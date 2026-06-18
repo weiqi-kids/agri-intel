@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-18",
+  "date_range": {
+    "start": "2026-06-12",
+    "end": "2026-06-18"
+  },
+  "generated_at": "2026-06-18T11:44:57.720082Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "corteva-2026-06-12-024",
+      "date": "2026-06-12",
+      "title": "Zacks Industry Outlook Highlights Corteva, Archer Daniels Midland, The Scotts, Miracle-Gro, Adecoagro and Mission Produce - Zacks Investment Research",
+      "importance_score": 0.75
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "corteva",
+      "company_b": "fmc",
+      "co_mention_count": 7,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 87,
+      "last_week": 78,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.05
+    },
+    "planting_season": {
+      "this_week": 11,
+      "last_week": 4,
+      "week_over_week_change": "+175%",
+      "sentiment_this_week": -0.09
+    },
+    "earnings": {
+      "this_week": 9,
+      "last_week": 9,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.11
+    },
+    "crop_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "natural_gas_feedstock": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "adm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "intrepid": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "cf_industries": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "cnhi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "mosaic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "fmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "corteva": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "bunge": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nutrien": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "oci": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 176,
+        "last": 166,
+        "change_pct": 6.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-12",
+      "event_count": 46,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 10,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 5,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 35,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 29,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 31,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 20,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-12 ~ 2026-06-18）共 176 則事件，重點為「Zacks Industry Outlook Highlights Corteva, Arch...」。農業產業通用、種植季節、法說會為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "ADM",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Intrepid",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CF",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

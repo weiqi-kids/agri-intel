@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 4,
+  "gate2_fail": 10,
+  "passed": 34,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+    "ICL Group’s US$800 Million Bond Issue Could Be A Game Changer For ICL Group (ICL) - Sahm",
+    "Full-scale emergency training exercise at CF Industries on Wednesday afternoon - CHAT News Today",
+    "Why OCI’s bio-LNG opens a quiet backdoor to cleaner trucking - AD HOC NEWS",
+    "Why Oracle’s OCI Database with PostgreSQL matters for serious workloads - AD HOC NEWS"
+  ]
+}
