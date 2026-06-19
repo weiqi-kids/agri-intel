@@ -18,6 +18,67 @@
     ]
   },
   {
+    "id": "fmc-2026-06-19-001",
+    "date": "2026-06-19",
+    "companies": [
+      "fmc",
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "FMC and Corteva join forces to expand access to next-generation herbicide technology across Americas - Agro Spectrum India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakh1X3ZTUnBPbDZOUW9oQUpGYkNncG1WSFBXcl8yQ1BkZmI5NEx0M2kyU0JZWHlCYjhCMFBOc1pJbTg4WXdtQUg4eXF5OWpjdS1CS0xVQkY5NERsQWh5R214eXA4QzhudXNwZHZob1",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakh1X3ZTUnBPbDZOUW9oQUpGYkNncG1WSFBXcl8yQ1BkZmI5NEx0M2kyU0JZWHlCYjhCMFBOc1pJbTg4WXdtQUg4eXF5OWpjdS1CS0xVQkY5NERsQWh5R214eXA4QzhudXNwZHZob1VUT0pKaUI4bEFFblBxUUhfY294V29tWjkzWm1IaGIxYUVMY3JuQ1c3UU9SMGlMcnRTUldsd3FVQnA5UnhfZUUxN0FMaGZocEpidURYLU1qRmd1Ul9paVExcVg2dUxMRU82VlRZS21sRjRVX2pwU3k4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-19-002",
+    "date": "2026-06-19",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pacer Advisors Inc. Acquires 179,889 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhDSHRFT05HUWo5cUtaVXlBRHhmZkFSTVJPVjFSNVNRZ21yMy0zeUlyQ2EzSk8xNFJYMkZwUDJnWmp6eUpxbHFaall6am9MN1VHT202ejY0ZTRMTjVvNmREUThKTEZSMGlDekdvN2",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhDSHRFT05HUWo5cUtaVXlBRHhmZkFSTVJPVjFSNVNRZ21yMy0zeUlyQ2EzSk8xNFJYMkZwUDJnWmp6eUpxbHFaall6am9MN1VHT202ejY0ZTRMTjVvNmREUThKTEZSMGlDekdvN2dVTk9nQmVzV2hJU0RKS2p1TUVNUkRtTWQtT2ctLVdHOUJ6Znd0Ymx3QlBnSkNXS2o4ZXdpbmc5UTdPeW90Vm9aNkJRRnVXOWhOSzd3YUg0UUsydEQtLWYweGRLdVNtelVNd2w1WlViZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-19-003",
+    "date": "2026-06-19",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Is Bunge Global's Stock Performance Compared to Other Consumer Defensive Stocks - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlRicmw3cS02VWFKVU9mNjI4S2sxdDFPd0l4aGpPYkFDQXowUDVpY3d4d3N5SUZYV0xpXy1GZW5SeTJEV2M1dkVnR2lHZmRpaWdEMkxsSzNoTTJZeFhTc2h4VWdsQ1V0MFpMTDNaZ3",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlRicmw3cS02VWFKVU9mNjI4S2sxdDFPd0l4aGpPYkFDQXowUDVpY3d4d3N5SUZYV0xpXy1GZW5SeTJEV2M1dkVnR2lHZmRpaWdEMkxsSzNoTTJZeFhTc2h4VWdsQ1V0MFpMTDNaZ3pEek1MdzE4YVltNmNaWGRUUG56SFhyUGRFN25wZ1dqb0Uzb0tqdEptcTVXVHdyQlEwVVRyNHhlRWV3V0JwSXc1MGRpV2FtYU1yeHNkSTI0U29LNkZDMmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intrepid-2026-06-18-001",
     "date": "2026-06-18",
     "companies": [
@@ -392,6 +453,257 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/crop-protection/3-ways-to-make-more-cash-from-crops",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-021",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Finally — ITC plans full 5-year review of Morocco, Russia phosphate import duties - Michigan Farm News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9saVd6eWZZQVBWeWRMVEF6d3Axdm11c2k2XzQwZjM2bHdRTnJ6NEk3aml5cTRWV09JOXNnODlBbTA0M3QzVzR2NXN2a1ZibGI3UWpfUDFLbkxpbmNJdms1TE11eUM3eGIzN21zaU",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9saVd6eWZZQVBWeWRMVEF6d3Axdm11c2k2XzQwZjM2bHdRTnJ6NEk3aml5cTRWV09JOXNnODlBbTA0M3QzVzR2NXN2a1ZibGI3UWpfUDFLbkxpbmNJdms1TE11eUM3eGIzN21zaU1DNjBLZHFudGU2dW5ER0pFMC1TQ0dIenlaZFI4aE5JU2l0VmRtbER5d3p0SHgzOVZFSkViUFFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-18-022",
+    "date": "2026-06-18",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corp. Sale Decision Could Come This Summer for Philadelphia Pesticide Giant - PHILADELPHIA.Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUxJeVhLTHRnYkdCRHFVWDk5Qy16ZXdqWlVFWkJNRUJYNFk1ZWVPMkViRE96Nk51QVNLVnhVQVVCZVRxMzRkeW1CZmhKXzFNYzNwcFQtb2pCZ2xTbmpwdGxwa3MyX0hlaHQ1Q2NDMT",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUxJeVhLTHRnYkdCRHFVWDk5Qy16ZXdqWlVFWkJNRUJYNFk1ZWVPMkViRE96Nk51QVNLVnhVQVVCZVRxMzRkeW1CZmhKXzFNYzNwcFQtb2pCZ2xTbmpwdGxwa3MyX0hlaHQ1Q2NDMTlNa0V6WXJWbkt4c0tabFpPYW5kbF8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-18-023",
+    "date": "2026-06-18",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tranche Update on FMC Corporation's Equity Buyback Plan announced on February 8, 2022. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbjVuaFRPVEtKQ2ZaeDV2REU0SjRGT25NOXFGdjNhSnoycDNjVzAwN2dxTWtSZW54blNPendfNWpObUdMWGFCdkhjaHdVTi1HV2JMNk02STU5SzlCYzBycE4tUTZ5UmJoXzJ4UGhjY1",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbjVuaFRPVEtKQ2ZaeDV2REU0SjRGT25NOXFGdjNhSnoycDNjVzAwN2dxTWtSZW54blNPendfNWpObUdMWGFCdkhjaHdVTi1HV2JMNk02STU5SzlCYzBycE4tUTZ5UmJoXzJ4UGhjY1BOV05YUjRMa0F6N0dmaVJwM0RsMzZtcWRSaFM0aDkxRW5vc2llUEtOUVNKdURvaEkxLWsxQV9tRUNja0tHX21scUk5MEQ1dGo4eWpqbVhIOXhzeG9PVERLcjREa1lUdHRxRTRr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-18-024",
+    "date": "2026-06-18",
+    "companies": [
+      "fmc",
+      "corteva"
+    ],
+    "topics": [
+      "natural_gas_feedstock"
+    ],
+    "impact": "negative",
+    "title": "FMC and Corteva Partner to Expand Access to Rimisoxafen Technology - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQazNZQlRack0yOW1Sb0VJdkFpcWtRd0RONDdNWm5GdzZYQnFFMHVxcVBlejROYzhDelZSRVRNQ29ZY2RWcDktTFRCZ3pzaFdZY2JoZUpINkJ1UkxseFNta3RVN0M3a2VCRlItZFlYd1",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazNZQlRack0yOW1Sb0VJdkFpcWtRd0RONDdNWm5GdzZYQnFFMHVxcVBlejROYzhDelZSRVRNQ29ZY2RWcDktTFRCZ3pzaFdZY2JoZUpINkJ1UkxseFNta3RVN0M3a2VCRlItZFlYd1RnWk5PajU1UkxmYXpuZDRETkpFMjdidDJGLTZBeHRPVVJyLXhlbS1vZmU0a1V0YjF4M1ZKa3BZb2ctWUswRjFUNjVpY1Z2c1MyOTJUdVpaSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-18-025",
+    "date": "2026-06-18",
+    "companies": [
+      "fmc",
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "FMC and Corteva Partner to Expand New Herbicide Technology - Farms.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGo0V05mX2pQWDBGSnhFZmNiZHQwWWVXXzBNNkdyXzlYNGJvRTR5STI4MVdUNmY0V0xMQ0NwRzFlWjhyOC1vWVVEX18tRVNlcVpKWWRENW4zUFFmNTZxM3hYeloyTllEZzhjU1M3Y2",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGo0V05mX2pQWDBGSnhFZmNiZHQwWWVXXzBNNkdyXzlYNGJvRTR5STI4MVdUNmY0V0xMQ0NwRzFlWjhyOC1vWVVEX18tRVNlcVpKWWRENW4zUFFmNTZxM3hYeloyTllEZzhjU1M3Y2tHa0JCekxUNXFRbWpmLTM4N0FJOHB6ck04aC1yMS1RVXVFeVRqbkFiMXN5ZGNtai1xQ2FBMl9rVFQ1dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-18-026",
+    "date": "2026-06-18",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA (BG) Shares Fall 3.1% -- GF Value Says Still Overvalued - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzRWaEJCYTBJek54M0NmWjRVYWJYVU1ycmc4Yk9vLVBfQVdBNEplaVBUekdfbW1LeTQ3VEl6X1BlN1F0bkZFcUVSWDg3RkE5WVZsYVhHWTZTa0NFYmh0MVRwcm43Z3dFc0FkZTV4Wl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzRWaEJCYTBJek54M0NmWjRVYWJYVU1ycmc4Yk9vLVBfQVdBNEplaVBUekdfbW1LeTQ3VEl6X1BlN1F0bkZFcUVSWDg3RkE5WVZsYVhHWTZTa0NFYmh0MVRwcm43Z3dFc0FkZTV4Wl9GaTBVSk1hMjAxYXd3TjIzc1FOMDdiR1pPVkh3QThNc3dzZ2huN1ZxbTNXU0thWVRwNllCSEpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-18-027",
+    "date": "2026-06-18",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge hires director of government affairs - World-Grain.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUdPQTZ2NFZzMUUyNUdiN1o3LTNHTmlZSTFpYk43WDAzdm5wYVdvNXAzbFRsLXFDNURRWW5fbG1EOWJwd2lsdnpiWWdnSTdLSlJnWGFReXRpUVV6YXQyLUNxSnpleENFSnFZdkI0cU",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUdPQTZ2NFZzMUUyNUdiN1o3LTNHTmlZSTFpYk43WDAzdm5wYVdvNXAzbFRsLXFDNURRWW5fbG1EOWJwd2lsdnpiWWdnSTdLSlJnWGFReXRpUVV6YXQyLUNxSnpleENFSnFZdkI0cUtxTUlIUTZsV0M3SnVob3VIa1FqNDVKMC1RRm5aZUV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-18-028",
+    "date": "2026-06-18",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Investors Are Reacting To CNH (CNH) Virtual-First R&D Hub And Automated Logistics Investment - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUm5wRkNuMVBaSHJRbjdDWjkzWWt6cHEtOUJZdXhmREp4WmJpTVJEUk03UkQ2aEtGMnFJcGZoaTN6WHZzb2tDWGt5UkJzWnNSSXRkZFdlR1dmWC1lN3B1cUVDTFBuYWs5ZmdWWHFVTm",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUm5wRkNuMVBaSHJRbjdDWjkzWWt6cHEtOUJZdXhmREp4WmJpTVJEUk03UkQ2aEtGMnFJcGZoaTN6WHZzb2tDWGt5UkJzWnNSSXRkZFdlR1dmWC1lN3B1cUVDTFBuYWs5ZmdWWHFVTm9aUlliT1Rzc3oxbUpZamNTeVB4SU8xc3hudG91WnA2blk5cDhXWVRLdUJrbnpzdjQ1UUt3SW54TDdpS2liMzRmQU9FRmMxcmhQd0loaDRZUVVZanRNQWcxdGtnUzNPdmtG0gHWAUFVX3lxTE1YYmI3ejJzaFpndV9rc2RBdW5PUmo1cVlvSmtpS2lvM1RhdEhCM21XY2V4d2FpY29NaFNYb0x3azdvamJSU3JqbmJwS0ZERDdjUlIwQVpWaVZ5WlRiUFh1VVprM0RrOXRIYTdJQzhqNGZPeFZYSTlreVlTbEQzT1FSTzFCNHpLX09PUGFEUVlPaU5IcnJZTkhneERqUHlHcUduRDFINzlVeFU1LTdEaWNmS3ZiNkFBT3E1Q2xBZGV0YnQ1R3Z4amRiY3BZUF9ZbUR6Vk1FTkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-029",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grains see red ahead of 3-day weekend",
+    "summary": "Afternoon Market Recap: Corn, soybean and winter wheat prices all eroded lower on Thursday.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-030",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Crop forecast: Scattered opportunity to spray",
+    "summary": "Between the Fencerows: Some days it’s hard to spray fast enough to keep up with weed growth.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/commentary/crop-forecast-scattered-opportunity-to-spray",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-031",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Tips: What farmers should know about the fertilizer fracas",
+    "summary": "This week’s checklist reinforces that overseas actions can still have big effects on the farm gate.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/management/top-tips-what-farmers-should-know-about-the-fertilizer-fracas",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-032",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA exports – 3 more large grain sales reported, June 18, 2026",
+    "summary": "The 2026-27 marketing year for corn and soybeans begins Sept. 1.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-033",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Make sure your focus is on being in business next year’",
+    "summary": "Morning Market Analysis: Soybeans tumbled from two-week highs overnight as slumping crude oil, soyoil weighed on prices and weather remained bearish.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
         "type": "rss"
       }
     ]
@@ -986,6 +1298,27 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-policy/usda-allots-105-million-for-new-efforts-to-fight-screwworm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-17-032",
+    "date": "2026-06-17",
+    "companies": [
+      "fmc",
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC and Corteva Sign Strategic Supply and License Agreement for Rimisoxafen Herbicide Technology - iGrow News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ycFJGTUpTX0FiS2pBQnVRTjI3V3RrZEUySEZ4ak9NY01EZzlTOFFZc3RqdDRXSmNETEdyRlpmNG5kdTBLZFFSdndsYzJjZi1vMkpDbU9OYVFsSS1MWTdB?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ycFJGTUpTX0FiS2pBQnVRTjI3V3RrZEUySEZ4ak9NY01EZzlTOFFZc3RqdDRXSmNETEdyRlpmNG5kdTBLZFFSdndsYzJjZi1vMkpDbU9OYVFsSS1MWTdB?oc=5",
         "type": "rss"
       }
     ]
@@ -2206,6 +2539,46 @@
       {
         "name": "intrepid",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3lfaEt2Qjl5ZjJXeTVadlZVT0F3TWtyRGNmNkZ6bW51TzVBUklvV2hJQ1RQei1vM3dCMzZrZWcxQnhXR1A3QVJQN2NfRTBBQ0dJbVdOcW1ucUt0X2tscmNYU2xsVDNOcnJ2V09TVDFMT1BOejdPWUF1dk5QV2xEZkVKcDM1SkRmMVhfU1Z4eFFQUWZEWENGLUttZll1REFkQmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-06-15-036",
+    "date": "2026-06-15",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Announces Appointment of Jason Tremblay as Chief Financial Officer - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFE0ckgzbXh2eS1uQ1N2VWhiYmdTZ1NETjFKNVVCdjV2OU8tc2EtUHRYaThtckxrXzkzakN4MXBEZFVjM2ZaQk80bDdSUlZFdm8wUGlJY09EalpDVnpQX1FQVDBuYktLS04tM0I0Qk",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFE0ckgzbXh2eS1uQ1N2VWhiYmdTZ1NETjFKNVVCdjV2OU8tc2EtUHRYaThtckxrXzkzakN4MXBEZFVjM2ZaQk80bDdSUlZFdm8wUGlJY09EalpDVnpQX1FQVDBuYktLS04tM0I0QkJ2QTEtRXNyeF93WFNWT2JodHRLNmtrY2hMUjFNby0wenJsRnNLbUhj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-06-15-037",
+    "date": "2026-06-15",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barclays Ups CF Industries Price Target Amid Geopolitical Tensions - timothysykes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVks3MWNaNGNhcWU5LVFEa1JTNFZwQzZib2dxSDRZeDlZNUZNMHFDOVlPNjdzZWc4QmJGemgxdEZNdVdkSE84Znlfa3dKR05FbHA0NnhrV2tIY2ROUjVPUkl4NUtlVlBFd1VYYmdhYX",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVks3MWNaNGNhcWU5LVFEa1JTNFZwQzZib2dxSDRZeDlZNUZNMHFDOVlPNjdzZWc4QmJGemgxdEZNdVdkSE84Znlfa3dKR05FbHA0NnhrV2tIY2ROUjVPUkl4NUtlVlBFd1VYYmdhYXpmTVVUS0hnT1dJOU5jOE1HcElrMVNyZw?oc=5",
         "type": "rss"
       }
     ]

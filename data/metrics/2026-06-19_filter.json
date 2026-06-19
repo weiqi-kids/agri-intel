@@ -1,0 +1,16 @@
+{
+  "total_raw": 366,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 3,
+  "gate2_fail": 9,
+  "passed": 19,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+    "ICL Group’s US$800 Million Bond Issue Could Be A Game Changer For ICL Group (ICL) - Sahm",
+    "Why Oracle’s OCI Database with PostgreSQL matters for serious workloads - AD HOC NEWS",
+    "Corteva agrees to $85 million settlement - The Fence Post",
+    "FMC: Debt reduction progresses as new molecules and direct sales boost growth and confidence - Tradi"
+  ]
+}

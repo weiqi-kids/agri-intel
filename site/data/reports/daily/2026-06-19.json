@@ -1,0 +1,153 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T11:59:19.787289Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fmc-2026-06-19-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "FMC and Corteva join forces to expand access to next-generation herbicide technology across Americas - Agro Spectrum India",
+      "companies": [
+        "fmc",
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakh1X3ZTUnBPbDZOUW9oQUpGYkNncG1WSFBXcl8yQ1BkZmI5NEx0M2kyU0JZWHlCYjhCMFBOc1pJbTg4WXdtQUg4eXF5OWpjdS1CS0xVQkY5NERsQWh5R214eXA4QzhudXNwZHZob1VUT0pKaUI4bEFFblBxUUhfY294V29tWjkzWm1IaGIxYUVMY3JuQ1c3UU9SMGlMcnRTUldsd3FVQnA5UnhfZUUxN0FMaGZocEpidURYLU1qRmd1Ul9paVExcVg2dUxMRU82VlRZS21sRjRVX2pwU3k4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-06-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pacer Advisors Inc. Acquires 179,889 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhDSHRFT05HUWo5cUtaVXlBRHhmZkFSTVJPVjFSNVNRZ21yMy0zeUlyQ2EzSk8xNFJYMkZwUDJnWmp6eUpxbHFaall6am9MN1VHT202ejY0ZTRMTjVvNmREUThKTEZSMGlDekdvN2dVTk9nQmVzV2hJU0RKS2p1TUVNUkRtTWQtT2ctLVdHOUJ6Znd0Ymx3QlBnSkNXS2o4ZXdpbmc5UTdPeW90Vm9aNkJRRnVXOWhOSzd3YUg0UUsydEQtLWYweGRLdVNtelVNd2w1WlViZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-06-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Is Bunge Global's Stock Performance Compared to Other Consumer Defensive Stocks - Barchart.com",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlRicmw3cS02VWFKVU9mNjI4S2sxdDFPd0l4aGpPYkFDQXowUDVpY3d4d3N5SUZYV0xpXy1GZW5SeTJEV2M1dkVnR2lHZmRpaWdEMkxsSzNoTTJZeFhTc2h4VWdsQ1V0MFpMTDNaZ3pEek1MdzE4YVltNmNaWGRUUG56SFhyUGRFN25wZ1dqb0Uzb0tqdEptcTVXVHdyQlEwVVRyNHhlRWV3V0JwSXc1MGRpV2FtYU1yeHNkSTI0U29LNkZDMmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "fmc",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 366,
+    "dup_title": 176,
+    "too_old": 159,
+    "gate1_blocked": 3,
+    "gate2_blocked": 9,
+    "passed": 19,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+      "ICL Group’s US$800 Million Bond Issue Could Be A Game Changer For ICL Group (ICL) - Sahm",
+      "Why Oracle’s OCI Database with PostgreSQL matters for serious workloads - AD HOC NEWS",
+      "Corteva agrees to $85 million settlement - The Fence Post",
+      "FMC: Debt reduction progresses as new molecules and direct sales boost growth and confidence - Tradi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為FMC、Corteva、ADM相關動態：「FMC and Corteva join forces to expand access to next-gene...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "FMC and Corteva join forces to expand access to next-generation herbicide tec...（農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pacer Advisors Inc. Acquires 179,889 Shares of Archer Daniels Midland Company...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
