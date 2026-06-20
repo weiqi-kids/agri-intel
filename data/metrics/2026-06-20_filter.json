@@ -1,0 +1,16 @@
+{
+  "total_raw": 325,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 5,
+  "gate2_fail": 9,
+  "passed": 13,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+    "Why Oracle’s OCI Database with PostgreSQL matters for serious workloads - AD HOC NEWS",
+    "Corteva agrees to $85 million settlement - The Fence Post",
+    "US' FMC, Corteva partner to expand rimisoxafen weed control - Fibre2Fashion",
+    "FMC: Debt reduction progresses as new molecules and direct sales boost growth and confidence - Tradi"
+  ]
+}
