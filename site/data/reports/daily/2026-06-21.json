@@ -1,0 +1,146 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T10:59:38.867764Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic Company Stock - Background and analyst view on the fertilizer producer - AD HOC NEWS",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEVKdzRuV0prWk0tUWJydk51UkZPNkdFa3lybndsbW1qUjNXaktBS1JTbVJNQ09xX1RjR0hOMXYwWjloVFpJeGhkOVc2bW5DcjFBQkhrc3FWUUZhUEtRc25ramc5N0xvRzlkLVlqcTdwR1Q2NzNHQ3pOcXd3Q3ZTVGxGNjBwQnlRNVpsVmFmXzhCdTRVVUlCOFQ3LU9oZGwwWjk2bU5uY2hQZnZobzNPV1p6aDJYWWttMWxTT2FEeFEyWDQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-06-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Holdings (CF) Stock Could Be 19.4% Undervalued After Recent Selloff - Yahoo Finance",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1o0ajZ3cnMtRTRJZjlYM2J4VDZmTDBjT2Y3dmlTb2hOa0hvbFlLaF9UNF81UFNxaFFWTHRMdW5QSmV6cWtLOUc1cDhoeWk4VWptanBFcS1NNEtiRVhqVjcwTXA5T0JTb0s1SWlULW9DWXUxUkdrNktvQm9VVlRXNFpGWUtGOTh0ZE15WW9nNDZUY3VCTDItdzVEMno?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oci-2026-06-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI Stock - Sunday background on strategy and portfolio reshaping - AD HOC NEWS",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3hfelRZUk1HdkZGR1ItbkRMbGdxN3dNSUVRejVYZlliZ2E1TWJEa0xlQnRrZnZ3a1ptdmFfREdwanJMQU9NZHNLRnJ4ZUZPWjFlMnlza0ZoRkJNWW1GWHRNbEZvbm1Hcm55UnA0TjVCOXcxSWd3VDdJcVpVbzhSUmxtT053UzhKV2pfNUhsWFlIOXBSelNNUGJzbEtOXzFuOW9rZ2ZFSjhYSlV1NGJnZzNGMTZoZFRra096ckRTNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 366,
+    "dup_title": 190,
+    "too_old": 152,
+    "gate1_blocked": 6,
+    "gate2_blocked": 7,
+    "passed": 11,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+      "CF Industries, Kimberly-Clark, Welltower - TradingView",
+      "FMC: Debt reduction progresses as new molecules and direct sales boost growth and confidence - Tradi",
+      "US' FMC, Corteva partner to expand rimisoxafen weed control - Fibre2Fashion",
+      "Stronger Crush Margins and Nutrition Growth Might Change The Case For Investing In Archer-Daniels-Mi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Mosaic、CF、OCI相關動態：「Mosaic Company Stock - Background and analyst view on the...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mosaic Company Stock - Background and analyst view on the fertilizer producer...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CF Industries Holdings (CF) Stock Could Be 19.4% Undervalued After Recent Sel...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

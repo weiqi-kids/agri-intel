@@ -1,0 +1,16 @@
+{
+  "total_raw": 366,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 11,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+    "CF Industries, Kimberly-Clark, Welltower - TradingView",
+    "FMC: Debt reduction progresses as new molecules and direct sales boost growth and confidence - Tradi",
+    "US' FMC, Corteva partner to expand rimisoxafen weed control - Fibre2Fashion",
+    "Stronger Crush Margins and Nutrition Growth Might Change The Case For Investing In Archer-Daniels-Mi"
+  ]
+}
