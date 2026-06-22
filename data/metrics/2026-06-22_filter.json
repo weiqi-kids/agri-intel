@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 5,
+  "gate2_fail": 7,
+  "passed": 30,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Secures $1 Billion Credit Facility - GuruFocus",
+    "CF Industries, Kimberly-Clark, Welltower - TradingView",
+    "FMC: Debt reduction progresses as new molecules and direct sales boost growth and confidence - Tradi",
+    "Stronger Crush Margins and Nutrition Growth Might Change The Case For Investing In Archer-Daniels-Mi",
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance"
+  ]
+}
