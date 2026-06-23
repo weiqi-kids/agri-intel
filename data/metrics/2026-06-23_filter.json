@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 35,
+  "gate2_samples": [
+    "Corteva agrees to $85 million settlement - The Fence Post",
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+    "Stronger Crush Margins and Nutrition Growth Might Change The Case For Investing In Archer-Daniels-Mi",
+    "Pricing of CNH Industrial Capital LLC $600 million notes - GlobeNewswire",
+    "Polaris Inc. Appoints CNH Industrial CFO Dustin Semach to Board of Directors - geneonline.com"
+  ]
+}
