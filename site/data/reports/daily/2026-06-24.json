@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:41:15.397299Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-24-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Damage from wildlife is a hidden tax on farmers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/damage-from-wildlife-is-a-hidden-tax-on-farmers"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-24-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Harvest wheat early to beat preharvest sprouting damage",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/wheat/harvest-wheat-early-to-beat-preharvest-sprouting-damage"
+    },
+    {
+      "rank": 3,
+      "event_id": "sqm-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SQM Stock And 2 Global Exporters For Investors Looking Beyond Tech - simplywall.st",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNEd1Z2FpMXBleFgtWVpIeXRSV20tY2hlTk5Fd0RzT0duYVRxVENWTEtRUnVxZXhlQWRJdWVTU0d0cXEzbFJKUW9TMldIaUhNN2hGc2g1RUVORURfQXZuZ1o2XzhVYWZzaW5HSW5FUnJqN3F2Ny1IemExZGxHbVhOWUwtc2pRbVhEdmtNWXJyRjZ2Um0tR1pGSGNkX0ZEUE9vTlFlZ016TFdrR1Q1bG5LVHk0UGdzbTFuQXpwdUd1WmZNUk1MTXZfcVVSNE8tdUF6OUdzcEtTVzVzQ0lsQ1pRRXFaelVqaHRVcDBN0gHrAUFVX3lxTFA0R3VnYWkxcGV4WC1ZWkh5dFJXbS1jaGVOTkV3RHNPR25hVHFUQ1ZMS1FSdXFleGVBZEl1ZVNTR3RxcTNsUkpRb1MyV0hpSE03aEZzaDVFRU5FRF9Bdm5nWjZfOFVhZnNpbkdJbkVScmo3cXY3LUh6YTFkbEdtWE5ZTC1zalFtWER2a01ZcnJGNnZSbS1HWkZIY2RfRkRQT29OUWVnTXpMV2tHVDVsbktUeTRQZ3NtMW5BenB1R3VaZk1STUxNdl9xVVI0Ty11QXo5R3NwS1NXNXNDSWxDWlFFcVp6VWpodFVwME0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corteva-2026-06-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Spot it. Stop it. Corteva urges early action on herbicide resistance - Farmers Review Africa",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTNpLTNreG5qdGI3RDNjQ3U2ZTloRW42RmFQYm40Wk5TVGljdkdRaS01UzhXelJiYWtBZWZUSFNsUWVicEh5T3ZNaTBCV2NaQTNiTm1LVXo5elltODViNUxKLXJTYUluWHJxRkZzOFA4MmE2ZGlGWG1mbHpZblBDcFFFeGZLOWhTQUNrRWd5NXZxdVgtMWFFRGo1TWc1aHNu?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Best Income Stocks to Buy for June 24th - Yahoo Finance Singapore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSXB3aUtzNGM2QkZMQ085cXgxRlVJdjFSRDhMNXVIRHJDN3hqU196TzlVSG1KUmpIX3duUlp3aE5XSzNqamZLaENDek15dTdnaW1UTjNpOS1tRXR3OC0zNlA0aTZwVXRzdzN0TTdraGo2VmN3eFV6VW5kRk5MekFSVWRB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "deere",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 167,
+    "too_old": 158,
+    "gate1_blocked": 4,
+    "gate2_blocked": 5,
+    "passed": 34,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "FMC Corporation Pursues $114 Million Sale-Leaseback to Reduce Debt and Optimize Real Estate Portfoli",
+      "FMC Corporation enters agreement to sell Delaware property for $114 million - Investing.com UK",
+      "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+      "Pricing of CNH Industrial Capital LLC $600 million notes - CNH Newsroom",
+      "Polaris Inc. Appoints CNH Industrial CFO Dustin Semach to Board of Directors - geneonline.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為SQM、Corteva、John Deere相關動態：「Damage from wildlife is a hidden tax on farmers」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Damage from wildlife is a hidden tax on farmers（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Harvest wheat early to beat preharvest sprouting damage（種植季節、農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

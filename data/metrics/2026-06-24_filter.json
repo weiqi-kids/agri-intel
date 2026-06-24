@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 4,
+  "gate2_fail": 5,
+  "passed": 34,
+  "gate2_samples": [
+    "FMC Corporation Pursues $114 Million Sale-Leaseback to Reduce Debt and Optimize Real Estate Portfoli",
+    "FMC Corporation enters agreement to sell Delaware property for $114 million - Investing.com UK",
+    "Why Archer Daniels Midland (ADM) Dipped More Than Broader Market Today - Yahoo Finance",
+    "Pricing of CNH Industrial Capital LLC $600 million notes - CNH Newsroom",
+    "Polaris Inc. Appoints CNH Industrial CFO Dustin Semach to Board of Directors - geneonline.com"
+  ]
+}

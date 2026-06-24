@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-24",
+  "total_events": 15,
+  "by_company": {
+    "sqm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corteva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deere": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": -0.1
+    },
+    "natural_gas_feedstock": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
