@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 2,
+  "gate2_fail": 14,
+  "passed": 61,
+  "gate2_samples": [
+    "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance UK",
+    "Can CF Industries Protect Margins Amid Input Cost Pressure? - Yahoo Finance UK",
+    "OCI N.V. statement regarding Oceanwood Capital - OCI Global",
+    "OCI N.V. statement regarding Oceanwood Capital - PR Newswire",
+    "What Does OCI Global's Full Exit from Methanex Signal - Kavout | AI"
+  ]
+}
