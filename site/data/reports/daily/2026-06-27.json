@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T09:56:35.257669Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oci-2026-06-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OCI outlook and strategy, stock aligned with nitrogen and methanol cycle - Ad-hoc-news.de",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTklSSktNdVB4VkxET2wzSG5OX2hQLVFPYzY0Qk54TkZkS2dxWjNxR2lJMFJZaWFFX2o4Qm1pOVdkekZRR0dxVWJNdVNmaTlLb05FRDRsR0pHcWdiTWxPVnVmVzNZQzNJQWJSX3ZuVGhOQkdOZTlYMVVPbFZ4dGlieDJ6dWtLSU9JUkZVVmtqc1NWcDNZejZXNEU1UDFwZjJIM0NMZWtwNUhTQ3Y0Y2NTb3pMZFhsRUJCejVQOV9LLTEwZW1aSGpnMmNn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tariffs drive farm equipment prices up despite demand drop",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/tariffs-drive-farm-equipment-prices-up-despite-demand-drop"
+    },
+    {
+      "rank": 3,
+      "event_id": "intrepid-2026-06-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to book forward of Intrepid Potash, Inc – NYSE:IPI - TradingView",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFdSR2ZJazh2eXBoeVJVUF85aklKOGNzbV9HU1dRVTZwQ28wYWM5T3VOck1vcjRTaUp5VTlXck16Sy1zeGtWYzlZOEtOLVBJVmR0VnRFWE1uUE1xMHd4WlFxMUhaRm5McGtuUk00cW5CRWJGN2RIa2pWbDg0c2FtaTRNb3RqVVdpclNiVXR0S0hwa2NubWRHSA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-06-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Stock Stands Out As Supply Chain Inflation Hits Freight And Fertilizer - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbW11RkRmdW5Qdy05Ry1rLVEzeUZ6SjdhUzlnMTN1T015N1BJNG9wTUFMQ3B3SGt1VU13ek9mY0R5S25sN3BNTlFfX3RMUHpWUTk1dUpRalVxU2dwLWhDNVlWYVlJVGo2d29NdnJlSUNEbFJ0ZkhOM3ZHU0ZtTTIzZmM4ZkpQbTVXTjVQbHh6bjM1NXZmNWcyZTd2cmowdS1aTVM4a19uZ25PWjZ5bi1mX1VyNlJPaVdvZ1QxWWJzUXVhM3ZfaTNLa0FIOHlHUXBVSjRobXU3TXRIMVdmNE96eTBn0gHnAUFVX3lxTFAzYWg5RTl6eTdmeEZlU1ZhcndiOTVFN05xcTR5NDktVUpmTTEybW1waENSWVA2WHdDcGMtYjR1aEFESzVMX3d5Z21neGNUemxzVHdYaXNYNmRXUmNhT0ZpTWN1bDBTa2hvLTU3bEg2VGtucjAzbFBBUkpPYy1odDROdjFhRHVmeUtGbG5PLTlULVctZUNwV2tGZkFvTVM0SXlQMWc3bVpNdWloUXFKYURpQS1IY1owUVlTVWotaUItam1pYVJKb2FOampJQUdETGc5eHlLQ3VXYnlsd2ZMbG1BekF2STNUVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-06-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBIT forward of Archer-Daniels-Midland Company – NYSE:ADM - TradingView",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZHptVm92TnhHR25BWE8wSnlfQTN1aHkyTF90bDg0alc4SWxya1NybVNGU2ZkMWZyd3hWNTJaWUlJMHhzV3ZFbDhyU3dhZUJVUUtzcGlFV292elZSWElVRG5iOGtJVTBGUGt1endRazlsLUQ0MUpYbjg0Ym9MVzRyR29HV1UxX1p4WnpEbmZfdzFXemNvSFZRdkFkRVNsN25PY2FjMzd5aw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 195,
+    "too_old": 129,
+    "gate1_blocked": 2,
+    "gate2_blocked": 21,
+    "passed": 24,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+      "Flywire and The Mosaic have been highlighted as Zacks Bull and Bear of the Day - Yahoo Finance",
+      "Can CF Industries Protect Margins Amid Input Cost Pressure? - Yahoo Finance",
+      "CF Industries Holdings, Inc. Actuals & Estimates (NYSE:CF) - TradingView",
+      "OCI N.V. statement regarding Oceanwood Capital - OCI Global"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Intrepid、CF、OCI相關動態：「OCI outlook and strategy, stock aligned with nitrogen and...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "OCI outlook and strategy, stock aligned with nitrogen and methanol cycle - Ad...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tariffs drive farm equipment prices up despite demand drop（貿易政策、法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

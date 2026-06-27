@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 2,
+  "gate2_fail": 21,
+  "passed": 24,
+  "gate2_samples": [
+    "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+    "Flywire and The Mosaic have been highlighted as Zacks Bull and Bear of the Day - Yahoo Finance",
+    "Can CF Industries Protect Margins Amid Input Cost Pressure? - Yahoo Finance",
+    "CF Industries Holdings, Inc. Actuals & Estimates (NYSE:CF) - TradingView",
+    "OCI N.V. statement regarding Oceanwood Capital - OCI Global"
+  ]
+}
