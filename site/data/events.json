@@ -1,5 +1,66 @@
 [
   {
+    "id": "oci-2026-06-28-001",
+    "date": "2026-06-28",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to book forward of OCI NV – EURONEXT:OCI - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPd3RGcWU5Nm5qdGtEcm1Kemx6ajRoZjJwczZHTzVTQ25wUkxha1lUREhfZ2F5ZEF0NnNUWjlGT1FiX1FiN3NxZFN4QjA3dlQyNzQ5NU5La0o5bHliOFNlN1hxd0dwRDlWc0V0LWt6cV",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3RGcWU5Nm5qdGtEcm1Kemx6ajRoZjJwczZHTzVTQ25wUkxha1lUREhfZ2F5ZEF0NnNUWjlGT1FiX1FiN3NxZFN4QjA3dlQyNzQ5NU5La0o5bHliOFNlN1hxd0dwRDlWc0V0LWt6cVBLMDlPVk1WT1gtYy1jWFpPeUJ0YjhxLUFMMjB1U0d0cWZubGg1aldKNlA2aWlkdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-06-28-002",
+    "date": "2026-06-28",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of OCI NV – DUS:OIC - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjg4ZWdTeDAtUGNyd2JqN2RkMThnMUhZUXpCNmpJTlp6bEEteWU1ako1dVQ0MHJpVFVfV1AtNVhocEhoUUtuN1JJVUpnQmwzakRQeG84WVRJYlBuVVVEdUtVeTdzb2hPVUVDZGJuQl",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjg4ZWdTeDAtUGNyd2JqN2RkMThnMUhZUXpCNmpJTlp6bEEteWU1ako1dVQ0MHJpVFVfV1AtNVhocEhoUUtuN1JJVUpnQmwzakRQeG84WVRJYlBuVVVEdUtVeTdzb2hPVUVDZGJuQlg4cmZlaVZMN29UaHdreHFtLTFNSkc2MVZJMnphWFhTWVMwaVh6Vkw4ZTFpZ1A?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-28-003",
+    "date": "2026-06-28",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of Bunge Global SA Shs Cert Deposito Arg Repr 0.2 Shs – BCBA:BNG.CI - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVmRKX1dHakpDRmVNdGx6TEg1ZVNwVHd1OVZ0Vk1wNEFtWmZsR0Q2dVRkN3FNMkxlWUhtT1U1bmg1UkdkUF9laGk1TkE4WFZlVExoZmJSZnhsSW5HY3hNTzNGa1N4UkNhVWw2eFN0WT",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmRKX1dHakpDRmVNdGx6TEg1ZVNwVHd1OVZ0Vk1wNEFtWmZsR0Q2dVRkN3FNMkxlWUhtT1U1bmg1UkdkUF9laGk1TkE4WFZlVExoZmJSZnhsSW5HY3hNTzNGa1N4UkNhVWw2eFN0WTVMdkJhQTgtRE95WmtyVVpiTXViQ2tUWEdMZkhLVE1zbzZpZ1MwcGZsSXZKLUpnUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intrepid-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -94,6 +155,166 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farming-equipment/tariffs-drive-farm-equipment-prices-up-despite-demand-drop",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-06-27-006",
+    "date": "2026-06-27",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Intrepid Potash, Inc – NYSE:IPI - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3daRi1BRGRQVENOVnRlOGNzMi1WRFlyV2o5dHpDck1pZldKUTg0WHY2Q0ktbmp2dWoweW1va2hyN251WFcwUFFTRDMyT1Z0QXRLak9WYWZzZXJjVWNuWWpBRjhYSjRpUmhVRXlQWD",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3daRi1BRGRQVENOVnRlOGNzMi1WRFlyV2o5dHpDck1pZldKUTg0WHY2Q0ktbmp2dWoweW1va2hyN251WFcwUFFTRDMyT1Z0QXRLak9WYWZzZXJjVWNuWWpBRjhYSjRpUmhVRXlQWDhxYzRMU1VPeVg3MWE3elUtc2p1Rm1Cb1JVM2VwN0VKeG5qVnRsRldybjlZS0FCR0lFbmZwWkNSS3Y4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-06-27-007",
+    "date": "2026-06-27",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of CF Industries Holdings, Inc. – BX:C4F - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVVkSG53ZUE5SFN3XzZPa01TZmI2OVZtQVVUYWhBQUpTT3VDakxxa1Atd29wbVdGaGpmRkU1TkZ6RzI0d0htbzhRYi12X2p0UzNrYV9LT1BfNTRfWnhWLXNMbzBGLWp1Z3JZalY5dk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVVkSG53ZUE5SFN3XzZPa01TZmI2OVZtQVVUYWhBQUpTT3VDakxxa1Atd29wbVdGaGpmRkU1TkZ6RzI0d0htbzhRYi12X2p0UzNrYV9LT1BfNTRfWnhWLXNMbzBGLWp1Z3JZalY5dkR4alF1TWRIOW5Fb3BIRGtQVW5nRWttb2ZKLVFOUk05RlpHTzVYcjlZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taifer-2026-06-27-008",
+    "date": "2026-06-27",
+    "companies": [
+      "taifer"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Compound Fertilizer 22-10-10 from Taiwan Fertilizer Co. - balanced NPK blend for Taiwan’s fields - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXlaNzhiem9JcTd2MkdVdnFtQ0VMT2QwWjZmVW5VckNMZG1TZmRMaWQ4SzY3eUlWTTVYT1Uwbkc3ZnA5M0lJOXZuTC1uUFRKVWpKdTUzODVrMjhBTExxZ1JkOGJBQmlpT0s0RTA3aX",
+    "sources": [
+      {
+        "name": "taifer",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXlaNzhiem9JcTd2MkdVdnFtQ0VMT2QwWjZmVW5VckNMZG1TZmRMaWQ4SzY3eUlWTTVYT1Uwbkc3ZnA5M0lJOXZuTC1uUFRKVWpKdTUzODVrMjhBTExxZ1JkOGJBQmlpT0s0RTA3aXNGLTBVRWFqMHh6TTFUSUxialJSNnFxWU01QUt4bEl4MUREaEVTT01ZVDBJX2lSb0I4VWVLZmpZZEZkWmxubUdRY0lyODZaclUtcVAtS0pZTlllQ20x?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-27-009",
+    "date": "2026-06-27",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to book forward of Archer-Daniels-Midland Company – GETTEX:ADM - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTJabXAyMGIwT0g3dldfNXoybmJCSTZtMmtTUGlsZzhoZ2N3aW1NT21IVGkwZU5XR3VQSjRxX0hUcUlnd01teFpBOUJtbVJBTkQwV1NZWDB1TUp4cDE0ckZkZ1EtOWE3S3dFRzFnYj",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTJabXAyMGIwT0g3dldfNXoybmJCSTZtMmtTUGlsZzhoZ2N3aW1NT21IVGkwZU5XR3VQSjRxX0hUcUlnd01teFpBOUJtbVJBTkQwV1NZWDB1TUp4cDE0ckZkZ1EtOWE3S3dFRzFnYjRMZjVSMzhCaUlJZFdWVnYzSFlUTzZlYXY2Q0NOQWlOb00wV3l2a0l1MXhHcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-27-010",
+    "date": "2026-06-27",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Bunge Global (BG) Cheap After Its Zacks Upgrade Ahead Of Earnings? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFAwM1k4dXRFS3NnWGw3bjA0V2lLWEdPU1dTZE0xWnk1ZVhrSkNRZ3M3U2dVZFVPb2ozZEh2eEJGY0VfLXR2R0NQcnlCNXBPWXBjWF9FQlpVZWk2NlZUUTI3YWxGMENOdmlqQ1N0ck",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFAwM1k4dXRFS3NnWGw3bjA0V2lLWEdPU1dTZE0xWnk1ZVhrSkNRZ3M3U2dVZFVPb2ozZEh2eEJGY0VfLXR2R0NQcnlCNXBPWXBjWF9FQlpVZWk2NlZUUTI3YWxGMENOdmlqQ1N0ckxIdUFodk5OWVZYNDVDS0lSMEpaZzZ0b19JeXY4MDJHZFlKOE52TWxuZmZqQ2FNSk1PSFFmY0xlbW9ETTZvNzB1alB6SFIwU2VPZFJTX0JBUEVNVFI1NTY1ODBZektCVDNJbEhMank0NNIB3AFBVV95cUxPWmsxRTlQSEhoUWpRbDlFNFI3Ukw2VmMtX0labXhFa0VITWR4NDRsZVQtODFaNEpJS2lvUnlmQWd2SGhSUkpTdnRrekN5a3RqeEhyelcwU1U2ZUR0cDRyTkI0RzU0RzZGbk1NbkVmZnBDRTVvcy1keFJDMklLWkJHTnVaNW92MXZ5b3FzODJMT0hLZngtbzVTSmhEQ29qbEs2eUVrclhsa0NBT0R1eDVQd0o5V05hZTEteHBjMEtJRTdqQ0FLMHRRZDVpRXNWejVoZmdRLTc1VW9lNkwt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-27-011",
+    "date": "2026-06-27",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of CNH Industrial N.V. – NYSE:CNH - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTF5cXFUaWVkdUtzUzVJY194d1VCRlBrbkVOX3RvSEpQSldHNW5WRGVjMVptLS1CcXFCM1NBWVByOXE3cWNPVGNLbVo1Szh1S3JxbWNWODFwNHk1MjN0cGpWX0pBeDM2TVZSbDVobW",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTF5cXFUaWVkdUtzUzVJY194d1VCRlBrbkVOX3RvSEpQSldHNW5WRGVjMVptLS1CcXFCM1NBWVByOXE3cWNPVGNLbVo1Szh1S3JxbWNWODFwNHk1MjN0cGpWX0pBeDM2TVZSbDVobWFYMFpJUDFtQVh3anR0d1gzSTdGTGNIZEFjSEFhSmhwa1kzaGxJeHdPckJnbkVzTmpWaXhETU1vdms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-06-27-012",
+    "date": "2026-06-27",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Kubota Corporation – TSE:6326 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNaEw3RzhZcWUwMHduX2E0dHZvRTR0cmFxV3pIclVMR1BGemt5YWp5cjJWT0FMNzlVVWplZnFrZ2xheUlMN3pZLUlab1JQTWNRQ0VQdWJFdzlLYmdfMndScHZ0aVRNTU9zM1VxTXdycX",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEw3RzhZcWUwMHduX2E0dHZvRTR0cmFxV3pIclVMR1BGemt5YWp5cjJWT0FMNzlVVWplZnFrZ2xheUlMN3pZLUlab1JQTWNRQ0VQdWJFdzlLYmdfMndScHZ0aVRNTU9zM1VxTXdycXBWVEZKRjFZTHc2LTk5SEpqYmp6ZHQ5N0Jwak1lUGdxbGpCQXB0RTNfWEtveUZJUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-013",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Week in Agribusiness, June 27, 2026",
+    "summary": "Missouri planting wraps up, conservation practices, A2A2 grass-fed milk, and NWS border closing challenges featured this week.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-june-27-2026",
         "type": "rss"
       }
     ]
@@ -818,6 +1039,64 @@
     ]
   },
   {
+    "id": "cf_industries-2026-06-26-039",
+    "date": "2026-06-26",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Did CF Industries' Q4 2025 Earnings Beat Signal a Turning Point - Kavout | AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUk5oWEJLQkhnSFNOLXVIeW8xT0ZUek9GcjlEelpzVzdwTWlzYkJDd1VWTEhnaEdBazhsTFBEUll2R09OQlJYOGo5NFJkUFZFSWtjZHNmTUNycUd4NnRiSjNvejFFLVRRUHFyc09XRk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk5oWEJLQkhnSFNOLXVIeW8xT0ZUek9GcjlEelpzVzdwTWlzYkJDd1VWTEhnaEdBazhsTFBEUll2R09OQlJYOGo5NFJkUFZFSWtjZHNmTUNycUd4NnRiSjNvejFFLVRRUHFyc09XRkJoc2tIQ3liQTZDR2JNVTBJSXlEdklRZGhpUXg5OEFLMGR0TFR4SEFSX1JpZTRRUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-06-26-040",
+    "date": "2026-06-26",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How ADM’s Decatur Modernization Push and Job Commitments Have Changed Its Investment Story (ADM) - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaHJUSDVFb1J5Uklka1VFWHVyeElxaDE4OEFpa2pGT3RrdFVGbU13NW5OSVFrTzZoUW5td3JLbWhpeTNLSEMyYnk0QmRpNHBOemI1VDREZ0plb29yTFlIUlJQbEFENEVPZXUydVp1VV",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaHJUSDVFb1J5Uklka1VFWHVyeElxaDE4OEFpa2pGT3RrdFVGbU13NW5OSVFrTzZoUW5td3JLbWhpeTNLSEMyYnk0QmRpNHBOemI1VDREZ0plb29yTFlIUlJQbEFENEVPZXUydVp1VVVoOWlONWl3X2tSbXBGRVktRTFFVXNPRThzY3JBd21kRmtuSC1UdVBuV0xCbjNFNzZRYXQ5Y1UwM0o3QXZHakpTR29BZF9oblJzTzVrR3VhZ3E5c1RmWnlRVXhkbFBRRnp2c0J6SmdkRFBycTlXYzZfQ0c1NHUxdjlpd0000gHrAUFVX3lxTE5oclRINUVvUnlSSWRrVUVYdXJ4SXFoMTg4QWlrakZPdGt0VUZtTXc1bk5JUWtPNmhRbm13ckttaGl5M0tIQzJieTRCZGk0cE56YjVUNERnSmVvb3JMWUhSUlBsQUQ0RU9ldTJ1WnVVVWg5aU41aXdfa1JtcEZFWS1FMUVVc09FOHNjckF3bWRGa25ILVR1UG5XTEJuM0U3NlFhdDljVTAzSjdBdkdqSlNHb0FkX2huUnNPNWtHdWFncTlzVGZaeVFVeGRsUFFGenZzQnpKZ2REUHJxOVdjNl9DRzU0dTF2OWl3TTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-26-041",
+    "date": "2026-06-26",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial (CNH) Prices C$450M in Senior Unsecured Notes - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGtwdjFsTGZfOFhla1d4Vm9YR2FlSjBmMXlBcVVuNWJJZTYzWWUtLUJhaXV1S19PWUp6ZHhnMXR1SXZvWlVid2drUHFNejdIWjJicWxCU0tZVFZkeGpkVXMtUTFGUVpWeFJDb3A5WG",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGtwdjFsTGZfOFhla1d4Vm9YR2FlSjBmMXlBcVVuNWJJZTYzWWUtLUJhaXV1S19PWUp6ZHhnMXR1SXZvWlVid2drUHFNejdIWjJicWxCU0tZVFZkeGpkVXMtUTFGUVpWeFJDb3A5WGtKc3liYVhZSF9zUE0tZ1AwZS0yUHRrWnRocjFJbzJmcmpBX05hNVh2N19lQUs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-25-001",
     "date": "2026-06-25",
     "companies": [],
@@ -1536,6 +1815,66 @@
     ]
   },
   {
+    "id": "intrepid-2026-06-25-039",
+    "date": "2026-06-25",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash, Inc. Actuals & Estimates (LSX:A2QA6B) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPLU9mUlVnWEZHRzljR21OV2xsRUJ3bnU3QXRpSGQ5Z3l2VEI1UDhCUGMwV3UzcUV2NzFZSHBIRGlSY3hkWUF2NE1GdUVrbVkzWnFaczVYcUtmUVVjdXU2QXdJTjlCVUgyUmxKbFM0NU",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLU9mUlVnWEZHRzljR21OV2xsRUJ3bnU3QXRpSGQ5Z3l2VEI1UDhCUGMwV3UzcUV2NzFZSHBIRGlSY3hkWUF2NE1GdUVrbVkzWnFaczVYcUtmUVVjdXU2QXdJTjlCVUgyUmxKbFM0NUpXX3NJdTl4aFM0aXNlSkdycE5JVXY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-25-040",
+    "date": "2026-06-25",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Upgrades And Zacks Rank Boost Might Change The Case For Investing In Bunge (BG) - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSko4dy1nQTkwcEl1MUxKUDVDa0FwZkNmSXpWVG90S3lwTkZKeGdsZUVMbGNKa2lXYVdIT3VZMzByRC1CZ3RWMW5VcEZEQ2dtOHFuWWdqdUNRVXVWVlJMZndPdjNEcHFEaGtiMS03Sj",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSko4dy1nQTkwcEl1MUxKUDVDa0FwZkNmSXpWVG90S3lwTkZKeGdsZUVMbGNKa2lXYVdIT3VZMzByRC1CZ3RWMW5VcEZEQ2dtOHFuWWdqdUNRVXVWVlJMZndPdjNEcHFEaGtiMS03SjNQQ292cnJWc294UlZRRE5tbW1HQTR4TWhnTVJndU8wNGdRZnBveV82U2VHYUNnSFQwMklmV3NrejVoM21nQklwN0I4eExHQVhHckxJR2JFX29KdEdvYThYRENmWW10XzRjYlBQOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-06-25-041",
+    "date": "2026-06-25",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial (CNH) Short Interest & Short Float | Updated Jun 2026 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5NeElpLUpRZU92c09YZnFMMzdiR2o3Z3hzRzdtNFN3OVZ2V0lfaGFyTkZfT2VOT3dIdGh0T2ZscHZvb2tabmhBcTBDMUdVbzBVSW00M2kxa0VSQkppRXdMQzZQQVcyN29XdkE?oc=5\" ",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NeElpLUpRZU92c09YZnFMMzdiR2o3Z3hzRzdtNFN3OVZ2V0lfaGFyTkZfT2VOT3dIdGh0T2ZscHZvb2tabmhBcTBDMUdVbzBVSW00M2kxa0VSQkppRXdMQzZQQVcyN29XdkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-06-24-001",
     "date": "2026-06-24",
     "companies": [
@@ -2093,6 +2432,42 @@
       {
         "name": "oci",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV05sX29maGxrMDNieTFLLTl3ZU9PQ1QtU2plZjVfV2NwUlVtQ0ZLazFBT3FRYkxUNkFKWWtDZ0lPWWNRU3l4bmJCSXBzWVN1a0RxdE9abjZ2bE1IenVsZVZGaFdHbHEtcHZzamtUVl9JOVdEV3hQbXY4dUJWSFJiS1V6ZTQ2QVNSWEJ2NXkyM1l1R3FoeW1qNnFfdU4tbG90T19tc2otQkZsT21PaXpUWVc2cU5NRlBFcXlBVUtWZUE5NnhnRjB2akRueVZJN0VSOWFSanBXRDBrbzdwNTlSYy1OZTYwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-06-24-031",
+    "date": "2026-06-24",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Can CF Industries Protect Margins Amid Input Cost Pressure? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWl4TU1BdXZLUk9EZUdHUmZBXzdkcHZZN1E0RHFnT29SX2I2a3BGUTEzWG15REtZTHNLY21GUFZoSlBNZ2gzR3VPVXlmSUlqZF9GZmgzTUdlUF9tODI5dS04alhLam90bXQ1RXM2Sk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWl4TU1BdXZLUk9EZUdHUmZBXzdkcHZZN1E0RHFnT29SX2I2a3BGUTEzWG15REtZTHNLY21GUFZoSlBNZ2gzR3VPVXlmSUlqZF9GZmgzTUdlUF9tODI5dS04alhLam90bXQ1RXM2Sk84OG5OVGlBR1pGUVVMTHloY0VEYjRKMERNdlFOWlNqbE5lSzFhZEpXV2xFR1JfZlE5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-032",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "War-induced fertilizer shortage may be reducing US soil and water pollution - The Conversation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOejJrRjJ1YnB0X2JMbWRCSnpXSWFvcnZuWm9KNGFfaV83Und2d2pxLW1rSmhGTUVtZHNRVGo3b24ydmtvbDVQNTdyM0d0ZXlMZVpoeDllT1djQTRIbVFKeUNFazVlb19EYll1RDM3am",
+    "sources": [
+      {
+        "name": "google_news_agriculture",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejJrRjJ1YnB0X2JMbWRCSnpXSWFvcnZuWm9KNGFfaV83Und2d2pxLW1rSmhGTUVtZHNRVGo3b24ydmtvbDVQNTdyM0d0ZXlMZVpoeDllT1djQTRIbVFKeUNFazVlb19EYll1RDM3amVCdTFHVE9xanV6SmhpUDd6ajRUVWN3VldTblo2SERCd3lHRk9hMzZ0QUpFLXJ6Sks5UEtsdEZtWDRnVlNwMER3?oc=5",
         "type": "rss"
       }
     ]
@@ -3405,6 +3780,48 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVU5WEJ5ZXJGXzgtejVuLURMcXZOclQwdm5BXzJ6eThDNU5YZ0V3QU9MbFEyODVVOU13R0h2N1hRcDl3MW1YeHhfMk5pZFhSUGVWRkMwQXltRWxXVXR5ZWpMRktzU3NDZ0dVQVluS2FQZS16N0pkS2dnTEZiTUo3MWZreXlmV21PMjdJWHlvcUE3eV9QbkJxMWFoM0V6RmJndTk3SkFRY3p0OTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-22-035",
+    "date": "2026-06-22",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation announces date for second quarter 2026 earnings release and webcast conference call - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDlRaFV0SUhFSmVnU2tDT2FBc0htQlJRUnU5VHhYNHZxeVJVTjBRMlZHX1VPalRfX1lmc0tmN0pLNDN6MjV1eWV0NmowdDQzM3lNcXQ1ZW53Y0NXQ2cwY3RyVHljN3dvazM3R3liNX",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDlRaFV0SUhFSmVnU2tDT2FBc0htQlJRUnU5VHhYNHZxeVJVTjBRMlZHX1VPalRfX1lmc0tmN0pLNDN6MjV1eWV0NmowdDQzM3lNcXQ1ZW53Y0NXQ2cwY3RyVHljN3dvazM3R3liNXRfM0pDbkJKNUN0OTc5N09PaVFYQlIzdUFHdjZSVEYxd0ZSOEcxR3FVMmhQWkNiQXN4bndZMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-06-22-036",
+    "date": "2026-06-22",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation announces date for second quarter 2026 earnings release and webcast conference call - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWHFmb1U5UnQwdHU4d1Jvc0d4MlQzWjhMU3RrNkV2RUJRTENWVE5vc290UVVVRnN0TW1GbUhJQXNLWjQ5Q0lMekhsQUZhX3Z5NkUzZGhFMmQySFRxUVp0S0pGUGZEVmF1QnRIR0U3QT",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWHFmb1U5UnQwdHU4d1Jvc0d4MlQzWjhMU3RrNkV2RUJRTENWVE5vc290UVVVRnN0TW1GbUhJQXNLWjQ5Q0lMekhsQUZhX3Z5NkUzZGhFMmQySFRxUVp0S0pGUGZEVmF1QnRIR0U3QThpZlNtLW13MTNscDk0VUVhVHYwZzc3cTk1cTJRa2hDSGZsTEV2dlhPQXFHLVd1Vk50Rmd0RnBpRUdrT1NIZkxFSjIwbDVPQVJpT01uR1YwVmlsWXdtOTRCUDNPMXlJLUY0bVdham9yalRZOUk?oc=5",
         "type": "rss"
       }
     ]

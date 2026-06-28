@@ -1,0 +1,159 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:20:31.863920Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oci-2026-06-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of OCI NV – DUS:OIC - TradingView",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjg4ZWdTeDAtUGNyd2JqN2RkMThnMUhZUXpCNmpJTlp6bEEteWU1ako1dVQ0MHJpVFVfV1AtNVhocEhoUUtuN1JJVUpnQmwzakRQeG84WVRJYlBuVVVEdUtVeTdzb2hPVUVDZGJuQlg4cmZlaVZMN29UaHdreHFtLTFNSkc2MVZJMnphWFhTWVMwaVh6Vkw4ZTFpZ1A?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oci-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to book forward of OCI NV – EURONEXT:OCI - TradingView",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3RGcWU5Nm5qdGtEcm1Kemx6ajRoZjJwczZHTzVTQ25wUkxha1lUREhfZ2F5ZEF0NnNUWjlGT1FiX1FiN3NxZFN4QjA3dlQyNzQ5NU5La0o5bHliOFNlN1hxd0dwRDlWc0V0LWt6cVBLMDlPVk1WT1gtYy1jWFpPeUJ0YjhxLUFMMjB1U0d0cWZubGg1aldKNlA2aWlkdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-06-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to sales forward of Bunge Global SA Shs Cert Deposito Arg Repr 0.2 Shs – BCBA:BNG.CI - TradingView",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmRKX1dHakpDRmVNdGx6TEg1ZVNwVHd1OVZ0Vk1wNEFtWmZsR0Q2dVRkN3FNMkxlWUhtT1U1bmg1UkdkUF9laGk1TkE4WFZlVExoZmJSZnhsSW5HY3hNTzNGa1N4UkNhVWw2eFN0WTVMdkJhQTgtRE95WmtyVVpiTXViQ2tUWEdMZkhLVE1zbzZpZ1MwcGZsSXZKLUpnUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "oci",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 198,
+    "too_old": 129,
+    "gate1_blocked": 2,
+    "gate2_blocked": 22,
+    "passed": 21,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+      "Flywire and The Mosaic have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+      "CF Industries Holdings, Inc. Actuals & Estimates (NYSE:CF) - TradingView",
+      "OCI N.V. statement regarding Oceanwood Capital - OCI Global",
+      "OCI N.V. confirms receipt of unsolicited voluntary cash offer from NNS of EUR 4.10 per Share - Yahoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為OCI、Bunge相關動態：「Price to earnings forward of OCI NV – DUS:OIC - TradingView」。主要關注主題為農業產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Price to earnings forward of OCI NV – DUS:OIC - TradingView（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Price to book forward of OCI NV – EURONEXT:OCI - TradingView（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
