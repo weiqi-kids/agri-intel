@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 2,
+  "gate2_fail": 23,
+  "passed": 24,
+  "gate2_samples": [
+    "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+    "CF Industries Holdings, Inc. Actuals & Estimates (NYSE:CF) - TradingView",
+    "OCI N.V. statement on NNS - Morningstar",
+    "OCI N.V. statement regarding Oceanwood Capital - OCI Global",
+    "OCI N.V. confirms receipt of unsolicited voluntary cash offer from NNS of EUR 4.10 per Share - Yahoo"
+  ]
+}

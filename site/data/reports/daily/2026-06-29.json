@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:23:56.051362Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cnhi-2026-06-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial NV (MEX:CNHN) NonCurrent Deferred Revenue : MXN0.00 Mil (As of Mar. 2026) - GuruFocus",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDN1JPTXZxMDI5VmpWS09ael9iRl9EdHoxVk5YNTdhWmhHVFAzWmZid2UyeDRMZVI1azNla0FKV2xRZUpra21pMnk3dy11R2x6cDA4azk0amRLTW1YU2hSb1ZVb1k4VnphU25BaGJPYkh1MEl1UGdN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-29-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Supreme Court backs EPA on Roundup labels, blocking state cancer warnings",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/max-armstrong/supreme-court-backs-epa-on-roundup-labels-blocking-state-cancer-warnings"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-29-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Helpful tips to make every dairy heifer replacement count",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/dairy-cattle/helpful-tips-to-make-every-dairy-heifer-replacement-count"
+    },
+    {
+      "rank": 4,
+      "event_id": "oci-2026-06-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Update on voluntary public offer by NNS for OCI - PA Media",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlpqTmtBa2tOaWtpU3ZndGxhdmswZTRUQnRrYk9CZDZWTXhDR1F6UDlVU0VHdUs4MkdScE1LWjVYYk9mWmNNX0xTWjBGRk10bkpjRl94eHo0a3dTd04tWkFKRGxNSmFueWtxQkx1aUZlWlZmb2l3UUhrNEJjTDlab0EydXdQVXZET055RVB2bmpxNXRKZVNuNnNQVWVSaWQy?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "oci-2026-06-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBITDA forward of OCI NV – DUS:OIC - TradingView",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0h5TS01U2ZHNDZFdzMxMzltc3BhNlJYUHNQSzZrZXp5SV9sLVJSNjVzdnlLNlV0Z2hSaXRaQndSdDY3ZUt6WHJiSS1yZ2ktb1owa3dPd2s5TXZTOTVuSGNSNElhOG1ZcW5qbkVMZ3ZSeWhpQW5xU0lGaExsd01DWGI2VEFzcVZ5YzNVdWFfb0JpcExJYmNaMXV6R041aDJpSENGSHlRY3Q?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 3
+      },
+      {
+        "id": "oci",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 183,
+    "too_old": 139,
+    "gate1_blocked": 2,
+    "gate2_blocked": 23,
+    "passed": 24,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+      "CF Industries Holdings, Inc. Actuals & Estimates (NYSE:CF) - TradingView",
+      "OCI N.V. statement on NNS - Morningstar",
+      "OCI N.V. statement regarding Oceanwood Capital - OCI Global",
+      "OCI N.V. confirms receipt of unsolicited voluntary cash offer from NNS of EUR 4.10 per Share - Yahoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為CNH、OCI相關動態：「CNH Industrial NV (MEX:CNHN) NonCurrent Deferred Revenue ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "CNH Industrial NV (MEX:CNHN) NonCurrent Deferred Revenue : MXN0.00 Mil (As of...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Supreme Court backs EPA on Roundup labels, blocking state cancer warnings（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
