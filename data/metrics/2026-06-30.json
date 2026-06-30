@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-30",
+  "total_events": 13,
+  "by_company": {
+    "cf_industries": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "cnhi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 12,
+      "sentiment_avg": 0.04
+    },
+    "planting_season": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 3,
+  "gate2_fail": 29,
+  "passed": 35,
+  "gate2_samples": [
+    "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+    "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+    "Freedom Broker Turns Bullish on Mosaic (MOS), Citing Recovery in Sulfur Supply - Yahoo Finance",
+    "CF Industries Holdings, Inc. Actuals & Estimates (NYSE:CF) - TradingView",
+    "OCI N.V. statement regarding Oceanwood Capital - OCI Global"
+  ]
+}
