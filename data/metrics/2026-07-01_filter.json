@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 7,
+  "gate2_fail": 26,
+  "passed": 36,
+  "gate2_samples": [
+    "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+    "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+    "Mosaic Drops 5.5% After Morgan Stanley Maintains Equal-Weight - AlphaStreet",
+    "Freedom Broker Turns Bullish on Mosaic (MOS), Citing Recovery in Sulfur Supply - Yahoo Finance",
+    "OCI N.V. recommends the unsolicited all-cash Offer from NNS at EUR 4.10 per share. The Court-appoint"
+  ]
+}
