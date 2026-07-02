@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 7,
+  "gate2_fail": 24,
+  "passed": 42,
+  "gate2_samples": [
+    "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+    "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+    "Freedom Broker Turns Bullish on Mosaic (MOS), Citing Recovery in Sulfur Supply - Yahoo Finance",
+    "Mosaic Drops 5.5% After Morgan Stanley Maintains Equal-Weight - AlphaStreet",
+    "OCI N.V. statement on NNS - Morningstar"
+  ]
+}

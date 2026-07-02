@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-02",
+  "total_events": 16,
+  "by_company": {
+    "oci": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "fmc": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "natural_gas_feedstock": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,5 +1,317 @@
 [
   {
+    "id": "unknown-2026-07-15-001",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What happens when the farmer dies?",
+    "summary": "Register now for Farm Futures' upcoming webinar to gain expert insights on navigating tough conversations about your farm's future.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/what-happens-when-the-farmer-dies-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-07-02-001",
+    "date": "2026-07-02",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI N.V. statement regarding Oceanwood Capital - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQMTU2NXExQjc4RXRnT2dnMlA5TUowU1FPWm9IZTFlYjVua3dMRU9RaFc1Y1BrVjlYZ0ZKR1V0MFVZbDB2aXA4ODZWZ2EyeDJuMFhXMTU2NU5xcHJ1Y0FkeGxNTm1obzgxWk5idDhnQ2",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMTU2NXExQjc4RXRnT2dnMlA5TUowU1FPWm9IZTFlYjVua3dMRU9RaFc1Y1BrVjlYZ0ZKR1V0MFVZbDB2aXA4ODZWZ2EyeDJuMFhXMTU2NU5xcHJ1Y0FkeGxNTm1obzgxWk5idDhnQ24tTHMzb2FtRGxRVGx0NGxtaGJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-07-02-002",
+    "date": "2026-07-02",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI N.V. statement on NNS - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9XVTZZLVBZVjQycXNIN0JOUFZTU0JjVjQ2OWVFTUFPel9zWnFvc0V2WTU5NHp4S0xTM3ZPa08yVVVHZWxRT2dxbnY4Yk1qY0MtR05fRzZkcDlobk5jNVhBeGJrMzRLc3l3Q00wZmx5WF",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XVTZZLVBZVjQycXNIN0JOUFZTU0JjVjQ2OWVFTUFPel9zWnFvc0V2WTU5NHp4S0xTM3ZPa08yVVVHZWxRT2dxbnY4Yk1qY0MtR05fRzZkcDlobk5jNVhBeGJrMzRLc3l3Q00wZmx5WFlvNWtPWEw1ZURB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-07-02-003",
+    "date": "2026-07-02",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI board backs NNS's EUR 4.10 all-cash offer, calls extraordinary shareholder meeting - Vietnam Investment Review - VIR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2Mya0JjUDQtM1V6dTkxLXVqMkZDRGtJRjlGalloY1lpbUxpaE1JWWNmTkR5cXE0NDloWWMxOFZoVmFZWjJxLURqbC1MV1k1Tkc1T1hSazQ5ZThGNkFMa0MzYXZ2M1hsN2dJZ3I0cV",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2Mya0JjUDQtM1V6dTkxLXVqMkZDRGtJRjlGalloY1lpbUxpaE1JWWNmTkR5cXE0NDloWWMxOFZoVmFZWjJxLURqbC1MV1k1Tkc1T1hSazQ5ZThGNkFMa0MzYXZ2M1hsN2dJZ3I0cV8yUFVWaXdSU0Y2U0J1UTA2aGNfMW9XMUdESkV0a2o0VFpFVm41ZHlOTFhINlFLWVNYU290VGk0ZldCRlJuUi1mZHJNb28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-07-02-004",
+    "date": "2026-07-02",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI N : statement on NNS - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3NzRjRtbkhuRVZBUTBfaEFUV1U2RzhLSkVFWWxYRWRxVHVOTl9abFZWZU94ejVHbG0zX3ZVYW9MV3NzaTNvaVVONWxRUHBrZVRUY092X0JUWGJLa1JPaUxhWjBqelBldDdfUGRIRU",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3NzRjRtbkhuRVZBUTBfaEFUV1U2RzhLSkVFWWxYRWRxVHVOTl9abFZWZU94ejVHbG0zX3ZVYW9MV3NzaTNvaVVONWxRUHBrZVRUY092X0JUWGJLa1JPaUxhWjBqelBldDdfUGRIRUlsRkc1djJzek9ucG9mMlo1Ug?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-02-005",
+    "date": "2026-07-02",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "natural_gas_feedstock"
+    ],
+    "impact": "neutral",
+    "title": "Belgian company buys stake in chemical maker FMC Corporation - Delaware Business Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaXB4Sy0tM2JhRmFxTlV6a3NoWi1CQ3NnWk1KdTl3ZzJjd1NTeDdkMDlSSTZfMnZrSW8xRVI1S1pDUXhxZnRTSUQzdllwSU8tWTAzMUc0cTl1amhSWDRGcmRUNDBWWVNLSVZlM3ZKLT",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaXB4Sy0tM2JhRmFxTlV6a3NoWi1CQ3NnWk1KdTl3ZzJjd1NTeDdkMDlSSTZfMnZrSW8xRVI1S1pDUXhxZnRTSUQzdllwSU8tWTAzMUc0cTl1amhSWDRGcmRUNDBWWVNLSVZlM3ZKLTROWGVyRk5BOFIwUXptMWgzYlNVM1ctYzVsUU05ZUxKMkV5UVVzM1E5bVY3OHpuVTZCOTlrcUItYjhsSHRWZ1pxX2h6cTZYcUFMWUxsYWhPUjdXMXpsVlRMT0JmMnE0QkFJNmdkZktwVFhhYlFCYnIyQl9qSmNKTTFSWDRlQ2xvOG15SmNoTzBj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-02-006",
+    "date": "2026-07-02",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "natural_gas_feedstock"
+    ],
+    "impact": "neutral",
+    "title": "FMC Reaches Agreement For $400 Million Minority Equity Investment From Tessenderlo Group - Pulse 2.0",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2R2eDg4c2RKcUJOdFpBNm5MVnZhRUlic3RqMlpINDJ4SHd0Z3R6NlpFRTk1cEYteHBwaUdUSk9kTWxFRmk4SHdlMUpLcmdsTjh4RHo5Yl96Y1JGWlVJR2hIVmd5STRlQmxjTEo0WV",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2R2eDg4c2RKcUJOdFpBNm5MVnZhRUlic3RqMlpINDJ4SHd0Z3R6NlpFRTk1cEYteHBwaUdUSk9kTWxFRmk4SHdlMUpLcmdsTjh4RHo5Yl96Y1JGWlVJR2hIVmd5STRlQmxjTEo0WVkwWVV4djh0ajYyS2dtTFNoSDVhQ2tuRkhCVllQN28tNFJzcWx2NTlHdWRYWkJrQWpSWnc4N3ZFUTBlM3PSAbABQVVfeXFMTzdWVDJZSnRKbEFsakdYM0xqR0cwdWVwWXFrckpjS2c0SWlvWDJBNXVqSy1fa0FNbEVsQzhNSjFpdWM4cm80ajNEUHB1ZXFwdW1wVXF5Zi1DdzJ1U3RqQm8tbVExeVF4aHlVTFRBZFRWY1UzbzlyZWpfVlNkaHViYnUzd3d2dTBoRE0teXZOSGhKOWxOcmxWRUprSDlvMTRMRWsxcFNjMFItZ0ktdFZPWlg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-02-007",
+    "date": "2026-07-02",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "FMC locks in $400 million strategic investment from Tessenderlo to accelerates debt overhaul - Indian Chemical News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOVpmbVZBMkhiZlA4a1RyRzZqM2RRRnEzRFBLM3kteUZGTmZUVXUxZ3AyZ1dTWGhWeFJNS1F3V0NxZ2x1eUl4ZGNxRjY5NjdCYWtnUGhJTkk1TzdTUWNoQWVwOEZhcG5PcndUOWNaR3",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOVpmbVZBMkhiZlA4a1RyRzZqM2RRRnEzRFBLM3kteUZGTmZUVXUxZ3AyZ1dTWGhWeFJNS1F3V0NxZ2x1eUl4ZGNxRjY5NjdCYWtnUGhJTkk1TzdTUWNoQWVwOEZhcG5PcndUOWNaR3Jma2FfSDJrRXF4NkdtOTJiQWp3bHZQUmZsRk91UkU1b3RUWGZ0MklwVVcxYmtKbUlqMTFoMmJTNks0bWllNjA1cERweUh3TlFuV08wbmEzRDVCT0UwS2owdHEzY2hodXI1aHliTnR1WGLSAd8BQVVfeXFMT1BkcVVNUjhGSl91M0Q5amhJdTZFR2lPczdVMG9tSjJCOVJSYWJ0Sk9hNmZJckxiZ2d6X3U3LUVWVzJad2Q3d2NxR0U0ZTVYUF9Wb0lOUTQ3S3hGYkR1WTZRWmpxdE9tNm5VV1FJQngyVXZ2RklrVjMzdHo2Sm1Mc3MwNlIxdzAycGFUeV94YXFPLVFxSHRvdnM0cnlYN1ZFc2p1QzVlYjdxRGhtX2dVM2Q1d1d0T2J4SkQxTUZYM01sLUlpZnVnX2cyVy01WE9XUkFBY0pzQ2hia0VOa3QtZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-008",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Manufacturing Stocks That Could Benefit If North American Trade Rules Tighten - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUVFYQ2tuQnhzbHVKXzZfMWYxcm9yLUdaTENKQ19KNkk4U0hsUDZMbUliZXBjWXYyOHZlV0haS1pRa2l5TEZqMkRWQzZwWnF4UzY2ZzBhZjc0dGlqUGhWV2pCRVVqdHR4ZzJISHNHVE",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUVFYQ2tuQnhzbHVKXzZfMWYxcm9yLUdaTENKQ19KNkk4U0hsUDZMbUliZXBjWXYyOHZlV0haS1pRa2l5TEZqMkRWQzZwWnF4UzY2ZzBhZjc0dGlqUGhWV2pCRVVqdHR4ZzJISHNHVE1CMmprUTlVWGxnVmJqemc4WnY0T2FtZWZ3dkF4QjBPQnlLTXVVQjVMNXE3OXFtUGZQNHd6SzV3dXNIVHdYODZoaWhOMV9JZHZPRVdCVFhRMjFxM01INm9nQU5vQVB0NWpkT1FiSkFR0gHWAUFVX3lxTE1RUVhDa25CeHNsdUpfNl8xZjFyb3ItR1pMQ0pDX0o2SThTSGxQNkxtSWJlcGNZdjI4dmVXSFpLWlFraXlMRmoyRFZDNnBacXhTNjZnMGFmNzR0aWpQaFZXakJFVWp0dHhnMkhIc0dUTUIyamtROVVYbGdWYmp6ZzhadjRPYW1lZnd2QXhCME9CeUtNdVVCNUw1cTc5cW1QZlA0d3pLNXd1c0hUd1g4NmhpaE4xX0lkdk9FV0JUWFEyMXEzTUg2b2dBTm9BUHQ1amRPUWJKQVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-009",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Key takeaways from late-season soybean scouting",
+    "summary": "Soybean Corner: Scouting is valuable at any time in the growing season. Continue scouting up until harvest to prepare for next season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/key-takeaways-from-late-season-soybean-scouting",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-010",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GPS tags offer a low-cost option for cattle tech",
+    "summary": "High-tech tags provide ranchers with data on cattle location, estrus, health and more.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/gps-tags-offer-a-low-cost-option-for-cattle-tech",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-011",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Find the right semitruck mechanic for your farm",
+    "summary": "When you need your semi rolling down the road, the last thing you want is to wait indefinitely for repairs.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/find-the-right-semitruck-mechanic-for-your-farm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-012",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Excessive rainfall challenges Mississippi peanut planting",
+    "summary": "Field Check: Mississippi farmer optimistic about peanut yields despite challenging wet season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/peanut/excessive-rainfall-challenges-mississippi-peanut-planting",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-013",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ranchers get boost from Nebraska Beef Passport",
+    "summary": "Learn about Nebraska meat processors and restaurants on this year’s beef passport map.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock/ranchers-get-boost-from-nebraska-beef-passport",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-014",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmers are farmers, no matter where you go",
+    "summary": "From cattle breeds to crop varieties, touring a Portugal farm 4,000 miles away revealed the universal truths that unite agriculture across continents.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/farmers-are-farmers-no-matter-where-you-go",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-015",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "10 farm inventions that built a nation over 250 years",
+    "summary": "Slideshow: From Thomas Jefferson’s wooden plow to artificial intelligence, these groundbreaking innovations revolutionized U.S. agriculture and shaped America’s rise to global power.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/10-farm-inventions-that-built-a-nation-over-250-years",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-016",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn harvest demonstration fields at HHD look good in midseason",
+    "summary": "Field Check: The fields were planted April 14 and are in good shape despite storms rolling through the region.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/corn-harvest-demonstration-fields-at-hhd-look-good-in-midseason",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-01-001",
     "date": "2026-07-01",
     "companies": [],
@@ -346,6 +658,405 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-business/farmland-sales-hold-steady-across-nebraska",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-07-01-020",
+    "date": "2026-07-01",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien Spotlighted on Canada Day as Global Ag Leader - Farms.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTZ1TC00Q3gtcnpIRzVmejdzM0pzYWNfQlkzSi1ja2ZsOUdNcV9idFhHalJOTTNsbDc2bm5kNFVNdjZqZktYdEtJUWx1ZTlsQVloVGdkel9ZNWMwcWRES0hBWHlYUk81al8zNG9HQz",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTZ1TC00Q3gtcnpIRzVmejdzM0pzYWNfQlkzSi1ja2ZsOUdNcV9idFhHalJOTTNsbDc2bm5kNFVNdjZqZktYdEtJUWx1ZTlsQVloVGdkel9ZNWMwcWRES0hBWHlYUk81al8zNG9HQzk3YlNuODVvZ1VwdE5aemFFakdVOXA5U044NEczMk1GcGp6VW9ING1NSmhndXY0SThhejI4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-07-01-021",
+    "date": "2026-07-01",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Company helps the world grow the food it needs. Segment sponsored by The Mosaic Company - wtsp.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPamRCeEtmemJ2RjFiS3RPU2hmVHhsVUZtZkVTdHFsRnBoZ3h0VDRQb182My1CM0tmdTVONTFBa3labnlINFVxQl96RDVONVNvSllvUmh4R3A2S1JpdUtjZ1RVVURZZmpHczZvM3lLTF",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPamRCeEtmemJ2RjFiS3RPU2hmVHhsVUZtZkVTdHFsRnBoZ3h0VDRQb182My1CM0tmdTVONTFBa3labnlINFVxQl96RDVONVNvSllvUmh4R3A2S1JpdUtjZ1RVVURZZmpHczZvM3lLTFRTQXphaVloMUlKbFd5elBxLU5rakJSeWdxZkNDTmkxY2szVHRfN0ZJa1NMdlRwdjk0SXlFcmtram9IWTVzT3R0Z2tUOVprRG9SYzFCVGVPZzJwRWl0TXFDS1dwYmJTbFA3aGZDX3cxTnFrb2hrSWZzZFI4RGRsUTMtX3o0WHZaUHVVV3hzTVEzemwxZE0wZEN2aV9UUW1oazhReDhHUWVlX3hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-07-01-022",
+    "date": "2026-07-01",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic (MOS) Has a Low-Cost Potash-and-Phosphate Platform Bigger Than a Fertilizer-Cycle Trade - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkRpSm1VRzFkRDVkV29RTjFtX2w2amF3bXdfUGh6dE1SRk1PV1hBNDJpWEptNjVKUlE3VnJIUE52eW5lckwzRWVGSVRYSnJ5V2kyZ3NWZzZ2SGpaeEgwZ3NjWkF1bDkwbWNLQ0lGQj",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkRpSm1VRzFkRDVkV29RTjFtX2w2amF3bXdfUGh6dE1SRk1PV1hBNDJpWEptNjVKUlE3VnJIUE52eW5lckwzRWVGSVRYSnJ5V2kyZ3NWZzZ2SGpaeEgwZ3NjWkF1bDkwbWNLQ0lGQjc3U1pnMmtuZGxjQ0RxY0gzb1lkeDU0UWRyc0dfQm9MV3k1MVE4U0lLZzAyQVFRVml0dWpkbmFISnZKSTVGcVRtT2lmRGpUUFMxUEVZT3lfM2x5aWhH0gHEAUFVX3lxTE1WRGlKbVVHMWRENWRXb1FOMW1fbDZqYXdtd19QaHp0TVJGTU9XWEE0MmlYSm02NUpSUTdWckhQTnZ5bmVyTDNFZUZJVFhKcnlXaTJnc1ZnNnZIalp4SDBnc2NaQXVsOTBtY0tDSUZCNzdTWmcya25kbGNDRHFjSDNvWWR4NTRRZHJzR19Cb0xXeTUxUThTSUtnMDJBUVFWaXR1amRuYUhKdkpJNUZxVG1PaWZEalRQUzFQRVlPeV8zbHlpaEc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-023",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India Monsoon Shock Puts Global Food Exporter Stocks In Focus - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNzc1X1RBZkdBbnBDYjkxZTJnZTdfTmZ5R1dmVEI0SHhZVWY5RW8yNWcyN1hrTG55bHZvbU1YbmZXZVFpYUw4eU55VlJXQkNkUG9JNmszTkh1b0JaNmUyU3Y5NkJBSTREeW85eVo1cl",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNzc1X1RBZkdBbnBDYjkxZTJnZTdfTmZ5R1dmVEI0SHhZVWY5RW8yNWcyN1hrTG55bHZvbU1YbmZXZVFpYUw4eU55VlJXQkNkUG9JNmszTkh1b0JaNmUyU3Y5NkJBSTREeW85eVo1cllCcXdWNTMyS0RsY2xFYlFHM19HTzFodFhvVGdfcmJzRW1NZk56WkJRUC1zZHBJM3E3R2cwSmZIOS1SRVVhTVdGV1NNY0lqdFNzNElBYy1MVU9wb1JRSXI2QXREVkJmYXJiSHVIUzE0UHYza2tjcVEzRVE3MmxNNkEwemRr0gHrAUFVX3lxTFA3NzVfVEFmR0FucENiOTFlMmdlN19OZnlHV2ZUQjRIeFlVZjlFbzI1ZzI3WGtMbnlsdm9tTVhuZldlUWlhTDh5TnlWUldCQ2RQb0k2azNOSHVvQlo2ZTJTdjk2QkFJNER5bzl5WjVyWUJxd1Y1MzJLRGxjbEViUUczX0dPMWh0WG9UZ19yYnNFbU1mTnpaQlFQLXNkcEkzcTdHZzBKZkg5LVJFVWFNV0ZXU01jSWp0U3M0SUFjLUxVT3BvUlFJcjZBdERWQmZhcmJIdUhTMTRQdjNra2NxUTNFUTcybE02QTB6ZGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-01-024",
+    "date": "2026-07-01",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's Why You Should Retain CF Industries Stock in Your Portfolio - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0dOYkJtMlBQQUo0dnAtQy1Nb0tnMEFGOVpOLWYzYk1ITG03TkhqSXFDZDRXbGlBcTZvOEJXaHFLUUhsa2oxa0E5ME96c3U4encyc3M1VGNKeFEzOTlLRVBWM0IyTUNSd1BPWFV4Tk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0dOYkJtMlBQQUo0dnAtQy1Nb0tnMEFGOVpOLWYzYk1ITG03TkhqSXFDZDRXbGlBcTZvOEJXaHFLUUhsa2oxa0E5ME96c3U4encyc3M1VGNKeFEzOTlLRVBWM0IyTUNSd1BPWFV4TkxfYXN6el9tSUpsbEFlZ2NfOGtTZm03Mm8yQXB6MzdEMXlPMGFiTjZkLXVLWXByOFFCVmFBUnVsajgyUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-025",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Update on U.S. ammonia project and capital allocation - WebWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UdVNqMmExN0hqeGV3SzhNQTN5OXpnNEY0bEhJcS1tNXdwR1l1TFR1RjAyUHY3ZGZnUll3TWdXblh6NmNoWFNybHNnWnFhYlZ6NXB0WjhxMUw0WW1rdzlQaQ?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UdVNqMmExN0hqeGV3SzhNQTN5OXpnNEY0bEhJcS1tNXdwR1l1TFR1RjAyUHY3ZGZnUll3TWdXblh6NmNoWFNybHNnWnFhYlZ6NXB0WjhxMUw0WW1rdzlQaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-01-026",
+    "date": "2026-07-01",
+    "companies": [
+      "yara"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "APD Exits LCEC Project, Finalizes NEOM Green Hydrogen Deal With Yara - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXpOay1vVFg1eGFYcklkbGRYYWVKN0hrS3BmckRhaTBnczgxVWJrV0VzYS1vdGdySmUwNEFzMmI0aDB3VFRSdTFieTJSZklzdTM5cklVOWJJdWpTaGMtV0JwZ3ZUREZ4VkFXeC1EY3",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXpOay1vVFg1eGFYcklkbGRYYWVKN0hrS3BmckRhaTBnczgxVWJrV0VzYS1vdGdySmUwNEFzMmI0aDB3VFRSdTFieTJSZklzdTM5cklVOWJJdWpTaGMtV0JwZ3ZUREZ4VkFXeC1EY3E0ck9PZTZaelMwRkNUVWh6bnkwTm9JTHhJYVNQbUdIeGo3dlZRWmdlZmozVDhCTW9RbnRiUGdLa2FhMTVoZks5OUowekE3STJuTjF4cmVJQUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-01-027",
+    "date": "2026-07-01",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will Yara’s NEOM Ammonia Deal and LCEC Exit Redefine Its Capital Discipline Story (OB:YAR)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVEpER0NQTXlzM01tZlh6dHozZXFBTWlJVGl3dUlHeXcwdjY3LTV4U3NNZExGSS1mdFRRcU5ablRNMGRfRGZiR0JrdHNQZDZoNF9XSWNmYjF2YW9wbkIzTzAxVHRLQWlSaVlVVzV4NE",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVEpER0NQTXlzM01tZlh6dHozZXFBTWlJVGl3dUlHeXcwdjY3LTV4U3NNZExGSS1mdFRRcU5ablRNMGRfRGZiR0JrdHNQZDZoNF9XSWNmYjF2YW9wbkIzTzAxVHRLQWlSaVlVVzV4NE5nenIzY1lYS2Y5NHBlbVljZko3QmxFN0V4dnpPZDBvaHlxUkxUZ3ExWDZmWHZvR3YwdVdFT1hSYjZfM2x0V0JnejNGYnE1S1JqaXlSdUNrMV81bERsaC1lVUhQTU82N3JXNjl2dldJdDBmMmRC0gHcAUFVX3lxTE5USkRHQ1BNeXMzTW1mWHp0ejNlcUFNaUlUaXd1SUd5dzB2NjctNXhTc01kTEZJLWZ0VFFxTlpuVE0wZF9EZmJHQmt0c1BkNmg0X1dJY2ZiMXZhb3BuQjNPMDFUdEtBaVJpWVVXNXg0Tmd6cjNjWVhLZjk0cGVtWWNmSjdCbEU3RXh2ek9kMG9oeXFSTFRncTFYNmZYdm9HdjB1V0VPWFJiNl8zbHRXQmd6M0ZicTVLUmppeVJ1Q2sxXzVsRGxoLWVVSFBNTzY3clc2OXZ2V0l0MGYyZEI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-07-01-028",
+    "date": "2026-07-01",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Debut Corteva Premix Protects Against Soybean’s Biggest Early-Season Threats - SeedWorld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE03YjlUTUtVZDAxT25RS054X3FCTXhNeFltbGQ3UzhuNVRPUGRubkFRaTFKNC05N254NU1BeHJsZkNKQXNrbW8yWERZaWtfY0tWbWl0NDNMWHF1NFFSMjB2UVE2MHV2MzNNcUNQdmdJWV",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03YjlUTUtVZDAxT25RS054X3FCTXhNeFltbGQ3UzhuNVRPUGRubkFRaTFKNC05N254NU1BeHJsZkNKQXNrbW8yWERZaWtfY0tWbWl0NDNMWHF1NFFSMjB2UVE2MHV2MzNNcUNQdmdJWVlGbGxVbzE0cHlidk5Vdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-029",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Young Leaders Program for Soybean Farmers - Farms.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOekZsQ0RZZVFtRmlXMXI3bWdac2U4RlI2eEJNN0lrQkJKUEU0UHZucUlyemEwNkVIR1l5anRuUzBpbjg2SXlIdzZlQV9qdk5GQndzYzRsWEYybzhPcllqclJ6THlqRS0yMFB6Z2s1Uz",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekZsQ0RZZVFtRmlXMXI3bWdac2U4RlI2eEJNN0lrQkJKUEU0UHZucUlyemEwNkVIR1l5anRuUzBpbjg2SXlIdzZlQV9qdk5GQndzYzRsWEYybzhPcllqclJ6THlqRS0yMFB6Z2s1UzV1UENEaEgtRmpRT2syTE1hT0xfLVpQdk1DeFVXajBaQTFzSGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-07-01-030",
+    "date": "2026-07-01",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farm Hands on the Potomac: Olivia Bridges joins Agri-Pulse team, Corteva announces boards of directors, Donna Garren appointed to FDA role - Agri-Pulse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQU1Q4Vk9lNXNpQ0tTbGtlYk5EaVlFcHoyRTZaZHVLVWRhcU8ydTFqZjdfaEg4ZlNRQnZCdUNlQWJSNDY1RlliTlU1ZmtyZ3N1Rkc0WDlsOUdGa0w3dC1aR0dKSWZ1RmFyRWNDaEgwOV",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQU1Q4Vk9lNXNpQ0tTbGtlYk5EaVlFcHoyRTZaZHVLVWRhcU8ydTFqZjdfaEg4ZlNRQnZCdUNlQWJSNDY1RlliTlU1ZmtyZ3N1Rkc0WDlsOUdGa0w3dC1aR0dKSWZ1RmFyRWNDaEgwOVlrc0JlMUo5UENaeVRVdGtlN1c5NmJPRVRJWkFKMENWdEZPV3FOb0hWdTlHTkk4am9VM1JMc0g5bjFRN3dBRTI4Y09heDBhYnpRQ1k0am45M2FZclpBcWlSVEV4NWQ1UUJaa0JVN21QN3ZDa0dTRUJ3SEpMQm1Ca28zekJtTmVORGFlSFgzcThvTEhKRXRVbEdZMFROc1N3eUo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-07-01-031",
+    "date": "2026-07-01",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Stronger Start: Debut Corteva Premix Protects Against Soybean’s Biggest Early-Season Threats - SeedWorld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5VNlcxV25nWXdZVjd3NG8wTlRqOUR3U3VsN29ESUpsYm5JR1Z4eHAxMmhDVlE3Z0FMMEJjcnc4MWtCRjVUV21aSXh3Q1NqcTRRLU1WbmhXbGIxa0NzS1FDUTNPVGxuN3pqMW1zMThSWF",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VNlcxV25nWXdZVjd3NG8wTlRqOUR3U3VsN29ESUpsYm5JR1Z4eHAxMmhDVlE3Z0FMMEJjcnc4MWtCRjVUV21aSXh3Q1NqcTRRLU1WbmhXbGIxa0NzS1FDUTNPVGxuN3pqMW1zMThSWFUwNURFM196eE12SEFrUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-01-032",
+    "date": "2026-07-01",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC shares surge after Tessenderlo agrees to acquire 20% stake (FMC) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlJ5UlpPZ0lXU0dZSC1PanRZeWVZSmxnTDB0bFhRcU55aHJYS0stT0lUWmFNT2JaTkFHUGljMHl6YmdVdVBpWnA3N2FIaS1CWlZ1RFlyT3l2WGpueXZRSE0tTjhITU96RXF1c2lFZF",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlJ5UlpPZ0lXU0dZSC1PanRZeWVZSmxnTDB0bFhRcU55aHJYS0stT0lUWmFNT2JaTkFHUGljMHl6YmdVdVBpWnA3N2FIaS1CWlZ1RFlyT3l2WGpueXZRSE0tTjhITU96RXF1c2lFZFM2YzBNRVVZejBYYW10d1VMZmdkMnAtMTRYTmFRSVhjR0NVdGU3SDFya1VraUNYVEZkVmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-01-033",
+    "date": "2026-07-01",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tessenderlo Group to Take 20% Stake in FMC in $400 Million Deal - thedailyscoop.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnljWVAwMVBCWXFNRmc5S01NX0RLN3NENUEweDM2bVo3SjdTaFdFZDBIVldjYXVJRjN6TTZLaEhnTzRmOXlCWnY0LVBqSWJVV01LNkdnVWRGRF9fM2ZKY0Y1d04yNXduMHRyVllYc0",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnljWVAwMVBCWXFNRmc5S01NX0RLN3NENUEweDM2bVo3SjdTaFdFZDBIVldjYXVJRjN6TTZLaEhnTzRmOXlCWnY0LVBqSWJVV01LNkdnVWRGRF9fM2ZKY0Y1d04yNXduMHRyVllYc05OcUR5ZUhVVVU5STIzQW5CNGY3djF1Y0tWQmNUeU45NU53RlZyQkxpZ1FmNlZ6REZaRWtkelFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-01-034",
+    "date": "2026-07-01",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tessenderlo Group Secures $400 Million Investment In FMC Corporation - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcE82M1dsTVRoLWJjc3BVb09VdTNYVVRVV0JtcGFzWlU5VG85RmpkUkVaalVIOHR3MEttaXd3aFdjMVR4WWFQc21qc1o2ZjE0QktLeEljakh4LUlGR2QyRFJoUzJhUXliMXNBU1lJb3",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcE82M1dsTVRoLWJjc3BVb09VdTNYVVRVV0JtcGFzWlU5VG85RmpkUkVaalVIOHR3MEttaXd3aFdjMVR4WWFQc21qc1o2ZjE0QktLeEljakh4LUlGR2QyRFJoUzJhUXliMXNBU1lJb3lsa0loWkUyTkYxV2pTUzg5MnhiNmJ2MjNQWTZoMldjSlE2WmZLdENjQ1d4OXMtT2VhVWFtNUpVRFdwZTdtUVotZHRIaVZkUFNIWGRXTllEX09HZWI2Nnd4ano2Z1JLZl93Wldr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-01-035",
+    "date": "2026-07-01",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation: Upside From A New Shareholder (Rating Upgrade) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMURJSHJxdVZ5M3Zaanp0T0xIajhTT2NfM1hGUHJlTGFjeFQ5STJpMXgwT1NMSVRRbHpLLUdHWVoyTmZBTGhkMUNBN2I4WnVtYVdlOUItSTdKa0NpNjJLRnltVGNGaUNvYVFxRGJ4UG",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMURJSHJxdVZ5M3Zaanp0T0xIajhTT2NfM1hGUHJlTGFjeFQ5STJpMXgwT1NMSVRRbHpLLUdHWVoyTmZBTGhkMUNBN2I4WnVtYVdlOUItSTdKa0NpNjJLRnltVGNGaUNvYVFxRGJ4UGM0VDJ4cVdhT0dpLTNaNV9RTmcydWtUem9YWldoZDFBVHd3Sjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-036",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Widespread heatwave keeps corn, soy prices green",
+    "summary": "Afternoon Market Recap: Winter wheat prices also moved noticeably higher in midweek trading.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-037",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tar spot has arrived: Brace for more any day",
+    "summary": "This year, the first tar spot case in Illinois was reported in Clark County on June 26 through the Crop Protection Network. Here’s what one agronomist expects to see next.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/tar-spot-has-arrived-brace-for-more-any-day",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-038",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Welcome to July: ‘We are now a weather market’",
+    "summary": "Morning Market Analysis: Corn and soybean futures extended Tuesday’s post-USDA gains overnight as market focus shifts to Midwest weather.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-039",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Senate bill aims to strengthen local food supply chains",
+    "summary": "Farm Progress America: Bipartisan legislation would create regional food hubs and permanent funding to help small and mid-sized farmers access new markets.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/senate-bill-aims-to-strengthen-local-food-supply-chains",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-040",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "July heat, dry periods threaten corn pollination",
+    "summary": "Ag Marketing IQ In Depth: El Nino pattern brings dry spells during pollination, but frequent September rains and mild fall support average to above-average yields, AccuWeather says.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/july-heat-dry-periods-threaten-corn-pollination",
         "type": "rss"
       }
     ]
@@ -780,6 +1491,26 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-policy/trump-suspends-morocco-fertilizer-duties-to-cut-farmer-input-costs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-06-30-024",
+    "date": "2026-06-30",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BMO Capital Adjusts Price Target on CF Industries to $135 From $140, Maintains Outperform Rating - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQLVlUdnB4dktZLWwwdEcwMDZSSWRNNFZxcHZteFM5Qk9pMHloNm5ZbVBac1VXUkR6d1NaUUNxRTU2dE83VHZpVlVtRGJ5SFZUUFZDRmo0ZGtCY0Y4eFB4YjJjVUtIM3BCbjJwMXAzUk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLVlUdnB4dktZLWwwdEcwMDZSSWRNNFZxcHZteFM5Qk9pMHloNm5ZbVBac1VXUkR6d1NaUUNxRTU2dE83VHZpVlVtRGJ5SFZUUFZDRmo0ZGtCY0Y4eFB4YjJjVUtIM3BCbjJwMXAzUkFsWlhKaG9JbmpRUTlhRDAzODRiMFVNQzhTV3p0OWlKZDlvVDlkNGUtQ1ZaeW1LTzA?oc=5",
         "type": "rss"
       }
     ]
@@ -1466,6 +2197,26 @@
     ]
   },
   {
+    "id": "cnhi-2026-06-29-037",
+    "date": "2026-06-29",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial NV Stock Operating Data - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HN2p4VVZ4aTlZY2dwaWl4OXdrSmxvNHJ3Z2RKTVpaMlJwOWR3Z1FueWp6S2ZhZlR4anZXUFBMU05ncVlEb2J0emVoMGI1SjNzUFhJOTAyUmpTU0lhM1E0?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HN2p4VVZ4aTlZY2dwaWl4OXdrSmxvNHJ3Z2RKTVpaMlJwOWR3Z1FueWp6S2ZhZlR4anZXUFBMU05ncVlEb2J0emVoMGI1SjNzUFhJOTAyUmpTU0lhM1E0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "oci-2026-06-28-001",
     "date": "2026-06-28",
     "companies": [
@@ -1563,6 +2314,26 @@
       {
         "name": "oci",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDNDbmp6WlZjdnBlN2FRN01TVjllYkVKaXBzc2NjOUtWOVVlekUwYWgxY1YtVVZqdXMyZVF2VmxSZm9DNUVCZjRSdkFNOTktb05makVJVlYtdG1ESGkxOEEzTnk1VWhPdWUySDYzZ0tSczB0RmZ2LXpTZVRjS2haMm9VY3FZa1JGVFFvOGg5Nm9OQ3MtNmkzN0VuVkNHZ1VpU3pj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-28-006",
+    "date": "2026-06-28",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Bunge Global SA Shs Cert Deposito Arg Repr 0.2 Shs – BCBA:BNG.CI - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2hXaFlnazRFMy1vbTN6ZEhaYUw2YUNWY2RabC1NU2VjZW13MlNwT1BfRjUycnJvM1UwNTNLRHkxQVZ4d0wxMGZhbEdGZFJXYWVHYWpTQmRXVnhrYks0Y1JNd2F5bnc4Zi1abl9LZn",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2hXaFlnazRFMy1vbTN6ZEhaYUw2YUNWY2RabC1NU2VjZW13MlNwT1BfRjUycnJvM1UwNTNLRHkxQVZ4d0wxMGZhbEdGZFJXYWVHYWpTQmRXVnhrYks0Y1JNd2F5bnc4Zi1abl9LZnJyamNTcWhIby1yTnkyMGhpckdYWEhBakJoQmFON0J0TlQ1R3BqWk5xd2tUenB1RmNrSzdhWkFreXV5RHFW?oc=5",
         "type": "rss"
       }
     ]
@@ -3636,6 +4407,26 @@
       {
         "name": "fmc",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNenVUekN2RGstZ2ZuNGlIT2loQ1lXX3FKVjF3bnZOZS1PM1piMlphMTdnLU53R0VwVGd5blFxbmg0dU5RcWFqREVKTkdIengwcGdGMzNHLUoyZEpFYUlSQ09TSGJqajVSeG1UcDNlWDJhNHM3U1g2bDNXdFNMeHNXejR4U2pWQmFxbGxvSGRlc2dUNmlYcmpfV0k5eE1VZGlfeENqMFJlZkw4QjVYR0VJUnBCSHRaU21QalF3SVlFS3J5WEo3SFJxY2wxemhpVFVGYjFFbDNZa2NIZVRLWDhkNWNoV2hxeWVPQTBuVVp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-06-25-046",
+    "date": "2026-06-25",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global Stock Plummets -14% With 7-Day Losing Streak - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTm8wRWptQkhpNnpmTm1Xc0xHVDgxX0hwSGl4NkI5NzNvQU1CbjZUREdVS3hYMWhRZXFIZ0QwMEVSSzV3Mm1iaWJhNDY2TUJKZzRvRExyQ3BQUFI4a3JkNFM5Zi04eU0zU3FtWmVEVn",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTm8wRWptQkhpNnpmTm1Xc0xHVDgxX0hwSGl4NkI5NzNvQU1CbjZUREdVS3hYMWhRZXFIZ0QwMEVSSzV3Mm1iaWJhNDY2TUJKZzRvRExyQ3BQUFI4a3JkNFM5Zi04eU0zU3FtWmVEVnpiUERlZUtNeUxoUTR4dV95eTRqam1HRGxzRVZsX043dTJMREZSQ3FteGw4S0plbVUzdjZBbWo1UU5pWjIyWDRRU1c2U3k?oc=5",
         "type": "rss"
       }
     ]

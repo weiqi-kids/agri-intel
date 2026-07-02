@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:28:22.370790Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oci-2026-07-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI N.V. statement regarding Oceanwood Capital - Yahoo Finance Singapore",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMTU2NXExQjc4RXRnT2dnMlA5TUowU1FPWm9IZTFlYjVua3dMRU9RaFc1Y1BrVjlYZ0ZKR1V0MFVZbDB2aXA4ODZWZ2EyeDJuMFhXMTU2NU5xcHJ1Y0FkeGxNTm1obzgxWk5idDhnQ24tTHMzb2FtRGxRVGx0NGxtaGJn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oci-2026-07-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI N.V. statement on NNS - Yahoo Finance Singapore",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XVTZZLVBZVjQycXNIN0JOUFZTU0JjVjQ2OWVFTUFPel9zWnFvc0V2WTU5NHp4S0xTM3ZPa08yVVVHZWxRT2dxbnY4Yk1qY0MtR05fRzZkcDlobk5jNVhBeGJrMzRLc3l3Q00wZmx5WFlvNWtPWEw1ZURB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oci-2026-07-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI board backs NNS's EUR 4.10 all-cash offer, calls extraordinary shareholder meeting - Vietnam Investment Review - VIR",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2Mya0JjUDQtM1V6dTkxLXVqMkZDRGtJRjlGalloY1lpbUxpaE1JWWNmTkR5cXE0NDloWWMxOFZoVmFZWjJxLURqbC1MV1k1Tkc1T1hSazQ5ZThGNkFMa0MzYXZ2M1hsN2dJZ3I0cV8yUFVWaXdSU0Y2U0J1UTA2aGNfMW9XMUdESkV0a2o0VFpFVm41ZHlOTFhINlFLWVNYU290VGk0ZldCRlJuUi1mZHJNb28?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "oci-2026-07-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI N : statement on NNS - marketscreener.com",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3NzRjRtbkhuRVZBUTBfaEFUV1U2RzhLSkVFWWxYRWRxVHVOTl9abFZWZU94ejVHbG0zX3ZVYW9MV3NzaTNvaVVONWxRUHBrZVRUY092X0JUWGJLa1JPaUxhWjBqelBldDdfUGRIRUlsRkc1djJzek9ucG9mMlo1Ug?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fmc-2026-07-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Belgian company buys stake in chemical maker FMC Corporation - Delaware Business Now",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "natural_gas_feedstock"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaXB4Sy0tM2JhRmFxTlV6a3NoWi1CQ3NnWk1KdTl3ZzJjd1NTeDdkMDlSSTZfMnZrSW8xRVI1S1pDUXhxZnRTSUQzdllwSU8tWTAzMUc0cTl1amhSWDRGcmRUNDBWWVNLSVZlM3ZKLTROWGVyRk5BOFIwUXptMWgzYlNVM1ctYzVsUU05ZUxKMkV5UVVzM1E5bVY3OHpuVTZCOTlrcUItYjhsSHRWZ1pxX2h6cTZYcUFMWUxsYWhPUjdXMXpsVlRMT0JmMnE0QkFJNmdkZktwVFhhYlFCYnIyQl9qSmNKTTFSWDRlQ2xvOG15SmNoTzBj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "natural_gas_feedstock": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "oci",
+        "count": 4
+      },
+      {
+        "id": "fmc",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 174,
+    "too_old": 122,
+    "gate1_blocked": 7,
+    "gate2_blocked": 24,
+    "passed": 42,
+    "pass_rate": "21.5%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+      "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance Australia",
+      "Freedom Broker Turns Bullish on Mosaic (MOS), Citing Recovery in Sulfur Supply - Yahoo Finance",
+      "Mosaic Drops 5.5% After Morgan Stanley Maintains Equal-Weight - AlphaStreet",
+      "OCI N.V. statement on NNS - Morningstar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為OCI、FMC相關動態：「OCI N.V. statement regarding Oceanwood Capital - Yahoo Fi...」。主要關注主題為農業產業通用、天然氣原料、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "OCI N.V. statement regarding Oceanwood Capital - Yahoo Finance Singapore",
+        "level": "green"
+      },
+      {
+        "text": "OCI N.V. statement on NNS - Yahoo Finance Singapore",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
