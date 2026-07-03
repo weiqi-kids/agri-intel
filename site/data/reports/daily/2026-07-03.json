@@ -1,0 +1,118 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:26:30.595136Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Washington’s Fertilizer Push Quietly Redefining Nutrien’s (TSX:NTR) Competitive Moat In North America? - simplywall.st",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPamExOExnYnotbGgzOWUwN1h6R3VJekFoTWFYVmVsclNYb1FxMTNLbEV3Yk81M09ITDBYV0VKckJ6Z2o3X21VV29fdmJJS2szUl8zNGVwV3dCQnc1VmVjNWFYOUVsRHFJNzBWQ0tmOXYzNVREazY2NVVYR0ZoVVBIeGFWNUVveERTN2VjQ2o0Y1lTYnRRRWgydEU0VjJQRGpmc0JDVXNNQ3Zqa0x4ZkU3NjBhQmR3N0xHYWFQaC1LWXo2S1diMkMtZkpOSkNybWPSAc8BQVVfeXFMT2phMThMZ2J6LWxoMzllMDdYekd1SXpBaE1hWFZlbHJTWG9RcTEzS2xFd2JPNTNPSEwwWFdFSnJCemdqN19tVVdvX3ZiSUtrM1JfMzRlcFd3QkJ3NVZlYzVhWDlFbERxSTcwVkNLZjl2MzVURGs2NjVVWEdGaFVQSHhhVjVFb3hEUzdlY0NqNGNZU2J0UUVoMnRFNFYyUERqZnNCQ1VzTUN2amtMeGZFNzYwYUJkdzdMR2FhUGgtS1l6NktXYjJDLWZKTkpDcm1j?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sqm-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bronte Capital Management Pty Ltd. Reduces Holdings in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaHZfYlQ2d0dxb0psMFduc3RkNU1fXzdJVTQyWWpJcXhCWlRnNGc1MjlDNEpncFA2VThFSWhUWGhmMHdDTXJhRmc3RTRxdmdVZjFuWmxjdzdNd3RxRmhCcDRrcTBacmJJaUhpV1ZYbktxcVBnVi1lRVlJUEc0Y1B3TU1CeGlLSVZTbHRrQTlKUlhHV1N0RVZLN2RSX1lfX2d0bFRqUUpoeDVzZjlOQXR3emgteFRlcEl1UmdmUEZacW9uSG1JQ0JUVW5RcE1Gb0o2Zy1peHFGaDcyMjg4UklHLQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 181,
+    "too_old": 112,
+    "gate1_blocked": 8,
+    "gate2_blocked": 27,
+    "passed": 41,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+      "Bear of the Day: The Mosaic Company (MOS) - TradingView",
+      "Bear of the Day: The Mosaic Company (MOS) - Yahoo Finance",
+      "Freedom Broker Turns Bullish on Mosaic (MOS), Citing Recovery in Sulfur Supply - Yahoo Finance",
+      "Mosaic Drops 5.5% After Morgan Stanley Maintains Equal-Weight - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Nutrien Ltd、SQM相關動態：「Is Washington’s Fertilizer Push Quietly Redefining Nutrie...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Washington’s Fertilizer Push Quietly Redefining Nutrien’s (TSX:NTR) Compet...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bronte Capital Management Pty Ltd. Reduces Holdings in Sociedad Quimica y Min...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
