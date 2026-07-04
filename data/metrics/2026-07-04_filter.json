@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 7,
+  "gate2_fail": 24,
+  "passed": 15,
+  "gate2_samples": [
+    "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+    "CF - CF Industries Holdings Inc Options - Finviz",
+    "OCI N.V. recommends the unsolicited all-cash Offer from NNS at EUR 4.10 per share and directors appo",
+    "OCI N.V. statement on NNS - Morningstar",
+    "OCI N.V. statement on NNS - Yahoo! Finance Canada"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T09:59:45.965796Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corteva-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corteva and Arevo Partner to Bring Arginine-Based Seed Treatment Arginex Soy to Growers - iGrow News",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRW1TcTNFWmE3ejUyNF9kTDg1ZFNpS3EyS1RpNzJnTjlMY0pldk1vbXphTS0waHQzNEd4bVpvN1BEcmZVQnZSNzZ0eWllQU5PNHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IAEA Launches Global Project to Improve Crop Nutrition and Fertilizer Use - Devdiscourse",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVjhnYl8xWkVmTHJSWmJOelRDQzE2T2xrMzAzUHZoRWFFTGxZRWlXZGZ6VWhWWGQtUDZacXZjR0l1RVROS0s1QTVPck9OcEJTNmNXN2hNek9WaTRGamktWWk3aUd0TnAtSDFBYWkzWVVVZm1WaWVzZ1ROLXd1S1NyRzcydFBVaE0zWmdtN1VWdUx3ZlY1TjRPSkdJRkJWSmdQcjVKSENjcGM5MG1tRVNaS0tKblU2OEdoZV9uRkNMWE1nT25HYjRQVTNBVGNwYlJGdDdJRdIB2gFBVV95cUxPM3JRUnJoUUR6VDZ0RG96V1Y0LWVFbjM3UkFqV2JaNVFtS1lNbDVpVDJrVkxTeFI3aThVTi1zZHZVNnp5UlJ0T0Y3bFJ1S3VHME1rckZDTThqaU1fT0Ytd2luRGoxaTJKbEdfWV9jMXhKWDk0R1RQdENwRnp1b3dfR1FNNFFlM0NFVmtGdEhVSGdjTHlzR2liU3FrX1h5ZFh1dU9RM0hGeXlONm54TE8wY0hlMGlVVEZTLUZ1aFBhdWpjM0FaTE5uSHp6QXI3T3RGUWRabjRlcldxUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why autonomous ag tech is taking off now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/why-autonomous-ag-tech-is-taking-off-now"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corteva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 202,
+    "too_old": 120,
+    "gate1_blocked": 7,
+    "gate2_blocked": 24,
+    "passed": 15,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "14.5%",
+    "gate2_samples": [
+      "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+      "CF - CF Industries Holdings Inc Options - Finviz",
+      "OCI N.V. recommends the unsolicited all-cash Offer from NNS at EUR 4.10 per share and directors appo",
+      "OCI N.V. statement on NNS - Morningstar",
+      "OCI N.V. statement on NNS - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Corteva相關動態：「Corteva and Arevo Partner to Bring Arginine-Based Seed Tr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Corteva and Arevo Partner to Bring Arginine-Based Seed Treatment Arginex Soy ...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "IAEA Launches Global Project to Improve Crop Nutrition and Fertilizer Use - D...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
