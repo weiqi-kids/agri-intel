@@ -1,0 +1,16 @@
+{
+  "total_raw": 367,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 7,
+  "gate2_fail": 23,
+  "passed": 21,
+  "gate2_samples": [
+    "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+    "CF - CF Industries Holdings Inc Options - Finviz",
+    "OCI N.V. statement regarding Oceanwood Capital - PR Newswire",
+    "OCI N.V. statement on NNS - Morningstar",
+    "OCI N.V. statement on NNS - Yahoo! Finance Canada"
+  ]
+}

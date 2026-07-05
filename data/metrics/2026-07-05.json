@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-05",
+  "total_events": 6,
+  "by_company": {
+    "intrepid": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yara": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "cnhi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mosaic": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "natural_gas_feedstock": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

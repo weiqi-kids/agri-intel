@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-05",
+  "date_range": {
+    "start": "2026-06-29",
+    "end": "2026-07-05"
+  },
+  "generated_at": "2026-07-05T10:03:24.766208Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cnhi-2026-06-29-005",
+      "date": "2026-06-29",
+      "title": "CNH Industrial NV (MEX:CNHN) NonCurrent Deferred Revenue : MXN0.00 Mil (As of Mar. 2026) - GuruFocus",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 61,
+      "last_week": 85,
+      "week_over_week_change": "-28%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 6,
+      "week_over_week_change": "-83%",
+      "sentiment_this_week": 0.0
+    },
+    "planting_season": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.15
+    },
+    "natural_gas_feedstock": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "oci": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "cnhi": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cf_industries": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 5
+    },
+    "yara": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "fmc": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "kubota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "nutrien": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "sqm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "corteva": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "intrepid": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "mosaic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 194,
+        "last": 220,
+        "change_pct": -11.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-29",
+      "event_count": 39,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 27,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 45,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 55,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 11,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 11,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-29 ~ 2026-07-05）共 194 則事件，重點為「CNH Industrial NV (MEX:CNHN) NonCurrent Deferre...」。CF表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "OCI",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CNH",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Yara",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
