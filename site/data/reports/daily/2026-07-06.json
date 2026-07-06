@@ -1,0 +1,221 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T11:55:20.400256Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-06-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How prairie strips can convert eyesore acres into profitable ones",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/management/how-prairie-strips-can-convert-eyesore-acres-into-profitable-ones"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-06-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cattle and beef markets unfazed by New World screwworm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock/cattle-and-beef-markets-unfazed-by-new-world-screwworm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-06-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Colorado wheat farmers face record abandonment as freezes eliminate harvest",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/wheat/colorado-wheat-farmers-face-record-abandonment-as-freezes-eliminate-harvest"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-06-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FIFRA overrides state pesticide warning requirements, SCOTUS rules",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-policy/fifra-overrides-state-pesticide-warning-requirements-scotus-rules"
+    },
+    {
+      "rank": 5,
+      "event_id": "mosaic-2026-07-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MicroEssentials SZ from Mosaic Company - balanced sulfur and zinc for US crop yields - AD HOC NEWS",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbm5UU19SU1dWWkFiQXdqODUwOTBJN3ZMamV3ZlVSeFB4UmtlVTFOWEY1THdlTWZxOG83QXFmSndmYlF1eXBIeE1YVWFkM3p4dExuZmFkd3pMemZIWVN2SkZCV3c4c2ZKOVd0ZGhNMW9BYk9GQUQyY0ExY3JTR05NZ19hQjh0QUx4MVZqMDhfNWFNVlQ0U296bHlITlI1ektMUzZXSjYwcjF1eVNRM25qQnlYOHVaLWExbnJHRmw3OEZ4VmhyTDA1aA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 366,
+    "dup_title": 195,
+    "too_old": 124,
+    "gate1_blocked": 4,
+    "gate2_blocked": 18,
+    "passed": 25,
+    "pass_rate": "14.6%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Ducks Unlimited Honors Mosaic With The Conservation Award - Osprey Observer",
+      "CF - CF Industries Holdings Inc Options - Finviz",
+      "OCI N.V. recommends the unsolicited all-cash Offer from NNS at EUR 4.10 per share and directors appo",
+      "OCI N.V. statement regarding Oceanwood Capital - PR Newswire",
+      "OCI N.V. statement on NNS - Morningstar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Bunge、Mosaic、ADM相關動態：「How prairie strips can convert eyesore acres into profita...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "How prairie strips can convert eyesore acres into profitable ones（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cattle and beef markets unfazed by New World screwworm（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
