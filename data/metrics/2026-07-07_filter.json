@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 5,
+  "gate2_fail": 18,
+  "passed": 29,
+  "gate2_samples": [
+    "TRO sought to prevent Corps permitting for CF Industries project in Modeste - Pelican Post - Online ",
+    "CF - CF Industries Holdings Inc Options - Finviz",
+    "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+    "OCI N.V. recommends the unsolicited all-cash Offer from NNS at EUR 4.10 per share and directors appo",
+    "OCI N.V. statement regarding Oceanwood Capital - PR Newswire"
+  ]
+}

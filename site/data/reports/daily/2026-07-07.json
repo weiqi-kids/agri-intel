@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T10:45:09.306396Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-07-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Archer-Daniels-Midland (ADM) Overvalued Following Raised EPS Guidance And Segment Recovery? - simplywall.st",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeDNRTlFsUWUySzZMVm4tZHZ2WVNZMHRQQ1libDFubFZ4NDl0cEN1S3JubG05YW4wYzhJaFBLVzlkUW9yam8tQlRncnRFOEotSGZLbTJlRTF0dXZKZTgwVjhkRjI3blM5T0E3dXRnVS0tMFlUMk5vQUpRY2c3N2tWb0RUVS0zOC1hLUsxS0RicElGdXpQMml3Y21fbGx2QjdjcE9HdjFxUFdoZnk1azJzaUwtQTI1bFpTLVNJQWpRaFBhdFBOVDNDb0diWlR0NFRrN09wWVIxZmFsQVJYMVd0T1JxQnhmd9IB6wFBVV95cUxPWXVmSVZBeHpuUFRwTlR4a0s0VnBLYnZ6NkFGR0NhTU1mYWhUM2tyRnZncmstRFZsV0JZNW5nZ1FvWUpEMEU3akVwOTlzY2NHX2p2cllhc0w5cE1GcTBzLWlWanRTdjdudmhuVzMwcU9iWDRZRGhXQmwzcmlwSFNYdUdjT0xYSzV5US11ZGZZckNCbld1RzJQMUVIb1ZYWHV3dkVPbEo5MjhxTEpBUC1XdXZGVU5oQnBOekpZUTZsUGlKNVVsOXZTY3dGWFQ1SWUyc3RSWDI5OG0yeTZaZHhsSEtkdkFuYU1IbDlN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-07-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "From weedy mess to best of show",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/from-weedy-mess-to-best-of-show"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-07-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Does widespread anthracnose warrant an early corn harvest?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/does-widespread-anthracnose-warrant-an-early-corn-harvest-"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-07-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Morgan Stanley Adjusts Price Target on CF Industries Holdings to $115 From $135 - marketscreener.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXRqcDZ2eU0wVkRjS1g4blpvb2xNdmRzWUk5cW5GMWVuWWIyLUVHV2phZ2FsRWZndUgzQlJvSm9JVUZtN2U1MVJYQklCNWdWaDVSbW5kNFBROGczZnZaSGhiSEU3c1otMnNuSFNuVy00T290ZnhOaUx0Yi14U210QVliN2wxNGdpUWhneTFsRUVSdkE5S2pWQndWU0pkUUtoQU1zdGw5aTJDNzE0LU5XTWo3THpPblc5Z0FVOXJlLTBSWXZUOUx0SlVn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Taiwan Fert Calcium Ammonium Nitrate - steady demand from precision farming - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmZTczFvOVZKbmNDQjVrLVQtYWNRa3lnQnVEQUhGTUZobVpmVENSLVJqSi1PMVltX3FYZnVXdkVfVnNqWGd3TkdLd25heXhVM0hBUjZJdDZ1VTlZUmFIMzJqUFR2eUtScDRiekU3STByRngtOUo1YTNsc25tbjV2S1IzSXAxNkduNkt4VEFWS0xWbVJldk5WQUxUZk5ickx2MUFTTjlNeWJ1T2NsZzlpRnNfakZuZy02V1ltOS1LQk5FZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 186,
+    "too_old": 131,
+    "gate1_blocked": 5,
+    "gate2_blocked": 18,
+    "passed": 29,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "TRO sought to prevent Corps permitting for CF Industries project in Modeste - Pelican Post - Online ",
+      "CF - CF Industries Holdings Inc Options - Finviz",
+      "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+      "OCI N.V. recommends the unsolicited all-cash Offer from NNS at EUR 4.10 per share and directors appo",
+      "OCI N.V. statement regarding Oceanwood Capital - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為CF、ADM、Bunge相關動態：「Is Archer-Daniels-Midland (ADM) Overvalued Following Rais...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Is Archer-Daniels-Midland (ADM) Overvalued Following Raised EPS Guidance And ...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "From weedy mess to best of show（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
