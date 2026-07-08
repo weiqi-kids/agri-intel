@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:06:55.873190Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-08-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should I buy aftermarket parts for combine prep?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/should-i-buy-aftermarket-parts-for-combine-prep-"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global shares stay tied to fundamentals. Bunge Global's US listing anchors the story. - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRC1ia3RrbmxOV1hyNGZQNTM5SzBmMWhWcVNFV3dfV2pWNEQ5LTVSLXAybldNSFRweGVhcGhWZHJoUzJRWm1jZjhFc09uOUlSei1GUUNGSkczamZqN2JyUURpMVRpMlVPZlNRWktheWp5ak01NHMteFFGeWtPaWgzdUxIUEVEUFhHRXRBLWdvbjViX2NZX0Zqbk0wc1BvNldxYmxQdmREc0RwZXFNVk4zNE9pLXhxNGkxZEpXZEZyX0w2czQ1NTdTdjBR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Whole Harvest Organic Soybean Oil - Bunge Global targets US kitchens with traceable cooking fats - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2YtTkRVMVhQYWhsUjVWYTh6MGQ3UnFZWVU0UjFBREgtc3ZjTWU3TFhrcHF6M3BWYU5EN2NveDVrQnpsNXRlMEJQc05LaUtVX2ZsQnpWa3Z6R3BnWUk1dmFOMEhTUm90LXIzOW5wRUtPNWpFY250b3kteXZINDJ3OVg5UEY5VEFDaEZFOHdwYWt2OGVobjBxX3RiTGo1UlFrTk1SRTVBTVJRRXYyNHRKYW00YmpPa1FjYjBoZE1aS2hsdXBMcTJkNw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Geopolitical tensions and high interest rates challenge Brazilian agricultural dominance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/geopolitical-tensions-and-high-interest-rates-challenge-brazilian-agricultural-dominance"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Timeless advice meets innovation on Oklahoma farm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/farm-operations/timeless-advice-meets-innovation-on-oklahoma-farm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 176,
+    "too_old": 147,
+    "gate1_blocked": 2,
+    "gate2_blocked": 14,
+    "passed": 36,
+    "pass_rate": "18.1%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "TRO sought to prevent Corps permitting for CF Industries project in Modeste - Pelican Post - Online ",
+      "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+      "OCI N.V. recommends the unsolicited all-cash Offer from NNS at EUR 4.10 per share and directors appo",
+      "OCI N.V. statement regarding Oceanwood Capital - AOL.com",
+      "OCI N.V. statement regarding Oceanwood Capital - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Bunge相關動態：「Should I buy aftermarket parts for combine prep?」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Should I buy aftermarket parts for combine prep?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global shares stay tied to fundamentals. Bunge Global's US listing anch...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
