@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 7,
+  "gate2_fail": 14,
+  "passed": 40,
+  "gate2_samples": [
+    "Nutrien: Little Margin Of Safety At Current Levels (NYSE:NTR) - Seeking Alpha",
+    "ICL focuses on specialty minerals as investors weigh long-term growth - Ad-hoc-news.de",
+    "TRO sought to prevent Corps permitting for CF Industries project in Modeste - Pelican Post - Online ",
+    "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+    "OCI N.V. statement on NNS - Morningstar"
+  ]
+}
