@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 33,
+  "gate2_samples": [
+    "Nutrien: Little Margin Of Safety At Current Levels (NYSE:NTR) - Seeking Alpha",
+    "ICL focuses on specialty minerals as investors weigh long-term growth - AD HOC NEWS",
+    "TRO sought to prevent Corps permitting for CF Industries project in Modeste - Pelican Post - Online ",
+    "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+    "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News"
+  ]
+}

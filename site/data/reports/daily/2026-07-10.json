@@ -1,0 +1,230 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:44:22.413172Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intrepid-2026-07-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Intrepid Potash announces Q2 2026 earnings date - scanx.trade",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkEwWnhuV1ZpXy1VNFhGelBMbGNhTWh2SC1NcElHa2tlX2xnZXlwcWpONkZmakhBT3pxSldEQXdVdy1xUzBJTTJrc1pGdVNvcEJPZHVmNXQtU2MxY1ppdWdZZDJaSXdpWFlJYkNNWV9BMTZZVHhzYW9VdGNXVTlIQ29Qb1dQT25XaHlCTWRuMGxVQXZVUzFoVW42aHNld0dsSjZGbGhGZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "yara-2026-07-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yara International ASA (YARIY) Expected to Release Quarterly Earnings on Friday - MarketBeat",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWtaS2o5cGdYLXppNjVXOW5hcWwtbi1vNm5ELXRHTjktaEd4N1JJRHI5N0ZGRVVpZFE5N0dtdHpxQWdvYkhhaldPTVVUOHMwM1B5RkhZbjhRLVgyeHFXdjFtbXliMUtpN0E4ZkFsbzd4N283S0xoWEc5NkNkYzlseEZlRVFsWXhkbkdxOW5JMWJkQlFFa2RHM29iR2hNMHBVU2c5d3NPTTE3R0tidUdvSnhfRENaamJLVUtad2N0ZG1pSUFCZzdvN1g5UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 Commodity Stocks That Could Hold Up Better If Inflation Stays Sticky - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPajBTdGhiUmxVemVKSDhJUU1uZkpkTDFpRTRNc3pXMkpmU2EzSHpMd3ByaXVxcXJBTDhvMGJhQ3ZkNU00S3ZST0VHOFBBeXpnNDR1OW5BZFZ6RHlYbWpQTHJPLXRqWFl4U1FVRmpjaWhSbVlhT3JoZzd2UHBBS0lGUjhBTkxFSHJscTh1X1JyekdRM0pULWpTYURQYm1Ca0w2ZXloSk1UWlVsa2pWOFhmb3JFYXZTQW5ySDZmV0dnVWJrNl9LVUt3b0N4dnU0ZDFyZGMxV1I1V0pYYjV1NUp6bC1nUjBJUdIB6wFBVV95cUxNWFlIQ21QbFNkdjVCbmF0dFJkamxoSnA1VWpEV3pfa3B6Y1lKWkhSTGdlZDBxd1dsZ2ZqWmk4RzVRYWJnNUFqVXBfNjdxdlZJeF9NQUVzd1lFNExOcmdMWTRrVVo3ZWxtcEdvRlhrb1RYLXV3cklsR1ZLU0JyU0YxcDBVRGpqUGlBWmo5X2VQNmNiZFZvOUk1dXczR3VZRWxyNy0xemRya0ZSNlM1QnRXdmhuZDcxYmhQNk5NQlAwS29tbHZzcXBodkxWaXFVellwWjh1TXFIR2dJOXJZOVhEZDFHMi1mRHYxV0RZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "yara-2026-07-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yara International ASA (OTCMKTS:YARIY) Receives Consensus Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUkJoLUtxa3Y4eDdKQTlTSXNETk80NDdfdTZqdVJvVEpON294ZXNMVGJjOHpKZkI1UG9HbmstNDFvcnFoZ2lycWFxTjlRckdQbkdGYnhsUkdfQzhWOTkxTndnN3FZSGUtZmk0MTUtdDZ3TGFoVV9HYW5MdFlrNTNqNkxEVUVUcjkwS1d0bWptZWg4d0JjSTFTLXhzZkY4c2JLYUdaTjNSNHM4eXRGYTd3VW94UWU0S3cxcHFrems3aHlacHJxLWhBMlVOVXVyXzZMTTRlT1ZueF9mOVotYjhRWg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-07-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Elevated Capital Advisors LLC Buys 15,767 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObEwxRE9fcHptOFZBZzhkYXBqb2k4YkR1aXNQQ1RxcXpRdWF1R1gyTnoyS3NCdExuT2hjcE54d1FicXM3RG1UVnNCOURUTFdMX2ZtV0RxdS1JYV9FQmpjSEFTWjZkY045UU0zcWV5aHNyaEZGcVZIZDhPVlE4ZUpCdEhidERncF9McXpaT3o5aWVONGxZOTBCbk9NZllUUWRXYWU0TDdyV09jX3hRaFNxcUZqRHBoYUVidmpaMEdodGk4X3RNSjhZSF9oMDF6UjdvTzVwWGtmR01RVGUyVTdV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "yara",
+        "count": 2
+      },
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 184,
+    "too_old": 148,
+    "gate1_blocked": 6,
+    "gate2_blocked": 9,
+    "passed": 33,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Nutrien: Little Margin Of Safety At Current Levels (NYSE:NTR) - Seeking Alpha",
+      "ICL focuses on specialty minerals as investors weigh long-term growth - AD HOC NEWS",
+      "TRO sought to prevent Corps permitting for CF Industries project in Modeste - Pelican Post - Online ",
+      "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+      "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Yara、Intrepid、ADM相關動態：「Intrepid Potash announces Q2 2026 earnings date - scanx.t...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Intrepid Potash announces Q2 2026 earnings date - scanx.trade（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Yara International ASA (YARIY) Expected to Release Quarterly Earnings on Frid...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
