@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 4,
+  "gate2_fail": 6,
+  "passed": 27,
+  "gate2_samples": [
+    "ICL focuses on specialty minerals as investors weigh long-term growth - ad-hoc-news.de",
+    "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+    "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+    "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal",
+    "CNH Industrial (CNH) Receives a Buy from Northland Securities - The Globe and Mail"
+  ]
+}

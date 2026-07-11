@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:16:24.868368Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Does Yara’s NEOM Renewable Ammonia Deal Reshape The Bull Case For Yara International (OB:YAR)? - simplywall.st",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX2k5akhZVzh2ZTJOQ250SjFQNW41TGZlRlhQWl9xREgxcVA1UDNDLUcwS2dzSXh5YjVpVDZINWdjbWo2TGNVa1U5bWw2bGJHTUhxakdsWmlPXy1GMURtWjVfOU9HRWVKWl93VmlEOWxCMFF1YkI5V2lfaVI1SXhuOUdzNVR0Ym5lYTBRNVhlSU01a3lOZkpQNzE4UGpfVUFHcVptUDRPekNOV2JpQXVCR1FmTmlzdXQxV1d6cXhLLXRUTVphLUY2U3NPQ3J5Yy1TMU1RZDlYZjNnRDBh0gHcAUFVX3lxTFBfaTlqSFlXOHZlMk5DbnRKMVA1bjVMZmVGWFBaX3FESDFxUDVQM0MtRzBLZ3NJeHliNWlUNkg1Z2NtajZMY1VrVTltbDZsYkdNSHFqR2xaaU9fLUYxRG1aNV85T0dFZUpaX3dWaUQ5bEIwUXViQjlXaV9pUjVJeG45R3M1VHRibmVhMFE1WGVJTTVreU5mSlA3MThQal9VQUdxWm1QNE96Q05XYmlBdUJHUWZOaXN1dDFXV3pxeEstdFRNWmEtRjZTc09DcnljLVMxTVFkOVhmM2dEMGE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fmc-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Corporation CFO Andrew Sandifer to speak at 16th Annual Wells Fargo Industrials & Materials Conference - AOL.com",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYk1JSjM0QlluVTZzQkFuNVlJMm9pTy1rc3ptV0ZQNkItellXNDdrQ2MxOU1yQ1lETXk5LTlqdi1RYVVtYzNUVkJsUlRKVW1XRlNXTXBLRFV4OVA0VkNIek80ZTNsc1l1el9GYm1vNlZVWnZrR1lLQjFkODV2aTJhVTA1Z3F1QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-07-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Global stock reflects a diversified agribusiness and food ingredients profile - ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdDYTE5empuSURjX0hydXNjZ2RRU1ZGZzVmc0pvMkhDV3BQa21VY2FrM1JVN0swcXIzUjg4M182YVZHbnBkVFE2TFlaSzV5RDVmdDRfbERGek4wM3VGQ21fZnRoMmVjRjh0LTBVZGFMTk8xZmZpejVqMmFIbWlLYmFEeEhKZ2I4TEd4QnlFdGhacWdGVmk1MXFydXhvUXVEbEpsSG5mZGo1X3lpcmF2UlNnaXJDV2ZvLUxUY1FtQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 193,
+    "too_old": 149,
+    "gate1_blocked": 4,
+    "gate2_blocked": 6,
+    "passed": 27,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "ICL focuses on specialty minerals as investors weigh long-term growth - ad-hoc-news.de",
+      "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+      "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+      "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal",
+      "CNH Industrial (CNH) Receives a Buy from Northland Securities - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Yara、FMC、Bunge相關動態：「Does Yara’s NEOM Renewable Ammonia Deal Reshape The Bull ...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Does Yara’s NEOM Renewable Ammonia Deal Reshape The Bull Case For Yara Intern...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "FMC Corporation CFO Andrew Sandifer to speak at 16th Annual Wells Fargo Indus...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
