@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 4,
+  "gate2_fail": 8,
+  "passed": 15,
+  "gate2_samples": [
+    "ICL focuses on specialty minerals as investors weigh long-term growth - ad-hoc-news.de",
+    "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+    "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+    "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+    "Bunge Global (BG) After The Zacks Upgrade And Rising Estimates Looks Undervalued - Yahoo Finance"
+  ]
+}

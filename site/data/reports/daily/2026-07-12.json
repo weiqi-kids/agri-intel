@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:42:51.177897Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-07-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge (BG) Stock Still Looks Undervalued After A 78% Run - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE1CRTF2ck5qa3pFMGNwSjlKdFlyTGtiUFZhVW5UQllvMm1TZmJSWE1pOFRWa0VhLUJyNlgyb0JBRUp2S01kRlNLNTRTaURyTkExajN5Zmt0eTFCQ09lSzgwa0xnYVF1LTBrMmxHQ1hld2FlMGcyLTFjT3ZuVG01S2FtRmtlR05hekZXRUgyUDRjR1YwT0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 194,
+    "too_old": 157,
+    "gate1_blocked": 4,
+    "gate2_blocked": 8,
+    "passed": 15,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "ICL focuses on specialty minerals as investors weigh long-term growth - ad-hoc-news.de",
+      "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+      "Yara International : Consensus Estimates - 7 July 2026 - marketscreener.com",
+      "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+      "Bunge Global (BG) After The Zacks Upgrade And Rising Estimates Looks Undervalued - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Bunge相關動態：「Bunge (BG) Stock Still Looks Undervalued After A 78% Run ...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bunge (BG) Stock Still Looks Undervalued After A 78% Run - Yahoo Finance（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bunge為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
