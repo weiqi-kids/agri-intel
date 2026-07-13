@@ -6,9 +6,9 @@
     "history_complete": true
   },
   "mosaic": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "icl": {
     "earliest": "2005-03-22",
@@ -17,14 +17,14 @@
     "history_complete": true
   },
   "kpluss": {
-    "earliest": "2002-04-03",
-    "latest": "2026-07-10",
-    "count": 6190
+    "earliest": "2002-01-03",
+    "latest": "2026-07-13",
+    "count": 6255
   },
   "sqm": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "intrepid": {
     "earliest": "2008-04-22",
@@ -40,20 +40,20 @@
   },
   "yara": {
     "earliest": "2004-03-24",
-    "latest": "2026-07-10",
-    "count": 5621,
+    "latest": "2026-07-13",
+    "count": 5622,
     "history_complete": true
   },
   "oci": {
     "earliest": "2013-01-25",
-    "latest": "2026-07-10",
-    "count": 3440,
+    "latest": "2026-07-13",
+    "count": 3441,
     "history_complete": true
   },
   "taifer": {
-    "earliest": "2002-04-19",
-    "latest": "2026-07-10",
-    "count": 5995
+    "earliest": "2002-01-21",
+    "latest": "2026-07-13",
+    "count": 6060
   },
   "corteva": {
     "earliest": "2019-05-24",
@@ -62,34 +62,34 @@
     "history_complete": true
   },
   "fmc": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "deere": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "agco": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "adm": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "bunge": {
-    "earliest": "2002-04-08",
+    "earliest": "2002-01-08",
     "latest": "2026-07-10",
-    "count": 6104
+    "count": 6165
   },
   "kubota": {
-    "earliest": "2002-04-09",
-    "latest": "2026-07-10",
-    "count": 6028
+    "earliest": "2002-01-09",
+    "latest": "2026-07-13",
+    "count": 6093
   },
   "etf_moo": {
     "earliest": "2007-09-05",

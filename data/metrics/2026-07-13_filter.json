@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 4,
+  "gate2_fail": 8,
+  "passed": 16,
+  "gate2_samples": [
+    "ICL focuses on specialty minerals as investors weigh long-term growth - ad-hoc-news.de",
+    "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+    "OCI N.V. confirms receipt of unsolicited voluntary cash offer from NNS of EUR 4.10 per Share - AOL.c",
+    "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+    "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance"
+  ]
+}

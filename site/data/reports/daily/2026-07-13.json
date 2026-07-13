@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:49:56.598548Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "taifer-2026-07-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to revenue forward of Taiwan Fertilizer Co., Ltd. – TWSE:1722 - TradingView",
+      "companies": [
+        "taifer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1NPT0ZjYl9udDIwQTJOaHBVam1jc2NjZmxNOTczNXRLSDlrdlRrX1JpNVdGNVROQ1VsTnNfMzJ0Ymg3VnlQNmdFQjF1SDRrdVV6X3lVcDB3SDN2NjFwOFV5QTNPYkwxT3dPbWdPVVZpR3hyRDRmMjROTkZUc0hscklXYmR0WERibXE3dmREN3dMMU9KRUVhRHZ3Z1FEUEpMUC1zc2Fqd1g1Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Soybean prices need poor weather, exports to China",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/soybean-prices-need-poor-weather-exports-to-china"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-13-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hog numbers fall as pigs per litter soar to 11.87",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/hog-and-pork-news/hog-numbers-fall-as-pigs-per-litter-soar-to-11-87"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-13-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lower peanut production could boost prices this year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/peanut/lower-peanut-production-could-boost-prices-this-year"
+    },
+    {
+      "rank": 5,
+      "event_id": "sqm-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Manning & Napier Advisors LLC Trims Stock Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGdsWlFERVRyOFlPMVV4ckxLSnJsSTA4VkJDUUdmVGpmNnFLLWYybldYT2p1bTc0WW9LMktlcVhjellJM1dRRzZVVXJQOFEteC1uNnQ0bXlaOGVwckFGZExrazNhRWY2eG1vSVFIZTJEU2pYVEpadG8tUXBCRFZQSmZhZHdwWThnM1Q1TERybzJKWXdNbGxyRXU0VmRvSThIeHRTN293VXJsX1poRTdtbmkyazVaX242cmxQZ3p6STg2WHhtdUJrOWZkbmx3cGp6WVppbFR5aHNzb2NPc1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "taifer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 198,
+    "too_old": 154,
+    "gate1_blocked": 4,
+    "gate2_blocked": 8,
+    "passed": 16,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "ICL focuses on specialty minerals as investors weigh long-term growth - ad-hoc-news.de",
+      "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+      "OCI N.V. confirms receipt of unsolicited voluntary cash offer from NNS of EUR 4.10 per Share - AOL.c",
+      "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+      "Bunge Global (BG) Expands Global Reach As Viterra Integration Reshapes Its Network - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為SQM、Taiwan Fertilizer相關動態：「Enterprise value to revenue forward of Taiwan Fertilizer ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Enterprise value to revenue forward of Taiwan Fertilizer Co., Ltd. – TWSE:172...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Soybean prices need poor weather, exports to China（農作物價格、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

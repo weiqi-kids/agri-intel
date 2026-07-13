@@ -18,6 +18,194 @@
     ]
   },
   {
+    "id": "sqm-2026-07-13-001",
+    "date": "2026-07-13",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Manning & Napier Advisors LLC Trims Stock Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGdsWlFERVRyOFlPMVV4ckxLSnJsSTA4VkJDUUdmVGpmNnFLLWYybldYT2p1bTc0WW9LMktlcVhjellJM1dRRzZVVXJQOFEteC1uNnQ0bXlaOGVwckFGZExrazNhRWY2eG1vSVFIZT",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGdsWlFERVRyOFlPMVV4ckxLSnJsSTA4VkJDUUdmVGpmNnFLLWYybldYT2p1bTc0WW9LMktlcVhjellJM1dRRzZVVXJQOFEteC1uNnQ0bXlaOGVwckFGZExrazNhRWY2eG1vSVFIZTJEU2pYVEpadG8tUXBCRFZQSmZhZHdwWThnM1Q1TERybzJKWXdNbGxyRXU0VmRvSThIeHRTN293VXJsX1poRTdtbmkyazVaX242cmxQZ3p6STg2WHhtdUJrOWZkbmx3cGp6WVppbFR5aHNzb2NPc1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taifer-2026-07-13-002",
+    "date": "2026-07-13",
+    "companies": [
+      "taifer"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Taiwan Fertilizer Co., Ltd. – TWSE:1722 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1NPT0ZjYl9udDIwQTJOaHBVam1jc2NjZmxNOTczNXRLSDlrdlRrX1JpNVdGNVROQ1VsTnNfMzJ0Ymg3VnlQNmdFQjF1SDRrdVV6X3lVcDB3SDN2NjFwOFV5QTNPYkwxT3dPbWdPVV",
+    "sources": [
+      {
+        "name": "taifer",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1NPT0ZjYl9udDIwQTJOaHBVam1jc2NjZmxNOTczNXRLSDlrdlRrX1JpNVdGNVROQ1VsTnNfMzJ0Ymg3VnlQNmdFQjF1SDRrdVV6X3lVcDB3SDN2NjFwOFV5QTNPYkwxT3dPbWdPVVZpR3hyRDRmMjROTkZUc0hscklXYmR0WERibXE3dmREN3dMMU9KRUVhRHZ3Z1FEUEpMUC1zc2Fqd1g1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-003",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "8 ag startups offer solutions to farm challenges",
+    "summary": "From sunflower rubber and nano-tractors to microwave technology and new hemp genetics, options to optimize your farm are on the horizon.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/8-ag-startups-offer-solutions-to-farm-challenges",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-004",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soybean prices need poor weather, exports to China",
+    "summary": "Soybean Outlook: As traders eye crop season forecasts and U.S.-China trade talks, the market sets $11.60 to $11.70 as a target price for unloading bushels.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/soybean-prices-need-poor-weather-exports-to-china",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-005",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yes, you can lose money applying a fungicide",
+    "summary": "In a 2025 Iowa State University-Wyffels Hybrids trial, disease-resistant hybrids lost money when a fungicide was applied. Your best bet for a favorable return on investment from fungicide applications",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/management/yes-you-can-lose-money-applying-a-fungicide",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-006",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hog numbers fall as pigs per litter soar to 11.87",
+    "summary": "Hog Outlook: U.S. pork producers are achieving unprecedented efficiency with nearly 12 pigs saved per litter, even as total hog inventory falls slightly.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/hog-and-pork-news/hog-numbers-fall-as-pigs-per-litter-soar-to-11-87",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-007",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Peanut Efficiency Award winners rely on tech, sustainable practices",
+    "summary": "Farm Press announces the 27th class of Peanut Efficiency Award winners and highlights their keys to production success.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/peanut-efficiency-award-winners-rely-on-tech-sustainable-practices",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-008",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn tasseling begins after 12 inches of rain",
+    "summary": "Field Check: Andy Pratt, Lee County, Ill., said his corn crop is at the VT stage after getting 12 inches of rain in the last month.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/corn-tasseling-begins-after-12-inches-of-rain",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-009",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pasture mealybug spreads rapidly across Texas",
+    "summary": "Pasture mealybug, a new and invasive pest, continues to spread rapidly in Texas pastures, threatening forage used to feed the state’s robust livestock industry.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/insects/pasture-mealybug-spreads-rapidly-across-texas",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-010",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lower peanut production could boost prices this year",
+    "summary": "U.S. peanut acreage fell 22%, according to USDA’s recent Acreage report. All major peanut-producing states either saw a decline or no change in peanut acres.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/peanut/lower-peanut-production-could-boost-prices-this-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bunge-2026-07-12-001",
     "date": "2026-07-12",
     "companies": [
@@ -33,6 +221,85 @@
       {
         "name": "bunge",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE1CRTF2ck5qa3pFMGNwSjlKdFlyTGtiUFZhVW5UQllvMm1TZmJSWE1pOFRWa0VhLUJyNlgyb0JBRUp2S01kRlNLNTRTaURyTkExajN5Zmt0eTFCQ09lSzgwa0xnYVF1LTBrMmxHQ1hld2FlMGcyLTFjT3ZuVG01S2FtRmtlR05hekZXRUgyUDRjR1YwT0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-07-12-002",
+    "date": "2026-07-12",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sociedad Quimica y Minera (NYSE:SQM) Rating Increased to Strong-Buy at Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaEIxS01PSFFBczlRbm9mUmZlUm54bnRiclQwLXJLMFZ2WU1xcFNCV0FQMTZIZG1oVFNxMElDdTJ2d3V0Q1pYWS1VYjZWWUV3eW9aVmpZQUpkY1lyT25Zc2VsLWVsRS1uREwzNVhHNW",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaEIxS01PSFFBczlRbm9mUmZlUm54bnRiclQwLXJLMFZ2WU1xcFNCV0FQMTZIZG1oVFNxMElDdTJ2d3V0Q1pYWS1VYjZWWUV3eW9aVmpZQUpkY1lyT25Zc2VsLWVsRS1uREwzNVhHNWpfMERSSllRY1djZC1XX1NlcERlUXMyMVRlQjRGY1dUTTdSMlI5bEloajNFS3M4NnQ4VmNPM0RqR2x5bGR6dE1ZbHFJS1pIOHJvaEh0UFo2c1ZZRW5QYjQzUW1uLUFYemxiOEo4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-07-12-003",
+    "date": "2026-07-12",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera S.A. $SQM Shares Sold by Candriam S.C.A. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPN213RlB4cjRqZXlnclBQMGE1T0d3QUdRRGxENzJOaXd5ZXBENlEta2wwSi1jZ3pjSlJhTUxyaHNlWGdfaWhtekp2SzBpTGtxb2hBVHFQcmNoLWU4MWdYbWk3OGxSR0J4X1lmMUNqam",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN213RlB4cjRqZXlnclBQMGE1T0d3QUdRRGxENzJOaXd5ZXBENlEta2wwSi1jZ3pjSlJhTUxyaHNlWGdfaWhtekp2SzBpTGtxb2hBVHFQcmNoLWU4MWdYbWk3OGxSR0J4X1lmMUNqamxaVnVHTHRYMDNKbkh5UTF6dUhRcVpOLXFCWk8yRmJoanJaZG1QaHRvcnZwRFhHMlNrcjhIWEFaVzJ3dS1zRm1fM3ZwN25BV1ZiUmhwMUhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-12-004",
+    "date": "2026-07-12",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Does CF Industries (CF) 20% Dividend Hike Reveal Its True Capital Allocation Priorities? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnMtQ3hoWkpvR3B5bUtFYjl0dUg1dXlZNXdBdlh1N1BXcVY4cTc5OVJnbUhnVHNhTGpTcXZBY2pndjRIenlhZ0hmYkpsdlpMUndSZldSeGRKV2h3bDZmTG1fUEk2bzJmNUh5SXNWak",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnMtQ3hoWkpvR3B5bUtFYjl0dUg1dXlZNXdBdlh1N1BXcVY4cTc5OVJnbUhnVHNhTGpTcXZBY2pndjRIenlhZ0hmYkpsdlpMUndSZldSeGRKV2h3bDZmTG1fUEk2bzJmNUh5SXNWaktuT1dNd1dxYU4yT1Nyck83M1dNVUU1MlJDSVo4aDd2XzZaamVfRk83QXF3RGd2QjlZMUV4SGhHQ2gwYXA4TkZpZWhEYnU5bDloTTYzMlB3SzRHLU5XZXJMRlIzbU14MFVnWUdJYdIB2gFBVV95cUxOeVBKdDdnZW5zSXJoNXpKVUxmakxSU3psRGlTRlZ6c2tKTmpsTmdJdUN0bFEwTzlaVFBhcWE3a19fVlpYVGl2YW1QaW84eVNweGtMdkJ1cTBkdDFmRUtNTk40UGtZMXpNZXl6SmN2dnc3d3ByRU1BNnNZTzdpUzd2dEVTLXJrRnoyVjFubk5zMzd3QmRiQmluSzg3Y3QzNGJFSVc4eGt1Z05ZLWFncmJQSDZ4VUdFTFNvZ25VellYYWViQWFCbWhERkFscWhKa0ZPSFdESXFSUy11UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-12-005",
+    "date": "2026-07-12",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Bunge Global (BG) Is Up 7.4% After Analysts Lift Earnings Outlook - And What's Next - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFBweWpQbWNlbFhyRkN0X0pHZ3JJdjgxc3hKakdKbXBnOGx1bEF2c1M1Nk5iYXc5cm1TZ1ZVOVdlWUU4UGFyb2hxMkpfdkJPTHM2ci1ZQUJUY3ZOeVEybTRmWGljXzFUYmtsdVRRZD",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFBweWpQbWNlbFhyRkN0X0pHZ3JJdjgxc3hKakdKbXBnOGx1bEF2c1M1Nk5iYXc5cm1TZ1ZVOVdlWUU4UGFyb2hxMkpfdkJPTHM2ci1ZQUJUY3ZOeVEybTRmWGljXzFUYmtsdVRRZDNRSEFUdG1aVXNBNnd0ZEUxZ0s4RkwwWlFzV1huOHpxdw?oc=5",
         "type": "rss"
       }
     ]
@@ -931,6 +1198,24 @@
       {
         "name": "bunge",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0NkT3FRempWdVRNRENiaGVDem93X2tBZ0dLYW92Q3pDcVpETmF1b0t4NVhQUXNyRWlOTkFYTnczLUw2cjlmOHhBam9jd3BGeVc4ZFJQVkJoSFExLXBaaTlZOC16NXBRNzI5OC1CNmJOT3d4U0NiNkstRTBFb1hNRmF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-10-036",
+    "date": "2026-07-10",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CF Industries Holdings (CF) Could Be 7% Undervalued On Its 20% Dividend Hike - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYk9heEUxTWFsUkF4SjRrYXdKVkx2YXBiSEdqRVgyM3ZNSFUya3MxcnExSnJPeGJSbjBMYWt6VlVWTmlpWGNPUEFkdzBaaUoxUFI1V19FUTFDaHZucmpNdGZJM1E1VUozQW45djNlZy",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYk9heEUxTWFsUkF4SjRrYXdKVkx2YXBiSEdqRVgyM3ZNSFUya3MxcnExSnJPeGJSbjBMYWt6VlVWTmlpWGNPUEFkdzBaaUoxUFI1V19FUTFDaHZucmpNdGZJM1E1VUozQW45djNlZy1zUDc3V1pYT0t6LWppbkN6SWlVa0tDMjctOTBTMGdlWkdhdFlRMUJpUmhxd28wYU85ei1HdmpCYXVQejdTUGNoYWg3cUtoS0RRUlVtMndmZkhqQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2319,6 +2604,24 @@
       {
         "name": "bunge",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU9SNm1qb0VtOEZQVnFKYzJER3F4dXRiRFNQcV82dVhSNzk5aXhGbUxyUWtjUjlkbGY1eUM2cXk2WHJEVjJpMVFZT0NjRzB0QlFEa1dmRlV2UEZPYW82LTg2TDBBUkNzcFJrdGp1WFZxU3hmSkIyd3gyLWYwQnJycThobU0xSXEyWHhOOFc1OUtmRnl5QV9taTJTbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-08-042",
+    "date": "2026-07-08",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "FMC Corporation Files First Global Regulatory Submission for Rimisoxafen with United States Environmental Protection Agency - Nasdaq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDB5QUhmdklNY01tREJJRFJSQjVUWEY2YnN4M1UtLVZzVUU2eTVwakx0Y1F6LVdGVTlucWUwTUVab2JIanJ6aFMyc0dacDV4TTBIdkZuQWh1SmkxdTBOY21pS0NidXhGWHpyMHAtOE",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDB5QUhmdklNY01tREJJRFJSQjVUWEY2YnN4M1UtLVZzVUU2eTVwakx0Y1F6LVdGVTlucWUwTUVab2JIanJ6aFMyc0dacDV4TTBIdkZuQWh1SmkxdTBOY21pS0NidXhGWHpyMHAtOE1FUFdKWWMyMXVVRTNGV3JqNHJPRXFaaHBWYl9MVU5tNWlNRV9JZzBQaFMtVHRXbjJKWVhQRE5VSFc3b053cW9hT01MZld2dWRBaWZZ?oc=5",
         "type": "rss"
       }
     ]
