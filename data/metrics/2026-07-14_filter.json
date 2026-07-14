@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 13,
+  "gate2_fail": 8,
+  "passed": 25,
+  "gate2_samples": [
+    "ICL focuses on specialty minerals as investors weigh long-term growth - Ad Hoc News",
+    "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+    "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+    "Procyon Advisors LLC Has $3.97 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal"
+  ]
+}

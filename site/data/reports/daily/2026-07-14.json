@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:45:54.391726Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-07-14-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Nutrien, CF Industries and Yara International - Yahoo Finance UK",
+      "companies": [
+        "nutrien",
+        "cf_industries",
+        "yara"
+      ],
+      "related": {
+        "customers": [
+          "cf_industries",
+          "yara"
+        ],
+        "suppliers": [
+          "nutrien"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTgtRjlENm5NSGtWNXROZmFENzFHV3U4TW12NDNrNVhNMWNxQmJVNXdwdzRrUUZ0d043Rl81VGhhcTJwRzVEbkNUXzNYRWRvSDl0dE5sNzVLa1Vta3BqaDlzYUFERTRFMzM3QWlkcWk4QXBaUy1Ca2ZmV1FuRElNOWRXR0NXVldfVGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nutrien-2026-07-14-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Nutrien, CF Industries and Yara International - The Globe and Mail",
+      "companies": [
+        "nutrien",
+        "cf_industries",
+        "yara"
+      ],
+      "related": {
+        "customers": [
+          "cf_industries",
+          "yara"
+        ],
+        "suppliers": [
+          "nutrien"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTlCazBxbkVwMTJJNW1MTHFRbmVQZTlSa2lONExKMExQa0sxSjEybVMyVE1sdm1SUDdLN0ZhaUxZaXhxZ3JUUmRoVXVGQXRiR2E2eGhTYVRDaWw3VzFETzJhWE9GeFFfZU1pYU9WZS1GYWdjOUwxZGFMNkFOVXJNTVlqMktScEJ0WDFlRGFPejFST21XNW9RWUU3Unhpa2dtTHFFVld6eXJDckdSRHpwRG8xWGV6b2hKZm9vZE81MlRTUzU4Vzhrbm55MUxPTXFkbFdtLXA2NzNRV0kzelF2VnZRamFJUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-07-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Here's What to Expect From Archer-Daniels-Midland's Next Earnings Report - Barchart.com",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0lmb1V6TWFsSlktak4taUVNaGo0Rk9vWFUtS2lBRlQ1MmNFNWVJZFhNekZ5WWVoMjdnQ0tROXNUWlg5NTRtaHhidXFlSFExUkI1MHJXZUZpcHhUTFc0Q1lGdk5kZnFuTW8xN3JUeHRSWXc5VDZnTXVFNVpPbDdaZkJaRUlmbFpHUHE1UWJpMWJNZUFxVUFKZjNKREwyUERPQ1EyZ3BPTGlDdHF2cEM2V2ZLN1FBTzA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corn tassels amid rain while disease pressure rises",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/crops/corn-tassels-amid-rain-while-disease-pressure-rises"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New 45Z credits could boost your crop value",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/farm-policy/new-45z-credits-could-boost-your-crop-value"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cf_industries",
+      "to": "nutrien",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    },
+    {
+      "from": "nutrien",
+      "to": "yara",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    },
+    {
+      "from": "cf_industries",
+      "to": "yara",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "yara",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 175,
+    "too_old": 158,
+    "gate1_blocked": 13,
+    "gate2_blocked": 8,
+    "passed": 25,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "ICL focuses on specialty minerals as investors weigh long-term growth - Ad Hoc News",
+      "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+      "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+      "Procyon Advisors LLC Has $3.97 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Nutrien Ltd、CF、Yara相關動態：「Zacks Industry Outlook Nutrien, CF Industries and Yara In...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Nutrien, CF Industries and Yara International - Yahoo ...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Zacks Industry Outlook Nutrien, CF Industries and Yara International - The Gl...（法說會）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
