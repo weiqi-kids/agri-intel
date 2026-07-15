@@ -1,0 +1,221 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T09:49:34.681521Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-07-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mosaic Company stock holds steady as fertilizer demand shapes the long-term outlook - Ad-hoc-news.de",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHYwc3VpZEpZYlJTRFVkVmktMVRhUlMzNFM2cmhGdUdXV192M0otbGdxVEU0LXhGYmczTUVFdjFLaTB2cm4tM1Z2YWhKRkJRWnFMQzdLbGw4ZF9Jd3VRdGpRZ1hMbnBNbEdEaFdiRTJ2R1Q3TU1PU1Z5bmpIa1FqUG96SjZENGRsRUw0bURuTTAtNUUxOFBLck1aTlJ4aXE2clozQWNDTTAydnF0OUJoWFRaYWR1YVlEeUVkY090cFpvUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-15-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "5 threats to soybeans during excessive heat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/5-threats-to-soybeans-during-excessive-heat"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-15-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Seasonal challenges can’t stop Barksdales’ peanut farm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/peanut/seasonal-challenges-can-t-stop-barksdales-peanut-farm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What happens when the farmer dies?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business-planning/what-happens-when-the-farmer-dies-"
+    },
+    {
+      "rank": 5,
+      "event_id": "nutrien-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien (TSX:NTR) Stock Could Be Below Fair Value Despite Fertilizer Push - Yahoo Finance UK",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb19rWkRiSWRnRUloeUNNRm8ycThMNF9hSjJVdkVRYzJtVUx1R1hOVzljUFdKakpHcGNjMTFpMk1uYl9UdVN6bUVOVVdidVBSeXhWcnExd3dmOEk0T1VDbjZvb00tOFVIWXdVelUzLUZiejFuODh3eThnbEo0QllMNkFR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 3
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 170,
+    "too_old": 152,
+    "gate1_blocked": 12,
+    "gate2_blocked": 9,
+    "passed": 32,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "ICL focuses on specialty minerals as investors weigh long-term growth - Ad-hoc-news.de",
+      "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+      "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+      "Corteva’s Geis: Interstate 35 marks Midwest’s rain divide - Brownfield Ag News",
+      "Procyon Advisors LLC Has $3.97 Million Position in Archer Daniels Midland Company $ADM - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Nutrien Ltd、Mosaic、ADM相關動態：「Mosaic Company stock holds steady as fertilizer demand sh...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Mosaic Company stock holds steady as fertilizer demand shapes the long-term o...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "5 threats to soybeans during excessive heat（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
