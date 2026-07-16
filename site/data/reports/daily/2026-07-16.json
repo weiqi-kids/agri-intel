@@ -1,0 +1,191 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T09:55:37.156647Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-07-16-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bunge Secures Record Soybean Oil Deal for Brazil SAF Project - ChemAnalyst",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXlES3JuSUk4Snh4THZobTNaTENuV0JjTi1ZMzhMTUc3RFBkbXJ5SXZsS2lPV1ptVXZGZGlhZjVpUUtzM3RzYmFETTVENEdROGRiSnIyLURBUU9aLTM3M0VQclRib3RjODZCUU5pN0paT0dKSHVycGhSX0RjbXFuNnZsZTdFNDJ3UTlCdEg4ckFYSXhQbHYxQTg4UHhwempDLWtoM3I4MDZ0N0VWc1hNWVRzdENMWE9xQ3BV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Now is the time to test nitrate levels",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/forage/now-is-the-time-to-test-nitrate-levels"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "5 ways farm succession planning gets stuck",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business-planning/5-ways-farm-succession-planning-gets-stuck"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Precise timing spurs successful soybean desiccation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/precise-timing-spurs-successful-soybean-desiccation"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2027 Master Agriculturist nominations now open",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/2027-master-agriculturist-nominations-now-open"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 171,
+    "too_old": 142,
+    "gate1_blocked": 17,
+    "gate2_blocked": 8,
+    "passed": 31,
+    "pass_rate": "15.7%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+      "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+      "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+      "Procyon Advisors LLC Has $3.97 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Bunge相關動態：「Bunge Secures Record Soybean Oil Deal for Brazil SAF Proj...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bunge Secures Record Soybean Oil Deal for Brazil SAF Project - ChemAnalyst（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Now is the time to test nitrate levels（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

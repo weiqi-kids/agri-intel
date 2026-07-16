@@ -1,5 +1,208 @@
 [
   {
+    "id": "bunge-2026-07-16-001",
+    "date": "2026-07-16",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Bunge Secures Record Soybean Oil Deal for Brazil SAF Project - ChemAnalyst",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXlES3JuSUk4Snh4THZobTNaTENuV0JjTi1ZMzhMTUc3RFBkbXJ5SXZsS2lPV1ptVXZGZGlhZjVpUUtzM3RzYmFETTVENEdROGRiSnIyLURBUU9aLTM3M0VQclRib3RjODZCUU5pN0",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXlES3JuSUk4Snh4THZobTNaTENuV0JjTi1ZMzhMTUc3RFBkbXJ5SXZsS2lPV1ptVXZGZGlhZjVpUUtzM3RzYmFETTVENEdROGRiSnIyLURBUU9aLTM3M0VQclRib3RjODZCUU5pN0paT0dKSHVycGhSX0RjbXFuNnZsZTdFNDJ3UTlCdEg4ckFYSXhQbHYxQTg4UHhwempDLWtoM3I4MDZ0N0VWc1hNWVRzdENMWE9xQ3BV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-002",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Now is the time to test nitrate levels",
+    "summary": "High nitrate levels in forage amid drought conditions pose a serious risk to your livestock. Use these 7 steps to test your levels today.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/forage/now-is-the-time-to-test-nitrate-levels",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-003",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5 ways farm succession planning gets stuck",
+    "summary": "Transitions &amp; Strategies: Here’s how to maintain momentum and overcome barriers while planning a farm transition.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/5-ways-farm-succession-planning-gets-stuck",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-004",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Precise timing spurs successful soybean desiccation",
+    "summary": "Soybean Source: Waiting to apply a soybean desiccant until R7 (beginning maturity) can boost harvest efficiency. Applications before this stage, however, can impact yield as well as soybean oil and pr",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/precise-timing-spurs-successful-soybean-desiccation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-005",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 Master Agriculturist nominations now open",
+    "summary": "Awards program honors Wisconsin farmers with exceptional management skills and community leadership. Deadline to apply: Oct. 9.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/2027-master-agriculturist-nominations-now-open",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-006",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortner grows peanuts with mix of new technology, proven practices",
+    "summary": "Slideshow: Mississippi farmer Lonnie Fortner is the Delta’s 2026 Peanut Efficiency Award winner for his innovative farming practices and commitment to the peanut industry.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/peanut/fortner-grows-peanuts-with-mix-of-new-technology-proven-practices",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-007",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watch expert stock dog training demos at Husker Harvest Days",
+    "summary": "Tim and Tanya Gifford will showcase how trained stock dogs save time gathering livestock while becoming loyal companions.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/watch-expert-stock-dog-training-demos-at-husker-harvest-days",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-008",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "See sustainability shine at Farm Progress Show",
+    "summary": "You’ll see that sustainability has three components: environmental responsibility, social responsibility and industrywide inspiration.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/see-sustainability-shine-at-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-009",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kansas farmer leads U.S. Wheat Associates",
+    "summary": "Kansas Digest: From Kansas having a place in USW leadership to the annual Kansas Ag Summit, farmers in the state are poised to focus on export opportunities.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/kansas-farmer-leads-u-s-wheat-associates",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-010",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meet ‘Snoopy,’ International Harvester’s iconic 2+2 tractor",
+    "summary": "Max’s Tractor Shed: This 1983 International Harvester 2+2 became a legend before the company’s dramatic fall.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/meet-snoopy-international-harvester-s-iconic-2-2-tractor",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-011",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farm Press celebrates 27th class of Peanut Efficiency Award winners",
+    "summary": "Farm Press is recognizing four more peanut growers this year for their innovation in and commitment to the peanut industry.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/peanut/farm-press-celebrates-27th-class-of-peanut-efficiency-award-winners",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-15-001",
     "date": "2026-07-15",
     "companies": [],
@@ -316,6 +519,361 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/soil-health/funds-offered-for-texans-adopting-utilizing-soil-building-practices",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-07-15-018",
+    "date": "2026-07-15",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien (TSX:NTR) Stock Could Be Below Fair Value Despite Fertilizer Push - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmhVN3M4VmpQWWQ2UnhoaExCc0w3cWl3eE9ybXhWTE0wVjlmX29oOFpjMDhBRkVHTUQ2QzJjV1RJTm53ZzhxWjVGVE9ZR1h3R1VjbEZBTlRmeXExZTVxbWxQSVIteTB6amZQSkt4bE",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmhVN3M4VmpQWWQ2UnhoaExCc0w3cWl3eE9ybXhWTE0wVjlmX29oOFpjMDhBRkVHTUQ2QzJjV1RJTm53ZzhxWjVGVE9ZR1h3R1VjbEZBTlRmeXExZTVxbWxQSVIteTB6amZQSkt4bEZFYzZYXzlvZExmMlE0cjRFVlBsdUQ3WHZFbUZac2EtbVNxYmxEcDFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-07-15-019",
+    "date": "2026-07-15",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's Why You Should Retain Nutrien Stock in Your Portfolio - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPb0swWml4YmVMMmtZZlFEc3Rqc3BvWGFBNXJfRmdDbEFUUTdQQnk4ZUJ5WmFDZkhOa2daTDhyQ0ZlaF85WFBmWWxNQ0dHZ29FVDhRQ2o5V0hpR2gwZHpUMmg0RFMwTHBfb1JJTFdqbn",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb0swWml4YmVMMmtZZlFEc3Rqc3BvWGFBNXJfRmdDbEFUUTdQQnk4ZUJ5WmFDZkhOa2daTDhyQ0ZlaF85WFBmWWxNQ0dHZ29FVDhRQ2o5V0hpR2gwZHpUMmg0RFMwTHBfb1JJTFdqbnRIU1h3UzlueTZtdmlySF9NTURDdmVPbUZnbV90QWFwYmNlMGtRUGlLS25zb1R3NWNONExYTlBnVVczcS1lWDFzT3UxUFVIaWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-07-15-020",
+    "date": "2026-07-15",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MOSAIC ANNOUNCES SECOND QUARTER 2026 EARNINGS RESULTS DATES - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0g1cDg5TmlWYVNKalhCbUZhQWxpRjdUZVJzaU5RUDNNN1lsM2xHUVlvUXRIMW8tTEZlOFhmeXp3cVJSd2FJUVYwamtXVklOcDlyeWhnd2czS3ZsNWN3d1BvbTJQdXU5OXJIR2dRUD",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0g1cDg5TmlWYVNKalhCbUZhQWxpRjdUZVJzaU5RUDNNN1lsM2xHUVlvUXRIMW8tTEZlOFhmeXp3cVJSd2FJUVYwamtXVklOcDlyeWhnd2czS3ZsNWN3d1BvbTJQdXU5OXJIR2dRUDh5Zk5PMUFtQURjS2JUeTcwTjBFQzQ2aTZlNTNlYnY5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-07-15-021",
+    "date": "2026-07-15",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MOSAIC ANNOUNCES SECOND QUARTER 2026 EARNINGS RESULTS DATES - Lelezard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VT3FTa0IxZk1HUE5Fd21jVVU1aFFtWE5VVHFmc2hOSUlvNDhYRVBjNWFJeWxNN0hVUDZ6Ul96YktrSUxIdHktOXVBOGpWaHc5bnRabUNoa19mUQ?oc=5\" target=\"_blank\">MOSAI",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VT3FTa0IxZk1HUE5Fd21jVVU1aFFtWE5VVHFmc2hOSUlvNDhYRVBjNWFJeWxNN0hVUDZ6Ul96YktrSUxIdHktOXVBOGpWaHc5bnRabUNoa19mUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-07-15-022",
+    "date": "2026-07-15",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera (NYSE:SQM) Stock Price Expected to Rise, The Goldman Sachs Group Analyst Says - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVnZraXpZN2lIdUxranptU0VaWlM0NlBIcU5QSUlzSm16b3MxcXI2LU40QUJjTEY1S1BMdmQzcXJWNzFCel93T3pMcFVCNTRHNEtoMDhVYmgwV1BLM2RaZE1ZN0VRZ2luZDF2dmNWdX",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVnZraXpZN2lIdUxranptU0VaWlM0NlBIcU5QSUlzSm16b3MxcXI2LU40QUJjTEY1S1BMdmQzcXJWNzFCel93T3pMcFVCNTRHNEtoMDhVYmgwV1BLM2RaZE1ZN0VRZ2luZDF2dmNWdXpEYVlnc1BYanE4cDdnNm9qVGVFVExGbTlxbkFhbXIySXFWZ0FNWjVzNWltNUxTUTZHY3Fya2pwOThrU29seG0zc0F0eWpDYk9vSDctaU0zUEpnVzF2TkltQVItQ2JMVkNhSnhnVjJvSXVPLVo5Z0xzd01nVDBUamtK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-07-15-023",
+    "date": "2026-07-15",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NNS acquires shares in OCI - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5ZmtnQkp0Tmh0RW9IYjlqcTRidVNRbnk1eHRoSmh4VHZmS3hRdU5ha3A3UFEzZTNfdUU4cnNyS05qeW9yVEFkbkwxcDdyUGFhaEFwN1F0Sm85cE96bF9sUklOOUQ1MzR5enRjbUc2c1",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5ZmtnQkp0Tmh0RW9IYjlqcTRidVNRbnk1eHRoSmh4VHZmS3hRdU5ha3A3UFEzZTNfdUU4cnNyS05qeW9yVEFkbkwxcDdyUGFhaEFwN1F0Sm85cE96bF9sUklOOUQ1MzR5enRjbUc2c1pndEo5WGl1VGtad3A?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-024",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "natural_gas_feedstock"
+    ],
+    "impact": "neutral",
+    "title": "EVLLF6404680 Bond Risk Profile - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBVeFZkZ3FsVnpNN05tLTR4NUh3VlpkcG9lTFVYMEZiaFBUSldVVlhERGo1Rjkzdl9FR3RoTTFlaUZ3YnBUd2lYLWpzekNMUFZnb05vWmhza1RZRlJHbXlnb2VLdU9uSEJsemJINDJmOV",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVeFZkZ3FsVnpNN05tLTR4NUh3VlpkcG9lTFVYMEZiaFBUSldVVlhERGo1Rjkzdl9FR3RoTTFlaUZ3YnBUd2lYLWpzekNMUFZnb05vWmhza1RZRlJHbXlnb2VLdU9uSEJsemJINDJmOVFQdkZBaDd2MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-025",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmers Urged to Speak Up as New Dual-Action Herbicide Moves Through EPA Review - AgWeb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUhjQkZXWnBlaklfZUJBeDN1TGRRTVA4aE5SVmxDTXE5UDQ5X1dtVGlkS1k0eVZpLUN3TW5NbEphbzN1U1NIYW5GZ0NzZUhfczJhMlM5S3lGSEc2WHEzekFvZTlvVHhCTWtIemxWam",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUhjQkZXWnBlaklfZUJBeDN1TGRRTVA4aE5SVmxDTXE5UDQ5X1dtVGlkS1k0eVZpLUN3TW5NbEphbzN1U1NIYW5GZ0NzZUhfczJhMlM5S3lGSEc2WHEzekFvZTlvVHhCTWtIemxWam5kRXFSRzZGUEctVzVKalJCR2gzeUNWX3ZIaWhFWnVMaXp3T0M4SHdrVkFwZVRIbi1aRzRZbWt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-15-026",
+    "date": "2026-07-15",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (ADM) Following Regenerative Agriculture Deal What Guidance Means For Valuation - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNEZfaE84TDVlZEhaYkRFSFh0ZHZSOVdENnZRSHd2dno3bGZQOFN4Z0xqRWJGV0p0dWY0cXlBQncydS1jTEt1T3F2am9XeUhXN2dGNEpyWFZsWDBmdmRGZ3hsT01IOUtjOV84SU5SRz",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNEZfaE84TDVlZEhaYkRFSFh0ZHZSOVdENnZRSHd2dno3bGZQOFN4Z0xqRWJGV0p0dWY0cXlBQncydS1jTEt1T3F2am9XeUhXN2dGNEpyWFZsWDBmdmRGZ3hsT01IOUtjOV84SU5SRzg1SGJVeTJ1M1h1TmktTE94LTIxZE41ZlVQcTFiNFp4akFTVklqdjJhUVZQQllZNkNIWDI5SnFINWZSSmFBb2RpS1M1bm12QnhwaGdkbTJKcng1NGVseTBpaXZDdlVPZ2JZb3ljVENUMnowTnUxWnBLaUQ2eVlYV01wMmtB0gHrAUFVX3lxTE00Rl9oTzhMNWVkSFpiREVIWHRkdlI5V0Q2dlFId3Z2ejdsZlA4U3hnTGpFYkZXSnR1ZjRxeUFCdzJ1LWNMS3VPcXZqb1d5SFc3Z0Y0SnJYVmxYMGZ2ZEZneGxPTUg5S2M5XzhJTlJHODVIYlV5MnUzWHVOaS1MT3gtMjFkTjVmVVBxMWI0WnhqQVNWSWp2MmFRVlBCWVk2Q0hYMjlKcUg1ZlJKYUFvZGlLUzVubXZCeHBoZ2RtMkpyeDU0ZWx5MGlpdkN2VU9nYllveWNUQ1QyejBOdTFacEtpRDZ5WVhXTXAya0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-15-027",
+    "date": "2026-07-15",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (ADM) Stock Still Looks Priced At A Premium Despite A 63% Five Year Run - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQWnFIZi00cFM0Mm93elNmbnUxeGFIQTktX3M1ZGNvbVpZVkFSYjNrY1JNcEQwdERIdXg1N2tFNlZRMUxzSTFEeEQ0aVc4TDJhNVl6aWxIWUpNZXotOGRsM3Rza19jLUZzVkZPTFVSVk",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnFIZi00cFM0Mm93elNmbnUxeGFIQTktX3M1ZGNvbVpZVkFSYjNrY1JNcEQwdERIdXg1N2tFNlZRMUxzSTFEeEQ0aVc4TDJhNVl6aWxIWUpNZXotOGRsM3Rza19jLUZzVkZPTFVSVkUzYXJvNGZlQ2w0cUo3d0J3LXpKQlI0VVFNT3QzWGY2dWdUTXA0bXB5U3g5QXhEdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-15-028",
+    "date": "2026-07-15",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NFSG Corp Has $892,000 Position in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHVETFk2bWJvaE9RN01seEUtLUZ6T2hpcEpXMVloZEF5dG40LTdvckF3cjlCamtnSURHQzdVSERIdmNXTFpPX29LODN2LWNaVEs2a2loVjkzS3c0eTZtcGFlSW1ITmlKS2J6M0pqeX",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHVETFk2bWJvaE9RN01seEUtLUZ6T2hpcEpXMVloZEF5dG40LTdvckF3cjlCamtnSURHQzdVSERIdmNXTFpPX29LODN2LWNaVEs2a2loVjkzS3c0eTZtcGFlSW1ITmlKS2J6M0pqeXRZUFc4RklrSzExbDllZEtlU3NPRmtyR1lIUkYwMGpVNHJzZmpCU3Q0RW9YVDlYOVNQOFd5RGFsYzdVb1VRRXFwZUFCcVFCZFUzN0ExdktxV1hQdEdLbEcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-15-029",
+    "date": "2026-07-15",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Acelen Renewables and Bunge Sign Landmark Soybean Oil Supply Deal for SAF and HVO Production in Brazil - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNWGJOMC1NYkJnb0M4TGFadVJ6U3k1Sm1ldmwtSTB0S1VQcVNOTGZoOXgtLWlFa1RYMHBtVWVMRUFneWZOUThDZ3RCMVZaUUEwQm83TW5kbUh1elR5YktpOE9HcmQ4MjRmNHlkZDJFNz",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWGJOMC1NYkJnb0M4TGFadVJ6U3k1Sm1ldmwtSTB0S1VQcVNOTGZoOXgtLWlFa1RYMHBtVWVMRUFneWZOUThDZ3RCMVZaUUEwQm83TW5kbUh1elR5YktpOE9HcmQ4MjRmNHlkZDJFNzRfeTYyUkZNdTNIbUp6YlpoMy1aUUJzVTdoWm50d1JNa1FOUDQ5V2hTeHNTbUVGSzIwTWxDZmxwaFVPSng1N1hKeFkzSHo2ZjhrWE94eWVndzRac3pPb3hpeXVGU3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-15-030",
+    "date": "2026-07-15",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global to supply soybean oil to Acelen for biofuel production - ship.energy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXN3alFRY1ZCT2RrMy1tZlMtRmhHU0JucEVrU2pkcEpPUGY0Uk9fZWZtb1F4T242VTFqaGx6bXl2ZUZfQmozYUlXRU9QRmZVNm95em1Hdi1zZXd3LXdoNGVCMDlNNmx6V1lsMHhLUF",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXN3alFRY1ZCT2RrMy1tZlMtRmhHU0JucEVrU2pkcEpPUGY0Uk9fZWZtb1F4T242VTFqaGx6bXl2ZUZfQmozYUlXRU9QRmZVNm95em1Hdi1zZXd3LXdoNGVCMDlNNmx6V1lsMHhLUFBSRFJIU2dwamNKa0NsQUo3aFVGQXBXYXRQNjJaQ29uSkdYaXFXcGlJOXpjQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deere-2026-07-15-031",
+    "date": "2026-07-15",
+    "companies": [
+      "deere",
+      "cnhi",
+      "agco",
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Agricultural Machinery Components Market Report Published, Profiles Deere, CNH Industrial, AGCO, Kubota, and 11 Other Companies - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbm1rdU5FRGJ0R3BVTUNPYnN2SDhYZ2Ryc0d4YnA5X2xvV0dWUlBrcDAtYkdRbXR1cDRNNlZ2dkVod2h2T0RyV2NFeTBCQTJSZ2NKZEJyRjYzR19MOVJBdnFLbzk3MHp5a0dURC1IRE",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbm1rdU5FRGJ0R3BVTUNPYnN2SDhYZ2Ryc0d4YnA5X2xvV0dWUlBrcDAtYkdRbXR1cDRNNlZ2dkVod2h2T0RyV2NFeTBCQTJSZ2NKZEJyRjYzR19MOVJBdnFLbzk3MHp5a0dURC1IRE85LTFENW8zS2tNd0c1bU5mRVZhYk1iSTJBM0xxUktmbXVOZ3Y1WGc5WGFsRW4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-15-032",
+    "date": "2026-07-15",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Citi Sticks to Its Buy Rating for CNH Industrial (CNH) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbjZiUFBzS25FTmo5RlR3N05aZ1B2MHRVdE1fR05DakJPd0U5X1VRQzMwZnBkUmw2ZXRzSWZsY0R1amFhXy1BZDR4Ri1STlZTOGROTHo2Y2ZqbVdOb0tiR1c3X29Cal81ZTBJTVVVSk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbjZiUFBzS25FTmo5RlR3N05aZ1B2MHRVdE1fR05DakJPd0U5X1VRQzMwZnBkUmw2ZXRzSWZsY0R1amFhXy1BZDR4Ri1STlZTOGROTHo2Y2ZqbVdOb0tiR1c3X29Cal81ZTBJTVVVSkZvbnhPZXp3Y3FiQWxmVXBudjViU1pVQkE3bDF1QkZNTjR1V1VZdTBaUHd5WF9sclRFSW5mV0Ezd0ZnVWRxZ2xUekFiZHlXZmlnR2ozTW5xSGtqMFUxeGptWVJIM0dyT1pPeVU1eA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-033",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grains rebound as geopolitical tensions prompt energy and wheat spike",
+    "summary": "Afternoon Market Recap: Grains green midweek as energy surge drives powerful price movement.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-034",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grains set for a nice midweek comeback",
+    "summary": "Morning Market Analysis: Corn, soybeans and winter wheat prices were all firm in overnight trading.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-035",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "USDA beef export data error raises trust concerns",
+    "summary": "Farm Progress America: A massive reporting mistake on beef exports has farmers and analysts questioning the reliability of government agricultural data.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/usda-beef-export-data-error-raises-trust-concerns",
         "type": "rss"
       }
     ]
@@ -855,6 +1413,24 @@
     ]
   },
   {
+    "id": "cf_industries-2026-07-14-029",
+    "date": "2026-07-14",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CF Industries Boosts Shareholder Returns With 20% Dividend Hike - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONU9qWE40Sk1COW5XZ250QmRnV0VfY1I3ZTl5SlRPSVBDMEhPajhaVzY0LUw1U1YtNDU5RkNOUGc0UEtFc0NZMElOaUoxNnZwM0ZZYWZFdkxhNDh5NDVGSmhsOUVXTU1sOHQ2NmVZd1",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONU9qWE40Sk1COW5XZ250QmRnV0VfY1I3ZTl5SlRPSVBDMEhPajhaVzY0LUw1U1YtNDU5RkNOUGc0UEtFc0NZMElOaUoxNnZwM0ZZYWZFdkxhNDh5NDVGSmhsOUVXTU1sOHQ2NmVZd1VOcnJ6bU95T25TckVSWDJ0dXp6XzNWV1A3Wi1DSTdwUEVWMGFNZ0draXlYSDlmWldQY2QwcU1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -1247,6 +1823,26 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/max-armstrong/farmer-sentiment-dips-as-input-costs-weigh-heavy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-13-022",
+    "date": "2026-07-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Just Raised Its Dividend by 20% While Its Stock Has Surged 55% in 2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOM211R0FCMnp6VjRyMURmZXV2b0V2c1M2a0NMcTY4Qm5kczFSTDdNSlZnRldDR3VhbFhybE9pS2lITXc5c25UUHQtM0lGcEFFdUFYZEZTdUlKR3V0Q1c1cVBjVDR1cWZWSmljQ2ViNG",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM211R0FCMnp6VjRyMURmZXV2b0V2c1M2a0NMcTY4Qm5kczFSTDdNSlZnRldDR3VhbFhybE9pS2lITXc5c25UUHQtM0lGcEFFdUFYZEZTdUlKR3V0Q1c1cVBjVDR1cWZWSmljQ2ViNG9fQlZnR0hHQ1NjbG1qbkxNWHZpZUxmNDg4a0gyc3hNaTJhaDIzc19sQmlvZm5XQnBk?oc=5",
         "type": "rss"
       }
     ]

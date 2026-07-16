@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 17,
+  "gate2_fail": 8,
+  "passed": 31,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+    "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+    "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo ",
+    "Procyon Advisors LLC Has $3.97 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+    "Bunge Global (BG) Is Up 6.7% After Big Q2 EPS Beat Expected - Has The Bull Case Changed? - simplywal"
+  ]
+}
