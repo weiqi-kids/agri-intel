@@ -1,41 +1,41 @@
 {
   "nutrien": {
     "earliest": "2018-01-02",
-    "latest": "2026-07-16",
-    "count": 2145,
+    "latest": "2026-07-17",
+    "count": 2146,
     "history_complete": true
   },
   "mosaic": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "icl": {
     "earliest": "2005-03-22",
-    "latest": "2026-07-16",
-    "count": 5363,
+    "latest": "2026-07-17",
+    "count": 5364,
     "history_complete": true
   },
   "kpluss": {
-    "earliest": "2001-01-10",
+    "earliest": "2000-10-12",
     "latest": "2026-07-17",
-    "count": 6515
+    "count": 6579
   },
   "sqm": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "intrepid": {
     "earliest": "2008-04-22",
-    "latest": "2026-07-16",
-    "count": 4587,
+    "latest": "2026-07-17",
+    "count": 4588,
     "history_complete": true
   },
   "cf_industries": {
     "earliest": "2005-08-11",
-    "latest": "2026-07-16",
-    "count": 5264,
+    "latest": "2026-07-17",
+    "count": 5265,
     "history_complete": true
   },
   "yara": {
@@ -51,57 +51,57 @@
     "history_complete": true
   },
   "taifer": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "corteva": {
     "earliest": "2019-05-24",
-    "latest": "2026-07-16",
-    "count": 1795,
+    "latest": "2026-07-17",
+    "count": 1796,
     "history_complete": true
   },
   "fmc": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "deere": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "agco": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "adm": {
-    "earliest": "2001-01-16",
-    "latest": "2026-07-16",
-    "count": 6412
+    "earliest": "2000-10-18",
+    "latest": "2026-07-17",
+    "count": 6473
   },
   "bunge": {
     "earliest": "2001-08-02",
-    "latest": "2026-07-16",
-    "count": 6274,
+    "latest": "2026-07-17",
+    "count": 6275,
     "history_complete": true
   },
   "kubota": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6353
+    "count": 6417
   },
   "etf_moo": {
     "earliest": "2007-09-05",
-    "latest": "2026-07-16",
-    "count": 4745,
+    "latest": "2026-07-17",
+    "count": 4746,
     "history_complete": true
   },
   "etf_dba": {
     "earliest": "2007-01-05",
-    "latest": "2026-07-16",
-    "count": 4912,
+    "latest": "2026-07-17",
+    "count": 4913,
     "history_complete": true
   }
 }

@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 11,
+  "gate2_fail": 10,
+  "passed": 21,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+    "Yara International ASA 2Q Net Pft $545M - Moomoo",
+    "Short Interest in Yara International ASA (OTCMKTS:YARIY) Rises By 609.6% - MarketBeat",
+    "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+    "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo "
+  ]
+}
