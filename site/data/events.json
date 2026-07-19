@@ -1,5 +1,85 @@
 [
   {
+    "id": "sqm-2026-07-19-001",
+    "date": "2026-07-19",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera S.A. $SQM Stake Cut by Allspring Global Investments Holdings LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSmh2T21FZkdneTBKcGZoZWFxUTR2MHBKbk8zcE1QOC1sZ09uQnUxZDlpT3FMcEd5cVhFdkpYTEtYZzZMelVxRTh4cHR1cWZYWWRKWmRNM0FhU1cwcWJLbkZuOXJtUnVxS1BxeG43OE",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSmh2T21FZkdneTBKcGZoZWFxUTR2MHBKbk8zcE1QOC1sZ09uQnUxZDlpT3FMcEd5cVhFdkpYTEtYZzZMelVxRTh4cHR1cWZYWWRKWmRNM0FhU1cwcWJLbkZuOXJtUnVxS1BxeG43OEM3NkVLTnBzZTB2Q2tia01wRF92SkwxUjh2TG0yaUlnNzZVZVc4dWxfSmhUWERzV3h1OXNyVlRqTUloc0VHOEJSQmxjcnM2MFN3b2dXWi1sY1Z0NGRqMV8tMXlYcTg5QXp5cmJBRzBxaFhxNWY1V2wyV0t3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-19-002",
+    "date": "2026-07-19",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yara International (OB:YAR) Stock Faces Bearish Narratives As Net Margin Climbs To 9.3% - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeW82dkJjODk0ZnVfY3o1UFZQWnlzS3NHMDBqWENTTERWQ1BSeUFrX0ZNSmE1RGVSNWhua2UxYzhQbnV0U0pSZTN5TTNSVzkzZmNnXzh5SUNCMDhadXBXbFE0MFVrdzcxcnlmc1BUVE",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeW82dkJjODk0ZnVfY3o1UFZQWnlzS3NHMDBqWENTTERWQ1BSeUFrX0ZNSmE1RGVSNWhua2UxYzhQbnV0U0pSZTN5TTNSVzkzZmNnXzh5SUNCMDhadXBXbFE0MFVrdzcxcnlmc1BUVEZzUTNvZE84bTRxSVZfaU9nM040NXdZZ0FFRmFvN3NJMElrcU1XVjBHLVFaU0NxRkVISHNkeUZ6enVJM3JWcElYMHV2TG1xcUxaRDlhSnNWUTlyTFRNYTJLTDF6ZWlDaWZuZ2x5bEkza9IB3AFBVV95cUxQem91QXU5V0RzemNZVk9RVF9fM3hobzg4bXgzQ0ttT2N6ejFPV2tKU3IxQ3haQmltaEQ5QVV3SUVVa2phRGlkbUJhSHpTMXlXbXhzd0pTeTRZSkdJZmFJQlV0bmI1Rmg5ZEpqcE1UR1ZyZjBFMWZpT042S1poa1c1N1oxelIzSWxpTk1vakZtb2Z4LXZQNDA0YWpYVjFaSExkaU9jTTBFdlYwRHRYbVZBZ1dXTG02ZlVwM2dqenFBd28yNnlzeTFDVTNqQzl2M3o1a0dtdWRXcnlZLTR5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-07-19-003",
+    "date": "2026-07-19",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI stock trades steadily as nitrogen and methanol earnings support valuation - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHVYQzdiTTBzcC1UVVFhMGlCYWd6ZnpsbDlVTUN6aWlvOXdZdmhjakp5QTdVUU5yRFFVWlhNUFR3NU54UWF4b0NOaTNKUFJpTml0MTAtSzhwV0plczhWNml1ZDJVN3FLcnRFOENvaT",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHVYQzdiTTBzcC1UVVFhMGlCYWd6ZnpsbDlVTUN6aWlvOXdZdmhjakp5QTdVUU5yRFFVWlhNUFR3NU54UWF4b0NOaTNKUFJpTml0MTAtSzhwV0plczhWNml1ZDJVN3FLcnRFOENvaTVUTkItdWljV004V1U5RmExeTc0WVQ2TnVEelljV2syaXhvUVpvUnhaTFM0SHhoaC1HSmYwTnptV2YycnVad1pEaEhiWEpnYlo1cU92eVI0WjVrN09F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-19-004",
+    "date": "2026-07-19",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global stock holds after 2025 earnings and merger update - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSU5kbkNoU0NQYURKM3BaUjE5b2lmaXpOZGZReWVMNHJkdy1ZZUgxWGMyaEJ4Znk5UlFoNllTS2VZaHEtREVab1VvTU1OSU5JdzAwSEtMQ0ZRcU5FallFN3ZoY3ZFVXhEZ25Mdm5BZk",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSU5kbkNoU0NQYURKM3BaUjE5b2lmaXpOZGZReWVMNHJkdy1ZZUgxWGMyaEJ4Znk5UlFoNllTS2VZaHEtREVab1VvTU1OSU5JdzAwSEtMQ0ZRcU5FallFN3ZoY3ZFVXhEZ25Mdm5BZkZZWlVSLW9QcUM2SGdUakpZV0dlZm9QU3k3T3pNa3lpeUVHS280cHM4UFZSX0JDRl9VQ2pfREFobV9rTDdFZFZtcFRtME5WY1dVU1BRamln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-07-18-001",
     "date": "2026-07-18",
     "companies": [
@@ -115,6 +195,42 @@
       {
         "name": "bunge",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHl1UmpVWkUxVDdlUjBpMWQ2NXh3Y3JVSGRrUmREbFZRLTIzXzNPd2JYSnNuUjVnNEhDLWJxbVZkb3Bmb0U2eERlLXVFNm5nbFRFZjd1TERYclVuYWtmN0NVcndNZUJYTk84Z19kRnA4a3QtMlpMTjdPY2V5bDBpRGxYTWhtUkpQZWhURTVQR0h3LVA3Uk95Q1lPVjg3MTJXcENPY3IzbW9OLUNUM0tFekxmUHZhaktxY2VDb0FuWlNneDRxRWgzQ1NtRzE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-007",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Week in Agribusiness, July 18, 2026",
+    "summary": "Soybean advocacy, disease alerts, renewable fuel opportunities, and upcoming field day are featured this week.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-july-18-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-008",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FFA Chapter Tribute: Allyson Rietcheck",
+    "summary": "Allyson Rietcheck, former Kansas State FFA sentinel and first-generation FFA member, is now pursuing a career in professional agriculture.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-chapter-tribute-allyson-rietcheck",
         "type": "rss"
       }
     ]
@@ -806,6 +922,46 @@
     ]
   },
   {
+    "id": "yara-2026-07-17-037",
+    "date": "2026-07-17",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Yara International ASA (YARIY) Q2 2026 Earnings Call Highlights: - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AJBVV95cUxQZ3NXeU5vdE85Y05NMW5paHlLcDZnVlV2eERrWG0wbGpUMzNPWjVYZkVTSkR6UzUzbmRhcGFEWExzYm81dGZuMWFHNFFPTWtOOWo3Nlk4MDFKQnhzZnIzaWhDTHBCMlk0UUlpU0xJb0",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQZ3NXeU5vdE85Y05NMW5paHlLcDZnVlV2eERrWG0wbGpUMzNPWjVYZkVTSkR6UzUzbmRhcGFEWExzYm81dGZuMWFHNFFPTWtOOWo3Nlk4MDFKQnhzZnIzaWhDTHBCMlk0UUlpU0xJb0RBUnVQNGVDWDNqblp0aEg4bmFHMms0S1pQcDkzUXNjd3pOc3UxOGZuVk9fMl85V0p0dldycGJ0cnA0ZHFZUG54RlpxWVJMcFBEa0xETFZaaVB0VWJmb2YzSUVSWTBzaGM1bEFGMmpMQVdUa1dfV3ZqMmRCUVdxRzFaSm9JWlNETU9NYWExMkZPZW15TkxkdnhKQkRUUTN6ZHJaYzRZMXAxdmdfNjFnVENQWVpvMi1FRU5QS1BYUjVHVWk5Z0VpTktCbkhaZ05RdWloZEppZmJaN2FMMzFpd0RzNGNWOXlGMkhibGdoNmdpeW5ONl83UWdnUHFMN24zbXdoU1JRMmJFS3BmOEQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-07-17-038",
+    "date": "2026-07-17",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kubota implements to make Irish debut at Ploughing - Irish Farmers Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxON09FUXpOaXlGSFRGd25XRWNhbnJhRldYamVmQnozMDZGQ01SOW1hOWp2UGRFN25HUFBGY3RmME9yTlVRaHFqSWFJd2pMZ0Vlc01MNmcxQ0tTT3FkcVpHUnRrbHIxd1VjamNoZTZscE",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON09FUXpOaXlGSFRGd25XRWNhbnJhRldYamVmQnozMDZGQ01SOW1hOWp2UGRFN25HUFBGY3RmME9yTlVRaHFqSWFJd2pMZ0Vlc01MNmcxQ0tTT3FkcVpHUnRrbHIxd1VjamNoZTZscEN4aVh1NElTRHVrSjNhTVZHWDY2OE9fU0owS1BCZXV1X244ME95VUtPWTMxdUc5SXljb3ZLQ3hTUkk1b0ZJQ3k3dl9NY2M5V2F4WDkzQ1ZRZmo5NnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "bunge-2026-07-16-001",
     "date": "2026-07-16",
     "companies": [
@@ -1324,6 +1480,26 @@
       {
         "name": "mosaic",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmRxbGxLMFFuNXJkYV9Ba3k3ZkpqZV9GMTZXN0dxcW9SQk10bVBZLUJ5RWg2SmNSQm1qMUpETGhTSHVkbjZaVW51SzdGTHdxNWxVd3NwQlk4aEZ5aHpSLURiWUhuekRXcVg4bmxUUUtNV01fZU1sTlk3dUduMGlBMGZGazNBZGRFSDdMWGRnZFNoR29NRFFBeFQzdGdkNFlXUjdMVXhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-16-028",
+    "date": "2026-07-16",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Yara International (YAR) Q2 2026 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE54MjFMVUxSR3UwVjRiU042VnhEWmdXeHVHZDJOZmJTTnptX2lVQ18zZ1B0T2VidlN2MS1EWlZyR2o5N053R2FqbXNZT2RuTjZ0WHAxQlM1dmtrVFpJUk1xcHMtVThfNlNFMGNkMW11Wj",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54MjFMVUxSR3UwVjRiU042VnhEWmdXeHVHZDJOZmJTTnptX2lVQ18zZ1B0T2VidlN2MS1EWlZyR2o5N053R2FqbXNZT2RuTjZ0WHAxQlM1dmtrVFpJUk1xcHMtVThfNlNFMGNkMW11WjlFQU1HVVdxTA?oc=5",
         "type": "rss"
       }
     ]
@@ -2045,6 +2221,29 @@
     ]
   },
   {
+    "id": "kubota-2026-07-15-038",
+    "date": "2026-07-15",
+    "companies": [
+      "kubota",
+      "deere",
+      "cnhi",
+      "agco"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Agricultural Machinery Components Market Report Published, Profiles Deere, CNH Industrial, AGCO, Kubota, and 11 Other Companies - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMFlUbDhDcGhlUWxGQXMzMHgyLS1oTm10NVFXU2dCR0tiQVdqUDktUXM2N2QyZG05aVJiRVhlbDlSRlVNZ0NFSTlwWklCOHZtcFZQSU00b2xibm9UYUoxdFZIVkcxNWhqRmpsT0NzUX",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMFlUbDhDcGhlUWxGQXMzMHgyLS1oTm10NVFXU2dCR0tiQVdqUDktUXM2N2QyZG05aVJiRVhlbDlSRlVNZ0NFSTlwWklCOHZtcFZQSU00b2xibm9UYUoxdFZIVkcxNWhqRmpsT0NzUXAzeG9xMzJSSUtqSWN3UTN0S1ItOGF5SGdyaGpLQVp6Z2hIVXpjVkxtWUNZcWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nutrien-2026-07-14-001",
     "date": "2026-07-14",
     "companies": [
@@ -2592,6 +2791,48 @@
       {
         "name": "cf_industries",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONU9qWE40Sk1COW5XZ250QmRnV0VfY1I3ZTl5SlRPSVBDMEhPajhaVzY0LUw1U1YtNDU5RkNOUGc0UEtFc0NZMElOaUoxNnZwM0ZZYWZFdkxhNDh5NDVGSmhsOUVXTU1sOHQ2NmVZd1VOcnJ6bU95T25TckVSWDJ0dXp6XzNWV1A3Wi1DSTdwUEVWMGFNZ0draXlYSDlmWldQY2QwcU1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-14-030",
+    "date": "2026-07-14",
+    "companies": [
+      "yara",
+      "cf_industries",
+      "nutrien"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Nutrien, CF Industries and Yara International - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2hXNFQ0dFBGeHEtX0ZtZWpoUFBoUHQzMUxwZzNuV0tRaEhHV01xTGxhRnI4akFuTHBRckZaUnNtemRGbGVkeEZkVlFMbFVVbEFXTFBGTUlZWjY5Ni1scFdtTzRRZmxlT3J4WTQ1ZH",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2hXNFQ0dFBGeHEtX0ZtZWpoUFBoUHQzMUxwZzNuV0tRaEhHV01xTGxhRnI4akFuTHBRckZaUnNtemRGbGVkeEZkVlFMbFVVbEFXTFBGTUlZWjY5Ni1scFdtTzRRZmxlT3J4WTQ1ZHpENW5Ucl83aVE2RlVkSkM4bGxzOGI1aWRrNGMzanZoLVVybzV3bWxVV1FXeFRFLXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-14-031",
+    "date": "2026-07-14",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ingredients, Flavors & Fragrances Stocks Q1 Recap: Benchmarking Bunge Global (NYSE:BG) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWYwTXU0STVPSlcxdVRkbS1qSS1hY0hpdU1sUjMtdE9xckc5dU9YblBDcEY1LWppdDRHdmxYSXNJRzc5cDZudFVuMEhleUctbEZQc0dYanFCVm8yYUVvbkxRRFBQMHhCbHJ6WkRjU0",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWYwTXU0STVPSlcxdVRkbS1qSS1hY0hpdU1sUjMtdE9xckc5dU9YblBDcEY1LWppdDRHdmxYSXNJRzc5cDZudFVuMEhleUctbEZQc0dYanFCVm8yYUVvbkxRRFBQMHhCbHJ6WkRjU0lQLW5tSEl4X3BQa0tjMnk3NjMybGM1NWMwSGRiM0hjcjA4WEt5dU9vZGVPcHRicEJJRi1jY1dqSFk?oc=5",
         "type": "rss"
       }
     ]

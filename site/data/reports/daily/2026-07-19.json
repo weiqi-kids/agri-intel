@@ -1,0 +1,190 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:44:10.532897Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oci-2026-07-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OCI stock trades steadily as nitrogen and methanol earnings support valuation - ad-hoc-news.de",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHVYQzdiTTBzcC1UVVFhMGlCYWd6ZnpsbDlVTUN6aWlvOXdZdmhjakp5QTdVUU5yRFFVWlhNUFR3NU54UWF4b0NOaTNKUFJpTml0MTAtSzhwV0plczhWNml1ZDJVN3FLcnRFOENvaTVUTkItdWljV004V1U5RmExeTc0WVQ2TnVEelljV2syaXhvUVpvUnhaTFM0SHhoaC1HSmYwTnptV2YycnVad1pEaEhiWEpnYlo1cU92eVI0WjVrN09F?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-07-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global stock holds after 2025 earnings and merger update - ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSU5kbkNoU0NQYURKM3BaUjE5b2lmaXpOZGZReWVMNHJkdy1ZZUgxWGMyaEJ4Znk5UlFoNllTS2VZaHEtREVab1VvTU1OSU5JdzAwSEtMQ0ZRcU5FallFN3ZoY3ZFVXhEZ25Mdm5BZkZZWlVSLW9QcUM2SGdUakpZV0dlZm9QU3k3T3pNa3lpeUVHS280cHM4UFZSX0JDRl9VQ2pfREFobV9rTDdFZFZtcFRtME5WY1dVU1BRamln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sqm-2026-07-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Quimica y Minera S.A. $SQM Stake Cut by Allspring Global Investments Holdings LLC - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSmh2T21FZkdneTBKcGZoZWFxUTR2MHBKbk8zcE1QOC1sZ09uQnUxZDlpT3FMcEd5cVhFdkpYTEtYZzZMelVxRTh4cHR1cWZYWWRKWmRNM0FhU1cwcWJLbkZuOXJtUnVxS1BxeG43OEM3NkVLTnBzZTB2Q2tia01wRF92SkwxUjh2TG0yaUlnNzZVZVc4dWxfSmhUWERzV3h1OXNyVlRqTUloc0VHOEJSQmxjcnM2MFN3b2dXWi1sY1Z0NGRqMV8tMXlYcTg5QXp5cmJBRzBxaFhxNWY1V2wyV0t3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "yara-2026-07-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yara International (OB:YAR) Stock Faces Bearish Narratives As Net Margin Climbs To 9.3% - simplywall.st",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeW82dkJjODk0ZnVfY3o1UFZQWnlzS3NHMDBqWENTTERWQ1BSeUFrX0ZNSmE1RGVSNWhua2UxYzhQbnV0U0pSZTN5TTNSVzkzZmNnXzh5SUNCMDhadXBXbFE0MFVrdzcxcnlmc1BUVEZzUTNvZE84bTRxSVZfaU9nM040NXdZZ0FFRmFvN3NJMElrcU1XVjBHLVFaU0NxRkVISHNkeUZ6enVJM3JWcElYMHV2TG1xcUxaRDlhSnNWUTlyTFRNYTJLTDF6ZWlDaWZuZ2x5bEkza9IB3AFBVV95cUxQem91QXU5V0RzemNZVk9RVF9fM3hobzg4bXgzQ0ttT2N6ejFPV2tKU3IxQ3haQmltaEQ5QVV3SUVVa2phRGlkbUJhSHpTMXlXbXhzd0pTeTRZSkdJZmFJQlV0bmI1Rmg5ZEpqcE1UR1ZyZjBFMWZpT042S1poa1c1N1oxelIzSWxpTk1vakZtb2Z4LXZQNDA0YWpYVjFaSExkaU9jTTBFdlYwRHRYbVZBZ1dXTG02ZlVwM2dqenFBd28yNnlzeTFDVTNqQzl2M3o1a0dtdWRXcnlZLTR5?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 193,
+    "too_old": 147,
+    "gate1_blocked": 9,
+    "gate2_blocked": 9,
+    "passed": 12,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+      "Yara International ASA 2Q Net Pft $545M - Moomoo",
+      "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+      "Forty three Eighteen Advisors LLC Buys New Holdings in Archer Daniels Midland Company $ADM - MarketB",
+      "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為SQM、Yara、OCI相關動態：「OCI stock trades steadily as nitrogen and methanol earnin...」。主要關注主題為農業產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "OCI stock trades steadily as nitrogen and methanol earnings support valuation...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global stock holds after 2025 earnings and merger update - ad-hoc-news.de（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 9,
+  "gate2_fail": 9,
+  "passed": 12,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+    "Yara International ASA 2Q Net Pft $545M - Moomoo",
+    "Update On Archer-Daniels-Midland: The Reasons Higher Highs Are On The Horizon (NYSE:ADM) - Seeking A",
+    "Forty three Eighteen Advisors LLC Buys New Holdings in Archer Daniels Midland Company $ADM - MarketB",
+    "Archer Daniels Midland (ADM) Advances While Market Declines: Some Information for Investors - Yahoo "
+  ]
+}

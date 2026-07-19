@@ -6,9 +6,9 @@
     "history_complete": true
   },
   "mosaic": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "icl": {
     "earliest": "2005-03-22",
@@ -17,14 +17,14 @@
     "history_complete": true
   },
   "kpluss": {
-    "earliest": "2000-10-12",
+    "earliest": "2000-07-14",
     "latest": "2026-07-17",
-    "count": 6579
+    "count": 6643
   },
   "sqm": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "intrepid": {
     "earliest": "2008-04-22",
@@ -51,9 +51,9 @@
     "history_complete": true
   },
   "taifer": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "corteva": {
     "earliest": "2019-05-24",
@@ -62,24 +62,24 @@
     "history_complete": true
   },
   "fmc": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "deere": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "agco": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "adm": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "bunge": {
     "earliest": "2001-08-02",
@@ -88,9 +88,9 @@
     "history_complete": true
   },
   "kubota": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6417
+    "count": 6481
   },
   "etf_moo": {
     "earliest": "2007-09-05",
