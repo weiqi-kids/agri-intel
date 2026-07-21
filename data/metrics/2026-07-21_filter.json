@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 14,
+  "gate2_fail": 9,
+  "passed": 26,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+    "Yara International ASA 2Q Net Pft $545M - Moomoo",
+    "Lobbying Update: $300,000 of FMC CORPORATION lobbying was just disclosed - Quiver Quantitative",
+    "Archer-Daniels-Midland Benefits From Stronger Crush Margins, but Bunge Offers More Upside, Morgan St",
+    "Archer-Daniels-Midland (ADM) Appoints Jeff Rowe as COO to Enhance Global Operations - GuruFocus"
+  ]
+}

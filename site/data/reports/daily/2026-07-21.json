@@ -1,0 +1,191 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:14:23.664250Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-21-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Farmers face tough choices as equipment prices stay high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/farmers-face-tough-choices-as-equipment-prices-stay-high"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mediolanum International Funds Ltd Cuts Stock Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFM3Mmo3VGkwV0hvcGdBb2x5YTU2d1NDcU5CLVdhNlZvX1R4MS1CdGRUbWJXZ1RROXpHZldOQmpyUjJhaVVyRVlfQVRjY2hCazR2VllKZEI2dE9lZHpjNk1ib2hlZWNRaXFsNHFuQUFGOGY5NnRtd3dydUpma0V2cks2ZnFKOXQ5V1VEVTN5M1JOWGRkY3plMzZJWHBhZ3lycktnejNEMjNqczY3VGxPNmpITWRfYmEyN1ZxV2pDZl9mSy1WWVByYkNzX3hmb0VKSFRtTjhMaTdJQXduYVZkQ04yWTdOWklQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Scholarships promote next generation in agriculture",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/names-in-the-news/scholarships-promote-next-generation-in-agriculture"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How bad will corn sweat be this summer?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/how-bad-will-corn-sweat-be-this-summer-"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why foreign visitors flock to Farm Progress Show",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-progress-show/why-foreign-visitors-flock-to-farm-progress-show"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 174,
+    "too_old": 146,
+    "gate1_blocked": 14,
+    "gate2_blocked": 9,
+    "passed": 26,
+    "pass_rate": "13.3%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+      "Yara International ASA 2Q Net Pft $545M - Moomoo",
+      "Lobbying Update: $300,000 of FMC CORPORATION lobbying was just disclosed - Quiver Quantitative",
+      "Archer-Daniels-Midland Benefits From Stronger Crush Margins, but Bunge Offers More Upside, Morgan St",
+      "Archer-Daniels-Midland (ADM) Appoints Jeff Rowe as COO to Enhance Global Operations - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為ADM相關動態：「Farmers face tough choices as equipment prices stay high」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Farmers face tough choices as equipment prices stay high（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mediolanum International Funds Ltd Cuts Stock Holdings in Archer Daniels Midl...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

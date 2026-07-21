@@ -1,5 +1,188 @@
 [
   {
+    "id": "adm-2026-07-21-001",
+    "date": "2026-07-21",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mediolanum International Funds Ltd Cuts Stock Holdings in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFM3Mmo3VGkwV0hvcGdBb2x5YTU2d1NDcU5CLVdhNlZvX1R4MS1CdGRUbWJXZ1RROXpHZldOQmpyUjJhaVVyRVlfQVRjY2hCazR2VllKZEI2dE9lZHpjNk1ib2hlZWNRaXFsNHFuQU",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFM3Mmo3VGkwV0hvcGdBb2x5YTU2d1NDcU5CLVdhNlZvX1R4MS1CdGRUbWJXZ1RROXpHZldOQmpyUjJhaVVyRVlfQVRjY2hCazR2VllKZEI2dE9lZHpjNk1ib2hlZWNRaXFsNHFuQUFGOGY5NnRtd3dydUpma0V2cks2ZnFKOXQ5V1VEVTN5M1JOWGRkY3plMzZJWHBhZ3lycktnejNEMjNqczY3VGxPNmpITWRfYmEyN1ZxV2pDZl9mSy1WWVByYkNzX3hmb0VKSFRtTjhMaTdJQXduYVZkQ04yWTdOWklQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-002",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scholarships promote next generation in agriculture",
+    "summary": "Minnesota Minute: State’s youth are rewarded for pursuing agricultural majors and participating in livestock showing at the Minnesota State Fair.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/scholarships-promote-next-generation-in-agriculture",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-003",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How bad will corn sweat be this summer?",
+    "summary": "Meteorologist provides insights into humidity and heat this season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/how-bad-will-corn-sweat-be-this-summer-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-004",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why foreign visitors flock to Farm Progress Show",
+    "summary": "Visitors from around the world come to see the latest in ag technology, equipment and innovative products for farmers during the Farm Progress Show.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/why-foreign-visitors-flock-to-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-005",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RACE trials help producers match cotton varieties to soil",
+    "summary": "Replicated Agronomic Cotton Evaluation trials in Oklahoma are managed by Oklahoma State University specialists who help both growers and seed companies understand what works and what doesn’t for the n",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/race-trials-help-producers-match-varieties-to-soil",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-006",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Refinishing crib and shelling corn brings back memories",
+    "summary": "Slideshow: An Illinois farmer restored a 1939 corn crib and shelled corn using a truck-mounted Cook Sheller for the first time in decades. Take a peek into the restoration and shelling process.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/refinishing-crib-and-shelling-corn-brings-back-memories",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-007",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seeding cover crops? Consider herbicide carryover",
+    "summary": "Salute Soil Health: Glean these tips for navigating potential herbicide carryover problems as you establish cover crops this fall.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soil-health/seeding-cover-crops-consider-herbicide-carryover",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-008",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Producers cautioned about flood-damaged hay",
+    "summary": "Proper documentation, along with hay inspection and disposal, are critical to the recovery process while ensuring livestock health.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/forage/producers-cautioned-about-flood-damaged-hay",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-009",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bulletproof 1939 tractor won’t surrender to age",
+    "summary": "For 87 years, a 1939 Case tractor has rumbled across the same Pennsylvania farm. From milking cows to trimming ditches, it’s a family legacy.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/bulletproof-1939-tractor-won-t-surrender-to-age",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-010",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Farmers face tough choices as equipment prices stay high",
+    "summary": "Ag Equipment Outlook: Geopolitical pressures and declining farm income create uncertainty.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/farmers-face-tough-choices-as-equipment-prices-stay-high",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mosaic-2026-07-20-001",
     "date": "2026-07-20",
     "companies": [
@@ -223,6 +406,296 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/organic/organic-production-is-increasing-in-mississippi",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-07-20-013",
+    "date": "2026-07-20",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien (TSX:NTR) Climbs As Potash Markets Regain Momentum - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmVELWNHRV9Rdlk3TkJGeXBKUnNlcWNrWlpkV29VWXh2Qm9GUHp6ckpvMms0bU5zRW8tS1FRX3hZZFptMHE0SDNJbzJsX3A5dUNPem9zQzBvMjh3a1I1WVI2SUx6UVRiVjBJcGZ2b2",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmVELWNHRV9Rdlk3TkJGeXBKUnNlcWNrWlpkV29VWXh2Qm9GUHp6ckpvMms0bU5zRW8tS1FRX3hZZFptMHE0SDNJbzJsX3A5dUNPem9zQzBvMjh3a1I1WVI2SUx6UVRiVjBJcGZ2b2pzTkU1SzIxbE9lbDdzM2ZnTHZCVkdRdWo5dEdwYWVQZVdyTUlDRXdZMlJKY0tGZ3ppb1ktZDJYWXZ3RFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-20-014",
+    "date": "2026-07-20",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What to Expect From CF Industries' Q2 2026 Earnings Report - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHcwdy15R0VFNGhiSUxjMUJUS0RlWTlySEpaX2QzOTBjc3ZJcTNVNDdsNmRZSDJUZ0FWZHhHWjgwcGhmQmdxT1ZCVENKUV9sVHRqR2RCa0xHWmZPbDEtaGZKOUlmTWxLeGNuUk5ueT",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHcwdy15R0VFNGhiSUxjMUJUS0RlWTlySEpaX2QzOTBjc3ZJcTNVNDdsNmRZSDJUZ0FWZHhHWjgwcGhmQmdxT1ZCVENKUV9sVHRqR2RCa0xHWmZPbDEtaGZKOUlmTWxLeGNuUk5ueTNXcGd0OHVyX1B2TU1mT1NkNk9uZTRpZHFhVVVZV2ZnSHltVEd2RF9Ma3ZCOTU4R1IzTEZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-20-015",
+    "date": "2026-07-20",
+    "companies": [
+      "yara"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Yara International ASA - Mandatory notification of trade - WebWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xVDJfVzEycGhCTUx5RE5LdDBldEVBUGM3XzY1cERJelp3ZjZ6MHlOUTJuX2dKZ19kR1ZaaEI5a3d2VnVtdzNPSElWcXUtMU1TMzZldkZuaEtUcGJWdUxlTg?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xVDJfVzEycGhCTUx5RE5LdDBldEVBUGM3XzY1cERJelp3ZjZ6MHlOUTJuX2dKZ19kR1ZaaEI5a3d2VnVtdzNPSElWcXUtMU1TMzZldkZuaEtUcGJWdUxlTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-20-016",
+    "date": "2026-07-20",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yara: Great Quarter, But I'm Downgrading The Stock (OTCMKTS:YARIY) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFpQYUczTHZuYWg3a2ozTVVRSFJZZVQ0NUxQNXBMTDRQUzRGNVJJZlNGOWVXWDczNDBwTUZoVUtaRlV4dzhRdGktaUlFaW83MVdGZ1h0dWFkSTgyR3doN1Y3cnRjV0pYeGR4b1VjVk",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFpQYUczTHZuYWg3a2ozTVVRSFJZZVQ0NUxQNXBMTDRQUzRGNVJJZlNGOWVXWDczNDBwTUZoVUtaRlV4dzhRdGktaUlFaW83MVdGZ1h0dWFkSTgyR3doN1Y3cnRjV0pYeGR4b1VjVk0yY2k3SlFZN2pFdWdoYmZYWmUtRktpVzA2VDZkam0xSTVSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-20-017",
+    "date": "2026-07-20",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley Issues Positive Forecast for Archer Daniels Midland (NYSE:ADM) Stock Price - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONkJTaF81RGhyc0tfTGhSdlVCMzdTM1BEQmhSTTlzamFGb1g1WWNwZ0x1VHZZWGRYX1h1S0VEUExWbDBCREJoWThmUU44WC12QVFLUy1QLTdOOTVlNWRJNEozVkVtSG1pVGpxTjRqY1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONkJTaF81RGhyc0tfTGhSdlVCMzdTM1BEQmhSTTlzamFGb1g1WWNwZ0x1VHZZWGRYX1h1S0VEUExWbDBCREJoWThmUU44WC12QVFLUy1QLTdOOTVlNWRJNEozVkVtSG1pVGpxTjRqY1V4OGcyYVhqWHVTUzJfR1M2V3NTUUFNNUpiYS1qSWkxWWx4UWZITTVRaGZTTHF3ZW1rRGRHdG1WTkZudXFvdFRXeUM2bnhrQ0xhblJUMmlfRVd0QlB5LU5UeTUyWGtpMWc0Q1VaNnpGVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-20-018",
+    "date": "2026-07-20",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley Adjusts Price Target on Archer-Daniels-Midland to $60 From $58, Maintains Underweight Rating - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVJWbTRGT196Z2VnZGRJYldfVW1LZ0N4T013b3BMVWpWZTJvTWgtMFhpTEo0UGFfaEN0WTF1WDQtVFMwU2FxSnVhekdTdlMzWlFIdFludlExSzNHa2FTcmVoa2dwQ2lnVTZ1VGowOW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVJWbTRGT196Z2VnZGRJYldfVW1LZ0N4T013b3BMVWpWZTJvTWgtMFhpTEo0UGFfaEN0WTF1WDQtVFMwU2FxSnVhekdTdlMzWlFIdFludlExSzNHa2FTcmVoa2dwQ2lnVTZ1VGowOW81Q2l4bzhJb3F6WHQ5OUNZUFZub2hOWExwVjIyTGl0NkkxSTk0VGlGMDRHTnNfajE3czFoSmtmdVZ5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-20-019",
+    "date": "2026-07-20",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley Adjusts Price Target on Archer-Daniels-Midland to $60 From $58, Maintains Underweight Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcjZkaC1NVlR0aFZOMG1fWDFxaGZCRXRpZ19HRlBHdmd3YnhaVERCdlZUakMyM281Y2tUXzZrRDc2R1FHQlNNVU5zdWdRV0lGd1ZfRngyWmRXNHFsa1JWb1l2TlFaMHp3UVI3LXhaN1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcjZkaC1NVlR0aFZOMG1fWDFxaGZCRXRpZ19HRlBHdmd3YnhaVERCdlZUakMyM281Y2tUXzZrRDc2R1FHQlNNVU5zdWdRV0lGd1ZfRngyWmRXNHFsa1JWb1l2TlFaMHp3UVI3LXhaN1Zzek5jTlMwcVB6TXlfQXZmUng1Q0VaaUg0SngxOE9SeVZIX1lmVk1VVEk3TmhZWnZhMDFucThUUUZfTUFpaV9YVDdFcE5zbDl0WDNROVhJWWRqbUF4UnZZaVR2Z0xQeDJhUC1CUVBFODZNTHI0VGhHcmM2N0o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-20-020",
+    "date": "2026-07-20",
+    "companies": [
+      "bunge",
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Morgan Stanley Likes Bunge’s Longer Run Over ADM - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWoxTXZrWk15QVNqN3k3Nmhpa0ltQWdyYWwweVNKbEtFV2FqWEF5VjZ5bXd4YXJFSlBGcnRYTlFzTjV1Q01KTjVaVjVkazR2d3dqNEZfSDhwZXY0R1FvWTNMai1reUd4NWFHMFdhWl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWoxTXZrWk15QVNqN3k3Nmhpa0ltQWdyYWwweVNKbEtFV2FqWEF5VjZ5bXd4YXJFSlBGcnRYTlFzTjV1Q01KTjVaVjVkazR2d3dqNEZfSDhwZXY0R1FvWTNMai1reUd4NWFHMFdhWllMRmJfdnlVdEdTQmZKUXZBX0tn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-20-021",
+    "date": "2026-07-20",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH's Q2 results webcast goes live Aug. 3 at 9 a.m. ET - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHhENTRWbG9QNkVjamo1Zlhfd1ZtNVpZalJqUm9YZWFWc0w4MHplWUE0WmVFOUtPNFZSM3pNOTZOM1FWdk9iS2xQZlFTcHhFSTEtU1FiZHI5RE5DVmZwZXhOYzNEc2tWTHU3dUdSbz",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHhENTRWbG9QNkVjamo1Zlhfd1ZtNVpZalJqUm9YZWFWc0w4MHplWUE0WmVFOUtPNFZSM3pNOTZOM1FWdk9iS2xQZlFTcHhFSTEtU1FiZHI5RE5DVmZwZXhOYzNEc2tWTHU3dUdSbzhkLU5PRTZmYzBFSXF3OGc1cXlWMjRIdzJLTk1xNWV0TjNMazZBV3FQNUpFVmU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-20-022",
+    "date": "2026-07-20",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH to announce 2026 Q2 results on August 3 - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2FQTjJ1Zkwyckczc2FBOGVlR2p4RXI0eXVBYjl2RThYNUdlNUxEeHFMUlpoRXM1R1JZMlBVcVZFSUlIM0pBazVCdnZWd1V3WTZMQTIwZmR0XzdmMVRhT1U0VTJYMGF5aVg2VHg2NT",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2FQTjJ1Zkwyckczc2FBOGVlR2p4RXI0eXVBYjl2RThYNUdlNUxEeHFMUlpoRXM1R1JZMlBVcVZFSUlIM0pBazVCdnZWd1V3WTZMQTIwZmR0XzdmMVRhT1U0VTJYMGF5aVg2VHg2NTZsSkVrYVhPbTdBeEdEOEkxMTZXbFhJUGRCSU1OUllla0pmVEc0c2o1akdwakxST2M2TEFDRzZEcUhqdjdPdmRITFE1QkhMalR4RVljbTZCUDhpaHJqYTV2YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-023",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "When China buys, soybean prices rise",
+    "summary": "Afternoon Market Recap: Corn prices also greened up on Monday, with winter wheat prices fading lower.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-024",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Exports: 3 more flash sales announced, July 20, 2026",
+    "summary": "The 2026-27 marketing year for corn and soybeans begins Sept. 1",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-025",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "What happens when pollination meets hot weather, hot war?",
+    "summary": "Morning Market Analysis: Corn hit a seven-week high overnight and soybeans topped two-year highs amid weather, war concerns.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-026",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Farm equipment sales show caution, combines buck the trend",
+    "summary": "Farm Progress America: Farmers pull back on tractor purchases while combine sales tick upward, signaling selective investment amid economic uncertainty.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/farm-equipment-sales-show-caution-combines-buck-the-trend",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-027",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Dairy exports offer new outlet for massive milk production",
+    "summary": "Dairy Outlook: Expanding markets matter as the U.S. dairy herd grows to its largest size in 34 years.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock-and-dairy/dairy-exports-offer-new-outlet-for-massive-milk-production",
         "type": "rss"
       }
     ]
@@ -1203,6 +1676,26 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON09FUXpOaXlGSFRGd25XRWNhbnJhRldYamVmQnozMDZGQ01SOW1hOWp2UGRFN25HUFBGY3RmME9yTlVRaHFqSWFJd2pMZ0Vlc01MNmcxQ0tTT3FkcVpHUnRrbHIxd1VjamNoZTZscEN4aVh1NElTRHVrSjNhTVZHWDY2OE9fU0owS1BCZXV1X244ME95VUtPWTMxdUc5SXljb3ZLQ3hTUkk1b0ZJQ3k3dl9NY2M5V2F4WDkzQ1ZRZmo5NnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-17-039",
+    "date": "2026-07-17",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corp (NYSE: FMC) director receives 50 dividend-equivalent common shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2kxTjg5TzJZUXN2aVpYWklrc3NhSkotTXFOUVJWTEpkTGttdmJ0Tjk0RDA0eWVMNzFuS0tRVklZZ3dzSGhFOTJaN1dSQ25HQ3RvdEtpend1OU9CLTRLR0I4NDdhdDBEd0ZLM2FMaT",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2kxTjg5TzJZUXN2aVpYWklrc3NhSkotTXFOUVJWTEpkTGttdmJ0Tjk0RDA0eWVMNzFuS0tRVklZZ3dzSGhFOTJaN1dSQ25HQ3RvdEtpend1OU9CLTRLR0I4NDdhdDBEd0ZLM2FMaTBZb3NKWU9oU0hDWWliRWozZW9FYWpWUWIxalEyNGxnZzVrd2lyTVdkdHFxNGx4R3R2Tk04?oc=5",
         "type": "rss"
       }
     ]
