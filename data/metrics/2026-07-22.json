@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-22",
+  "total_events": 17,
+  "by_company": {
+    "sqm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oci": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corteva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kubota": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": -0.06
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

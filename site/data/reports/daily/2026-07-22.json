@@ -1,0 +1,223 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:14:00.578457Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-22-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Want more return per acre? Data and drones hold the answer",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/technology/want-more-return-per-acre-data-and-drones-hold-the-answer"
+    },
+    {
+      "rank": 2,
+      "event_id": "kubota-2026-07-22-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AirJoule Technologies and Kubota Corporation Announce Deployments of Breakthrough Decentralized Water Infrastructure and Exclusive Sales Partnership to Unlock Water-Constrained U.S. Residential Development - GlobeNewswire",
+      "companies": [
+        "kubota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNYm1MWVBuUGVlc3RRdEl3Y0hlTHJwOHRsWGFrLWtjb0dVTUEyMFhPTzdqdWtVREJGdERCT3EyNGxDTmxWWFVwejAtX0xOWUY4VzR2dmZoOTNPaHBsREtFZmdaeGtUSERIbjd6dEJjTHJYM2JiODJzMF9PSk0xa0sxS2NGSkNzN0d6Zl95MWc0dUxmRzFvRGRyRk4wRXowckdRcVh4RTF6Z2dWQ1h4TTdYVGdZY0lHSVVoRjlER2VrVndpRWdIdnlaMmJfSlBBNEQ1cng3NXRoODVwNDRuMjEyQXFOa0FBZWlSY25saW9iZk02bXNfSkFnc3gwMDQzd2ZFcEgzcXVyekZCWUNqQUljbVF6ektQRDZVdG9ybHl3Y2xhbTVHWVhYclJGRVVxTGlqM2d6TjBqVVBRemt6Q1h2Yy1aMmg0TE1wY2g2OFE3LUZETExzVDV2WldvSmZKM2J6X212ZlZnSngxVnN2?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sqm-2026-07-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABN Amro Investment Solutions Purchases 123,700 Shares of Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVERsVTZubkhGTXNBT1poaFNjV3BFSUY1MTFkUzE0Zmo4VXExN1JrRm9XN0I2cDB0LXVRd0laWndPOGlkZ2RCSWhDZkt0R3VJYmxwVjhEMjBpaFRySnRWUjhvWFo0SGdJWFpDMXNkQkZuNHlVdC1pSmttbzg3MkgyMXIwckNMZFlSUWlPX3RZc2VjenpiNTZxZWE4a0FsTmtsd0RXWnFLX3hMdnZiY1ZLR1J3UFFZS1k3aGxMUkRrV0RSRE5HY3RYeE9pLW5qMDJKNDJyM1J2WHFpeFRJQVZpZGFIRjU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "oci-2026-07-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI stock trades steady as nitrogen margins and dividend support valuation - Ad-hoc-news.de",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUklkX1FBem5NN0t5OUR5Y0M2NV9kYndIbWFPRmM4TTRUVGhBTno5VFpoOHdFUHdQbmZKSW5Zc1hUUi1NUEJUb3pubWMwc3ZSQzBUcUtPYkxzdEVwSVFPYktpNVVxeFlydlBsM2p6M0lBQUJtY2RHNFl0dWpFci1hSGczQkYwU1ZOWW5EM2JGb1NqRjBKVGVkOUJ1RGJyQ0tnUXlnc04tZ0M5SlN2ZTJWYk9vcHFaMWVpazNDUHlaQTZKSFd4Y2xjaUYtRWt3QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corteva-2026-07-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corteva supports farmers as custodians of agricultural land for future generations - Farmers Review Africa",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjJWRmZ0Nk5waG1XLXFYbEw5YmdXX09sWnN3bmZrWjhaSGNtTW1VQjZ3UjJiTndrZlE1U0tVdF9WSHFCd3FMaXgxNTRST1lqZDNDUDA2UnYwQkt2N0tTTHl4NVdJYkc3UGtOcXluWDhGMWNSR3dZcnd5Y0o2dDBzZVl5cmQyRHM4MjB5aEFlUldLTE9oaEptTUo4SGMxdXFoMGRqb1B0cGUxa2gzaTNOaWxGZks2R0p5?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "kubota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 169,
+    "too_old": 138,
+    "gate1_blocked": 14,
+    "gate2_blocked": 14,
+    "passed": 33,
+    "pass_rate": "16.6%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+      "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+      "Yara International ASA 2Q Net Pft $545M - Moomoo",
+      "Berenberg Trimmed Yara Estimates After A Soft Q2 - Finimize",
+      "Applications Open for ASA - Corteva Agriscience Young Leaders Program - Morning Ag Clips"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為SQM、OCI、Corteva相關動態：「Want more return per acre? Data and drones hold the answer」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Want more return per acre? Data and drones hold the answer（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "AirJoule Technologies and Kubota Corporation Announce Deployments of Breakthr...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

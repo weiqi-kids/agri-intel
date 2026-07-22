@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 14,
+  "gate2_fail": 14,
+  "passed": 33,
+  "gate2_samples": [
+    "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+    "Sociedad Química y Minera de Chile (SQM) As Lithium Growth Hopes Meet A Near Fair Value View - simpl",
+    "Yara International ASA 2Q Net Pft $545M - Moomoo",
+    "Berenberg Trimmed Yara Estimates After A Soft Q2 - Finimize",
+    "Applications Open for ASA - Corteva Agriscience Young Leaders Program - Morning Ag Clips"
+  ]
+}
