@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:11:21.734235Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-23-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "What to check first when floodwaters recede from your hayfields",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/forage/what-to-check-first-when-floodwaters-recede-from-your-hayfields"
+    },
+    {
+      "rank": 2,
+      "event_id": "sqm-2026-07-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KBC Group NV Sells 23,639 Shares of Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSU9FdkhaOFVUM3d5blgyUE54VTdEdDJIb3BSLWV3SXAwSnpWMmJEMi1KX2JLcXJwSnl1WmxRMEw4UTYwWFlnZGliMVQ3U2VXbHZIWkZIUEgwTl93bTlhMmx2N3NYdy1NeHNyUjN1M1FQOVBiVWlDUWZobS1pLTBUUkNUNnc1YVhEOVpRMWQ5NW1XT29qaGRpQlllZDBTMGNrVTZOd1hkTWw4Z2Q2YW1vd05XUUFwWkNYQWoxanJfbzFmQ0dtUVFr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-07-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Acquired by Dimensional Fund Advisors LP - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWTF4SGdMRGFNUC16TjFMUUY5VVlhU3BYWEZYQ1dGMWVjeW9WTGQ2cks3RXVIWlN0cFF4d1FWbm5HZmxndE1ZYWRWNEtaM3RDSFlzbFVzRmhYdDNuZ1l2Q0hETFhQX1paYl9lYmhfV3JxaU5zRnMxeUJlZVh3bExyQ2g4aFFBSUNGZEt3ajdyMmxZbmRualRtbUw0TVFZRlFHMXBURVBpYTFmTGQ3QzBnQVVwLWFQOHNIbFlnRVNwODdFRktQbWt1eWFDZHc0Mkpid1JWUWo0cXFOUVk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How the Missouri State Fair is celebrating America",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/how-the-missouri-state-fair-is-celebrating-america"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Smart grazing saves money this fall",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/cattle-news/smart-grazing-saves-money-this-fall"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 174,
+    "too_old": 139,
+    "gate1_blocked": 12,
+    "gate2_blocked": 12,
+    "passed": 34,
+    "pass_rate": "17.3%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Nutrien puts more eKonomics into its soil fertility phone app - The Western Producer",
+      "Shopify and Nutrien: Market Selloff Creates Opportunity as Fundamentals Stay Strong - NAI500",
+      "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+      "Yara International ASA 2Q Net Pft $545M - Moomoo",
+      "Applications Open for ASA - Corteva Agriscience Young Leaders Program - Morning Ag Clips"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為SQM、ADM相關動態：「What to check first when floodwaters recede from your hay...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "What to check first when floodwaters recede from your hayfields（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "KBC Group NV Sells 23,639 Shares of Sociedad Quimica y Minera S.A. $SQM - Mar...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 12,
+  "gate2_fail": 12,
+  "passed": 34,
+  "gate2_samples": [
+    "Nutrien puts more eKonomics into its soil fertility phone app - The Western Producer",
+    "Shopify and Nutrien: Market Selloff Creates Opportunity as Fundamentals Stay Strong - NAI500",
+    "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+    "Yara International ASA 2Q Net Pft $545M - Moomoo",
+    "Applications Open for ASA - Corteva Agriscience Young Leaders Program - Morning Ag Clips"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-23",
+  "total_events": 11,
+  "by_company": {
+    "sqm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": -0.14
+    },
+    "planting_season": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

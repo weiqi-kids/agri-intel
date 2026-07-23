@@ -1,5 +1,208 @@
 [
   {
+    "id": "sqm-2026-07-23-001",
+    "date": "2026-07-23",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KBC Group NV Sells 23,639 Shares of Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSU9FdkhaOFVUM3d5blgyUE54VTdEdDJIb3BSLWV3SXAwSnpWMmJEMi1KX2JLcXJwSnl1WmxRMEw4UTYwWFlnZGliMVQ3U2VXbHZIWkZIUEgwTl93bTlhMmx2N3NYdy1NeHNyUjN1M1",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSU9FdkhaOFVUM3d5blgyUE54VTdEdDJIb3BSLWV3SXAwSnpWMmJEMi1KX2JLcXJwSnl1WmxRMEw4UTYwWFlnZGliMVQ3U2VXbHZIWkZIUEgwTl93bTlhMmx2N3NYdy1NeHNyUjN1M1FQOVBiVWlDUWZobS1pLTBUUkNUNnc1YVhEOVpRMWQ5NW1XT29qaGRpQlllZDBTMGNrVTZOd1hkTWw4Z2Q2YW1vd05XUUFwWkNYQWoxanJfbzFmQ0dtUVFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-23-002",
+    "date": "2026-07-23",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland Company $ADM Shares Acquired by Dimensional Fund Advisors LP - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWTF4SGdMRGFNUC16TjFMUUY5VVlhU3BYWEZYQ1dGMWVjeW9WTGQ2cks3RXVIWlN0cFF4d1FWbm5HZmxndE1ZYWRWNEtaM3RDSFlzbFVzRmhYdDNuZ1l2Q0hETFhQX1paYl9lYmhfV3",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWTF4SGdMRGFNUC16TjFMUUY5VVlhU3BYWEZYQ1dGMWVjeW9WTGQ2cks3RXVIWlN0cFF4d1FWbm5HZmxndE1ZYWRWNEtaM3RDSFlzbFVzRmhYdDNuZ1l2Q0hETFhQX1paYl9lYmhfV3JxaU5zRnMxeUJlZVh3bExyQ2g4aFFBSUNGZEt3ajdyMmxZbmRualRtbUw0TVFZRlFHMXBURVBpYTFmTGQ3QzBnQVVwLWFQOHNIbFlnRVNwODdFRktQbWt1eWFDZHc0Mkpid1JWUWo0cXFOUVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-003",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How the Missouri State Fair is celebrating America",
+    "summary": "The nation’s 250th birthday will be marked with patriotic themes throughout all fair exhibits, including livestock shows and agriculture displays.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/how-the-missouri-state-fair-is-celebrating-america",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-004",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Smart grazing saves money this fall",
+    "summary": "Livestock Insights: Here’s how to manage beef cows on cornstalks to extend your grazing period by 45 days per acre, reducing supplementation costs.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cattle-news/smart-grazing-saves-money-this-fall",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-005",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Don’t let herbicide carryover derail your cover crop plans",
+    "summary": "Talkin Weeds: From herbicide carryover concerns to burndown timing, here’s what you need to know before seeding this fall.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/weeds/don-t-let-herbicide-carryover-derail-your-cover-crop-plans",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-006",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "What to check first when floodwaters recede from your hayfields",
+    "summary": "Louisiana and Mississippi farmers face unprecedented losses from Tropical Storm Arthur. A University of Arkansas guide offers step-by-step recovery plans for damaged forage.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/forage/what-to-check-first-when-floodwaters-recede-from-your-hayfields",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-007",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Don’t rely on stem appearance for soybean harvest timing",
+    "summary": "Soybean Corner: Late-season plant health often leads to green stems up until harvest despite the grain being dry enough to “go”. Here’s how to decide when to pull the trigger on harvest.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/don-t-rely-on-stem-appearance-for-soybean-harvest-timing",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-008",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stop losing yield — and money — to wet fields",
+    "summary": "Try drainage tiling, cover crop tactics and other strategies to mitigate excess soil moisture.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/management/stop-losing-yield-and-money-to-wet-fields",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-009",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "8 things to do in Des Moines during Farm Progress Show",
+    "summary": "About 45 miles away from the Farm Progress Show, Des Moines beckons with baseball, a botanical garden, art and more.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/8-things-to-do-in-des-moines-during-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-010",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "It’s finally time to celebrate our Peanut Efficiency Award winners",
+    "summary": "Today, Farm Press is celebrating its 2026 class of Peanut Efficiency Award winners, including Henry Froese, the Southwest recipient, an organic and conventional producer from Seagraves, Texas.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/peanut/it-s-finally-time-to-celebrate-our-peanut-efficiency-award-winners",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-011",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Education takes shape on Susan Brocksmith’s farm",
+    "summary": "Video: The 2026 Indiana Master Farmer married her farming roots and university role to create a unique experience for students.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/education-takes-shape-on-susan-brocksmith-s-farm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [
@@ -309,6 +512,374 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-business/how-this-brew-became-the-official-beer-of-2026-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-07-22-018",
+    "date": "2026-07-22",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Biosciences and Elicit Plant Launch Joint Program to Develop New Canola Solutions for North America - AgriBusiness Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRjhMb015Sm42dDg1bmdZNjI3U0NERlp0eU9GcXdMN1oyc1diRTgtX1ZQdzJ4X1pONS1fR1pqT01oNnNCOG5laTF5MUVNanNGeEV1aDZJa1BpRTdpUWZ0WlBkT1NHajhlYWVZNzExNm",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRjhMb015Sm42dDg1bmdZNjI3U0NERlp0eU9GcXdMN1oyc1diRTgtX1ZQdzJ4X1pONS1fR1pqT01oNnNCOG5laTF5MUVNanNGeEV1aDZJa1BpRTdpUWZ0WlBkT1NHajhlYWVZNzExNm5DaDgyWVVtMzBWY0t2RmdvU21oeTlCT0c1MGhaQWlsSGRKM0ZFN0R2M1E5QVlmMTZnbW9GeWN0ZzNjd0p5OGh5RTVwRklQTDlSbkRoeGZqUHJJYkVZd1l4ZUFZQ0VYV0VwSmFTOWFmQ0ljTHNYRmVVVTg1djlpZEM3cGJuWmhUOUZxT0poTnZWbEhRTjZod9IBgwJBVV95cUxPQ1Jxci1DZk5iUzI1eVRlSmFNc2p5MXlybDZSTjVYRnFMeEVSUmRXSEhtU1hmR053OEZTVUxYMDJQX2JWNS1jd1dOcHM2V25mS1ctNTg0d05HN0hlZ3EwYWZLcERZTVRsWjZIVDRQdjFtb3hBeUhSbkNCU205OVNyZU5JVUZJbUVILVlIelEwMUNxUEhWenRhRlRaX01CQXY5YWEtMXdIVDU4emRYWXVTU2hld1ZZX3R2OGJCS0NiTlRoenRKRk5YSUdzSmJZekloajlCbWhnVkEzRm1QZlZZRnF6cmRQYlF5dmpwcU10cVBYWTJGd0NiQVlBbW9wYXBPc0Y0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-07-22-019",
+    "date": "2026-07-22",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Company stock trades steady as fertilizer margins stabilize after mixed 2025 results - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnQyT3FHOHJpWEEzSEFna216NGl2bDlSbHo4bXB3ZW1NbmFOOTVKMkljbE11VUFISkFpdE50Zzd1Q01BR29WZUpEdHlyUERHQ2J5bTdEc18xQ1RGVk5BaUFwV3FHcTY2V3ZmRFNWa2",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnQyT3FHOHJpWEEzSEFna216NGl2bDlSbHo4bXB3ZW1NbmFOOTVKMkljbE11VUFISkFpdE50Zzd1Q01BR29WZUpEdHlyUERHQ2J5bTdEc18xQ1RGVk5BaUFwV3FHcTY2V3ZmRFNWa2VRMDJ0d193WFdxd2xkaThrTC1EaVlveU5Ia1VwU1FncHg3V0lncUFCQjhONTgwR0ZXZHI3LW53bzRIU0JsVTl3blZ4TUt1MnlrM0VnVW9hYmxmZEdza3RKS1JpTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-22-020",
+    "date": "2026-07-22",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings (NYSE:CF): A Quality Value Stock with Elite Profitability and Undervaluation - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1B0eWg1U3dvc3JjZWRlNjNhdmJpR2M3Z05XRTFKdEk1YVBVQU9BUzdEX0JtWWFPeGJXUjJwZlpFd0RveWRDOXFDbUpMSWl0blV3bWpaWDJsbTkwNGRsZy1kWjJEU1pmZkRwMW5JRm",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1B0eWg1U3dvc3JjZWRlNjNhdmJpR2M3Z05XRTFKdEk1YVBVQU9BUzdEX0JtWWFPeGJXUjJwZlpFd0RveWRDOXFDbUpMSWl0blV3bWpaWDJsbTkwNGRsZy1kWjJEU1pmZkRwMW5JRm1PXzBPc2pnRjM2WU54UGtYLXJPeXhMMVRCd1lHQkx2S0xGS2l6d2ZBTV8tOGVaeEZDeHFEQzkzdG9KSVN0bFlFQXBXZUZaRVNvWFNWYWxpMXZTdG9NUFFQckN1UnNUX3I2bXlfQWExRFVnd3lqeHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-22-021",
+    "date": "2026-07-22",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPREdoS09yci1RYmZNeUdNUk9BdklxemZxWTgxUzNibm5GTnlnOVdTcDdEN1hCYjhuVXhDcWVkd08wU210UFF2YVR1WTM4amtGaHhJcEFvMjlYMFhQOGtNZGV3VDYzbkhxSjZfTFRlV0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPREdoS09yci1RYmZNeUdNUk9BdklxemZxWTgxUzNibm5GTnlnOVdTcDdEN1hCYjhuVXhDcWVkd08wU210UFF2YVR1WTM4amtGaHhJcEFvMjlYMFhQOGtNZGV3VDYzbkhxSjZfTFRlV05YOTJvYjJ0N0xUcjIxNjliLVA0d2dCT1V4WmVtSGFJWEF6eTlMa3I4RDdzZEpJUzBQbS1kWTZDSGZXdU1ZS1JHM2V4N0ZRWlZaaC1GclRFckgxc1YtUHlQcndWWmJ3bnlkMFVjdC1KcWdzcTdELUtuc00yWk9hR2tzaGF1RW1uZGhtZGJNOTcxVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-22-022",
+    "date": "2026-07-22",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is CF Industries Holdings Inc (CF) Overvalued After 3.6% Rally? - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXVrY2pid1FubTNTVTgyRTl5VHVzVEN3ai1ENFBfQnBtMzBwTlk4T0lUOERkNnVuek00TWNLQUZCTFdTOVFsRWtHa05HU0dxX0ZkenUtTnBHNWFRelRQa1dvdUNQQW1TbnFMTlkwMz",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXVrY2pid1FubTNTVTgyRTl5VHVzVEN3ai1ENFBfQnBtMzBwTlk4T0lUOERkNnVuek00TWNLQUZCTFdTOVFsRWtHa05HU0dxX0ZkenUtTnBHNWFRelRQa1dvdUNQQW1TbnFMTlkwMzM3Z3NhcU53QUlDSmN0VDNGNzdOMWF0TGlYUGNxa2lpM2ptQmctOERSQjBEbm1LeTczVjlUTFZpNE90STM1YlRSSzhoYjVQQThKTlEwSVQtMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-22-023",
+    "date": "2026-07-22",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yara Forecasts Revised as BMO Notes Q2 Results, Gulf Coast Ammonia Facility Acquisition - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ1lmbXJyWDhjUE1FMWNwM1JkYmxXTTN6SlZjRVF5MjBHd3hwT2lDSGF2c29CN3o2bnBVSnNjNlNod3Z3MjdxNXJEc3lrLUV5WkJJR1dnMEZzT2tMcVp2WUJCeVBCb2plajlmRXQzdm",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ1lmbXJyWDhjUE1FMWNwM1JkYmxXTTN6SlZjRVF5MjBHd3hwT2lDSGF2c29CN3o2bnBVSnNjNlNod3Z3MjdxNXJEc3lrLUV5WkJJR1dnMEZzT2tMcVp2WUJCeVBCb2plajlmRXQzdmNrZ0V6ZktmTlhZcVItVHZXb0lvelRhYW90cU1KLWlFWHkwd3UwbHFpRWpzRG9rUW9FSXUwX0czcmpUR0xSMjRlRk5NVVZ5MEdfZ0FxaU1Zd05HcU1kSjlxTlpqeWRydkRvdmRVWlB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-07-22-024",
+    "date": "2026-07-22",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "BMO Tweaks Yara’s Outlook As Gas Costs Reshape The Math - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYXF6STJtVnlxQThzdDNLWWxvNmpjNFZvX2o3ckkxTDJOQnNyTWN5cFNRZVUwRUVuaWhFZVo5dVRXMnBUNk1CeHp5S2FQdFdwX0xNcHJLNWVudTMxMTJfTkQzS3ltZmNFdm9QZHdyMy",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYXF6STJtVnlxQThzdDNLWWxvNmpjNFZvX2o3ckkxTDJOQnNyTWN5cFNRZVUwRUVuaWhFZVo5dVRXMnBUNk1CeHp5S2FQdFdwX0xNcHJLNWVudTMxMTJfTkQzS3ltZmNFdm9QZHdyMy05OXAzaDloR1JWS3FxcUN1bFBySldoay1YcVB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-22-025",
+    "date": "2026-07-22",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (ADM) Stock Looks Above Fair Value On Cash Flow And Earnings - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2EwYUktbEg3OEs2M0R0Y2pIajhMeUpaQ0kzOHh1NmhDZHpDSHBmakE4UmVyN01vQTY3SjRyMVZBSVViUmFWU0EzS0tIbmgtdHBnX1ZvbTY2eElXeV8zSDZmV0xNVThmcjJEejJNbi",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2EwYUktbEg3OEs2M0R0Y2pIajhMeUpaQ0kzOHh1NmhDZHpDSHBmakE4UmVyN01vQTY3SjRyMVZBSVViUmFWU0EzS0tIbmgtdHBnX1ZvbTY2eElXeV8zSDZmV0xNVThmcjJEejJNbi1HeXJpTzQtbnpPOFZfckFZMlJyS1NTcGNGOFIxdTNTd01DOC1RTUVCbkRnS1UxdzJldUU2NVJ5QUIzMzA1aHVBamM2Q2kxX1Z2MDllcEdKVllXZlFnV2ZjSmhzT3pZOENBX2UxQ01iUHFaX0kwelMxeW1xa0wyQdIB6wFBVV95cUxPVDBWR2lPSTZtU2d0RGNXZFlYTDlVNVBYeUdCT2FvWTFkRE9HT0ZEb3VobDF1RS15MGFoNEFDbGx2MVV3ZDlrT2JnNHNOTWJGb3RGT0hId1ZmODZTZmltTE1COFZfRC1LR1MzNHhxd3FSdlB0VmgyOGQtT3lLRUVkN0x4a25TSXZQU1p4cjNDb2kyUnliYUNUMlhqSGozTVpUcDJpSE1pdHBockhac19oeHEycm15QW5ONDhyX1ZmZkUzUHVuT2FtdldGMnJMZ0dsV29DTjhnZU9qbkxDazN2aXRzU3VXcnloZmhV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-22-026",
+    "date": "2026-07-22",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Commerzbank Aktiengesellschaft FI Has $1.49 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb19XRks3UThZZW9mRXBwYUJPUkJIQy1oaHdONGpYOWc5amM5RHVKVFdybkk3NTFKb3pYMWZVS0ZOTlVrUHhCcFIwWWVwTmU3VFQ0ZG9kR2toSVUyRHZDbUtfUlJua1FaZW91OC1hVH",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb19XRks3UThZZW9mRXBwYUJPUkJIQy1oaHdONGpYOWc5amM5RHVKVFdybkk3NTFKb3pYMWZVS0ZOTlVrUHhCcFIwWWVwTmU3VFQ0ZG9kR2toSVUyRHZDbUtfUlJua1FaZW91OC1hVHhOekhVdHVScFcxLU5OYTJHbWNSal80X0RMa3A1Y3gtb0N3TUNidzFTNXdlcE0tclN6bkd1anRRclR6ZVA4MGZKNldhTG1aU2Q2a1YyX193MlVrT1N0aE9wTVVBN3c0Z24xMkdNcGV2cWNweDAyTGdmYXhDLVAzTkNNWWpIcnJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-22-027",
+    "date": "2026-07-22",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSV9MaGEyVXFUSFp5M0pINEktaUJXZ3lPVkJCQmg0TzdieFM2eVJoU2hEa2tPUG5fdXp1WVlFQ0NmQ2Z6eEEwMlRzVnI0NHdUcWxiWUxXWnVMUVVCYjZwZ1dHalNzUnctejNPYWw2TV",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSV9MaGEyVXFUSFp5M0pINEktaUJXZ3lPVkJCQmg0TzdieFM2eVJoU2hEa2tPUG5fdXp1WVlFQ0NmQ2Z6eEEwMlRzVnI0NHdUcWxiWUxXWnVMUVVCYjZwZ1dHalNzUnctejNPYWw2TV9xTEtDMmhHWW44cGUyT0tVc2JUSHF6MEwtLTU4d3c5UVBVLW1uWGtXT01EWTBWdzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-028",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "trade_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 U.S. Food Stocks That Could Benefit From New Canada Tariffs - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVRZSnRrWVIxTkZhZXhuTTRSQ2QzWFpMNno5amUyd3FrNEZQOWJ2VGZXbWhsS1lqdHVQWl96Z205Z2VLT09Rc05lbWkxWXZFSnduZFpzbjVlOFlxVWh1VUhzb0U4QXVEYlhHTUFKbk",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVRZSnRrWVIxTkZhZXhuTTRSQ2QzWFpMNno5amUyd3FrNEZQOWJ2VGZXbWhsS1lqdHVQWl96Z205Z2VLT09Rc05lbWkxWXZFSnduZFpzbjVlOFlxVWh1VUhzb0U4QXVEYlhHTUFKbkUwMmZPaE5hMy1TX2wzNmtJeUxFUm05eVZBdHBiQnVWNldmbU5RYjhPbnBFZWo4bWJYVXRYRWpHZjB1SHBlWUlZdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-22-029",
+    "date": "2026-07-22",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is CNH Industrial NV (CNH) Overvalued After 3.4% Rally? GF Value - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1Rqa3FnWXJJRnR0aTJXOVJrS3QwSkdTMXVFZWtoRzk3c2NMSHFKZE0weGx4ekluNEw3ZXdHVXdjWmhRTEthQjhtSXFpZzlWUUo1RnFEd2Qxa21qVFZqRmtHRW4tTmtfbnRyVHRUdk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1Rqa3FnWXJJRnR0aTJXOVJrS3QwSkdTMXVFZWtoRzk3c2NMSHFKZE0weGx4ekluNEw3ZXdHVXdjWmhRTEthQjhtSXFpZzlWUUo1RnFEd2Qxa21qVFZqRmtHRW4tTmtfbnRyVHRUdkZSMFNqSnBhMmRLX3FvLXA1NkcwMXFhTm9rTG8xTE5aeVdVUFVwXzh1Z0RQNnk1VGtLY1MzakN5NV9yTG1QQzRRakZlQko?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-22-030",
+    "date": "2026-07-22",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Offer Insights on Industrial Goods Companies: CNH Industrial (CNH) and Harmonic Drive Systems (OtherHSYDF) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxOLWx0STJELUw1bFNkX09aTGlGY3dLbEYxaTdpX05keHhYMURoV09xSmM0TU0zbkFGdk1FaS1LSzF6RnlyQksxU0ZlaDBvdkVjQzB6bUxXS25WS1NzUE9nUGlfdlRTTlRvazRfd3lESD",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLWx0STJELUw1bFNkX09aTGlGY3dLbEYxaTdpX05keHhYMURoV09xSmM0TU0zbkFGdk1FaS1LSzF6RnlyQksxU0ZlaDBvdkVjQzB6bUxXS25WS1NzUE9nUGlfdlRTTlRvazRfd3lESDNGRV9od2NNN0lrbkQ0Rlo0TFZKYkhlb3R2YjFpWWF6WmkzUGs5dWp3amZua1AzUl9aRTFERzZPZUs3b2EzTEp6U2lUTzE0UFdHSmxLcmVURmFuZGRVdjQteEFPSlpneXdJMnpkUGo1WTFhaVZuNjI5SjlFRXYtYWQyeEdoNURobEJiRUZaUnVBUlJ1aDZrUTlhRm1CT09NbTA0ZThlZmptdm1zZzk4QXpCVHFj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-07-22-031",
+    "date": "2026-07-22",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AirJoule Jumps As Kubota Partnership Signals Near-Term Commercial Potential - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSjdWZmJtR0l0MENPX0hQcjYxWC1SUnVhSFR1Si1SN0R5U3RpZTI0UURuOVpjMXkwWkk5cVRJTm5pYlRUNm5hSHlCY1duM3NpRTBlZ3lRcDlwN3BsdU5jNEZyRllWZko2U2lMNWJNYj",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSjdWZmJtR0l0MENPX0hQcjYxWC1SUnVhSFR1Si1SN0R5U3RpZTI0UURuOVpjMXkwWkk5cVRJTm5pYlRUNm5hSHlCY1duM3NpRTBlZ3lRcDlwN3BsdU5jNEZyRllWZko2U2lMNWJNYjVLdFZKVWNuSnZlWHRMQzJXb0xCRnZReGhvSkwyMmxCM1E2Zk4zcUM2VGJZeVNqNFF3QzYwR0EydXNfWWszRlgxZ2dHWGpMdVMtb3ppN3Njd29rZmVEeW1EVFl0b0VjbTRySkRXdzhWYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-032",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weather/war combo spikes grains again",
+    "summary": "Afternoon Market Recap: Corn, soybeans and winter wheat prices moved noticeably higher in midweek trading.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-033",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kohl: In ag trade, U.S. cannot go it alone",
+    "summary": "Morning Market Analysis: A wheat rally led grain futures higher overnight, lifting corn near eight-week high amid heightened weather, war risks.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-034",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mexico lifts pork restrictions after pseudorabies outbreak",
+    "summary": "Farm Progress America: The U.S. regained disease-free status after Iowa hog farm case, reopening key export markets worth millions weekly.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/mexico-lifts-pork-restrictions-after-pseudorabies-outbreak",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-035",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tractor tour brings rural America’s challenges to national spotlight",
+    "summary": "Pivot Bio’s Year of One Million Thanks Buddy Seat Tour sparks conversations among farmers, leaders, and policymakers about real-time solutions for farmers, ranchers and small towns.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/tractor-tour-brings-rural-america-s-challenges-to-national-spotlight",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-036",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Don’t bet the 2026 crop on storage",
+    "summary": "Ag Marketing IQ In Depth: Diversify strategies, sell the carry and capture guaranteed returns instead of betting on storage alone. Farmers urged to make marketing moves before July ends.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/don-t-bet-the-2026-crop-on-storage",
         "type": "rss"
       }
     ]
@@ -745,6 +1316,26 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/max-armstrong/bayer-subsidiary-drops-tariff-request-after-farmer-pushback",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-21-024",
+    "date": "2026-07-21",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Winners And Losers Of Q1: Archer-Daniels-Midland (NYSE:ADM) Vs The Rest Of The Ingredients, Flavors & Fragrances Stocks - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQT2dPRjFZdTJjYTZoS2p0QW1MWGllTXRfQVl1eE5kQVVNTk1UMVVUaTZBWENxbXRiZlZ4M0NadFFiY29zSzBCN2FvOHhsSlhqMFRCREhJZERWQ2l3blpVb1k1ejlUZWlQcGYzVThwVj",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2dPRjFZdTJjYTZoS2p0QW1MWGllTXRfQVl1eE5kQVVNTk1UMVVUaTZBWENxbXRiZlZ4M0NadFFiY29zSzBCN2FvOHhsSlhqMFRCREhJZERWQ2l3blpVb1k1ejlUZWlQcGYzVThwVjJKZ3NlZUpQOUE2OVRZS3daQ3g4UU85TUNydnJIMzZHTTZXa0RTQ19fNXUycHkyUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1304,6 +1895,47 @@
       {
         "name": "adm",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNd1E3ZG1RaEZnNXc2NVRCZ3AtNms4X0tNc05lQWxsSmRFcjItXzhqV0JNbmJBTGwyUHQ3N1d5MjdPbmJKdGFPUFhvUlZsQlNIbzFZWjlWOHcxdmNRSDBISnBuRXROMHJFUlZtWTFUY2pHUXF3cVZYbktrVXVQZjk3UXFUWkZYUzRKM1RwNXByb3Fwc21ZNjBwQkMwWldKb29fSlRIbncxVkM3NGVocG0taVNUYWF6LUM3cGRZbXd4SzNwZ0p0bjhtSnJQX2xGNWp4cXY4VWJmMUNmQUIyTm5KdDBJX1h4UmFJbmNhYkg4bEhfeHhkQWltUUlMajRQOFR4X0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-07-20-030",
+    "date": "2026-07-20",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Nutrien downgraded at Jefferies on weaker long-term outlook for fertilizer - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHNuQlpCamdhd0JPcFNCMkk2enE2UWtrb1J0N1dhZ0ZxU3A4NWdxUzlORFo0cDY2SWRpeHRsT2VNcW1oT3pmdEtwUXd2ZmNLeVY2U3hYRzlPT3hINHpCakFVM2ZCZlZWbUMwcGM2c0",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHNuQlpCamdhd0JPcFNCMkk2enE2UWtrb1J0N1dhZ0ZxU3A4NWdxUzlORFo0cDY2SWRpeHRsT2VNcW1oT3pmdEtwUXd2ZmNLeVY2U3hYRzlPT3hINHpCakFVM2ZCZlZWbUMwcGM2c01RdjlBa2tFb2ZDUWw2UUlWeXpFTzJGcm1OUUhuR3ZjZHNEVmJLaXhZeFl2RGxlekE1WS1fbzgtNUl1OWJaeTQ4RlprUXNxcTNTeEZiTk82Q1FIUWIz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-20-031",
+    "date": "2026-07-20",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH to announce 2026 Q2 results on August 3 - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1RHdjVYdGNIUDNrV09RTWd0QWFJOW5Udl9Qd19OZkk1dWFGS2NkS0UzSFV5QXRtSW9IRUhmVlpOQXJrMVh2LWtMeEZfZEhubzEyMmtsUUdkVGRzWlUyV2QtV3RGZC1FdzlUZGJveX",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1RHdjVYdGNIUDNrV09RTWd0QWFJOW5Udl9Qd19OZkk1dWFGS2NkS0UzSFV5QXRtSW9IRUhmVlpOQXJrMVh2LWtMeEZfZEhubzEyMmtsUUdkVGRzWlUyV2QtV3RGZC1FdzlUZGJveXg0OGxYODBsQVRJZG1ybjB5eWJjTWR5S3FLQ1Y1WkdxNDdwakczdVVHYUFvOVU5S3NjajY4Vkh1NnB2QUNkTGpZclR0NE9Bdw?oc=5",
         "type": "rss"
       }
     ]
@@ -2325,6 +2957,26 @@
       {
         "name": "yara",
         "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQV0QxcHZJMkU5S01rT0NvWjhlcFRJQlZBZ2RHRUczektFVzBBcmRRU0VLeThFNXFaaFJvZWczcEhScWpTbXZtZnhZMWE0NUo5UTdIOFFlSDZMUjlxamt1c2E4WVZwQWkwTUVTUXEtWFJQSFR2T0xNTWROWmFKSVM2cmpSUjNxWF8yeVI0SFNyVERmNFBQVGRVZFpUZkFOc2lCc3E2elJzTVB3YWhaNVI3a0F5YWNuenBJWFZSMklqRHNEVnkyZUFHWWtSMkJScWRpZDBQemV2Si1MVmRYVjBHc0hPUjFzcHlNdkxaRnN6ejNfZnRhUUR1cmgyNnp0eU84YkI3akdmMGtNb2wwendHUnBCLTVVeUVzUjdNU3ZIakFaa0pvdXFISWt3MDF3SGdyZ0h3Z2htdmZ6eGpQNXZIRUI5QTR5WTl3RlUwbFJobU5FUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-17-041",
+    "date": "2026-07-17",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corp (NYSE: FMC) director receives 101 shares via dividend rights - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQejN6RVFsYnBiaWVXVExmblBTLXpMcFZEREJJY3VXQkhmWmRxUmN2NjBtQlRFTGNYaG5EXzJ1YmYwOXBqbXBxQ0lwdXZGNkNnQWRuWlN0OGQ4dnZVODczZk9IN1k3ZldpRjZQUzcyeE",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejN6RVFsYnBiaWVXVExmblBTLXpMcFZEREJJY3VXQkhmWmRxUmN2NjBtQlRFTGNYaG5EXzJ1YmYwOXBqbXBxQ0lwdXZGNkNnQWRuWlN0OGQ4dnZVODczZk9IN1k3ZldpRjZQUzcyeEZOaG54N3o5R2twRmk2MDR6V0p4M2NQSmEwQWZZOVFhelVORFgzSUpja296TjBablNyVmF3?oc=5",
         "type": "rss"
       }
     ]
