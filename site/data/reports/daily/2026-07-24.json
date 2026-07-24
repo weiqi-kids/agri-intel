@@ -1,0 +1,241 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:06:45.372158Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-07-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mosaic Company stock trades steady as fertilizer markets and earnings guide valuation - Ad-hoc-news.de",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2FETDZPWnVNeXpQb1lrOXBDVnFBM2ZBdFM2SnhtVllGcVhvbUZfXy0xZGNZc0I5UDdTblExQUNJR1lUdng2di1OOHMtZS1ra1V3SVFDOENROXVKb1gyVHhVWFpuZjFKVDVhMzVGcnp5VHFkbzZSTjVxdFFCMm9wdEpVRVdZekJuU3ZwRWozS2k4RGFkR3FscE1UZXAtcmFrdVB1QVZjODVjbVhoVnd5cGFESnFmY0doUFgxV3I5T3lMZHQxVDIw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-07-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cf Industries Holdings, Inc. (CF) Q3 2025 Earnings Report - Results, Call & Slides - TipRanks",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wWkhEaDJuYnp1Q05mSGtLLWZmTmp3Y2FKRDVSLWRLYVNJR1VGejBrTHNCOGwtQjduS1NfUEE5X29Cdkpjbms5MGNmWmdnWE5hTkxwRFdkeEVTN0xJX2U1SmhfRWFaRGRwV3hzdmNR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cf_industries-2026-07-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cf Industries Holdings, Inc. (CF) Q2 2024 Earnings Report - Results, Call & Slides - TipRanks",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vOWo5RWVEUENOX0pKWjdkQ0JFcDY2dlFlWGN0RHpCMUJHSm1nNnpCZUhYY0dLRzRPczU0UlNOYWZETTlod2RQLWUyU3FpUlZFMDlwZEpBOXJEU3o3ZjNSNVVYYWFaVEt6S3hSTC1B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-07-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cf Industries Holdings, Inc. (CF) Q4 2024 Earnings Report - Results, Call & Slides - TipRanks",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZbW82ZXl1QlBNVm4zeTVVLVB4YjZvV3BpeFo1bEk2b3owVklxQ0sxOUsxZ1JBRVZqcGhkT1pjazNGdWVodHN4dkRTMlJFbGZ1N0tCTGFpZlpmb1JNSlBCRHl4NTRuUW9ZRldYdUdR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-07-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cf Industries Holdings, Inc. (CF) Q1 2024 Earnings Report - Results, Call & Slides - TipRanks",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qTk1LcGlNaG1zSGU1YnR3V0RqOUpOUVVydmM1a01iOWlnVWdxVzNiUVJUbTBIZ1RueEdSNE1fY2NBa0xBTmQwOG41eEhxMkRmSm1BTVZYVGl4SlZJUXBHQW1aMEpKREVFb0xzRGRB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 4
+      },
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 176,
+    "too_old": 140,
+    "gate1_blocked": 11,
+    "gate2_blocked": 11,
+    "passed": 33,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Nutrien (NTR) Investor presentation Summary - Quartr",
+      "Nutrien puts more eKonomics into the phone - Canadian Cattlemen",
+      "Shopify and Nutrien: Market Selloff Creates Opportunity as Fundamentals Stay Strong - NAI500",
+      "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+      "HATCH COVE CAPITAL, LLC's CF Industries Holdings Inc(CF) Holding History - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為CF、CNH、Mosaic相關動態：「Mosaic Company stock trades steady as fertilizer markets ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Mosaic Company stock trades steady as fertilizer markets and earnings guide v...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cf Industries Holdings, Inc. (CF) Q3 2025 Earnings Report - Results, Call & S...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

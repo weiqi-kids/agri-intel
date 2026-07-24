@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 11,
+  "gate2_fail": 11,
+  "passed": 33,
+  "gate2_samples": [
+    "Nutrien (NTR) Investor presentation Summary - Quartr",
+    "Nutrien puts more eKonomics into the phone - Canadian Cattlemen",
+    "Shopify and Nutrien: Market Selloff Creates Opportunity as Fundamentals Stay Strong - NAI500",
+    "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+    "HATCH COVE CAPITAL, LLC's CF Industries Holdings Inc(CF) Holding History - GuruFocus"
+  ]
+}
