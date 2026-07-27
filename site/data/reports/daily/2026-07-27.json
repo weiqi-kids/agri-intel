@@ -1,0 +1,222 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:02:01.107239Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-27-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Is a record soybean crop in the works?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/is-a-record-soybean-crop-in-the-works-"
+    },
+    {
+      "rank": 2,
+      "event_id": "sqm-2026-07-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Public Employees Retirement System of Ohio Sells 119,906 Shares of Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMC1EQ2NuRnR6bk45UEk2R3BDbWJQTEF3TGJwZldESDhkZENHTWp6X2ZNUnhLMmp3N1JXemJRSGZBc0lwWW9Tc2NVOXJsNUNKZldhbFhFOUNpNEI1VklLSlpTRnNSRW1JOFNnTUg4dFM2aU5oT1kya0NXekRFZ2hnWC1yempQTXJDeDRmTkpuUFZsTUJpaE9RRlJ2RG53SE9hVmp3UTh4NnBqZHlZVnJhWFV5N09yM3o4SDJYV0Q1SEdzUHlYUUFnQW5KbzE4aTQwNFNWTjVGZUNYQ3psUXFZNE1SckFId3FObXNEVHY5VGo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cf_industries-2026-07-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors May Respond To CF Industries (CF) Boosting Dividend While Funding Decarbonization Projects - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclJxb3J1bjNkX2RPaUVrN0pVMDRvRmUwR1NYQ0s0ZlJZUzlpUzlnSURZMkJGN0J1Z29PdGZmMjdyN3UxWXJGYk9RenVBM0Rzcl9DMTNsa1JrYjlUbjVGYmZHeTFtWHhmMzBNSDB4WlNHVndqNVpBNm1iWG5scXNYZ3VpQkMyT1FpS1RyNllNX1hod0drSFdXNGVidjNjdzN1Z0R5ZlY0LXRremFLSFVyRFV4Q3RNUG9NcnpYeHY0MWpRdlNQUDBBS2ZBdlZOTWlGcnpwT9IB2gFBVV95cUxNQi1TXy1xS3lpQmsyLVVKeFNGSTJTbVhTTS1TT0tsX1pLaF8wU0pUcmhyYVZyYkhqMnVVLV9sbmVYS010M3VxQTZGaWw1QnJkSG13ZUNfRDFNMEVxbVhoNHlxMWJsS2NSM01YQmp1c0VoaTVIbVRWV09idlNDb1Jwd1dkcTJtckwyU0RpclFueGtZSFUyNTZfNkc5Y3JwYVlqTG1KS3hmb2N5cTh1alk2dmNUQ1Npa0t1X3dkSlJPZzFORXpOS1o0THFMeU5wV3UwdEdrVXl3R0M2UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-07-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays Adjusts Price Target on CF Industries to $135 From $145, Maintains Overweight Rating - marketscreener.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2FzeWRJU3cwLVZtMTdrRnVRLWM4V1VpM1ZYYWF2blFZTjFSRV9QOEpnV25SWXI1MXVvTzBYNFpnbEl4OFpFUTJjc1JEcVlLMnNrdnVYazZ1bzJIblhuZl9DeTJFVlNkdlphTHJKY2NZengyalR6cm93TW1NaTRJODZuYlN1RzV0NWNhNWlsQ1RIM1RyVEpQYk9HVzlWOWdRYUY3a3VTaWc2enloeHFES2NqWHBYYWpORkFrbXd2a1VCOVdhdDhYWU8tQUFRT3NNYWlPeU82S2RGTnM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fmc-2026-07-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Secures $400Mn Strategic Investment from Tessenderlo Group - Agro Spectrum India",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFBORE5HVU1wemM4VEhOQXZtSEJyNTE0eFNrN1Q3SUo3czRBcTZIVFVnTENGem1LLWQ5V0Z2NFd0S2R5Z3pla21yOWdWZnFIdndSSW82aXRkZzNQalRaeVNBVHByWWphYWJKTC00VVpXVTluOWhXUm9tUFZvZ0owRE84LUhFdExrVUNHWnpuSll1VG1SSmVZaWtuR0o3UkhHbUdSbmFlcUJhSi1YWUNN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 189,
+    "too_old": 129,
+    "gate1_blocked": 6,
+    "gate2_blocked": 12,
+    "passed": 33,
+    "pass_rate": "18.3%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Nutrien (NTR) Investor presentation Summary - Quartr",
+      "Nutrien puts more eKonomics into the phone - Canadian Cattlemen",
+      "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+      "Applications now open for the ASA - Corteva Agriscience Young Leaders Program - Messenger-Inquirer",
+      "Is FMC Corporation a \"Dirt Cheap\" Value Play or a Value Trap - Kavout | AI"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為CF、ADM、SQM相關動態：「Is a record soybean crop in the works?」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is a record soybean crop in the works?（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Public Employees Retirement System of Ohio Sells 119,906 Shares of Sociedad Q...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

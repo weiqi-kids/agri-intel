@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-27",
+  "total_events": 16,
+  "by_company": {
+    "sqm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cf_industries": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "fmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.07
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "planting_season": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

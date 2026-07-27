@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 6,
+  "gate2_fail": 12,
+  "passed": 33,
+  "gate2_samples": [
+    "Nutrien (NTR) Investor presentation Summary - Quartr",
+    "Nutrien puts more eKonomics into the phone - Canadian Cattlemen",
+    "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+    "Applications now open for the ASA - Corteva Agriscience Young Leaders Program - Messenger-Inquirer",
+    "Is FMC Corporation a \"Dirt Cheap\" Value Play or a Value Trap - Kavout | AI"
+  ]
+}
