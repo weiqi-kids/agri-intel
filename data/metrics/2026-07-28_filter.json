@@ -1,0 +1,16 @@
+{
+  "total_raw": 364,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 8,
+  "gate2_fail": 13,
+  "passed": 39,
+  "gate2_samples": [
+    "Nutrien (NTR) Investor presentation Summary - Quartr",
+    "Nutrien puts more eKonomics into the phone - Canadian Cattlemen",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M",
+    "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+    "CF Industries Holdings Inc (CF) Institutional Confidence - TradingKey"
+  ]
+}
