@@ -1,0 +1,16 @@
+{
+  "total_raw": 366,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 7,
+  "gate2_fail": 14,
+  "passed": 38,
+  "gate2_samples": [
+    "Nutrien (NTR) Investor presentation Summary - Quartr",
+    "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M",
+    "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+    "CF Industries Holdings Market Sentiment - Benzinga España"
+  ]
+}

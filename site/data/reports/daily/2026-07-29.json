@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:28:35.919954Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-07-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global: Q2 Earnings Snapshot - KVUE",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1mYlpLUkNGazBTaWpfYVFGeURRN0wyeWJxdEhzRm8xR0pOTDREYUVJbGVPSWxqU1VwV05QcFFqeGxUS2pPWGg0N005VGdKdWJtVzE1OXM4OFdhU1Axc1pBS3ItSVBlRV9lRVRrT0pGRVR5T09OZWZxZnJEZVR1ckdYNDRpazZRQUdOcjZoS3hPVUsxZUxXVEhaVnE1WFhnckJ2MV9lelgzRDFqMFNLUlNKNTkxVkI5V2RHRFJ6bndqUHpucERUSDNrYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-07-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge (BG) Stock Looks Reasonable On Earnings But Rich On Returns - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMDRkekh4NW9yV2l1Z0pwd19VNG5MNUVGSlFLTmFXd3NBb1hDVjRDVnNYUk0wdVVCdFdfdFhqd1VTOHpYYWpVMzNteGNZX3J3a2RFNXI3Zjd1TTRHWXFneExic21JdWk1RVBOeG5CTk5HN0hBSC1jOWtRUnd3SGV3X0xkTjJFWExUeDBEUkFfd0gyVG1saFFPZmxhMmJJenZ1bEpNSDJQclltckhHZDhpR3ZSS2VtSTB3UTVIZHh2R3F0SHA3Y0tVc2dVTHM4OHE1bV9jc19PS1NNdF9w0gHcAUFVX3lxTE8wNGR6SHg1b3JXaXVnSnB3X1U0bkw1RUZKUUtOYVd3c0FvWENWNENWc1hSTTB1VUJ0V190WGp3VVM4elhhalUzM214Y1lfcndrZEU1cjdmN3VNNEdZcWd4TGJzbUl1aTVFUE54bkJOTkc3SEFILWM5a1FSd3dIZXdfTGROMkVYTFR4MERSQV93SDJUbWxoUU9mbGEyYkl6dnVsSk1IMlByWW1ySEdkOGlHdlJLZW1JMHdRNUhkeHZHcXRIcDdjS1VzZ1VMczg4cTVtX2NzX09LU010X3A?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-07-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge beats second-quarter profit estimates on strong processing margins - Reuters",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnVuanlrc09DOXVLVXhCS2lsN0hPTHgyekdNQ0Z1Y2FlR2RBSEw2aUVSVGlJY2JuS3ZPUXo1NENWbDY3aUJhRDJTNF9IdnZSYkxyOFNPUkZwbF85amszUTAwekhPZG9zVlFjV25VelFrby1pSVpTc2NIb3d5RGU2eHRXTXRWTC1BNThUc2tEXzlQSEVacVlrallGTjdKQWpQZ2VOYTNUMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "yara-2026-07-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yara International (OB:YAR) In Focus As Strong Q2 Results Revive Undervalued Narrative - simplywall.st",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeUJSMXlwUVdmNXYyOFVrNjUxTk8yM2pfZlpLTi0xckJHMU0zenh1LXVheFc1T0ZiUkRNZGlFdk9lQmlvaWIycWk1ZHNmNzFsODAxTWxQT1B4d29ub3dlb3BmbnFod0ZqN2x0QVYxYmZPeWZLQ1pjSUQ5Qm4tSGlqRE41akhxb0dFYy1vS282dGZid2VlUmNYdWtlNnBMMGdLbmJjOFZkZFhUN200b2NWbDY4QVJwY25lZS1xWTJuRUNYa2hBaDNDMk1rQ01oWlA5V1BUcHY1RW9XYVVk0gHcAUFVX3lxTE95QlIxeXBRV2Y1djI4VWs2NTFOTzIzal9mWktOLTFyQkcxTTN6eHUtdWF4VzVPRmJSRE1kaUV2T2VCaW9pYjJxaTVkc2Y3MWw4MDFNbFBPUHh3b25vd2VvcGZucWh3Rmo3bHRBVjFiZk95ZktDWmNJRDlCbi1IaWpETjVqSHFvR0VjLW9LbzZ0ZmJ3ZWVSY1h1a2U2cEwwZ0tuYmM4VmRkWFQ3bTRvY1ZsNjhBUnBjbmVlLXFZMm5FQ1hraEFoM0MyTWtDTWhaUDlXUFRwdjVFb1dhVWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-07-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Reports Second Quarter 2026 Results - Business Wire",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3NOUDFhMnMtRGtHM1JMalR6Q3J4ckw3aXFKVGo1WXM1STBHTzN1SS1fUFd3TjFwZGUtZGtqckNael9MWFB0MF9fc1RHMlBQUFhHYnNEVFRZX3RsTHhjMDRqanZLN0xFOFNQQXhOM2lPMlBsOF8yaHpMRHZuMl94OE9lZlZWRDFZTHV3ZnowSXRUYm5Wa3pmcF9CNlhPMm8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 5
+      },
+      {
+        "id": "yara",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 366,
+    "dup_title": 185,
+    "too_old": 122,
+    "gate1_blocked": 7,
+    "gate2_blocked": 14,
+    "passed": 38,
+    "pass_rate": "21.0%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Nutrien (NTR) Investor presentation Summary - Quartr",
+      "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M",
+      "Barometer Capital Management Inc. Acquires New Holdings in Sociedad Quimica y Minera S.A. $SQM - Mar",
+      "CF Industries Holdings Market Sentiment - Benzinga España"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Bunge、Yara相關動態：「Bunge Global: Q2 Earnings Snapshot - KVUE」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bunge Global: Q2 Earnings Snapshot - KVUE（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge (BG) Stock Looks Reasonable On Earnings But Rich On Returns - simplywal...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
