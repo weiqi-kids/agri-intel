@@ -1,0 +1,171 @@
+{
+  "date": "2026-07-30",
+  "date_range": {
+    "start": "2026-07-24",
+    "end": "2026-07-30"
+  },
+  "generated_at": "2026-07-30T10:11:21.887841Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-27-009",
+      "date": "2026-07-27",
+      "title": "Is a record soybean crop in the works?",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 14,
+      "last_week": 8,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.04
+    },
+    "industry_general": {
+      "this_week": 87,
+      "last_week": 78,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.0
+    },
+    "planting_season": {
+      "this_week": 11,
+      "last_week": 4,
+      "week_over_week_change": "+175%",
+      "sentiment_this_week": -0.09
+    },
+    "crop_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "mosaic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cf_industries": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "oci": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "adm": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cnhi": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "bunge": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "kubota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sqm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "fmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "corteva": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "yara": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "intrepid": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 220,
+        "last": 192,
+        "change_pct": 14.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-24",
+      "event_count": 53,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 20,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 36,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 39,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 50,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 17,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-24 ~ 2026-07-30）共 220 則事件，重點為「Is a record soybean crop in the works?」。農業產業通用、法說會、種植季節為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "CF",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ADM",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CNH",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

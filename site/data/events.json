@@ -1,5 +1,320 @@
 [
   {
+    "id": "intrepid-2026-07-30-001",
+    "date": "2026-07-30",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IPI|Intrepid Potash Inc|Price:35.460|Chg%:+0.180 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWUdVVl93YzVocHktMHFodU1adVZLcnJ2QmhJM2hiYU5XbU5WcWFfcElIWG53WWF0aFlxU3RSOGc3R0poUlBva00wXzVGOWtid2JRa2djVm9JZk9XM1JJVXhRZUtTOW44a0dkQw?oc=",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWUdVVl93YzVocHktMHFodU1adVZLcnJ2QmhJM2hiYU5XbU5WcWFfcElIWG53WWF0aFlxU3RSOGc3R0poUlBva00wXzVGOWtid2JRa2djVm9JZk9XM1JJVXhRZUtTOW44a0dkQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-30-002",
+    "date": "2026-07-30",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings Inc (CF) Valuation: PE, PB & Fair Value Analysis - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBsTGJJdVVNUTRKRWVKdktiR2lkdlNnZEVXTDZidzlWWHc0WG5DSE5odlFzM1NqTWxSRTBWcDZ5R3NpT1p6dzJLeFRWYXhQTGdxMG45Ri15d2ZjOENqNU9LS3AyRnBoM0s5SXJIM1Bvcw",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsTGJJdVVNUTRKRWVKdktiR2lkdlNnZEVXTDZidzlWWHc0WG5DSE5odlFzM1NqTWxSRTBWcDZ5R3NpT1p6dzJLeFRWYXhQTGdxMG45Ri15d2ZjOENqNU9LS3AyRnBoM0s5SXJIM1Bvcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-30-003",
+    "date": "2026-07-30",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial NV (CNH) Shares Fall 5.9% -- GF Value Says Still Overvalued - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQangzUmhoTDJGUm5vV2UyUHdwcGRwUUNXQzNNUmZLM3JyNGZrQkhUMm96MWJHenFRYnNNYlBmc09sMEk4OTZMa3BtQ2s4TkYzT3pOTzlseFJoS1BxdVJPVE4zRlc1QlNwLVdHamVDUE",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQangzUmhoTDJGUm5vV2UyUHdwcGRwUUNXQzNNUmZLM3JyNGZrQkhUMm96MWJHenFRYnNNYlBmc09sMEk4OTZMa3BtQ2s4TkYzT3pOTzlseFJoS1BxdVJPVE4zRlc1QlNwLVdHamVDUEdUSWtidDlvME43SS1ZRTJxdGpqUlV6NEg4cHdkNkl1MnpTUnBRMXgzZWQ3TTltYzk5UGZFYUZUM0x4UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-004",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How farmers use AI, other tech to transform their operations",
+    "summary": "Farmers in the Dakotas share practical strategies for adopting technology on the farm.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/how-farmers-use-ai-other-tech-to-transform-their-operations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-005",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Martin Rice helps feed 250,000 families through FFA partnership",
+    "summary": "Agri-Ready Profile: The company will donate rice from Bootheel fields to fuel the annual FFA Day of Service meal-packing event at the Missouri State Fair.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/martin-rice-helps-feed-250-000-families-through-ffa-partnership",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-006",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Double dose of war, plus weather scare, puts wheat on bullish track",
+    "summary": "Wheat Outlook: Futures rallied to three-year highs in late July as escalating conflict and weather woes threatened supplies. Is this latest rally built to last?",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/wheat/double-dose-of-war-plus-weather-scare-puts-wheat-on-bullish-track",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-007",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Limit waterhemp seed in soybeans with weeding by hand",
+    "summary": "Soybean Pest Beat: Most herbicides are off-label this late in the season. However, spending a few days hand-weeding waterhemp escapes could prevent further issues in the future.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/limit-waterhemp-seed-in-soybeans-with-weeding-by-hand",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-008",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Learn how to mitigate risk on your farm",
+    "summary": "Policy Report: Extension Risk Management Education programs provide a one-stop shop to help producers navigate all of their risks.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/learn-how-to-mitigate-risk-on-your-farm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-009",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Order cover crop seed now to lock in lower prices",
+    "summary": "Triticale supplies are running low nationally, while some varieties could cost 25% more by the fall planting season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cover-crops/order-cover-crop-seed-now-to-lock-in-lower-prices",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-010",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "6 steps to better soybean cyst nematode samples",
+    "summary": "Across Agronomy: SCN is the No. 1 yield reducer in soybeans, but better samples lead to better testing and better management.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/6-steps-to-better-soybean-cyst-nematode-samples",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-011",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trust created, so now what? Explore trust funding options",
+    "summary": "Country Counsel: Farm families face key decisions about re-titling assets in a trust now, versus using beneficiary designations for later.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/trust-created-so-now-what-explore-trust-funding-options",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-012",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meet these 4 innovative farmers at 2026 Farm Progress Show",
+    "summary": "Farm Progress Show: A winner will be chosen from four finalists for the Women in the Field: Producer of the Year Award.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/meet-these-4-innovative-farmers-at-2026-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-013",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grandson brings 70-year-old Allis-Chalmers WD back to life",
+    "summary": "My Favorite Tractor: Kevin Klahn’s tractor restoration preserves family history and proves some farm traditions are built to last throughout the generations.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/grandson-brings-70-year-old-allis-chalmers-wd-back-to-life",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-014",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Southern growers battle weather extremes, anticipate harvest",
+    "summary": "Farmers from Florida, Texas, Georgia, Alabama and Mississippi provide peanut, cotton and corn updates from the Southern Peanut Growers Conference.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/southern-growers-battle-weather-extremes-anticipate-harvest",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-015",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pay attention to farm injury risks throughout the year",
+    "summary": "Farm safety demands constant vigilance as accidents remain preventable through proper training.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/pay-attention-to-farm-injury-risks-throughout-the-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-016",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Don’t miss Women in the Field program at 2026 FPS",
+    "summary": "Farm Progress Show: Mark your calendar for Sept. 2 and attend the Farm Progress Show Women in the Field program from 2-3:30 p.m. in the Hospitality Tent.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/don-t-miss-women-in-the-field-program-at-2026-fps",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-017",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Data centers, poultry farms compete for resources",
+    "summary": "Data centers increase competition for electricity, water and fuel, affecting poultry production costs and emphasizing the growing interaction between the tech industry and agriculture.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/poultry-news/data-centers-poultry-farms-compete-for-resources",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "yara-2026-07-29-001",
     "date": "2026-07-29",
     "companies": [
@@ -297,6 +612,685 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-progress-show/explore-opportunities-at-farm-progress-show-career-crawl",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-29-017",
+    "date": "2026-07-29",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CF Industries (CF) Reports Next Week: Wall Street Expects Earnings Growth - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTRQX0lvZm1JNWlGc0RwWmMtNTNVMjZvSkdPeGcyUkhQR3ZpZ0NydnpnUXVJcm81VzhFaXFKVWg1MHBMbFFua3N4UDVhNnA0SXprRmR2emxEclgxUmxXaGRneDNJNjRwci1TY2ZCT0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTRQX0lvZm1JNWlGc0RwWmMtNTNVMjZvSkdPeGcyUkhQR3ZpZ0NydnpnUXVJcm81VzhFaXFKVWg1MHBMbFFua3N4UDVhNnA0SXprRmR2emxEclgxUmxXaGRneDNJNjRwci1TY2ZCT0tIZHlJQzVZd3AyRVBYQWptSVJhdDI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-29-018",
+    "date": "2026-07-29",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings, Inc. (CF) Stock Forecasts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNODNBWm8wVGxHc2hya2I1Y0E0MmpkaGlwOUs1Y1I3aV80UzZBX0JYNkF0RWUtUWYyN0JDY2llclhhSW5qVWxKcDFTeFNJallLeDlZS0VPcTBRc1dNd2tseWVwU1gyNmxhU08xRGxvZX",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODNBWm8wVGxHc2hya2I1Y0E0MmpkaGlwOUs1Y1I3aV80UzZBX0JYNkF0RWUtUWYyN0JDY2llclhhSW5qVWxKcDFTeFNJallLeDlZS0VPcTBRc1dNd2tseWVwU1gyNmxhU08xRGxvZXFxX2t4bkVHLVlVOWFnYlJ2SzJFUDRRMndlWTRWLUlsSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-07-29-019",
+    "date": "2026-07-29",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Great Lakes Loons, Corteva to host community food drive at Aug. 1 game - Midland Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2hkUWdIWm9pZUU4ZlZjcXhUeWh1WV9BUzg1dXNOcERoMjdIQXRmN1U3SVZ5cVF4ZHpOM1QtWWlNX3k1bkxvRUp0c0ZzUUd6UlM2T0x3eU1SV2VVNTNHMEk1SVVuWm40eGR5M052NF",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2hkUWdIWm9pZUU4ZlZjcXhUeWh1WV9BUzg1dXNOcERoMjdIQXRmN1U3SVZ5cVF4ZHpOM1QtWWlNX3k1bkxvRUp0c0ZzUUd6UlM2T0x3eU1SV2VVNTNHMEk1SVVuWm40eGR5M052NFQ5aEpVMFBFR0JDbzFlNVd0SzgwMmx4SG9r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-020",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation reports second quarter 2026 results with Adjusted EBITDA above high end of guidance range and solid cash generation - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNQjlvbVZ1RElnaTZibmlWXzdJR2dNclpmSkV6eGc3Vkx3NGxkbGdVaDdjZXB5TFJKV2k5NkRuMmttOUJqTUliLXZWMW9BaXJ4MVJSWllDS3JRemFiWHptdm0xNWp4X3VZeC0zTzFSeV",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQjlvbVZ1RElnaTZibmlWXzdJR2dNclpmSkV6eGc3Vkx3NGxkbGdVaDdjZXB5TFJKV2k5NkRuMmttOUJqTUliLXZWMW9BaXJ4MVJSWllDS3JRemFiWHptdm0xNWp4X3VZeC0zTzFSeVRneVJfVHlBTXc2V1J0VGoxYUducmhYcFBRM0loUHhKSWlSbGM3TW5BLUljd0lvTk8yb09ZYzJZcWh3Q3JGQVpBM2tXMjJMaWVvT1pINGtjLTBuZmhld3hCQ2RzNTdFcEpWd01Wc1p3TFJVWVRKS2NFaWdGYWdTNHNjQWlFYTR6bFQyRmJWaUFKMXBuRXBTQUtLSS1sME5zS3BwMUgyWm8xUEw3QkFHUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-021",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation (FMC) Q2 2026 Earnings - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE5ucXhpR0lkUExpaG5NT1E0ZGo4ZmRpRkg3RUFyZUg0RDF5aWktY3lFdWtZN2FNN3JFX2o1WnU5UjNSZWxDV2p3cU9DcU1EcmdRa0FJVlhqb1VPbGVlalpuV2hmQlJQTE9mV1p0Zm",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE5ucXhpR0lkUExpaG5NT1E0ZGo4ZmRpRkg3RUFyZUg0RDF5aWktY3lFdWtZN2FNN3JFX2o1WnU5UjNSZWxDV2p3cU9DcU1EcmdRa0FJVlhqb1VPbGVlalpuV2hmQlJQTE9mV1p0Zm16WkQ4VDFkRlltc1h6YjhCV0dQSEd3dW5pYk9qeEZRSC1WaUpDY0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-022",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FMC Q2 revenue falls 17 percent to $867 million - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSG5VcDNSd2w3RHVrdHZVRTgybm9OS2d3dWhMU0xlbXVJM2Jkc3k1WmN1aElNNE05a29WUVNxMzd3TXFxT0NYeUQ2R0t0d0RvWnFxU1Y5RWtxYTF2cENTTW5yNWRYaFlnUnhULU15N1",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSG5VcDNSd2w3RHVrdHZVRTgybm9OS2d3dWhMU0xlbXVJM2Jkc3k1WmN1aElNNE05a29WUVNxMzd3TXFxT0NYeUQ2R0t0d0RvWnFxU1Y5RWtxYTF2cENTTW5yNWRYaFlnUnhULU15N1g2RXVLVHZoY2RHMjFJZmVIbmZpSHFER0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-023",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "(FMC) FMC Corporation Expects Q4 Revenue Range $1.06B - $1.20B - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmE0bXVpZnRpYWdLRTd4akhIbDNXNXNMWjhIdnJnVDM1ekx2MlBYbnUwZEs4RWItM0N0aW9jTzJBaEgtN3Q2Vy1tMzA4bVJHVDA1czFOS2k4QV90Skt3SWZRSXM2VHRnbHk5SUJYdl",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmE0bXVpZnRpYWdLRTd4akhIbDNXNXNMWjhIdnJnVDM1ekx2MlBYbnUwZEs4RWItM0N0aW9jTzJBaEgtN3Q2Vy1tMzA4bVJHVDA1czFOS2k4QV90Skt3SWZRSXM2VHRnbHk5SUJYdlRFaHZqeGlTN2M5dEtucEhyOUtFMXBETnU2VHdqR1BxMFRwVnAzRVFhNC1VMzRtRU95STg4Zk5KRFNwSi1OUlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-024",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "FMC: Q2 2026 revenue fell 17% with a net loss, as pricing and volume pressures persisted - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbUFna3pfczJQOThsaDYzWHNHSG9MN0tXMk93MXZ0Zk5kbnl0QkRlV0cxMy1YWlJJYjJjYm1NdG9YblA4WVpuMXFvZkZXc2I1WjE3azZ1MkdrMWpyREZuX1FpV2cyTHFNbXR1cjFrbD",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbUFna3pfczJQOThsaDYzWHNHSG9MN0tXMk93MXZ0Zk5kbnl0QkRlV0cxMy1YWlJJYjJjYm1NdG9YblA4WVpuMXFvZkZXc2I1WjE3azZ1MkdrMWpyREZuX1FpV2cyTHFNbXR1cjFrbDNaRzF6U0M3UlJjS2dWSUlURGl3NjN4WTM2a0RweTNvRnpwbHJOR1p4cG02TGF1WERwalZlM0doMlFTUW54aU1KY3NoenRTYTdYbUhrXzNuOWhVRVllRlM3elZuUzhvbDJGamlUd0FNM0VRSWpZNEI5T2VPaERyVU9URGdPdDR5Vl9hXzNKNW4yQ05nSm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-025",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC earnings up next: Can agrochemical firm return to profit? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjhDd0NzV25IemlySXNkeEZfcXJDeXB6bEpVclp6bGUzc1VsR0JucUs2OWQtb0pEb3laZW50VXZfVlRGS1JKOWY4TDFmM0NzdmN5OUNMMFNMNE5Rb1pvU2R1VWFXRHJwNl9GTUJBOV",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjhDd0NzV25IemlySXNkeEZfcXJDeXB6bEpVclp6bGUzc1VsR0JucUs2OWQtb0pEb3laZW50VXZfVlRGS1JKOWY4TDFmM0NzdmN5OUNMMFNMNE5Rb1pvU2R1VWFXRHJwNl9GTUJBOVVLWEs4VzJSTTZuSTZUOXBCT2FtR2ktVUU5S295QzVyeFNwdjROVTlVRDF3amUwMFlLaTl2dmRtRGNfMWExT013bzB6SGhESHh6S0FJMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-026",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "FMC: Revenue and earnings declined, but cash flow and asset sales support debt reduction plans - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNaTE5blNQYi1aRUNoZ09RSmhmNWNJRUptQ2FfVUU3cGpHYnlaZlRicUJFLXg0XzdCMVFkUDRPNENnczhSU1NjczMzR095YWZBLUtiX3pJZk5BREtuclhnWC1scDFrb1BldWdkZDFSRE",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaTE5blNQYi1aRUNoZ09RSmhmNWNJRUptQ2FfVUU3cGpHYnlaZlRicUJFLXg0XzdCMVFkUDRPNENnczhSU1NjczMzR095YWZBLUtiX3pJZk5BREtuclhnWC1scDFrb1BldWdkZDFSRE9OT1huektqTHJjdkFQLTA1U2JuM0UzUm9veWhjbzlGVk5ydnEtN05nakJEemo2ZGNxRXJSQzZFVEFEa2R6MFNXSTlWMnNfMVlLdkdralNlNnN3aWc4UlpxY2Npd0duVUd5VmdvR3F1VFdlZjRrZjNPS2pQYU4tUnRoTVJDWm9qUlNvSnRKQlFXQUVMVThrRk9UY1NYVXJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-027",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Flash (FMC) FMC Corporation Posts Q2 Adjusted EPS $0.26 per Share, vs. FactSet Est of $0.22 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjRxa2dvdWZXQlV5Y245cjhzdnZWQXNvYUEzTmc3dS1Kc2FGczQ4eU5GN2lLYmpaVGpibE5XQjhROGZZekhTb1gwcHZ4dklRSDFRMlhDem9rUlVNMDNuWjJJNlVKd0Y3dWhLdXEyQ2",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjRxa2dvdWZXQlV5Y245cjhzdnZWQXNvYUEzTmc3dS1Kc2FGczQ4eU5GN2lLYmpaVGpibE5XQjhROGZZekhTb1gwcHZ4dklRSDFRMlhDem9rUlVNMDNuWjJJNlVKd0Y3dWhLdXEyQ2E2TWxFRnBBSFpDcUhjc2hjWTlFWkxMMjhDb3BOcERsUTNRRjlObjlkT2dWOGozbXB3YkJNWTlaX3VtT2tPQmhKTFBId0dyUy1JdGNHdXFPMUIwa190VEl1QkY0QTZiT2tTTGxBVUg3bjZXVy1PNU1uSA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-028",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Flash (FMC) FMC Corporation Reports Q2 Revenue $867.1M, vs. FactSet Est of $895.1M - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUdUOW1RLUpFNjBRTlR5UEdLelFILXF3V1d1RFJDekhGbTRMem9KMkE3endVY3d0c2tOZndwUHFQdzhpZmY5aVpqb0V3YVNGU2ptcG8zS010dFlsTm5zU3BYelRSZjdERVZOYm1mRX",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUdUOW1RLUpFNjBRTlR5UEdLelFILXF3V1d1RFJDekhGbTRMem9KMkE3endVY3d0c2tOZndwUHFQdzhpZmY5aVpqb0V3YVNGU2ptcG8zS010dFlsTm5zU3BYelRSZjdERVZOYm1mRXpJM0xQZ1p0VjU2ZllUQXczRml6UDk4SWVncWNvZHlDMXpPR3A3VXBYTVRIcTU2Uy1KV3ZZZTZwT3RXRk5UZUg1TmhSNERYM1lYeWJJNUtpdkg1OGp3cXNNWG1fd09rM0Y0eVAwMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-029",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "(FMC) FMC Corporation Expects Q3 Adjusted EPS Range $0.05 - $0.13 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzd2MVRRRWZ5ZzRBdVl3SWljMDRaUGFNRkpOVWJVUktTMUFzRGhXdktYYy0yVkJveTJoVzktVEFEWWJMOEp1QW56SXRnRU0wTU8xb0dtWk1rRkliTGtiUF9UOFlFY2hUX3FTMV91bi",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzd2MVRRRWZ5ZzRBdVl3SWljMDRaUGFNRkpOVWJVUktTMUFzRGhXdktYYy0yVkJveTJoVzktVEFEWWJMOEp1QW56SXRnRU0wTU8xb0dtWk1rRkliTGtiUF9UOFlFY2hUX3FTMV91bi1zSEt2bnN0Y3c3ODAxVVV2dGxFekl3eVBXT1RsR0M3bmNSeTVJZnplVTNlT3Iwcnc5MnNNdWVBNzB5Q3NrR0NDSjVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-07-29-030",
+    "date": "2026-07-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWUQtcXdfblljWTVwc1ZRbmN5cjN4UVFYdzZXTHNaZnBqTmFiZUJsZ1pIaFZxbmpWdUtDMWI4RGxGNjZuc2llbG95QXhGdWRGdDd1aWNvN0Vsa1ZrR256eUoybHFfSF9MaGpfUUZ0R0",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWUQtcXdfblljWTVwc1ZRbmN5cjN4UVFYdzZXTHNaZnBqTmFiZUJsZ1pIaFZxbmpWdUtDMWI4RGxGNjZuc2llbG95QXhGdWRGdDd1aWNvN0Vsa1ZrR256eUoybHFfSF9MaGpfUUZ0R0l3NktoallraWZ3SVkzR3VnTjFNQXFlZE9ucE5OVG9RRUJ2MGpFXzVpcFRFbnk1THFVOG9Dei1mY0RFQmFqeVZEbmhMOElLRTZESUlBNWx1eUZybWZYWjhYcmVoRVZjMmxmS3NZN2QxUHROOHRwXzFGVTlKaE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-07-29-031",
+    "date": "2026-07-29",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "A Look at Archer-Daniels-Midland Co (ADM) After 3.4% Decline -- GF Value $59.92 vs Price $80.38 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFFTVXIyXzVPQzd6LUFkN001TzVoMndzY0Z2Vy1feWQ2Z1pNUjdZVkNuNGVVWlE0TXZIbFFZZGRsZktQM2JsWi1mR1h3eUxPdG5aRHU1Qlp4bTRpRGd0OHFtWnV1YmJaRGRtR3JtRk",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFFTVXIyXzVPQzd6LUFkN001TzVoMndzY0Z2Vy1feWQ2Z1pNUjdZVkNuNGVVWlE0TXZIbFFZZGRsZktQM2JsWi1mR1h3eUxPdG5aRHU1Qlp4bTRpRGd0OHFtWnV1YmJaRGRtR3JtRkRPcHFwbzdUOEdTMk9TbU9xWGNhSG5wSXFmTjJ1bWNyM3VmV2Y1YzI3QWhneGdqd0xQTEFRTjlIWTZlX1VIVkh0OW5tcFJOeUg1cGU0aW5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-032",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global S.A. Q2 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUk5TWEtUjVBVjVMRlRPbkRIVVFPSmRoWmprZHBnYng3MmNIMFczRVRDS1JSSHRIdUhHc2drUmNwemFsaDJaZEtoUGg4SmgzUWRZS0s5ODEycVRRcTVCLXNnRzcwN0JlMHBtM1JZdi",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUk5TWEtUjVBVjVMRlRPbkRIVVFPSmRoWmprZHBnYng3MmNIMFczRVRDS1JSSHRIdUhHc2drUmNwemFsaDJaZEtoUGg4SmgzUWRZS0s5ODEycVRRcTVCLXNnRzcwN0JlMHBtM1JZdi0xeE9DLUdFWGhEcFlYZ2xTbDZpSHYxTFE1ZUU4NlNvazJmU3RNSG1KRDJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-033",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global Slides After Earnings as Strong Quarter Meets Tempered Outlook - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTdEQm9hVHZPZ1N2RUlEREN5YW9qakJBTTc5OF9QREpsR2t2SGVKVmVLYXRsSkFVYmIzTWpYb2RhYmJRcUtZNXFXREJSTGZ1X3JwR0d0LUtDVG12U1hIZ0VHUHNRa1hsVWxzb2pHN0",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTdEQm9hVHZPZ1N2RUlEREN5YW9qakJBTTc5OF9QREpsR2t2SGVKVmVLYXRsSkFVYmIzTWpYb2RhYmJRcUtZNXFXREJSTGZ1X3JwR0d0LUtDVG12U1hIZ0VHUHNRa1hsVWxzb2pHN0stbkVJQThFNUxfNlMwcG54SGRWcS10THJlSmZPVklveldGZlZXeHZlcUwxTFNCdVJzZFF0ZXJnaXAxdXJH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-034",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (NYSE: BG) Q2 2026 profit rises with Viterra consolidation - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDdrMWNLd1pHLUFyODVpMGlqMVE5THJYLXNNMVNJUEh4UEs0bDU3QWl3WVZDSGI4dk1SaHhRVzQxYlJXZ1FPM3dxNkJiQmlMempmbWNwTTdVSHFyUFgtemRmc2MxYlVmYjlyeWxFen",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDdrMWNLd1pHLUFyODVpMGlqMVE5THJYLXNNMVNJUEh4UEs0bDU3QWl3WVZDSGI4dk1SaHhRVzQxYlJXZ1FPM3dxNkJiQmlMempmbWNwTTdVSHFyUFgtemRmc2MxYlVmYjlyeWxFenR3SnhMY0hjN0NTUlZGU0U1WU1wSW5lYUtPR01Ed1RwRzR4N293OUM3TVV6R2g2dElMeTFQbHppSDVldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-035",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Q2 2026 Earnings - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2lOTzluSHp6SUdMZEhidDdYLXAxX052ei1fR0JlUFZodUUtRG9QVHVoSHd5VVpHdW50YXBMekJoaXJpbmx1TEV5R2JmZGRsSUZlM0VXQTV6ckxjLUpoS2JFNk1zWnJTalJ6b0Y4WH",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2lOTzluSHp6SUdMZEhidDdYLXAxX052ei1fR0JlUFZodUUtRG9QVHVoSHd5VVpHdW50YXBMekJoaXJpbmx1TEV5R2JmZGRsSUZlM0VXQTV6ckxjLUpoS2JFNk1zWnJTalJ6b0Y4WHNaZmNhNDZIRktWR0VUZlRidXRhMklnTzdMNVRIZzVONFY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-036",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA (BG) Stock Down 8.2% -- Now Undervalued? GF Scor - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1FSWFNuRFpIT2J0T0sxb2RzTWllME12YktLajhFd1NOVkNSSlpaa0pzczhZN2ZKRF9jRC1CSVhvcFBZWHZ6aDM5U2FzQmNhYWp5VUVSZVZvTFlkZ05PRUt0Z2hjdl9wQlpkel81dj",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1FSWFNuRFpIT2J0T0sxb2RzTWllME12YktLajhFd1NOVkNSSlpaa0pzczhZN2ZKRF9jRC1CSVhvcFBZWHZ6aDM5U2FzQmNhYWp5VUVSZVZvTFlkZ05PRUt0Z2hjdl9wQlpkel81djZOU3FCV1BDZ0ZZRHo0dnM1UlZ2SDNyZF9Sb0QyUjJaSWREMndBMVZXbU5TWVV3NzJzRzRYOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-037",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA's Stock Price Drops by 8.17%, Trading at $107.78: A Deep Dive into the Performance - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU215ZUJySUo1OGlLMnNoeDVKU1R0djFFQnBJVVJzZVh3Qm5CU1lrdk10M19Vb1B6VFBuZUlZaVZrYndra0lGQ005a1M0NTc3UEdwbWRqUlFSdWRwRTUxVk4tZTlSeTVzQ0JoNEJjMH",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU215ZUJySUo1OGlLMnNoeDVKU1R0djFFQnBJVVJzZVh3Qm5CU1lrdk10M19Vb1B6VFBuZUlZaVZrYndra0lGQ005a1M0NTc3UEdwbWRqUlFSdWRwRTUxVk4tZTlSeTVzQ0JoNEJjMHZNdVJSckNjWERleC1GWlRsZ3ptMFhORlFMam0tVjhiVE5VUnlRdmp0UExxOUhPQzhSMlFQOXB2YU5vNHBkM1dBTEIwYVNDTEx6czlmY290bkhZVldIQWYybkZyVVNUcWhOQ0lkS1RaSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-038",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA 2026: Revenue $24.04B, EPS $3.47— 10-Q Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHFCa2d5OVVBcDBYM3lCaGtQMVUwRTR5VGNLaVdkLW0zeU9fZnE0Y3U4Ym1taG1rSGZmMXlXS2FFU0hNN01ybmQ0OF9BNE9KanlSUVM4aWk5N0t3UGt0Y3dBVG11RlBUa0d5OXVFdF",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHFCa2d5OVVBcDBYM3lCaGtQMVUwRTR5VGNLaVdkLW0zeU9fZnE0Y3U4Ym1taG1rSGZmMXlXS2FFU0hNN01ybmQ0OF9BNE9KanlSUVM4aWk5N0t3UGt0Y3dBVG11RlBUa0d5OXVFdFhEUzY4ejZkT2JrU0JsM05BN05DdmpZYVdKN1VjWWZqa1dIQXI3N1BITUxxUFhSTnRPOW5DUzVWeDlqTzJ3OG9LX3dONGhzb005ejZr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-039",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global: Q2 Earnings Snapshot - KTVB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGlrYktxQmowTEFremgwWTVDYkM5ejhZb2RQLUxPb193d0pwUFRVclJoeENXNXV6V1JNaW9Lelpma29EdzJxV3hpNURtQ1VjeUxnSnd2dV93bml4M1lWNlBleUNpc1VZSlNPVXA2OE",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGlrYktxQmowTEFremgwWTVDYkM5ejhZb2RQLUxPb193d0pwUFRVclJoeENXNXV6V1JNaW9Lelpma29EdzJxV3hpNURtQ1VjeUxnSnd2dV93bml4M1lWNlBleUNpc1VZSlNPVXA2OE9ZOVdVQzJiclJKb0lBb3ZPakJEMlFGZUk5TlktVFN5TXRyay1uOEM0c05hNkVSY29jMzRGUTdGTkVXeWZzaGF3ZHdadi15alNvaC1mang3LVMyM3h1NDBzZDg1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-040",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soybean processing, refining lift Bunge Q2 2026 results - Feedstuffs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZk55VXVVRWMzZkg5QjFlUFg5QlRRdmJQdnppNmZmZ2FidDNodTA0MExzLW9mZzhxSFZMX2JTdV9xVXYyR2RxbndZa3AtX3pPRmwtd0JuTy1DVUIxTzYzZlVBLVhWUlBpMlNTTW5Ybm",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZk55VXVVRWMzZkg5QjFlUFg5QlRRdmJQdnppNmZmZ2FidDNodTA0MExzLW9mZzhxSFZMX2JTdV9xVXYyR2RxbndZa3AtX3pPRmwtd0JuTy1DVUIxTzYzZlVBLVhWUlBpMlNTTW5Ybmw0YVBNTlU1VlJpOFpiY1lLYlIydTBZaEJfMFJtNEdGRFhRNlhFMGg1SkE5TXVZRlAt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-041",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge posts Q2 earnings beat on strong crush margins, raises 2026 outlook - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnVuanlrc09DOXVLVXhCS2lsN0hPTHgyekdNQ0Z1Y2FlR2RBSEw2aUVSVGlJY2JuS3ZPUXo1NENWbDY3aUJhRDJTNF9IdnZSYkxyOFNPUkZwbF85amszUTAwekhPZG9zVlFjV25Vel",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnVuanlrc09DOXVLVXhCS2lsN0hPTHgyekdNQ0Z1Y2FlR2RBSEw2aUVSVGlJY2JuS3ZPUXo1NENWbDY3aUJhRDJTNF9IdnZSYkxyOFNPUkZwbF85amszUTAwekhPZG9zVlFjV25VelFrby1pSVpTc2NIb3d5RGU2eHRXTXRWTC1BNThUc2tEXzlQSEVacVlrallGTjdKQWpQZ2VOYTNUMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-042",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Bunge Raises Outlook on Soybean, Softsead Outperformance - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzU1eV9ueXZiOHprQW1WRFB0SkN2bDlLNkJwSi1HQ3h0dFJRWXlrVGx5cmM5YlM2SEg4SFNXOVJ6aVhwanFnalgtbEpRQW5RcGtKNk5UMXFrSjZpWG9jVE4wUDdnU0FCMkhCRHdyd3",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzU1eV9ueXZiOHprQW1WRFB0SkN2bDlLNkJwSi1HQ3h0dFJRWXlrVGx5cmM5YlM2SEg4SFNXOVJ6aVhwanFnalgtbEpRQW5RcGtKNk5UMXFrSjZpWG9jVE4wUDdnU0FCMkhCRHdyd3YxeUFkWjlkaHQzNEdJOFVSSy1KYzRCakM5em94bS00MVRyTnE5TGhad1Z6ZmJpa2VFWXlMSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-043",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global Q2 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2wzbE1lbm9lakJZc0E4a2RBUW0tRkVaaWhLdmNMczBPWV9JaVRIaHE3eVczdXd4c2tSMXRVMmtqMnBtMHRrZXBEcFViQmVnQk5Zb29aZ3U4VWF1VXdKYXNQYVQ0TjNINjBoaVJIbF",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2wzbE1lbm9lakJZc0E4a2RBUW0tRkVaaWhLdmNMczBPWV9JaVRIaHE3eVczdXd4c2tSMXRVMmtqMnBtMHRrZXBEcFViQmVnQk5Zb29aZ3U4VWF1VXdKYXNQYVQ0TjNINjBoaVJIbFdCeTVKSXA5amV2ZHBLOC12ZllNeVIwTnhzYThNYnJqR2RzS3ZQczNvWGpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-044",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Compared to Estimates, Bunge Global (BG) Q2 Earnings: A Look at Key Metrics - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1VmRW1iQThpN2VsNFNGWFlNeXM3NHdYYy1CX3VQc2x2SU95QThnUlFJb3A4am5QUG9iR1I4bWxFNmVRVV9KcHFhWUVrSGhqaWpiUUFfMERLMGE4clV0VXc0Q3RxVEZZQklJTF9GcE",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1VmRW1iQThpN2VsNFNGWFlNeXM3NHdYYy1CX3VQc2x2SU95QThnUlFJb3A4am5QUG9iR1I4bWxFNmVRVV9KcHFhWUVrSGhqaWpiUUFfMERLMGE4clV0VXc0Q3RxVEZZQklJTF9GcEk5U0tISmtuRzhqbVduUWNxQ3NmZ2dFSmtRT0RwREF4dkFNeDd0aE1qUDBCUERRYnVN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-045",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Q2 Earnings Miss Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjM2eE9veGQzVU9zQ0Nlemx6YmlJbl9fZUpkaWZBeVF0WXpoc0M3MzJTMTh2OUJ3d3I4QWpRTnlVU2ZzMzRwcFZISUtpZkJRbEVkRjVVcHVmbUdWYWNPeWVrM1NMNmlKMkxXQVVpVz",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjM2eE9veGQzVU9zQ0Nlemx6YmlJbl9fZUpkaWZBeVF0WXpoc0M3MzJTMTh2OUJ3d3I4QWpRTnlVU2ZzMzRwcFZISUtpZkJRbEVkRjVVcHVmbUdWYWNPeWVrM1NMNmlKMkxXQVVpVzV3WlZNb2w2cGJRUWZaMVhOdFVlSjV4YWlyUXdzZXd4X2RfWk5EUkFZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-07-29-046",
+    "date": "2026-07-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge's Q2 Earnings Miss Estimates, Sales Surge Y/Y on Higher Volumes - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0RIdDBhZEdrLWpNSTk4U2tSTnhYRDVteVZFTWFGc21qNE1qXzdyX2lIdHNHaUFfRWhmRC1JYjRwUmxEMk5EV0tSaVE4OEp6UFhDd3dkOXhOcFVLU253Zmp0bUlRLWhNS1N4QVpRdW",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0RIdDBhZEdrLWpNSTk4U2tSTnhYRDVteVZFTWFGc21qNE1qXzdyX2lIdHNHaUFfRWhmRC1JYjRwUmxEMk5EV0tSaVE4OEp6UFhDd3dkOXhOcFVLU253Zmp0bUlRLWhNS1N4QVpRdWc1bHhpLTBhcVJkTTFtSm1NaVdDVW92Yjh3REtyeGtkS1VaZVM4Z25NV21wMUY2NTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-29-047",
+    "date": "2026-07-29",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is CNH Industrial (CNH) Undervalued As Leadership Changes Test Investor Confidence? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcUEwRjlCUXkxdkUtYUc0NTIxS19JLXNUbmlOTVZiYzhESUhtTmdfSW9YalJMZHRmS3F5TjE3TEEteHU4dGZEWDJiT2QyWHRHRm9oZWhDbVc5WUtyUlNkTHJvbFNVUnY5UGRtdmF0SH",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcUEwRjlCUXkxdkUtYUc0NTIxS19JLXNUbmlOTVZiYzhESUhtTmdfSW9YalJMZHRmS3F5TjE3TEEteHU4dGZEWDJiT2QyWHRHRm9oZWhDbVc5WUtyUlNkTHJvbFNVUnY5UGRtdmF0SHNHZFBHUFJUUnRoaG84OXVmcDFhOEd5TlJXVVhHcGFOSUpTRENjQjVHSm9PbnBJRjRVeWhqSnhiRFhLVU45QzZoZmV2eDhoZUlGME82b2NpWFE2UWcwaDR2eGZ1aUNhTjdU0gHWAUFVX3lxTE5mMzJoWUY4YVYyNGQ2U2lDaHBGYlBQZDZMLXp6dFppSmt1dGtTcXd2b1JGbmdycHdTMFBlcmFWYnZqRWpEUDkzV1o2OTdmNFRhTlZ4WkFnY3lrV0lMOUtuOVdYUlpUY2JzRTRLcXc4djNKNVhZSlBRc0xOSEVLTUJ4TjVJMFZjdFhMNG9ZNzR3VlZwM3h4cnc3dVRlWERIQ3R1cHI3akVQMHRrQVZDSEFqZmNQV2g5V292ZkhTMXVuVUpfNUg4THdBTDkxVmV6b0dKdVhzV3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-048",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Forecast throws bucket of cold water on soybean rally",
+    "summary": "Afternoon Market Recap: Soybeans plunged nearly 30 cents to two-week lows and corn also sank as a wet Midwest forecast eased concerns over yields.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-049",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Why we shouldn’t rule out a record soybean crop",
+    "summary": "Morning Market Analysis: Soybeans slumped near a two-week low overnight and corn also dropped amid forecasts for widespread Midwest rains.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-050",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "USDA to reopen Mexican border for cattle imports Aug. 24",
+    "summary": "Farm Progress America: Despite ongoing screw worm concerns, first port of entry will open in Douglas, Arizona, with strict safety protocols in place.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/max-armstrong/usda-to-reopen-mexican-border-for-cattle-imports-aug-24",
         "type": "rss"
       }
     ]
@@ -1001,6 +1995,44 @@
     ]
   },
   {
+    "id": "intrepid-2026-07-28-038",
+    "date": "2026-07-28",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 4 Intrepid Potash Inc For: 28 July By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEgzQWNuS1dkQVRTZDdENmFSTG55MFVmNVdIR0preWl1UllqODMyQVpFVGRyUDRXLU9kQzBzNVV0OGtVYlcydE4zRjNPbVB5eS1Wa2ZmYTBUcS03NGNnaHFYN2xTUDJlWm9UXy1kNk",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEgzQWNuS1dkQVRTZDdENmFSTG55MFVmNVdIR0preWl1UllqODMyQVpFVGRyUDRXLU9kQzBzNVV0OGtVYlcydE4zRjNPbVB5eS1Wa2ZmYTBUcS03NGNnaHFYN2xTUDJlWm9UXy1kNkJwWnVVdHliRV9fLTIwaS02NlpwZGFybE5uQWNqVWtGdzBYeW1oTzloMFFHZUhHMDFs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-07-28-039",
+    "date": "2026-07-28",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Look at CNH Industrial NV (CNH) After 3.2% Gain -- GF Value $9 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMVhvcWwyR3JfaWl2ejVXc1RIT051SG91UGpYdV9PLVJLdHNNT0E2NS1QWjY2SVNPT25kVXVFOHZPbjlQRUhTR0NnLWt3bXB2NWtnTVhwdTNUcUx2QzY5dUtIdTZrRGtrYmRjVWQ2Vz",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMVhvcWwyR3JfaWl2ejVXc1RIT051SG91UGpYdV9PLVJLdHNNT0E2NS1QWjY2SVNPT25kVXVFOHZPbjlQRUhTR0NnLWt3bXB2NWtnTVhwdTNUcUx2QzY5dUtIdTZrRGtrYmRjVWQ2VzdKUEVuLTZVR0Nra2dnb2N3a3ZwS1VxTngwOWY4WU5ONzl5cUtQMVZPbWNLcGhqM05LVWVuRHhPc3pISGJFQ2VzWjQ0c2xmWlZPUGVjU25ydGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-07-27-001",
     "date": "2026-07-27",
     "companies": [
@@ -1627,6 +2659,64 @@
       {
         "name": "cf_industries",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVE51bENRLVNUT09nMVFnVV9Zc1VQT2ZRcVpiTGFYM3gxM3dpYWhNQmpKVGxTbkxmTGVnTzl4NGpRRmI0aDR3bGQyUlo1MHhlMnRBQ0NoVGpzRnNyWlNiVTFsa0xQaElRTk9aOHh1N3paaS1USXRDVVNDM0g0RWk0Ylg2X19LSlFLUVRiR3hZVGJncVE3S002MnJjY0I5T0ZYb0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-07-27-034",
+    "date": "2026-07-27",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Inc (IPI) Cash Flow - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vSkpBYi1YcXZaeGdRMzdWT2pSaU01WVhzUEZuQWFQRmkwWGJNLXVtUURsMXpXMlRyRE5wS0VLSDJaZzZyb29lR0N5VUcyVGdIX05IX2syRVlObHh6ck0tRmxFNUE4dw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vSkpBYi1YcXZaeGdRMzdWT2pSaU01WVhzUEZuQWFQRmkwWGJNLXVtUURsMXpXMlRyRE5wS0VLSDJaZzZyb29lR0N5VUcyVGdIX05IX2syRVlObHh6ck0tRmxFNUE4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-07-27-035",
+    "date": "2026-07-27",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barclays Maintains CF Industries Holdings(CF.US) With Buy Rating, Cuts Target Price to $135 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTJSbzhPX1RhSFFwSWpFeExVRkZEVWJ0TmJFbnh5d1U0RnZMeG9QOG5NWXFSbWRUS25HYmpsWDFqYVZWQzk3Z3ZuSXpHSl9QVUFsM25RZGI3YVdNSWpyeWpKM1kxYlpYVW5Mb0tUNW",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTJSbzhPX1RhSFFwSWpFeExVRkZEVWJ0TmJFbnh5d1U0RnZMeG9QOG5NWXFSbWRUS25HYmpsWDFqYVZWQzk3Z3ZuSXpHSl9QVUFsM25RZGI3YVdNSWpyeWpKM1kxYlpYVW5Mb0tUNWlySnBUTXdrUFFvSkRXSkx0ZzBXWHhfRTNpeUhveHVPTy13QlVRVEFtc2tuLU94STEtZ21ZTGQ0c3ViVU05Rmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-036",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Industrial Stocks Riding AI Data Center And Power Demand - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTJ6SUJRejFEZ0pxcUM4RmZnZTYzU2ZqY1dweXJtUkU4bVlxdm1EYS0tNE9ZN282Sm4yNjlza2xON1FLVTlpOXd2UlpKUndRcDJpcGpOOThyTTBXUEJDWTJ1V2FvamowN1pnM2VNSW",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTJ6SUJRejFEZ0pxcUM4RmZnZTYzU2ZqY1dweXJtUkU4bVlxdm1EYS0tNE9ZN282Sm4yNjlza2xON1FLVTlpOXd2UlpKUndRcDJpcGpOOThyTTBXUEJDWTJ1V2FvamowN1pnM2VNSWFCMEE1a19Zcm1KU2tRR085alBfYnJzc1BQcm8wbHpCdUVzWDlrZDVzU2kyWjk5aUd3ZE1xbXFQczR0WkEzWGpR?oc=5",
         "type": "rss"
       }
     ]

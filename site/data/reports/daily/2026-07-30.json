@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:11:21.779188Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Double dose of war, plus weather scare, puts wheat on bullish track",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/wheat/double-dose-of-war-plus-weather-scare-puts-wheat-on-bullish-track"
+    },
+    {
+      "rank": 2,
+      "event_id": "intrepid-2026-07-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IPI|Intrepid Potash Inc|Price:35.460|Chg%:+0.180 - TradingKey",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWUdVVl93YzVocHktMHFodU1adVZLcnJ2QmhJM2hiYU5XbU5WcWFfcElIWG53WWF0aFlxU3RSOGc3R0poUlBva00wXzVGOWtid2JRa2djVm9JZk9XM1JJVXhRZUtTOW44a0dkQw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cf_industries-2026-07-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Holdings Inc (CF) Valuation: PE, PB & Fair Value Analysis - TradingKey",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsTGJJdVVNUTRKRWVKdktiR2lkdlNnZEVXTDZidzlWWHc0WG5DSE5odlFzM1NqTWxSRTBWcDZ5R3NpT1p6dzJLeFRWYXhQTGdxMG45Ri15d2ZjOENqNU9LS3AyRnBoM0s5SXJIM1Bvcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-07-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial NV (CNH) Shares Fall 5.9% -- GF Value Says Still Overvalued - GuruFocus",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQangzUmhoTDJGUm5vV2UyUHdwcGRwUUNXQzNNUmZLM3JyNGZrQkhUMm96MWJHenFRYnNNYlBmc09sMEk4OTZMa3BtQ2s4TkYzT3pOTzlseFJoS1BxdVJPVE4zRlc1QlNwLVdHamVDUEdUSWtidDlvME43SS1ZRTJxdGpqUlV6NEg4cHdkNkl1MnpTUnBRMXgzZWQ3TTltYzk5UGZFYUZUM0x4UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How farmers use AI, other tech to transform their operations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/technology/how-farmers-use-ai-other-tech-to-transform-their-operations"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 366,
+    "dup_title": 169,
+    "too_old": 126,
+    "gate1_blocked": 4,
+    "gate2_blocked": 11,
+    "passed": 56,
+    "pass_rate": "28.4%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Nutrien (NTR) Investor presentation Summary - quartr.com",
+      "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M",
+      "CF Industries (NYSE:CF) Passes Minervini’s Trend Template With Strong Fundamental Momentum - ChartMi",
+      "CF Industries hosts golf fundraiser, raises upwards of $260K - KCAU 9 News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Intrepid、CF、CNH相關動態：「Double dose of war, plus weather scare, puts wheat on bul...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Double dose of war, plus weather scare, puts wheat on bullish track（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "IPI|Intrepid Potash Inc|Price:35.460|Chg%:+0.180 - TradingKey（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

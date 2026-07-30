@@ -1,0 +1,16 @@
+{
+  "total_raw": 366,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 56,
+  "gate2_samples": [
+    "Nutrien (NTR) Investor presentation Summary - quartr.com",
+    "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M",
+    "CF Industries (NYSE:CF) Passes Minervini’s Trend Template With Strong Fundamental Momentum - ChartMi",
+    "CF Industries hosts golf fundraiser, raises upwards of $260K - KCAU 9 News"
+  ]
+}
