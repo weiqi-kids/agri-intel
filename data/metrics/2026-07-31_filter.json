@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 5,
+  "gate2_fail": 11,
+  "passed": 66,
+  "gate2_samples": [
+    "America 250 Hometown Proud: Nutrien - Hometown Stations",
+    "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M",
+    "CF Industries (NYSE:CF) Passes Minervini’s Trend Template With Strong Fundamental Momentum - ChartMi",
+    "Applications now open for the ASA - Corteva Agriscience Young Leaders Program - Messenger-Inquirer"
+  ]
+}
