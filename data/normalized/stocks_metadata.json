@@ -1,20 +1,20 @@
 {
   "nutrien": {
     "earliest": "2018-01-02",
-    "latest": "2026-07-30",
-    "count": 2155,
+    "latest": "2026-07-31",
+    "count": 2156,
     "history_complete": true
   },
   "mosaic": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "icl": {
     "earliest": "2005-03-22",
-    "latest": "2026-07-30",
-    "count": 5373,
+    "latest": "2026-07-31",
+    "count": 5374,
     "history_complete": true
   },
   "kpluss": {
@@ -25,20 +25,20 @@
   },
   "sqm": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "intrepid": {
     "earliest": "2008-04-22",
-    "latest": "2026-07-30",
-    "count": 4597,
+    "latest": "2026-07-31",
+    "count": 4598,
     "history_complete": true
   },
   "cf_industries": {
     "earliest": "2005-08-11",
-    "latest": "2026-07-30",
-    "count": 5274,
+    "latest": "2026-07-31",
+    "count": 5275,
     "history_complete": true
   },
   "yara": {
@@ -61,38 +61,38 @@
   },
   "corteva": {
     "earliest": "2019-05-24",
-    "latest": "2026-07-30",
-    "count": 1805,
+    "latest": "2026-07-31",
+    "count": 1806,
     "history_complete": true
   },
   "fmc": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "deere": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "agco": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "adm": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "bunge": {
     "earliest": "2001-08-02",
-    "latest": "2026-07-30",
-    "count": 6284,
+    "latest": "2026-07-31",
+    "count": 6285,
     "history_complete": true
   },
   "kubota": {
@@ -103,14 +103,14 @@
   },
   "etf_moo": {
     "earliest": "2007-09-05",
-    "latest": "2026-07-30",
-    "count": 4755,
+    "latest": "2026-07-31",
+    "count": 4756,
     "history_complete": true
   },
   "etf_dba": {
     "earliest": "2007-01-05",
-    "latest": "2026-07-30",
-    "count": 4922,
+    "latest": "2026-07-31",
+    "count": 4923,
     "history_complete": true
   }
 }

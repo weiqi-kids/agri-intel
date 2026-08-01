@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:27:42.497649Z",
+  "updated_at": "2026-08-01T09:49:22.022850Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "愛科",
       "ticker": "AGCO",
       "currency": "USD",
-      "ar": 1242300000,
-      "ar_prev": 1079400000,
-      "ar_qoq": "+15%",
+      "ar": 1232100000,
+      "ar_prev": 1242300000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 3001800000,
-      "inv_prev": 2709300000,
-      "inv_qoq": "+11%",
+      "inventory": 3007100000,
+      "inv_prev": 3001800000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "bunge",
@@ -109,17 +109,17 @@
       "name": "FMC Corporation",
       "ticker": "FMC",
       "currency": "USD",
-      "ar": 2244800000,
-      "ar_prev": 2062000000,
-      "ar_qoq": "+9%",
+      "ar": 2070500000,
+      "ar_prev": 2244800000,
+      "ar_qoq": "-8%",
       "ar_period": "QoQ",
-      "inventory": 1242600000,
-      "inv_prev": 1219600000,
-      "inv_qoq": "+2%",
+      "inventory": 1209300000,
+      "inv_prev": 1242600000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "icl",
