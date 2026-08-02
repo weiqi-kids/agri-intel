@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:48:40.085604Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corteva-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corteva Agriscience’s Delegate Insecticide: Advancing sustainable and precise pest control for Indian farmers - agrospectrumindia.com",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcXd4N1BCdlREX05kTENfRjdJSEpGZ01DdEJCdnNhUktqSWk4eHdIODlBaW1rOHVwSmRtUWd6SnE4QmZvZHNwQzczTk5HNXhrN2ZXYTVBZTE3LXZoVkxnQk13V3VVamNocF9ZbFZwV3JpM0VrQVFNcHpCbDlILXY3NHYtRzlONm1ZbkkyMjRrckVGd01kbjlMWkVGbW00M0dKM1p0YjJQNHFNQ1pkT1VCX09GT0RLQU1lVnNRYkl2eDJGYWF3LVZKanNPMHNUM2xtMGJhR3czOUZMV1RMWExTc0FXZ0NLNXBIMFVtdg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-08-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland (ADM) Is Down 7.7% After Major Oilseed Crush Expansion And New COO Hire – Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUp0VXFTaUFkelQzQjlDNHdva3VsY1U5ckYtN0hYbWU2ajRmQkk3LWdscV83cmpNdS1PVk1ZNGxMcG1ObndZY0tsVGkybUlDY3lTMmEycTA4Mkhqd1BBNGJ3MVc5ek5GZ09uQ2FCU2l0THRWc0FST054QzlyLXktdEdRMEVpNFprbVdKdXJ1WkhETEZ1TXhpekZmc2U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 201,
+    "too_old": 127,
+    "gate1_blocked": 9,
+    "gate2_blocked": 14,
+    "passed": 19,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "America 250 Hometown Proud: Nutrien - hometownstations.com",
+      "Sociedad Química y Minera De Chile (SQM) Expands Mt Holland As Fair Value Debate Builds - simplywall",
+      "Sociedad Quimica y Minera (NYSE:SQM) Downgraded by Wall Street Zen to Buy - MarketBeat",
+      "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Corteva、ADM相關動態：「Corteva Agriscience’s Delegate Insecticide: Advancing sus...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Corteva Agriscience’s Delegate Insecticide: Advancing sustainable and precise...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Archer-Daniels-Midland (ADM) Is Down 7.7% After Major Oilseed Crush Expansion...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
