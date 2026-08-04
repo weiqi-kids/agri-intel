@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 5,
+  "gate2_fail": 13,
+  "passed": 47,
+  "gate2_samples": [
+    "America 250 Hometown Proud: Nutrien - Hometown Stations",
+    "Sociedad Química y Minera De Chile (SQM) Expands Mt Holland As Fair Value Debate Builds - simplywall",
+    "Sociedad Quimica y Minera (NYSE:SQM) Downgraded by Wall Street Zen to Buy - MarketBeat",
+    "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M"
+  ]
+}

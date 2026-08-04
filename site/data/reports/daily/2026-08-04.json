@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T10:26:48.677799Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-04-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "5 warning signs that fertilizer prices will stay high indefinitely",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-operations/fertilizer-prices-to-stay-high-for-years-as-middle-east-conflicts-disrupt-global-supply-chains"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-08-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Grain trader Archer-Daniels-Midland beats second-quarter profit estimates - marketscreener.com",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGViaG5qb1lpY0RtTDY2d1poZ2t0ZnRTS3N6NG5NR0xJeWhXRldfTnpfbjBDQXpqN1N1MGN3Qi1hdC1ObHhrc0k5cHQzSi11eHhDMVF0TlBsek9veTd3X25oM2pweDhybnJDTzQ0QWpJX1l3UWZoZmIwR0xra0daWGhVcHVPbDhrRmdZek9sRTZKd0lPdGdsSDFwWVFLMXc5TmNuUnNEM3QxY3VtRHItMWJna1A0RTNFd3BySXoyMWswSkRr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-04-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Farmers, ranchers and urban growers get together to talk soil health",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/soil-health/farmers-ranchers-and-urban-growers-get-together-to-talk-soil-health"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-08-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial (CNH) Stock Rebound Runs Into Margin And Valuation Doubts - simplywall.st",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3F4dkpFUExqQkFYLWs0N2xpTko4LVpLT2R3RkNWYXZtcVJwSThXUjhwSkdhTy1KX3Z0NGlIbmYwR09Wa0xka2I0dlFlYUg2clZuQl9abG9XT0RsTUtjS3BSNnFYX2FHNXZwYjdrYnpuQ0VIYjhfa3ZGbUVhQjR4TGJOX1k0Ujk4a1BnakdEdWtTQzhUaktpOV91S1pjZ1VhWWo5TVZlc0p1WGtHUEdVNVlMb01ZSkxCYnM3bGJwRExicXNVNTlwdXJST1d5cmtC0gHWAUFVX3lxTFAtc08yZnZZTGczNnJCc081RjU0dVk2WDhkdk14N0tESHBZelR4THRZRHFyOXh6R0dHR0NXLTRITFlGNExuVl84d21pNHVscFMtVGtnbldacEoxcTI1dDhMM3ZZaXNOeEYwQUo3blpJeEF2X2xtUjlwTWNHUGljWjRvWWkteGZZZDRYaTc0VDhoMUIyNFRxeUJzdUtETE15bXhKTGRNQUpOYU1DN1FmenYwc3pocU96VklaaU43T19vX3RWSGVVNGdYaW5kb3hqYlZ0U2h4ckE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnhi-2026-08-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Truist Adjusts Price Target on CNH Industrial to $15 From $16, Maintains Buy Rating - marketscreener.com",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFhVX3dxb0RUckh6Tm1SQ00zSTZLYUpOOXNSMTA5WkVhQmV6QTN5cTFYa2pRZlBYajBlc2FTUW5nWkFETGRyT19wRko4ZC1JSTNPSVJVdUVzdDdlLWtUT1JtSU1qbzlTUDBPMm81d3pWNGxnLVRyWnpGV2QwRGVlalh3bXJ2TUF0UV9TZ2dKLWVLLU1RTF9LVjRuWUxoVklxSWVBVHI2d0VsNGpaUjRGSHE1MWptY1MtSE85UjZxVkxtM0hFMXp4cGdCd1VaUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 177,
+    "too_old": 128,
+    "gate1_blocked": 5,
+    "gate2_blocked": 13,
+    "passed": 47,
+    "pass_rate": "24.4%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "America 250 Hometown Proud: Nutrien - Hometown Stations",
+      "Sociedad Química y Minera De Chile (SQM) Expands Mt Holland As Fair Value Debate Builds - simplywall",
+      "Sociedad Quimica y Minera (NYSE:SQM) Downgraded by Wall Street Zen to Buy - MarketBeat",
+      "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Given Consensus Recommendation of \"Hold\" by Brokerages - M"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為CNH、ADM相關動態：「5 warning signs that fertilizer prices will stay high ind...」。主要關注主題為農業產業通用、種植季節、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "5 warning signs that fertilizer prices will stay high indefinitely（肥料價格、法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Grain trader Archer-Daniels-Midland beats second-quarter profit estimates - m...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

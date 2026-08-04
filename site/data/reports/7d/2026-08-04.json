@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-04",
+  "date_range": {
+    "start": "2026-07-29",
+    "end": "2026-08-04"
+  },
+  "generated_at": "2026-08-04T10:26:48.815411Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cnhi-2026-08-03-033",
+      "date": "2026-08-03",
+      "title": "CNH Earnings Were So Good They Pulled Deere Stock Up - Barron's",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 84,
+      "last_week": 83,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 19,
+      "last_week": 11,
+      "week_over_week_change": "+73%",
+      "sentiment_this_week": -0.05
+    },
+    "crop_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "planting_season": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "natural_gas_feedstock": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "fertilizer_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "yara": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "bunge": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "intrepid": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cf_industries": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cnhi": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "sqm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "fmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "adm": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "corteva": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 251,
+        "last": 243,
+        "change_pct": 3.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-29",
+      "event_count": 62,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 55,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 47,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 10,
+      "sentiment_avg": -0.2
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 46,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-29 ~ 2026-08-04）共 251 則事件，重點為「CNH Earnings Were So Good They Pulled Deere Sto...」。農業產業通用、法說會、種植季節為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Bunge",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CF",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CNH",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
