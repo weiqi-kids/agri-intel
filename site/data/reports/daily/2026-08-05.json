@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:24:04.200032Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-05-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Forage production revenue insurance program deadline set for Sept. 30",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/forage/forage-production-revenue-insurance-program-deadline-set-for-sept-30"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-05-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How to find fall harvest help",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business-planning/how-to-find-fall-harvest-help"
+    },
+    {
+      "rank": 3,
+      "event_id": "cf_industries-2026-08-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tight Nitrogen Market and Cost Pressures Could Be A Game Changer For CF Industries (CF) - simplywall.st",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMC1tb2ZZS1d2OGlqSGQyTVhOa3JhS2JoS2hyaTNhYmNSNm9yb3B5ckMxcHJ0dUNuVTVXVE5oSnc2UEVkRnZLQXF5dnlaWW55cVhuUUFyb3pva0tTdTYzVXJUZ29BQkRTMlR0dVVOZnZrWUcwdVZzLTAxWjlOcVVIQnRJNGFZM1kxXzhqckRPYi1WaGU1SWU2TENEcTNCSE05anJUNlZFR2ZCNU1hd2JmM2h1eUdmTzh0UWgwaUJhOVZqd3ZtNlBRZHlXa09OTzRFUmdER9IB2gFBVV95cUxOdFVFN1V2aHZNRHZSSGlFWHZKYnVjMGdFTEo0RHdJMldRZHhVSnF3Ynp6Q1ZPczRmWjFiWTEtWGNHVGNtTG5FTmltX0xsbjJSRWF6RS1ZWU1ydGhyNlV6UGd5MUU0OHc2YkRYTG9nMnMyX2lQVEFOaDR0UDJ1RDVJRjdUUHczb1pMTkRZbDJrSE9NZE1qRFRiYk5LLV9mNU51X2hpb3VzUE5zSEhwdm9QSlN0VWpDMzBiWldDTk1jM3VCa3lHTGh5a3RQbEQwRzVjYXF6cWo3Y3ZoZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Morgan Stanley upgrades Archer Daniels Midland stock rating to Equalweight By Investing.com - Investing.com Canada",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTVXU3RiMW9QSmhPTU1WMjU4ZjhzU2Rwem1TZldvRFRzU3A2NkVQN3RMbngyWWUtd2VvaUxFYWFNN0dkMkRSR21xRDJXQzA4bXh1cVJEbjZYWWEtY1dRdTlGUm9PMXJjWC1wejZhTWlYbmhma1FHZk1kUDFwYWs1dXIyMFFkMVU2RFVybldHc3RHdEdKU1ZKeGc0YUdYNTJYUUtsTElXVHNFcXlFRi12N3Frc2hicFpybWU2X3R3RnBIUXR4YlVmNWMwWnU1Tm5Y?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnhi-2026-08-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is CNH Industrial NV (CNH) Overvalued After 3.9% Rally? GF Value - GuruFocus",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGJaY2MzbWxteTFaOTZVYTg4RkhqRVJndEI2UkY5b1ZrTXVodnE4LTBVZVp3S090eWROZkJoR2NvNGxiZ3NheUdlWW5PUHZnN1UyR01USjctYmtUckZ1Q241NW9XS182YXZKQTRtZlp3aUZKUkJ5SDhvQTZ0MUJleUEtdEFDTFU3NndIYXJ3S05keWFkaVVIRzRNWGNiZ1BYMEdaT2VFVnVjblUzNHAzTXNjdVA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 153,
+    "too_old": 122,
+    "gate1_blocked": 3,
+    "gate2_blocked": 14,
+    "passed": 78,
+    "pass_rate": "35.9%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "America 250 Hometown Proud: Nutrien - Hometown Stations",
+      "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+      "Sociedad Quimica y Minera (NYSE:SQM) Downgraded by Wall Street Zen to Buy - MarketBeat",
+      "Altshuler Shaham Ltd Takes Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "CF Industries (NYSE:CF) Combines High Growth Momentum With a Breakout Setup - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為CF、CNH相關動態：「Forage production revenue insurance program deadline set ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Forage production revenue insurance program deadline set for Sept. 30（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How to find fall harvest help（種植季節、法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
