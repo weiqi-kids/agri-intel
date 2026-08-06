@@ -1,0 +1,258 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:25:51.257812Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-08-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nutrien misses profit estimates as lower volumes blunt higher fertilizer prices - Reuters",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYi0yanNKUFRVRGdKZ09pb0NUQVh4azBPLUtqNTQzWlNWMDFsbnNkZUdBWnJUNmZQOUZPdjFGdzRhU2h1dlBjMTgySVM3enNzUVlqX0tJZGVfRUlEZ25VWTRHNWVSS25iWHUwYWFzUEhVbFJLVFMySDBwd2dJRmlkSVRmaXRzTEtfa0RJMFlkaVhfUV9iZDI4SkdSSlY0c1JzRlhfVm1WSXFheklGMDFoRVY5LVRFOUgzUHNvVzZjWURUUGxuUnc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intrepid-2026-08-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Intrepid Potash (IPI) Stock Faces Profit Pressure Despite Better Margins - simplywall.st",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmxqazI4Q21WcXZ0ZGRRalVtVllEX2hRdldsN1g4eF9JdHN3RWx0Y3k3dUFfalZlZC1iWTFtQURSVnpYQ2Zza3V5NUZtMkpKSi1xV0lCdmpQSjVlQzN2eGUtS1FHQi0zTEw0ZTZxak13SjBFd2xONjNzUWFISEVVeGZzWGRhcWJfMzcxYkhTTklLUU5zOFRvOTlKRzFIWGtWbUNTeUdKUHVPMUxxblI1WFR2ZXZIZjUyLTNHY2tKcjJXNnM3OGxSdWZyWFPSAdIBQVVfeXFMUEg1dkF3YU1iUlhCRWw1LUt3VnhtRG05TEFjX3Y5X1VBOGRLM01YaVlPM1NHem5Lby01VWs4dkd4dk9UOUtvdVk1TjZNbzltVEFILTA5OFFpZUVkTHZTcTNJczFjejZyX0Q3bFNyeFlWVXplT0JPZDNBWTF3dW1OZkFQSTFINTVQdzNHUTVHZGpPdm5NUnAtNFNVaXJXQTVGS3dRWDlWMjFOV19WS01mM095ay1ISjF0MjlTd3lHZGRHTzA3SXdrcjNvYnhBdWg5LXJB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer Daniels Midland (ADM) Could Be 36% Undervalued On Its Earnings Beat - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjFNQ3FIMncwck1KSUpacTRPb1VxX1hYeE5Mb0VLZVhFV0xwQ2ZmNVJZb1ExYnRRVDJqRHQwMnZDU2xxaDB4MjhhTzZBbktQdkczRkc4Zm0zXzdPYi1lMkE5ZkxCMnZhdmRNemFabWdqVzhIenRqZ29yT2NSb1p5T2hpd2lIeEs2YWZ4azdTd2JUWFktOFEzSy1LNHc4dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-08-06-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial Earnings Call: Growth Amid Margin Strain - theglobeandmail.com",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeTYtck9iaklZaTZHdnB6eVVWTUVIc0RYX0dZU0tyR2d1djMwX25zZldwZWNZVTJKSkxRLU1Oa3dieWdOMENjWFZzVzAtbUNKck1XeWdBWW40cnI2THhWVk43cWtYVXZWbEszZ1JjNEZ4SFNkd29tLVhhZlhLelNsbGU1S0VqbVlDUll0cDkyWVlwdkk4ekZ4N0VsWWZ1dDd2UDFwS1FJV3FUX3ZTb1Q1ckIycGxKNlJ5Y1JoeS1ZZVhoRjM1c1otejR0RHI1WUVIN01yVw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-08-06-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Processors bullish on biofuels boom seek bigger hills of beans",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/processors-bullish-on-biofuels-boom-seek-bigger-hills-of-beans"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 2
+      },
+      {
+        "id": "intrepid",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 177,
+    "too_old": 114,
+    "gate1_blocked": 3,
+    "gate2_blocked": 11,
+    "passed": 66,
+    "pass_rate": "34.0%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "America 250 Hometown Proud: Nutrien - Hometown Stations",
+      "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+      "Sociedad Química y Minera De Chile (SQM) Expands Mt Holland As Fair Value Debate Builds - simplywall",
+      "Sociedad Quimica y Minera (NYSE:SQM) Downgraded by Wall Street Zen to Buy - MarketBeat",
+      "Corteva Agriscience Lobbyists, 2025 - OpenSecrets"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Nutrien Ltd、Intrepid、CF相關動態：「Nutrien misses profit estimates as lower volumes blunt hi...」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nutrien misses profit estimates as lower volumes blunt higher fertilizer pric...（肥料價格、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Intrepid Potash (IPI) Stock Faces Profit Pressure Despite Better Margins - si...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

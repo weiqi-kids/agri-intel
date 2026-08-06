@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 3,
+  "gate2_fail": 11,
+  "passed": 66,
+  "gate2_samples": [
+    "America 250 Hometown Proud: Nutrien - Hometown Stations",
+    "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+    "Sociedad Química y Minera De Chile (SQM) Expands Mt Holland As Fair Value Debate Builds - simplywall",
+    "Sociedad Quimica y Minera (NYSE:SQM) Downgraded by Wall Street Zen to Buy - MarketBeat",
+    "Corteva Agriscience Lobbyists, 2025 - OpenSecrets"
+  ]
+}
