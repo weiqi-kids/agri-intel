@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:25:47.591246Z",
+  "updated_at": "2026-08-07T08:45:11.364330Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "ICL Group",
       "ticker": "ICL",
       "currency": "USD",
-      "ar": 1649000000,
-      "ar_prev": 1365000000,
-      "ar_qoq": "+21%",
+      "ar": 1640000000,
+      "ar_prev": 1649000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 1865000000,
-      "inv_prev": 1934000000,
-      "inv_qoq": "-4%",
+      "inventory": 1833000000,
+      "inv_prev": 1865000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "intrepid",
@@ -262,17 +262,17 @@
       "name": "台肥",
       "ticker": "1722.TW",
       "currency": "TWD",
-      "ar": 1023642000,
-      "ar_prev": 1373730000,
-      "ar_qoq": "-25%",
+      "ar": 1539540000,
+      "ar_prev": 1023642000,
+      "ar_qoq": "+50%",
       "ar_period": "QoQ",
-      "inventory": 3150379000,
-      "inv_prev": 2117411000,
-      "inv_qoq": "+49%",
+      "inventory": 2467280000,
+      "inv_prev": 3150379000,
+      "inv_qoq": "-22%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "yara",

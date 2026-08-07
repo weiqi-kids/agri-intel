@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 4,
+  "gate2_fail": 9,
+  "passed": 66,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+    "Edgestream Partners L.P. Invests $1.17 Million in The Mosaic Company $MOS - MarketBeat",
+    "Sociedad Química y Minera De Chile (SQM) Expands Mt Holland As Fair Value Debate Builds - simplywall",
+    "Cf Industries Expects Yazoo City Complex In Mississippi To Resume Operations In The First Half Of 20",
+    "Archer-Daniels-Midland Co (CHIX:1ADMm) Competitors 2026 - GuruFocus"
+  ]
+}

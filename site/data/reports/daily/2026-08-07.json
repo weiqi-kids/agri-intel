@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:45:15.015097Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-07-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Post-Labor Day corn rally? Don’t bank on it",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/post-labor-day-corn-rally-don-t-bank-on-it"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-07-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "When activism gets in the way of real action",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/conservation-and-sustainability/when-activism-gets-in-the-way-of-real-action"
+    },
+    {
+      "rank": 3,
+      "event_id": "nutrien-2026-08-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mideast war continues to disrupt fertilizer demand, prices, Nutrien CEO says - The Globe and Mail",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQldPMUUyU1o5VGRqY295TXd6VVZJSzQ3Ry15cUx5ZmJoaG1BT1VyVUtLM0JwOGVvRTJyMzRQS0FkVE40TmtRMWQzd1ZWRHFDMlJIM3QxdGVqdkVmWF9XblYzVjNNUGp5d2JnUmVLODZPNXRodlVzaEZPNUdwSUI3MGQ4WXJDZEFCaDE4OVoxWG9GTFQ2SnFhX1g2Vll6NlZYU043ODdOY2lhdkdVZ2M4ajJ0bWM1dEtx?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-08-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries hints at second blue ammonia plant as rivals retreat - gasworld",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXVZQlhzTzR6aVh4N0Jyb2dpbFpBdXBVTnRBcUFUaW5HVWxrd0toMjZIUElZY1BxcW1tVm1XVzVHeTl2NzQ1eG1ZTHNCT1Raclk0dElIOXlEb0RoaFNOa18yOEREVGNTenlNc2tpOGkxdE10SXl6OVFPdTR0QVlzZlFPbE9fQmhCbW1KdnZEVGllZk15NEo5aEVNN2xFekRna0hJc2UzUm5TTVhEWU9BMlFJRHo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-08-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "180 Wealth Advisors LLC Buys New Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWk52MVFENElYbXBZRlFmOXZCLWJRbS0xQU1VemlHbUdBcmJNNTRmN3VEeWJMMXhzR3pnd2Y0WngwUGo5WnNONmVFY3loLTlqb3RWdmdZRG1TTEZfemFsV005T2tUREVmVlN1ajliMUw0bW1mWEZXSk83Q2pCdDVaSktqMnE4S1ljOHpVTlZjV1lJZGJEU2xxUWhqdHdzUVZXQURmSm9yekRtMG1Hbm9CQzA5c0JyNmtVSF94OEl6RExuSlJKMWw1akxSVEIyYW1vdWRR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 170,
+    "too_old": 121,
+    "gate1_blocked": 4,
+    "gate2_blocked": 9,
+    "passed": 66,
+    "pass_rate": "33.0%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+      "Edgestream Partners L.P. Invests $1.17 Million in The Mosaic Company $MOS - MarketBeat",
+      "Sociedad Química y Minera De Chile (SQM) Expands Mt Holland As Fair Value Debate Builds - simplywall",
+      "Cf Industries Expects Yazoo City Complex In Mississippi To Resume Operations In The First Half Of 20",
+      "Archer-Daniels-Midland Co (CHIX:1ADMm) Competitors 2026 - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為ADM、Nutrien Ltd、CF相關動態：「Post-Labor Day corn rally? Don’t bank on it」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Post-Labor Day corn rally? Don’t bank on it（種植季節、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "When activism gets in the way of real action（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
