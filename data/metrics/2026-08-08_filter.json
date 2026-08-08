@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 3,
+  "gate2_fail": 8,
+  "passed": 57,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+    "Edgestream Partners L.P. Invests $1.17 Million in The Mosaic Company $MOS - MarketBeat",
+    "Sociedad Quimica y Minera (NYSE:SQM) Downgraded by Wall Street Zen to Buy - MarketBeat",
+    "Janus Henderson Group PLC Lowers Holdings in Bunge Global SA $BG - MarketBeat",
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance"
+  ]
+}

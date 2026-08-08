@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T08:45:11.364330Z",
+  "updated_at": "2026-08-08T08:27:09.896655Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "Intrepid Potash",
       "ticker": "IPI",
       "currency": "USD",
-      "ar": 46255000,
-      "ar_prev": 33776000,
-      "ar_qoq": "+37%",
+      "ar": 18976000,
+      "ar_prev": 46255000,
+      "ar_qoq": "-59%",
       "ar_period": "QoQ",
-      "inventory": 95685000,
-      "inv_prev": 112305000,
-      "inv_qoq": "-15%",
+      "inventory": 104881000,
+      "inv_prev": 95685000,
+      "inv_qoq": "+10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "kpluss",
@@ -194,17 +194,17 @@
       "name": "The Mosaic Company",
       "ticker": "MOS",
       "currency": "USD",
-      "ar": 1015900000,
-      "ar_prev": 970000000,
-      "ar_qoq": "+5%",
+      "ar": 860100000,
+      "ar_prev": 1015900000,
+      "ar_qoq": "-15%",
       "ar_period": "QoQ",
-      "inventory": 3422900000,
-      "inv_prev": 3363000000,
-      "inv_qoq": "+2%",
+      "inventory": 3668000000,
+      "inv_prev": 3422900000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "nutrien",

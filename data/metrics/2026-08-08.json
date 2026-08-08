@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-08",
+  "total_events": 3,
+  "by_company": {
+    "cf_industries": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "industry_general": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
