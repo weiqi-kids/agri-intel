@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:27:09.896655Z",
+  "updated_at": "2026-08-09T08:29:35.969693Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "ADM公司",
       "ticker": "ADM",
       "currency": "USD",
-      "ar": 4537000000,
-      "ar_prev": 3594000000,
-      "ar_qoq": "+26%",
+      "ar": 4111000000,
+      "ar_prev": 4537000000,
+      "ar_qoq": "-9%",
       "ar_period": "QoQ",
-      "inventory": 11741000000,
-      "inv_prev": 10369000000,
-      "inv_qoq": "+13%",
+      "inventory": 10586000000,
+      "inv_prev": 11741000000,
+      "inv_qoq": "-10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "agco",
@@ -177,17 +177,17 @@
       "name": "久保田",
       "ticker": "6326.T",
       "currency": "JPY",
-      "ar": 933154000000,
-      "ar_prev": 946400000000,
-      "ar_qoq": "-1%",
+      "ar": 1106700000000,
+      "ar_prev": 933154000000,
+      "ar_qoq": "+19%",
       "ar_period": "QoQ",
-      "inventory": 688893000000,
-      "inv_prev": 671801000000,
-      "inv_qoq": "+3%",
+      "inventory": 718916000000,
+      "inv_prev": 688893000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "mosaic",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 29,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+    "Archer-Daniels-Midland (NYSE:ADM) Posts Better-Than-Expected Sales In Q2 CY2026 - Yahoo Finance",
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+    "Janus Henderson Group PLC Lowers Holdings in Bunge Global SA $BG - MarketBeat",
+    "Bunge Global SA $BG Holdings Trimmed by The Manufacturers Life Insurance Company - MarketBeat"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:27:13.811083+00:00",
+  "updated_at": "2026-08-09T08:29:38.524186+00:00",
   "companies": {
     "nutrien": {
       "name": "Nutrien",
@@ -489,64 +489,10 @@
       "ticker": "OCI.AS",
       "holders": [
         {
-          "holder": "DAVIS NEW YORK VENTURE FUND INC-Davis New York Venture Fund",
-          "shares": 1822154,
-          "pct_held": 0.86,
-          "value": 7383368
-        },
-        {
-          "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
-          "shares": 1486007,
-          "pct_held": 0.7,
-          "value": 6021300
-        },
-        {
-          "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
-          "shares": 948281,
-          "pct_held": 0.45,
-          "value": 3842434
-        },
-        {
-          "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
-          "shares": 747581,
-          "pct_held": 0.35,
-          "value": 3029198
-        },
-        {
-          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
-          "shares": 421280,
-          "pct_held": 0.2,
-          "value": 1707026
-        },
-        {
-          "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
-          "shares": 377622,
-          "pct_held": 0.18,
-          "value": 1530124
-        },
-        {
-          "holder": "SCHWAB STRATEGIC TRT-Schwab Fd.amental Intl Small Eqy. ETF",
-          "shares": 319484,
-          "pct_held": 0.15,
-          "value": 1294549
-        },
-        {
-          "holder": "Thornburg Income Builder Opportunities Trust",
-          "shares": 279469,
-          "pct_held": 0.13,
-          "value": 1132408
-        },
-        {
-          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard European Stock Index Fd.",
-          "shares": 249151,
-          "pct_held": 0.12,
-          "value": 1009559
-        },
-        {
-          "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
-          "shares": 219713,
-          "pct_held": 0.1,
-          "value": 890277
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 488,
+          "pct_held": 0.0,
+          "value": 1977
         }
       ]
     },
