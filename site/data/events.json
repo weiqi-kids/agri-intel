@@ -1,5 +1,231 @@
 [
   {
+    "id": "mosaic-2026-08-10-001",
+    "date": "2026-08-10",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Royal Bank of Canada Acquires 62,883 Shares of The Mosaic Company $MOS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0djalRQYlFDMTNJeE1sbjJPU0xGZFIweXdjd3o0d1lPcGptZXRLeHFTcWQ3UGJ4Ul8wUGpSV3dTREQ4R1ZQRTdXWEdONF9lcGFIR0toR1h3ejhoTXM2Z2FxWUxLMkUta29USk43cT",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0djalRQYlFDMTNJeE1sbjJPU0xGZFIweXdjd3o0d1lPcGptZXRLeHFTcWQ3UGJ4Ul8wUGpSV3dTREQ4R1ZQRTdXWEdONF9lcGFIR0toR1h3ejhoTXM2Z2FxWUxLMkUta29USk43cTJJY2NRcVBRbUp1UXVfSF92R1I3SWpSSHpRUUZfSkVJX3hfSEUxdHpjelZEb1V1WE1hUE1fV3VKeGZrY3N6eDZZb3A0RGJmM3lCVWhKajVjd2EzLUNhUGZBSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-10-002",
+    "date": "2026-08-10",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Assenagon Asset Management S.A. Purchases 112,696 Shares of CF Industries Holdings, Inc. $CF - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdE1faTRRUGxYLVZPX3V6VFVxelo0aTgxVlc1QlQ4WXdIT21PQVBIWG81cWpDVW9XODZ4Z3lFNlZZUW9qY19yR2U1ejJ5R1NUODJiOUJKMWxJM1pnQlByOVlqdGI2ZmJKYUt0dHRNR0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdE1faTRRUGxYLVZPX3V6VFVxelo0aTgxVlc1QlQ4WXdIT21PQVBIWG81cWpDVW9XODZ4Z3lFNlZZUW9qY19yR2U1ejJ5R1NUODJiOUJKMWxJM1pnQlByOVlqdGI2ZmJKYUt0dHRNR0pPVDR2N0JhUEJ0Q0MyX2NXU0lpdFZwT1JGZnFKLXhXZVB1VmMxSXkyNG1GWXl2YTlQdVl6d01TOElqYTZxOXgzQjRqdlVoY3pDRTd2U1N0N25OWDhsRkJ6QlZkamItRi1vMGtQeUQtdm1fYzExWTJkTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-003",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bulletproof your farm’s fertilizer spending plan",
+    "summary": "The Middle East conflict is a reminder that global chaos can spike your input costs overnight. Here’s how to make smarter fertilizer decisions now — and protect your bottom line.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/bulletproof-your-farm-s-fertilizer-spending-plan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-004",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Indiana leads the U.S. in grain entrapment events",
+    "summary": "Hoosier News and Notes: The 2025 summary of confined-space injuries and fatalities identified Indiana as a leading state for grain entrapments. Dive into drainage regulations with Indiana Farm Bureau’",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/indiana-leads-the-u-s-in-grain-entrapment-events",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-005",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Timely rainfall may spur bin-busting crops in Iowa",
+    "summary": "Reduced disease levels are one reason Iowa corn and soybeans have good yield potential, but rainfall this month will determine if that is realized.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/timely-rainfall-may-spur-bin-busting-crops-in-iowa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-006",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ultimate Husker Harvest Days experience starts here",
+    "summary": "Find exhibitors and plan visits with the updated free smartphone app, available now.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/ultimate-husker-harvest-days-experience-starts-here",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-007",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. pork exports look to rebound after pseudorabies-related ban",
+    "summary": "Hog Outlook: How did a single farm’s disease detection triggered a multimillion-dollar trade crisis and what does it mean for U.S. pork producers?",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/hog-and-pork-news/u-s-pork-exports-look-to-rebound-after-pseudorabies-related-ban",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-008",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "10 make-or-break questions for ranchers considering virtual fence",
+    "summary": "Oklahoma rancher and conservation agent Meg Greski explains what to evaluate — from cell coverage to collar fit — before investing.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/10-make-or-break-questions-for-ranchers-considering-virtual-fence",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-009",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Midwest farmers optimistic despite some southern rust spread",
+    "summary": "Midwest Crop Report: Timely August rains boost Indiana and Ohio corn and soybeans, but southern rust spreads across Illinois, prompting increased scouting and disease management efforts.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/midwest-farmers-optimistic-despite-some-southern-rust-spread",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-010",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "planting_season",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "4 factors that could drive wheat prices above $8",
+    "summary": "Wheat Outlook: Growers should watch Black Sea conflicts, Southern Plains moisture, potential acreage increases and export demand shifts that could push wheat prices above recent highs.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/wheat/4-factors-that-could-push-wheat-prices-above-8",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-011",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flying to the Farm Progress Show? Here's what to know",
+    "summary": "Farm Progress Show: The Ames and Boone airports serve those flying into Iowa for the show.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/flying-to-the-farm-progress-show-here-s-what-to-know",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-012",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New World screwworm poses threat to small ruminants as well as cattle",
+    "summary": "New World screwworm is often characterized as a cattle issue, but it can infest and kill any warm-blooded animals, including sheep and goats. Livestock producers must understand the seriousness of the",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/animal-health/new-world-screwworm-poses-threat-to-small-ruminants-as-well-as-cattle",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mosaic-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [
@@ -35,6 +261,123 @@
       {
         "name": "sqm",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00aUxhU21uMGJ0UWthUlkzX1FfR1gwQ2YxcGwzdlo3bFBqeXEtNUlxZEtiaEZ2ajNJdzF3MTUzZVR0U0RQWERkLVVNd2NHanF6WlR1UUlqN1F0TEFJaHZremg0a2xKZ1dQR2FYWG15RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Does Nutrien (TSX:NTR) Pairing Higher Potash Volumes With Buybacks Refine Its Core Investment Story? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxORTFFNks4dmdNcFBTT0xxOHJYeDM1ZXcybWxNdEp5T2R5ellBT2hlUE9ackVGN01nVjNvV1VWODFUTExzc1Z6N2dsVmVuSzBpOVhFdllNOXFaWUFYLWRmc1oxYlpibzBQU1ZJM0JEeG",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORTFFNks4dmdNcFBTT0xxOHJYeDM1ZXcybWxNdEp5T2R5ellBT2hlUE9ackVGN01nVjNvV1VWODFUTExzc1Z6N2dsVmVuSzBpOVhFdllNOXFaWUFYLWRmc1oxYlpibzBQU1ZJM0JEeGRjeW9qNUtaZWNRY1N5aHJ0b2RyZEFNcUNjOEVjTTdtb2VvUU4wZnQ5anNDR1lGM21uTlRWTEhWMDlTOURZdUFBUm5wNEV0YXV0OHJpVHZXU3l3dVA3OEZGVzdB0gHPAUFVX3lxTFBMQkFNT3BqLTRhbDFqMXdyOHN5TDdlTVk1dERraHNKSGxoLWZOUGkyUEFuVHMtRmFWMmxFTDdSRno3MGRHTnRPR0JvdklHOWh4ekc3MDA4Z0MyYXVlVllkMEhhMEhwaGw0QkN4UG9QRHN1eWkzYWRYRmZFWVpVczR6YXpDYlZWcF94QkQwTVFHalNtdEk0V3R5NUhXZTFFZm5oTGFHM3BpQlFvUFFHQURFdDZUa2xXMVZnMUtxbE5LR016Znk0NmZCZlpQVmZWVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-08-09-004",
+    "date": "2026-08-09",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera S.A. (SQM) Stock Forecasts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnBlQmp6bEhZWDlXMzZxSGF2U1BjZENpRzB0SDZxUWJuM0xDN2ZOd1RUSkhMYnR1aG44WGlibmgwQlhKYWVSQXlDeUlZMW5Rb1N4RmVicjFwX3NiVlJnMnV2NWFmUFdtRGltN3lja0",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnBlQmp6bEhZWDlXMzZxSGF2U1BjZENpRzB0SDZxUWJuM0xDN2ZOd1RUSkhMYnR1aG44WGlibmgwQlhKYWVSQXlDeUlZMW5Rb1N4RmVicjFwX3NiVlJnMnV2NWFmUFdtRGltN3lja05hX0l3WnVMSVJmUlhwZzRqbnZIQ0hQWDhJMHpRb01n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-08-09-005",
+    "date": "2026-08-09",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Química y Minera de Chile S.A. (S2CH34.SA) Analyst insights, Price targets and Recommendations - au.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE00aUxhU21uMGJ0UWthUlkzX1FfR1gwQ2YxcGwzdlo3bFBqeXEtNUlxZEtiaEZ2ajNJdzF3MTUzZVR0U0RQWERkLVVNd2NHanF6WlR1UUlqN1F0TEFJaHZremg0a2xKZ1dQR2FYWG15RQ",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00aUxhU21uMGJ0UWthUlkzX1FfR1gwQ2YxcGwzdlo3bFBqeXEtNUlxZEtiaEZ2ajNJdzF3MTUzZVR0U0RQWERkLVVNd2NHanF6WlR1UUlqN1F0TEFJaHZremg0a2xKZ1dQR2FYWG15RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-09-006",
+    "date": "2026-08-09",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CF Industries Holdings, Inc. (NYSE:CF) Passed Our Checks, And It's About To Pay A US$0.60 Dividend - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWHIyYjJwSm5pVDRNcnd6dTZQUlFIMDJYV0dRRTMxT1ZMZS0wT3JKMEpzdnJLY1lpZnNFdlZobVdjOHRFbnNTZ1RDVVNmS0lTN0RIQ2d6T1ZGVEVUNlFvZjZtcVRUUDJTT01BM2Q0V2",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWHIyYjJwSm5pVDRNcnd6dTZQUlFIMDJYV0dRRTMxT1ZMZS0wT3JKMEpzdnJLY1lpZnNFdlZobVdjOHRFbnNTZ1RDVVNmS0lTN0RIQ2d6T1ZGVEVUNlFvZjZtcVRUUDJTT01BM2Q0V2FuMDZLSHBXTzdkaVJQMFRkb3EwS0lOazcxdlkxZFU2Y25JZXNXT1Q0TS1MbGRUeFFlRDJsNWFfb2NKcUZ1NVFDQ2N2RUwycU9EcG5kdVluSFdiVEJLdm5oOHFsZXZHVUdCbzVwMUtfQ0lMTGPSAdsBQVVfeXFMT1hyMmIycEpuaVQ0TXJ3enU2UFJRSDAyWFdHUUUzMU9WTGUtME9ySjBKc3ZyS2NZaWZzRXZWaG1XYzh0RW5zU2dUQ1VTZktJUzdESENnek9WRlRFVDZRb2Y2bXFUVFAyU09NQTNkNFdhbjA2S0hwV083ZGlSUDBUZG9xMEtJTms3MXZZMWRVNmNuSWVzV09UNE0tTGxkVHhRZUQybDVhX29jSnFGdTVRQ0NjdkVMMnFPRHBuZHVZbkhXYlRCS3ZuaDhxbGV2R1VHQm81cDFLX0NJTExj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-09-007",
+    "date": "2026-08-09",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can CNH Industrial (CNH) Justify Its Valuation Following Q2 Earnings And Guidance? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3hVak55Q3Itb1VYekE4ODRCWWxQZHlKWGswc3FnRGRHY2xIcUh3LXNIVDFRSkJPSTdfd0RzT3JHRElFUjQ1Mjg3dzhtU21NcjMzSHVhcjd0cWZ5RXNoZHItZUlBTjNaYTl6NEJWQn",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3hVak55Q3Itb1VYekE4ODRCWWxQZHlKWGswc3FnRGRHY2xIcUh3LXNIVDFRSkJPSTdfd0RzT3JHRElFUjQ1Mjg3dzhtU21NcjMzSHVhcjd0cWZ5RXNoZHItZUlBTjNaYTl6NEJWQnNQamtlOF80MGJrSFRYRWxQUWFFbDIza0JIT0lVbVVIeS1LR3VubWhZbi1xR0hrZjYxaVBNOC1na1BlaDBHRTFkc09tTHZsLW5JNlhid3E1UDVPejN3bmVLcU00eGFFQ1plRWh3cjZR0gHWAUFVX3lxTFBneFVqTnlDci1vVVh6QTg4NEJZbFBkeUpYazBzcWdEZEdjbEhxSHctc0hUMVFKQk9JN193RHNPckdESUVSNDUyODd3OG1TbU1yMzNIdWFyN3RxZnlFc2hkci1lSUFOM1phOXo0QlZCc1Bqa2U4XzQwYmtIVFhFbFBRYUVsMjNrQkhPSVVtVUh5LUtHdW5taFluLXFHSGtmNjFpUE04LWdrUGVoMEdFMWRzT21Mdmwtbkk2WGJ3cTVQNU96M3duZUtxTTR4YUVDWmVFaHdyNlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-09-008",
+    "date": "2026-08-09",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Quantinno Capital Management LP Has $3.36 Million Stake in CNH Industrial N.V. $CNH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFd5U1B0SDhjNF84U051NDhfb3FkRnNTY2R4SnRqWmxXTm1HRDBuXy1NUm1GcFNxeGFIV2Q0dWgta1VTbE9fOVlVT1FPSTJRcndSVXk5NndMZHhQMHh1UkFWS0ljdE1zNWZTbXNENl",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFd5U1B0SDhjNF84U051NDhfb3FkRnNTY2R4SnRqWmxXTm1HRDBuXy1NUm1GcFNxeGFIV2Q0dWgta1VTbE9fOVlVT1FPSTJRcndSVXk5NndMZHhQMHh1UkFWS0ljdE1zNWZTbXNENlJwRmVXQVBxWG9CQnVZZmtMNEZkZjVoOEppUHR3a0RYeWRkalVtMThmbE1xcW9lNUlJdjRENjZhemxtVThWV3pVeS0zWjBiT2I3bU5qdE1GdlJvQS1WeUZ2Y3FTY3MzVlg5eDl4Ukxn?oc=5",
         "type": "rss"
       }
     ]
@@ -356,6 +699,67 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-chapter-tribute-bricen-benyshek",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-08-017",
+    "date": "2026-08-08",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Miss: The Mosaic Company Missed EPS And Analysts Are Revising Their Forecasts - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkNTT0JFQm01dXQzODU1dW51X0dZdU9nVEhPNHVXUWhYeTdIdEdmX2pVUzBzVGRRWFRTcXlmOURvRFFZSk1pV09VeVA2V3ZkR2oxRU1nRDZHSkhLa1pXZGhzX0NpZWVoSWpSYmlVTn",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkNTT0JFQm01dXQzODU1dW51X0dZdU9nVEhPNHVXUWhYeTdIdEdmX2pVUzBzVGRRWFRTcXlmOURvRFFZSk1pV09VeVA2V3ZkR2oxRU1nRDZHSkhLa1pXZGhzX0NpZWVoSWpSYmlVTnM2d0NTN2FTM1RGdzYycXBfckhlaTBqeEtKOElyTFlxX1dUZjdjRlpQZ19XTncwcF9Mbko4bA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-08-018",
+    "date": "2026-08-08",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Company (The) (MOS) Stock Forecasts - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDkxdUI1eGlzcERDdFhIbmkyV3hJWHBpMkdlanhJaHkwVThpQjUyaV9VNHRJUXp4QjJSWnpydVZHSEwxZzI0WElDMkE2eTRYbnBPUmxzd2huTlNEbUd0T3NuQ2NVNE9ObmI2VkNHTD",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDkxdUI1eGlzcERDdFhIbmkyV3hJWHBpMkdlanhJaHkwVThpQjUyaV9VNHRJUXp4QjJSWnpydVZHSEwxZzI0WElDMkE2eTRYbnBPUmxzd2huTlNEbUd0T3NuQ2NVNE9ObmI2VkNHTDRmblNYUGxELWlUR3VjZnYyem80SjlTRDlFVW5Va20xQWY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-08-019",
+    "date": "2026-08-08",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why CF Industries (CF) Stock Is Down Today - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQajNYTWEyYnJVZGM0MElKbGVCNDRRQ0x6RERmODVLb3A5ZXdVcU9OdWwzRnZiMUNCNUxmMHNvS1VPdVhqWXlDeTF3ZUFHZXhTTHFxZTF4clhUcHNZQW5YUmI4aUdnaFpQbWd0S2p2cW",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQajNYTWEyYnJVZGM0MElKbGVCNDRRQ0x6RERmODVLb3A5ZXdVcU9OdWwzRnZiMUNCNUxmMHNvS1VPdVhqWXlDeTF3ZUFHZXhTTHFxZTF4clhUcHNZQW5YUmI4aUdnaFpQbWd0S2p2cW9icks4S0w4WGJSVF9tblVJT0lTeWFraGVFVlE?oc=5",
         "type": "rss"
       }
     ]
@@ -1364,6 +1768,64 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NT2tEcWZlak5OWlVIU21nTXlYWkZTSm1CNVBuM1lNWE9YcHpyUXZNSFhWOFNmQmFFOWltRUY0akRxTzl0R1NRQ1JNcG83Qm1uOVhUVllBZ3hiQU5lMGlCaDJsa2FQSF9JMjB0dmpUU1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-08-07-053",
+    "date": "2026-08-07",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mideast war continues to disrupt fertilizer demand, prices, Nutrien CEO says - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQldPMUUyU1o5VGRqY295TXd6VVZJSzQ3Ry15cUx5ZmJoaG1BT1VyVUtLM0JwOGVvRTJyMzRQS0FkVE40TmtRMWQzd1ZWRHFDMlJIM3QxdGVqdkVmWF9XblYzVjNNUGp5d2JnUmVLOD",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQldPMUUyU1o5VGRqY295TXd6VVZJSzQ3Ry15cUx5ZmJoaG1BT1VyVUtLM0JwOGVvRTJyMzRQS0FkVE40TmtRMWQzd1ZWRHFDMlJIM3QxdGVqdkVmWF9XblYzVjNNUGp5d2JnUmVLODZPNXRodlVzaEZPNUdwSUI3MGQ4WXJDZEFCaDE4OVoxWG9GTFQ2SnFhX1g2Vll6NlZYU043ODdOY2lhdkdVZ2M4ajJ0bWM1dEtx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-054",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland Co. stock underperforms Friday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUE5NZy1ycDJIdWFBQkhKdUVtc0lRZmRuQngtMkptZUt4M1g0Uk55b1hPS1Y5SmowWmptNUdlckRPRVdDNDBpY3hGT2w0RXVpQXVYTDJ1VEpWM0pSYUlqYTlTOGFQem10ekZpLVRscH",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUE5NZy1ycDJIdWFBQkhKdUVtc0lRZmRuQngtMkptZUt4M1g0Uk55b1hPS1Y5SmowWmptNUdlckRPRVdDNDBpY3hGT2w0RXVpQXVYTDJ1VEpWM0pSYUlqYTlTOGFQem10ekZpLVRscHJMelBHMTJQWU1YZmQ4QW12eks5WkFwdV9fRWMyUWprcjlFb3J2RTNDbmtsX0Y5akY3RkVRQXpuQllZQWwySTM1TjZOM2FVbFQ1ZFBRYm1RNWt3bko2UWptcUVBMzl2RmplRVJhY2tZbFg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-07-055",
+    "date": "2026-08-07",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kubota Corporation (6326.T) stock price, news, quote and history - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMVW56TTlhblI5S0ItQkZkbndqc3VQRGRQbE5PODFhVGx6dG4yTkVQUnVPeWZaNmI1WmVEVUF3OEY0U29GTXd4b1B0QTFQQWE4MUF0WA?oc=5\" target=\"_blank\">Kubota Corpor",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMVW56TTlhblI5S0ItQkZkbndqc3VQRGRQbE5PODFhVGx6dG4yTkVQUnVPeWZaNmI1WmVEVUF3OEY0U29GTXd4b1B0QTFQQWE4MUF0WA?oc=5",
         "type": "rss"
       }
     ]
@@ -2500,6 +2962,42 @@
       {
         "name": "bunge",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenRNLTJ3QmNtRUJlS2VPSXlVdlBYNWctMFpjSm4xVWVZd2xVbkFzX3Z6cUxDdDJiTUc2a0lsU3hmb0JmUnFKTEVQblJvR2FOXzNPODB2QnpsU1FlbG5WR3YwQUlnS1lmN1huMnRuRmRnWVRJSngyaEhSSWNybndLZjhidDJJTmx2MmlaalhQMXl4MnNDX200M2UwMUpvS2ZRV0x3Yjd2enhpXzIyVUp0SFYtdlVycUI3ZS1CVW9fN1ExN3F5V2drNnY1X29KUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-08-06-058",
+    "date": "2026-08-06",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of OCI N.V. – OTC:OCINF - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTnlIZ012dXBFRVpON0lHS19qcVZHV1FJaHBfZUFRTXFrbk1FTFpkYmJ5RF9IOXRZSVpDRTQ3LWs5Z3IxWUNVeWhkaEczM2ZaQUpUc0J3V3luUjVmSnNHSzExRjNXWjZOcnA0dklUVz",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTnlIZ012dXBFRVpON0lHS19qcVZHV1FJaHBfZUFRTXFrbk1FTFpkYmJ5RF9IOXRZSVpDRTQ3LWs5Z3IxWUNVeWhkaEczM2ZaQUpUc0J3V3luUjVmSnNHSzExRjNXWjZOcnA0dklUVzB0NzBhaVJVUS1qZDRYS1hWOWphYUg3UEpvTEFDLW9sYUVBWWg0VDd1X2NQQ0JKSnMwRWQwNlRUMUIzYVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-06-059",
+    "date": "2026-08-06",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Edgestream Partners L.P. Trims Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzE0Qml6RXVYcHV2eGM1YzB4LXZtdmE1empoclRDdHZIZzVYX3JZV1dYNFFGQ2Jid3ZSSGd4S0VJeDVKbHo1SkZHd0NvUWRES3MxYUpYX2pSMlpEM04yUGpNRnRMbEFOVGhtVUxsOT",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzE0Qml6RXVYcHV2eGM1YzB4LXZtdmE1empoclRDdHZIZzVYX3JZV1dYNFFGQ2Jid3ZSSGd4S0VJeDVKbHo1SkZHd0NvUWRES3MxYUpYX2pSMlpEM04yUGpNRnRMbEFOVGhtVUxsOTZoUmNHaFlfMlVPSDhadmd2QXltX2lJUlhBNVY3aWNnYmIteHBIYXZlZGtVQXM0ZkNkQnVtcDg4Rjg4Uk5GbG5VN2xQWG1wWDVJdDF2RExONWpaVnpNZ1V0MV8tRmh2QQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3916,6 +4414,147 @@
     ],
     "impact": "neutral",
     "title": "D.A. Davidson Maintains CNH Industrial(CNH.US) With Hold Rating, Maintains Target Price $12 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1c4T2tXZzRWV3RLck1FeU1IZndmSHJWbks2S2pDdnRuVVhBMFVBYmE2VXZub1BJb3JzSVJzdTFGbFhXN08xdmJTeUdmbnh4MXlPZDF2NlUxRS1yUkNoeHBPMzJRVG0xLTJBSjVtbF",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1c4T2tXZzRWV3RLck1FeU1IZndmSHJWbks2S2pDdnRuVVhBMFVBYmE2VXZub1BJb3JzSVJzdTFGbFhXN08xdmJTeUdmbnh4MXlPZDF2NlUxRS1yUkNoeHBPMzJRVG0xLTJBSjVtbF9GS3dOWlNZUGczYl90aDExUE5FY2xvR0hFZ1N1UkgtcXZJWnFrMHNxdE1IOUlyenZJdE82S2l1NjFhdE96LW16YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-08-05-073",
+    "date": "2026-08-05",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien misses quarterly profit estimates as lower sales weigh on world’s top potash producer - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzdmb3pWcnpGSU81blZKM2w5NkwtaG50N1FycDlCRVNNd0RvN2w4UVE3NklZLTNRVHhEdW93Q0RULVFtOXV1ZTlNVUs1eEhyS2VQRWtxUXRSUWIxMWM2WDZOSTlodHdVN2RXQWNqOH",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzdmb3pWcnpGSU81blZKM2w5NkwtaG50N1FycDlCRVNNd0RvN2w4UVE3NklZLTNRVHhEdW93Q0RULVFtOXV1ZTlNVUs1eEhyS2VQRWtxUXRSUWIxMWM2WDZOSTlodHdVN2RXQWNqOHB0YTFMbzdlZjlIbjByT1RJb1ZLQjdpTGpOc3FCc21XNGxRbzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-05-074",
+    "date": "2026-08-05",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why The Mosaic Company (MOS) Stock Is Up Today - quiverquant.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRklEWHZTTmlCSWtkTnROcEtqTV9sTjlhM25PLU45NjJNb2owa2RpclBlNVhFUWNueGNqMTlJU29nVktmNS0tdDF3ODF3ZC1ZM0phWUxnS1F1Ujl1SUd2aE9Ld2lEVEZ5OTVISEdNcE",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRklEWHZTTmlCSWtkTnROcEtqTV9sTjlhM25PLU45NjJNb2owa2RpclBlNVhFUWNueGNqMTlJU29nVktmNS0tdDF3ODF3ZC1ZM0phWUxnS1F1Ujl1SUd2aE9Ld2lEVEZ5OTVISEdNcEltNEdJMHhIbElNczlmdk5BZkwyU2FERWJiYWV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-05-075",
+    "date": "2026-08-05",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "‘The crisis will come to an end,’ Mosaic reports $273m net loss in Q2 2026 amid fertilizer volatility - agnavigator.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOWW94ZW4yTjdjdTZEQmE1YnZBOWg0bmQzZ1p2YmVZa1o5cWg5STVKYkEtUTNOam9nMlljNGgyS1d1ODhUTEE4cU1wUWhnamMwVHg0bmt6eU8tYmhBY1RiSEMzVjM0TWNyV1pRUmlGWG",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWW94ZW4yTjdjdTZEQmE1YnZBOWg0bmQzZ1p2YmVZa1o5cWg5STVKYkEtUTNOam9nMlljNGgyS1d1ODhUTEE4cU1wUWhnamMwVHg0bmt6eU8tYmhBY1RiSEMzVjM0TWNyV1pRUmlGWGQ4NXBkdDBOSWM1RE1sZVpuS3dQQkp0ckE2V0p2VFp1U2tZODVObnRvci1BcTM3QWU5NTRCeGd1ZHBWT3YycFNEZlh3c2VRVVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-05-076",
+    "date": "2026-08-05",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "The Mosaic Company (NYSE: MOS) swings to Q2 2026 net loss on charges - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPeU1acllBLUhUSWY4bDVIZkNpekd0clJCam03dFN4TzFYZGJTd0tNZ1E5UVZ2d1hCWmtCS09aWjFZdmJkNkRKajBpZ25ZUGdJejQwWks0OWtTQ3BjOWJOcDh1dkZGeEJ1SDlrdDFyaU",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeU1acllBLUhUSWY4bDVIZkNpekd0clJCam03dFN4TzFYZGJTd0tNZ1E5UVZ2d1hCWmtCS09aWjFZdmJkNkRKajBpZ25ZUGdJejQwWks0OWtTQ3BjOWJOcDh1dkZGeEJ1SDlrdDFyaUdHa3NLN2pubk9yYTZuWUJkQkc1T0tLNVN3aFRXZ3JTdUJqeEl4TWlLYmktSWNNTzMwaVp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-08-05-077",
+    "date": "2026-08-05",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Q2 2026 Net Income Climbs to $15.6M on Stronger Trio Margins - igrownews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVXZnM1YxelFIUWp1OUdhRWVIMXFwRlFMczRMTnctaHRCZUdkc1BZZVlZZXhfc0c0V21YcklxUjdzR2ZHSFpUUWh5czRVWTlISFRnRkNORkVNOGhweUJN?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PVXZnM1YxelFIUWp1OUdhRWVIMXFwRlFMczRMTnctaHRCZUdkc1BZZVlZZXhfc0c0V21YcklxUjdzR2ZHSFpUUWh5czRVWTlISFRnRkNORkVNOGhweUJN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-05-078",
+    "date": "2026-08-05",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Q2 Earnings, Revenue Rise - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGpmbXlxRExISXYwekVvVWY0YTVrY1ppdG9zeDhldE5EMU5YQlg5TVhQMTNvNGhkaHktd00xWEFMRGRBMWdTOUJBMXU4V1JsYmw0VEJTTHdMb2hpSEZZcWZrWEkxcU9ydWFKUXItb0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGpmbXlxRExISXYwekVvVWY0YTVrY1ppdG9zeDhldE5EMU5YQlg5TVhQMTNvNGhkaHktd00xWEFMRGRBMWdTOUJBMXU4V1JsYmw0VEJTTHdMb2hpSEZZcWZrWEkxcU9ydWFKUXItb0lQQ0J6ZC1Gc0R5S3hRcWdydEtKRndadkV4aGdGR1hjNHkyWFRJMzRXUExVM2gyUm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-05-079",
+    "date": "2026-08-05",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "D.A. Davidson Maintains CNH Industrial(CNH.US) With Hold Rating, Maintains Target Price $12 - moomoo.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1c4T2tXZzRWV3RLck1FeU1IZndmSHJWbks2S2pDdnRuVVhBMFVBYmE2VXZub1BJb3JzSVJzdTFGbFhXN08xdmJTeUdmbnh4MXlPZDF2NlUxRS1yUkNoeHBPMzJRVG0xLTJBSjVtbF",
     "sources": [
       {
@@ -5706,6 +6345,46 @@
     ]
   },
   {
+    "id": "intrepid-2026-08-04-091",
+    "date": "2026-08-04",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Q2 Net Income Rises to $15.6 Million - quiverquant.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXFBNzZkU2FGdnA5ejNCamZya21YWGQwRlJvd01GOEJDZXJoTUFCZklFczREWnRGZWRnMkRRRjlWOXhuX3N2c3JWT01rMklKc09LLXNOQXc1NGJpaml5OEc5a21YUEhaVlduYzJvZ0",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXFBNzZkU2FGdnA5ejNCamZya21YWGQwRlJvd01GOEJDZXJoTUFCZklFczREWnRGZWRnMkRRRjlWOXhuX3N2c3JWT01rMklKc09LLXNOQXc1NGJpaml5OEc5a21YUEhaVlduYzJvZ0Z1N3JZSWV5U3ZDMjV1LU9ITlZSMElhYTJKbkRzVXRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-08-04-092",
+    "date": "2026-08-04",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash 2Q Adj EPS 56c >IPI - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlp5SXBrb0FJNldWc1J2RGpoZC1oOHRmVE0xQk9jeTZzc2VlSFVMb0VnSXQ0LWl5WkxsSkdSRjM0TFJzVm45TFFWTWEtQlEtc1RQMTB0dElHYVJXMTlYcVV0ZEJ1MTBlclVTVm5rSG",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlp5SXBrb0FJNldWc1J2RGpoZC1oOHRmVE0xQk9jeTZzc2VlSFVMb0VnSXQ0LWl5WkxsSkdSRjM0TFJzVm45TFFWTWEtQlEtc1RQMTB0dElHYVJXMTlYcVV0ZEJ1MTBlclVTVm5rSGZIbHpVcG1xUjNpX1IyMmFqNW9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-08-03-001",
     "date": "2026-08-03",
     "companies": [
@@ -6829,6 +7508,67 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1RnVmVaYkVLMUFQMmgteDIzXzFQNjRkdjFPc0UyVEVwTGlubjA2M1A2MURRX0ZmMzllaWVFSlRpSXhwcTRBdV82dEtQMEhmYTFpR0w2NFFOdzFteFVBYzc5QzBDa3N2Wlpsd012Wlh5ejlodVZZNWtMeUNoWU5QOTZUenFoUHFwUTZ4cC1QWHZ4bmYxNmNpNGFnWnJMODd3R0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-08-03-059",
+    "date": "2026-08-03",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Price Target Cut to $11.00/Share From $12.00 by RBC Capital - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTF0ejA2Mk00TDhYdWhTejhxbFE0RlRkck92WTk2eTh6RlNvMU1NLXhNc281b25ZamdIVDZWbC15X0tJemxtODBpUnlJY0ticXZLTXZ2UjJVREJ3MFpqWkNQVW1mT2tnaWU1UlpBbn",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTF0ejA2Mk00TDhYdWhTejhxbFE0RlRkck92WTk2eTh6RlNvMU1NLXhNc281b25ZamdIVDZWbC15X0tJemxtODBpUnlJY0ticXZLTXZ2UjJVREJ3MFpqWkNQVW1mT2tnaWU1UlpBbnpYOFVjOExWZE5XX19hM01NajlCR2thSnVxbjRaMFBpdG5kbVJHVTZEUXRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-03-060",
+    "date": "2026-08-03",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why CNH Industrial Stock Is Skyrocketing Today - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3ppSmdpYUF6Z1dmQVY4bVdYX1I4SnhpVkp1UXhlWUpMQXl1eHRUMVhKeXFHaVpCQ2E0RmthZ2RyRmU5RDNyUEJMWlJOTWdUZU1OUVFOS3JHNTR1bkZnZi1BcGh1T3hObmltV0VORW",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3ppSmdpYUF6Z1dmQVY4bVdYX1I4SnhpVkp1UXhlWUpMQXl1eHRUMVhKeXFHaVpCQ2E0RmthZ2RyRmU5RDNyUEJMWlJOTWdUZU1OUVFOS3JHNTR1bkZnZi1BcGh1T3hObmltV0VORWwzS0JmWjVtZGNkb0ZrN1lnWHItMUdtclVfVS13MGlZLTYwVUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-03-061",
+    "date": "2026-08-03",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial Q2 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0ZXRl95RkhBeVpGYUllRjlMR3B2SENnOXdYRXQzd3JzWWUzRzZadVM2Vlg2RW9HV3EwYUREaEtxRGNfTENEM0ViWEZra1lhdmFmZ29kWnpTTEgxUFhoWnBuWmpMdVVDUTNiRGpDSk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0ZXRl95RkhBeVpGYUllRjlMR3B2SENnOXdYRXQzd3JzWWUzRzZadVM2Vlg2RW9HV3EwYUREaEtxRGNfTENEM0ViWEZra1lhdmFmZ29kWnpTTEgxUFhoWnBuWmpMdVVDUTNiRGpDSk1helNsYkd1YWhEN1NvZDlCVGtENEZXTnBCLVpaN1lOV1k4RzNGN0VrVmpuWV8?oc=5",
         "type": "rss"
       }
     ]

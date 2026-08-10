@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:06:00.792666Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-10-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "U.S. pork exports look to rebound after pseudorabies-related ban",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/hog-and-pork-news/u-s-pork-exports-look-to-rebound-after-pseudorabies-related-ban"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-10-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "4 factors that could drive wheat prices above $8",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/wheat/4-factors-that-could-push-wheat-prices-above-8"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-10-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Indiana leads the U.S. in grain entrapment events",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-operations/indiana-leads-the-u-s-in-grain-entrapment-events"
+    },
+    {
+      "rank": 4,
+      "event_id": "mosaic-2026-08-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Royal Bank of Canada Acquires 62,883 Shares of The Mosaic Company $MOS - MarketBeat",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0djalRQYlFDMTNJeE1sbjJPU0xGZFIweXdjd3o0d1lPcGptZXRLeHFTcWQ3UGJ4Ul8wUGpSV3dTREQ4R1ZQRTdXWEdONF9lcGFIR0toR1h3ejhoTXM2Z2FxWUxLMkUta29USk43cTJJY2NRcVBRbUp1UXVfSF92R1I3SWpSSHpRUUZfSkVJX3hfSEUxdHpjelZEb1V1WE1hUE1fV3VKeGZrY3N6eDZZb3A0RGJmM3lCVWhKajVjd2EzLUNhUGZBSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-08-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assenagon Asset Management S.A. Purchases 112,696 Shares of CF Industries Holdings, Inc. $CF - MarketBeat",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdE1faTRRUGxYLVZPX3V6VFVxelo0aTgxVlc1QlQ4WXdIT21PQVBIWG81cWpDVW9XODZ4Z3lFNlZZUW9qY19yR2U1ejJ5R1NUODJiOUJKMWxJM1pnQlByOVlqdGI2ZmJKYUt0dHRNR0pPVDR2N0JhUEJ0Q0MyX2NXU0lpdFZwT1JGZnFKLXhXZVB1VmMxSXkyNG1GWXl2YTlQdVl6d01TOElqYTZxOXgzQjRqdlVoY3pDRTd2U1N0N25OWDhsRkJ6QlZkamItRi1vMGtQeUQtdm1fYzExWTJkTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 374,
+    "dup_title": 214,
+    "too_old": 113,
+    "gate1_blocked": 1,
+    "gate2_blocked": 8,
+    "passed": 38,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+      "Deane Retirement Strategies Inc. Has $6.71 Million Holdings in CF Industries Holdings, Inc. $CF - Ma",
+      "Archer-Daniels-Midland (NYSE:ADM) Posts Better-Than-Expected Sales In Q2 CY2026 - Yahoo Finance",
+      "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+      "Janus Henderson Group PLC Lowers Holdings in Bunge Global SA $BG - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Mosaic、CF相關動態：「U.S. pork exports look to rebound after pseudorabies-rela...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "U.S. pork exports look to rebound after pseudorabies-related ban（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "4 factors that could drive wheat prices above $8（農作物價格、種植季節、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

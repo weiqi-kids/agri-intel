@@ -1,0 +1,16 @@
+{
+  "total_raw": 374,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 1,
+  "gate2_fail": 8,
+  "passed": 38,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+    "Deane Retirement Strategies Inc. Has $6.71 Million Holdings in CF Industries Holdings, Inc. $CF - Ma",
+    "Archer-Daniels-Midland (NYSE:ADM) Posts Better-Than-Expected Sales In Q2 CY2026 - Yahoo Finance",
+    "Are Investors Undervaluing BUNGE GLOBAL SA (BG) Right Now? - Yahoo Finance",
+    "Janus Henderson Group PLC Lowers Holdings in Bunge Global SA $BG - MarketBeat"
+  ]
+}

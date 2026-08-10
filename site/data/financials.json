@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:29:35.969693Z",
+  "updated_at": "2026-08-10T09:05:57.063399Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "CF Industries",
       "ticker": "CF",
       "currency": "USD",
-      "ar": 726000000,
-      "ar_prev": 444000000,
-      "ar_qoq": "+64%",
+      "ar": 718000000,
+      "ar_prev": 726000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 371000000,
-      "inv_prev": 383000000,
-      "inv_qoq": "-3%",
+      "inventory": 415000000,
+      "inv_prev": 371000000,
+      "inv_qoq": "+12%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "corteva",
@@ -211,17 +211,17 @@
       "name": "Nutrien",
       "ticker": "NTR",
       "currency": "USD",
-      "ar": 6284000000,
-      "ar_prev": 5080000000,
-      "ar_qoq": "+24%",
+      "ar": 8687000000,
+      "ar_prev": 6284000000,
+      "ar_qoq": "+38%",
       "ar_period": "QoQ",
-      "inventory": 8681000000,
-      "inv_prev": 6977000000,
-      "inv_qoq": "+24%",
+      "inventory": 6164000000,
+      "inv_prev": 8681000000,
+      "inv_qoq": "-29%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "oci",
