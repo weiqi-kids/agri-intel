@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 3,
+  "gate2_fail": 12,
+  "passed": 44,
+  "gate2_samples": [
+    "Mosaic Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities - PR Newswir",
+    "Form 8K The Mosaic Company For: 10 August By Investing.com - Investing.com Canada",
+    "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+    "FMC Corporation (NYSE:FMC) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:43:05.518565Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cnhi-2026-08-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial (CNH) Q2 2026 Earnings Call Transcript - fool.com",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWp0WUpSdENFU0V2Wk5Cbk42eURYYVphbmFsTUpEak9aMjZqTU12bGw5Z21ya0Zya1k4MjRfTmozVFRrWUlzOWN2N1I5VTQ0cFp5UnYzQXNwYU5qVG1jRzFPcE4wdHJ2dVlFUG9fOC1Sa1Jic3JEUGl1Y1pCZzBCaWNwU0RRTFg3THpiWGhtVWtYcUFZU1BTQUdrUk9rU0FKSGlaeTlXX2ZZODRFb0lj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mosaic-2026-08-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Mosaic Company $MOS Shares Bought by Bank of America Corp DE - MarketBeat",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSFNpcHhQN19lY0JKQUJuQVRLeUU5eXJTRFMyYkI5WnN3dlZObjhSY09mRmh1U3dmWWotcmpRYWRLeVluU1NyeDBodFA1NktDQ0ZPSk9od1hOR0Y1NzRTWkFGaXFDVm53UWphZ0lqYlk1M0NXVjQ2U0xNajBLQzNXbWRSVlRXb0Y4SF9kck16dkpyZDNUSl81SFNuZ3ZXY0tpdVFaRWpSd0NSS3MwYm0yRmhqZVlzU2dtUXRxaXduR2lwUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cf_industries-2026-08-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Holdings, Inc. (NYSE:CF) Receives Consensus Rating of \"Hold\" from Analysts - MarketBeat",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVnNrenpndFRVeGVYRm93bmdObFMtY2gxdGZKV2VaWV82bFIwcTRGZnQ5bHl2eGdYaWYyTGdqcGJEOFNoV3JQbVRMMjVRSUpOSkc4OFRsOHNDaFlCc085NTlBNWV2eTNidGNJZnlUOEsxd0xyWWVYR0NfZjZLa1ZsODZnbXpnbUpKMXYtYkJvVC1adVRiX25BQU5oRE9uZVlFVWVNbXBQanFlbHdBOENkY1JUUlp3SkZaZHBiSksydDFBaWlaNVV1VktjS2FpZ2Fh?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-08-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Holdings, Inc. (CF) Stock Forecasts - Yahoo! Finance Canada",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0pQVm51dERrRVhkZGdkbzd0MXB4TFRtZ01YUXA3ZFIzeUppTXowcHRsUVJ4dllMTktTdC1ZYXBMY3R0YUg2SUo5b3lfMURJb3RpUk1OU2VvSXl1YktlRVRFZEMwNkpkbUcxVmlpb0xGemhvSl9KTkpJRzFNNGZCTnRDM3d1Y2g5OURfT3ktWGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-08-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company (NYSE:ADM) Given Average Rating of \"Hold\" by Analysts - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2xRZmtGeDZlQVFMRlAwQk1lakF3WU1KU0Mwcm9Hel9wR2NOUFdlQ29MVXNfR1FMQURKX29XQVRQdDJ3VkZGR0pNdUhHZGJfaWktRm1QTEhJY2NRd3hpTGhZSzZDTTVuVWFZYXptVHVhaEtiaGIxcnZuTHJhTUtzRmJGRlRwN1dLWDlQNlF3dGJvUVpSU2lTd1hjd1hNRHhGdHFBOS1JYTZqR1E1R180YldJNEY3cjl1aDA4Qjc3MmU5cjlmWG4zc0NHTlppdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      },
+      {
+        "id": "deere",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 192,
+    "too_old": 124,
+    "gate1_blocked": 3,
+    "gate2_blocked": 12,
+    "passed": 44,
+    "pass_rate": "24.0%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Mosaic Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities - PR Newswir",
+      "Form 8K The Mosaic Company For: 10 August By Investing.com - Investing.com Canada",
+      "The Mosaic Company (MOS) Misses Q2 EPS by 3c - StreetInsider",
+      "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+      "FMC Corporation (NYSE:FMC) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為CF、Mosaic、ADM相關動態：「CNH Industrial (CNH) Q2 2026 Earnings Call Transcript - f...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CNH Industrial (CNH) Q2 2026 Earnings Call Transcript - fool.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "The Mosaic Company $MOS Shares Bought by Bank of America Corp DE - MarketBeat（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
