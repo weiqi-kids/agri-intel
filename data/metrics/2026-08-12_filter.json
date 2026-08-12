@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 3,
+  "gate2_fail": 11,
+  "passed": 41,
+  "gate2_samples": [
+    "Mosaic Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities - PR Newswir",
+    "The Mosaic Company Commences Cash Tender Offers To Purchase Outstanding 4.050% Senior Notes Due 2027",
+    "Form 8K The Mosaic Company For: 10 August By Investing.com - Investing.com Canada",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+    "Deane Retirement Strategies Inc. Has $6.71 Million Holdings in CF Industries Holdings, Inc. $CF - Ma"
+  ]
+}
