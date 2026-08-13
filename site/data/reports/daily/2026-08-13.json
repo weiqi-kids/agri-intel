@@ -1,0 +1,244 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:01:43.013688Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-08-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland’s Q2 Earnings Call: Our Top 5 Analyst Questions - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSDVzd3RGVWoxWW5tMUV0em81a05UQ3JIM2hnR1VuSURsVnNYUG1LZURLSjFCU2QwWnRvZ2Y1bU1paGNZQVV6TE1DeGxwQTRySXFudXg5aUtoTk9LRy1Odkc4NTYtT2tfaWVJRTVhR0dETUZ5cVpvZG9qRjJSSUlOcVZGbk9laFlBeTFPT2pvTW9vU3c1QW5BLTFCME9Ud0tp?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-13-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How to own profit opportunity on your farm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/how-to-own-profit-opportunity-on-your-farm"
+    },
+    {
+      "rank": 3,
+      "event_id": "mosaic-2026-08-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Mosaic Company $MOS Stock Position Lifted by Assenagon Asset Management S.A. - MarketBeat",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaVVkalM1c2NfUENDXzJiemFsalpMRkxhdW5hdHJLMW9EV0prb1gzM1dWUzlNWkJHUHRGTmpQQWdMOGNJMXJIcFpTZVdVUmdMVjhyQzhKaU1aT3hNNHB6LWZXM2o5SUdvNGpxZVpvLW5LVnJWZURYcTUwMS01OHIwOU41ckx6NXUwSC1nb2xlQTZKNlZ0eGwzbkRwTEQ3OGVaRnNHTGhsLTB2RkozMkpON1RyZENfNzc1c2tzTE8zWWFiREN3TzBDaE1wYlJ6bzR2cFJxLQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-08-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial N.V. $CNH Shares Sold by Bank of America Corp DE - MarketBeat",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0hvTzVCQzlfSzJ3UEhBUFpNdWR4ZktabUtRSUpBeXpsNzZoek5jZGFLQm9FTjR4bGFka041UlhYc0RHUWZYZkhLM0RKM0M1TWlMcDhQMWZqWXlfVVZQRGdIeE1JbnJjdzVvaUp1NVpVODh2b0w4cUVJaHpLd1ZXckhLS2o1MDBfZEtTaWpwRXB4bTBqUC1FVEdpeTBoeG9RTTZ0bWU1X0ZSNHlKTkgwczYySE1YZ1JvS25IRml3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnhi-2026-08-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial N.V. (CNH) Stock Forecasts - Yahoo Finance",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlhId2taRW05YnpKdjE2RmFXMF9jUE9RYUY4dmxzRFZmMjZDckVKbnN1QXdaNHN4UjRUVUlVN0s4X3NDQ29kN0pSMktxSmFYQS1VSWRiRXZMdFRQcHJyVTV4OXdJaXE5UjRtM21iU1ViVjU2SENVRlBPaEx0ZGxzelFYdHpOV0UxcWJ6RmdhYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 184,
+    "too_old": 134,
+    "gate1_blocked": 3,
+    "gate2_blocked": 15,
+    "passed": 41,
+    "pass_rate": "21.2%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Mosaic Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities - PR Newswir",
+      "The Mosaic Company Commences Cash Tender Offers To Purchase Outstanding 4.050% Senior Notes Due 2027",
+      "Form 8K The Mosaic Company For: 10 August By Investing.com - Investing.com Canada",
+      "The Mosaic Company Commences Offers To Purchase For Cash Certain Of Its Outstanding Debt Securities ",
+      "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為CNH、Mosaic、ADM相關動態：「Archer-Daniels-Midland’s Q2 Earnings Call: Our Top 5 Anal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer-Daniels-Midland’s Q2 Earnings Call: Our Top 5 Analyst Questions - Yaho...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How to own profit opportunity on your farm（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
