@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T08:57:20.408323Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cnhi-2026-08-14-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CNH Industrial (CNH) Stock Looks About Right Following A 16% Five Year Decline - simplywall.st",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXRIYkxaWkVtaWpnV3R2a1kxUjJDc2FPdGtUbmJhNEpDMzZPUlB1ZW1mNGwxLXBnNlpjSkhnY2NudmFObzJmZUl0VV85Q21HOHFmbndSOGxIaHhlWTdlNVNDeDkwQkR0dE91bTdDX2J6Z3BnZmwzZXRRbmJkWW4tQUNrZ0VnVDlEQm9RQlFtdGZJRHJnTk85ZTEzNklKN1N6aTUxMl9pOWd3RjV4bU82aEUtUzBwdFRPV3p4R0pJdXgxUl8wemllWmJrQkU0dmpN0gHWAUFVX3lxTFBLTHNmWmhuWnF0dGN5eDAtZUw1RnFlaWM5blR2ZHNPTDZiVkxvb0hnZnVtbmYtYnJMZ0NHdmVGSHhzeVhPUVZ3ekcyTTRHWElhMHdDNzBVbXhzV0F1dVUxOHl0SU5EOUlzSkVYbHFFN08tNlNKU192djc3dFl0NEtnTnM3MG5RRFM2OTMtMXYxZFFBLTRsUTRMZ016UXVyV0Z4UlVQbXc0UnM5MGdVSS10b1NzdmtnRExZVlNQdkJTb05CQ21lVnlzTF90dFJlQ0I4bV84Tmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-08-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries (CF) Stock May Be Cheap After Blue Point One Push - Yahoo Finance",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT29KTWVqY2dlN3V0bmdRbURrNGppUnVRNUg4OGF5UW9XTUVybUNqeW9ndWc2SHNSYnZMeEVXSHIySzJNZUt4MW1fOS1TTkxFc2tlNXRSZHBaSnVxaTFIaG5NMEU4dnZBeHprNnQ4Z1FLTVI0V3lNbzF2ci1rVFd4S1o5WTBJZTRHcV9zWXlrdkVHSzJCM2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "September 1986’s unprecedented storms crushed crop hopes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/harvest/september-1986-s-unprecedented-storms-crushed-crop-hopes"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Will more farmland go on auction block this fall?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/will-more-farmland-go-on-auction-block-this-fall-"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can your farming heir buy out their siblings?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/farm-business-planning/can-your-farming-heir-buy-out-their-siblings-"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 207,
+    "too_old": 120,
+    "gate1_blocked": 4,
+    "gate2_blocked": 11,
+    "passed": 35,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "The Mosaic Company Commences Cash Tender Offers To Purchase Outstanding 4.050% Senior Notes Due 2027",
+      "Mosaic Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities - PR Newswir",
+      "The Mosaic Company Commences Offers To Purchase For Cash Certain Of Its Outstanding Debt Securities ",
+      "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+      "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為CF、CNH相關動態：「CNH Industrial (CNH) Stock Looks About Right Following A ...」。主要關注主題為農業產業通用、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CNH Industrial (CNH) Stock Looks About Right Following A 16% Five Year Declin...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "CF Industries (CF) Stock May Be Cheap After Blue Point One Push - Yahoo Finance（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

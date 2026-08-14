@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 35,
+  "gate2_samples": [
+    "The Mosaic Company Commences Cash Tender Offers To Purchase Outstanding 4.050% Senior Notes Due 2027",
+    "Mosaic Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities - PR Newswir",
+    "The Mosaic Company Commences Offers To Purchase For Cash Certain Of Its Outstanding Debt Securities ",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+    "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance"
+  ]
+}
