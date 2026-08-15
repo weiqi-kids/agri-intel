@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 7,
+  "gate2_fail": 10,
+  "passed": 25,
+  "gate2_samples": [
+    "The Mosaic Company Reveals Pricing Details for Debt Tender Offers - Kalkine Media",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+    "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance",
+    "Squires Tells Fed. Circ. PTAB Made Error In Corteva Decision - Law360",
+    "FMC Corporation (NYSE:FMC) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat"
+  ]
+}

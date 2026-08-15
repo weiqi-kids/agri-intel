@@ -1,5 +1,43 @@
 [
   {
+    "id": "adm-2026-08-15-001",
+    "date": "2026-08-15",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (NYSE:ADM) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlcwRTdBVjVRMEdWWUFMU2hXbHExOTVJWHd6NjZxNEhjbEQwMDJ0d1VjeGlQNnVHd3R1WThDNVhuNHdxcXhpXy1FcGpaejBTRkZVMkRmTDRsQWQ5bjJVeWFKTG1ZYkhVREd2dlBtTT",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlcwRTdBVjVRMEdWWUFMU2hXbHExOTVJWHd6NjZxNEhjbEQwMDJ0d1VjeGlQNnVHd3R1WThDNVhuNHdxcXhpXy1FcGpaejBTRkZVMkRmTDRsQWQ5bjJVeWFKTG1ZYkhVREd2dlBtTTRTdHZFNm1vVDNXdDBxV1lsZ1liSVBnUUo4MUVjRTlnUVhHQnpTdkh0SWNfOWVsbmw0T19MSnM3SzdvREs0RjI4cFp3RTFuTUtDT0k1dzhpcG9fSlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-002",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American-made ag drones are catching up — fast",
+    "summary": "Farmer Iron: Semiconductor breakthroughs are closing the gap with Chinese competitors, promising spot-spraying precision and farm-wide monitoring within reach of every operation.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/american-made-ag-drones-are-catching-up-fast",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-08-14-001",
     "date": "2026-08-14",
     "companies": [
@@ -162,6 +200,292 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/husker-harvest-days/2026-husker-harvest-days-scholarship-winners-named",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-08-14-010",
+    "date": "2026-08-14",
+    "companies": [
+      "nutrien",
+      "yara"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Following Yara International and Nutrien's Expansion in - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNTlZWSS1WQkl5Q09yVkczdl90cVVDeDBEczQtMjRJZ2ZobVU3QUJUU29EUE8yY3VQengtZWI2QjVldzlfSDVmejZkT1hzbmsycUlIVG9QYW9GeDRCVzgwNVFNZ2pVWTY5MFZCWUJQdE",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTlZWSS1WQkl5Q09yVkczdl90cVVDeDBEczQtMjRJZ2ZobVU3QUJUU29EUE8yY3VQengtZWI2QjVldzlfSDVmejZkT1hzbmsycUlIVG9QYW9GeDRCVzgwNVFNZ2pVWTY5MFZCWUJQdE5BSG9HN0JDWFZwMmk3eFRMMXNDb2VzSy1ENklSMlZzZlo0RmtQcGpQck9DcDhVcXM2X2ZrLUk2bldnUnVqd3VscGN2TTduMG9KaHNVbmI0SkRhQUZSRHliWWhYSENUcnJwZFZ0ODNMR1VFZVVjSTZJMEJ4czVaN1pCTWM2cldTUVZhNmc3RGxvRWc4c1JNM2RsdjlaeXJQLVhXd1VHLTBTZkU4QTVwdlNJUHE0U3dNS0RPeUE4R1ZDWUVsMnpiTHJ5R29hOElObUh3WmNUVWxtbzM1WXk2Unc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-14-011",
+    "date": "2026-08-14",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mosaic Announces Pricing Terms of Offers to Purchase for Cash Certain of its Outstanding Debt Securities - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNFR4NHF2b1A0aTBIR3hhR01oc3g3aGd6a1RHTFVFMXFJNjRCYk9qSElidHNhcUVQVHVxVDRPQXhYT0JlNjUta2YxM0hjTWd3OWxyTGh5R1RfczVteUxOcUg4bWFhYUJxNExSMk1tbk",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNFR4NHF2b1A0aTBIR3hhR01oc3g3aGd6a1RHTFVFMXFJNjRCYk9qSElidHNhcUVQVHVxVDRPQXhYT0JlNjUta2YxM0hjTWd3OWxyTGh5R1RfczVteUxOcUg4bWFhYUJxNExSMk1tbk5YUlFwcm9tTDVDRmM5OGZ5Zy1ZalgzOV9HRFN5Q21nOXpTREtoenFTV3JOcnF3WlNzdWZ6bV9jMks2blNpTWwtdVJXekFFV2cwaGhTNWx0RHctRWRwT3lEU0ZhcklqTi01TXB3ek52YUxRTlFIQ2Flc21fZUNpZU9uZV9kWm9fSGdxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-14-012",
+    "date": "2026-08-14",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CF Industries Holdings Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTFE1b2NQbUl6WUtOSDFuczhjRF9hSEh2OXljSG9PTlpTeHNleWFBdVA5dGhUbTR2bVROZmM0NmRXaDFhN096QTc4T3IwTTlJb0lZclk1aFRMdzg2ZlZvTnREcEhmUmRVaGhqU0hmMU",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTFE1b2NQbUl6WUtOSDFuczhjRF9hSEh2OXljSG9PTlpTeHNleWFBdVA5dGhUbTR2bVROZmM0NmRXaDFhN096QTc4T3IwTTlJb0lZclk1aFRMdzg2ZlZvTnREcEhmUmRVaGhqU0hmMUhWdHlTRzVhdlB3dDFST3U2S3N3TURNUjQ0LVRRd0wwS242TDlJNUNscVplTXN0VW44TnRtZ0Z4elh5UElTUG4zSmVRU2hqMTRUanp6ZTQyN2dNMWVYckZ6dE00eHhna2NoVm5lS01ZbmZSYUJ2TEota0xtSEpWSG50aWdBcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-14-013",
+    "date": "2026-08-14",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is CF Industries’ (CF) Earnings Boom Built To Last Without Iran? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHlhanpWR2wwM2dmZGkxNHh3dWtXTFZHbWJ0Z0o4YUV6dHlvRU1kS2U5TE1NaGpheGRtazdhYXpwVnczdU9GUmhoWTN4Smw0MThSS3gycmt2aEtOMXhDd3pDR0lneEs1UkRvVnNGWE",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHlhanpWR2wwM2dmZGkxNHh3dWtXTFZHbWJ0Z0o4YUV6dHlvRU1kS2U5TE1NaGpheGRtazdhYXpwVnczdU9GUmhoWTN4Smw0MThSS3gycmt2aEtOMXhDd3pDR0lneEs1UkRvVnNGWEl5SHhMYVhYVkc0RjBtVWlxT1ZNUEdqT3ZuTG4tOTQ5XzhMdHlJRGQ0aGpIRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-14-014",
+    "date": "2026-08-14",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is CF Industries Holdings (CF) Undervalued Following Its Second Quarter 2026 Earnings? - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMHlpbEVaY1hKcWdzcEpDY0x4Uk5Ha2xKc3Q4b0ZDTk45Mm10M2ZKbFpzRzhzNUxxRXR0VXNfQ01XeEkxVEdTc1lxOXF4cEdac255T3dUcmNFY3RaRERJNXdDa2dQY3o4OXQzVjJia1",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMHlpbEVaY1hKcWdzcEpDY0x4Uk5Ha2xKc3Q4b0ZDTk45Mm10M2ZKbFpzRzhzNUxxRXR0VXNfQ01XeEkxVEdTc1lxOXF4cEdac255T3dUcmNFY3RaRERJNXdDa2dQY3o4OXQzVjJia1hNdEJDcXgtVHB2VUNBXy1WUkNMMjhUTGd3dllCLW8zTmdmNjU2bWlRZ0xPMFctczZucTJOVTN5M2tra1dScUJWMzBwWExuTHh5RWkyMnEzY25DNXdyNXp5ZG5ELU9fSG4t?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-14-015",
+    "date": "2026-08-14",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T. Rowe Price Associates (CF) discloses 5.5% beneficial stake in CF Industries - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOThISWRVTTZUakh6bWJJaEk3a1NvYWY0dVVsbHk5eE1tNmtGYmpua3VmX2VSTXZIRTk1RzJTTUo0Vy12OTh0c0ZNTC13S3dkZldHamZKdUl2SVQ1UmJCU0FGdFYtM3owaFo5b042SV",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOThISWRVTTZUakh6bWJJaEk3a1NvYWY0dVVsbHk5eE1tNmtGYmpua3VmX2VSTXZIRTk1RzJTTUo0Vy12OTh0c0ZNTC13S3dkZldHamZKdUl2SVQ1UmJCU0FGdFYtM3owaFo5b042SVNlSy02MF84aURvcEZIWGFUZlhlVDZJSy1wX09zQzBSNHI3OFVGOTh5RzB1UHJqLWdFYWJmN3hSd2lfSmJXdmhrcmp0QlBOVG5nZjRqSWhLbHFGV1k1VGpHRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-08-14-016",
+    "date": "2026-08-14",
+    "companies": [
+      "nutrien",
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Following Yara International and Nutrien's Expansion in Fertigation and Water-Soluble Formulations, New Study Projects 7.8% CAGR for Specialty Fertilizers - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnNRRVZYYmZDcWpDWF9nUE96R3M4emR2bXFYc1ZicnB6X216anZEWV83ZG1sZ2NuT2FzQ2lENzQ3ZUY5bHliN1UtbE1mTUJvTUpKc0hUbDk2VzNzdnlDUFBvWUdIZ2tMcko0OVNEbW",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnNRRVZYYmZDcWpDWF9nUE96R3M4emR2bXFYc1ZicnB6X216anZEWV83ZG1sZ2NuT2FzQ2lENzQ3ZUY5bHliN1UtbE1mTUJvTUpKc0hUbDk2VzNzdnlDUFBvWUdIZ2tMcko0OVNEbWVVNm1LclNaVDVsNjI2dzFMbkpCMFN5SWlVYlpqWFhTZTEySHN5NklfdUo5bHZ2QTJQZFhjbWx3N0Q5WmFoYnh0S3p6RE9FeG0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-14-017",
+    "date": "2026-08-14",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "What Archer-Daniels-Midland (ADM)'s Biofuels-Driven Beat and New Debt Issue Means For Shareholders - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV2VQaXlldXBkSWtFVjhmU3RjbHFYNXVHcWpNV3p2UE1zUWYtN0ItTGV1OTA2ZWpIRXRDWk9ONTBrYkJUanh6aHJsZHJFVFJzSXQ1T2tMeXU4X2FvQmVZZjVSN2dOdWhieFJoX1Njb1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV2VQaXlldXBkSWtFVjhmU3RjbHFYNXVHcWpNV3p2UE1zUWYtN0ItTGV1OTA2ZWpIRXRDWk9ONTBrYkJUanh6aHJsZHJFVFJzSXQ1T2tMeXU4X2FvQmVZZjVSN2dOdWhieFJoX1Njb1RyMmFtaG9SN0tENFhvYW01QWxIXzUxcEQtSTlXbXEyWnRnbGEyN2ZmdklTNjBoR3VzY3ZzQW5rMUFNbmxUUmI1QlNDRjMtUjM2SXFfNzhrTVg0MExSZk1UZ2xJLWYtM0xfUGxwd19ObUN3bWdqOFNOTnduTDdTZ9IB6wFBVV95cUxNbkU2RFJJcjVUdlVxQlItX0VwWFZianBjeGc4M2RULXgyYmlEZ3ljZDhIYU1nVzBHRmtzVkRlOWtucnBnNjRyOGNMd0xDTnJXU1VoOVpEUF9wODlJM2c0eUpCbUx2SDhIQVJQR1NYa0JKNDZKcURaSTNPUk1KaVI1R2d6MGRTajhscGxzNE5iaF9iRUl2SnlpM2pMcjJSMjUwVkpZZE54MGZCaFc3RGo0eHFVNmJPR1JBSFdKQ1p5Y084V1VqTWx3UXg1UmZhRENfSHZtclRJaDdVYkpNa09FMk9aRmZmVVVrV3hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-14-018",
+    "date": "2026-08-14",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Brandes Investment Partners, LP's Top Q2 2026 Move: CNH Industrial NV at a 1.51% Portfolio Impact - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXl5bHpzcDEwcThrYjFiS2ZPSGtiT2ZoMlNpWGpSZTNDX2xTTE0tbnJTUEpkX01VR2lLMEF2TU9ZRksta3NxYUhuZEpzOFdLYzEwVmV4S19PSnQ5anNRekZPY3dJTEVISldrWjlLen",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXl5bHpzcDEwcThrYjFiS2ZPSGtiT2ZoMlNpWGpSZTNDX2xTTE0tbnJTUEpkX01VR2lLMEF2TU9ZRksta3NxYUhuZEpzOFdLYzEwVmV4S19PSnQ5anNRekZPY3dJTEVISldrWjlLenlEZExkajQxTmljTzRfVzRjbGVuTHFneldjdU1ReXM4YXdyZFJUMkJyYlA2NlF2SloxNmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-019",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn prices pop in Friday’s session",
+    "summary": "Afternoon Market Recap: Winter wheat prices jump higher on failed Black Sea peace bid.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-020",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Exports: China buys soybeans, Aug. 14, 2026",
+    "summary": "The 2026-27 marketing year for corn and soybeans begins Sept. 1",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-021",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "That August USDA report? Forget you ever saw it",
+    "summary": "Morning Market Analysis: Corn and soybean futures climbed overnight on the back of rallying wheat and bullishness over demand.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-022",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA confirms Glen Smith as rural development chief",
+    "summary": "Farm Progress America: Glen Smith, a fifth-generation Iowa farmer, brings decades of agricultural finance experience to lead agency overseeing billions in rural infrastructure funding.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/usda-confirms-glen-smith-as-rural-development-chief",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-023",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tyson shuts down Illinois beef plant without warning",
+    "summary": "Joslin, Ill., facility shuts without warning, leaving cattle feeders scrambling and eliminating 3,000-head daily capacity in the Midwest corridor.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock/tyson-shuts-down-illinois-beef-plant-without-warning",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-024",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Don’t wait for red — why I pick my tomatoes early",
+    "summary": "Through the Garden Gate: Early tomato harvest protects yield, and thanks to ethylene gas, breaker stage tomatoes ripen on the counter.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/don-t-wait-for-red-why-i-pick-my-tomatoes-early",
         "type": "rss"
       }
     ]
@@ -961,6 +1285,104 @@
     ]
   },
   {
+    "id": "nutrien-2026-08-13-043",
+    "date": "2026-08-13",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien (TSX:NTR) Stock May Be 36% Below Fair Value - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kRnJlTl9kMnlhcnAxSmtXMzZHSkJSTnFoT29VR0VtTXAtanNyVWdZRlg0cDU1NF9nOHNKTGxmdzRnWjl6eklRSHMyLUdQOGh6SkNFeW9FWl8?oc=5\" target=\"_blank\">Nutrien ",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kRnJlTl9kMnlhcnAxSmtXMzZHSkJSTnFoT29VR0VtTXAtanNyVWdZRlg0cDU1NF9nOHNKTGxmdzRnWjl6eklRSHMyLUdQOGh6SkNFeW9FWl8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-13-044",
+    "date": "2026-08-13",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mosaic working to save Scrub-Jays on the Suncoast - ABC7 WWSB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzhWUHdiUDEzTmR5S1VpMmRzcm9qMmtUQ2w0ak9sWmZmNFkwZlA3dGVvbHNyZDJqalNETjNmVjVXeE5HZFNMYVBUWlZjVzVmcVRIWFEzdHBzZFNGX2JiX20zSmZrdVU3aEJ3S3pCeG",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzhWUHdiUDEzTmR5S1VpMmRzcm9qMmtUQ2w0ak9sWmZmNFkwZlA3dGVvbHNyZDJqalNETjNmVjVXeE5HZFNMYVBUWlZjVzVmcVRIWFEzdHBzZFNGX2JiX20zSmZrdVU3aEJ3S3pCeGItNHlsMExmVmJJc3JOeHJCd1VzbTZJUdIBmgFBVV95cUxPMWZwYlFwVlVRcTdOenk5YjkwZzhhOHRsTjNkMFdaZmZTeUYyaUhGd0dXTHVFVGlnbU1CQjZJR3FMRHhIcnJ4M0VkenN4d05vWnN6a2hjeXl5eGFzMjRWWW1mamo1ejFPaGFGTFNXSDZLMnJ2cTZWaVY4bUJJMUFSMUF1WEg1WUxWTWlfekNZNUl1bk9OOVNlcURn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-13-045",
+    "date": "2026-08-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings Inc. stock outperforms competitors despite losses on the day - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWk9qd2lzZmhoN0xfNFNLVWpzRjhsd29hTnFnNUZvZGFqSEI0SHlnR0x0YVhIRjV4amZfOFlfLXpfUFV0WVdOalJMbmFhVFl4a1dqMndqNU9uekNlWmF3bEtpWnRMRTkwbFp1WnhTTH",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWk9qd2lzZmhoN0xfNFNLVWpzRjhsd29hTnFnNUZvZGFqSEI0SHlnR0x0YVhIRjV4amZfOFlfLXpfUFV0WVdOalJMbmFhVFl4a1dqMndqNU9uekNlWmF3bEtpWnRMRTkwbFp1WnhTTHZzNnJDU19NOThGRlk0eFQxX05aSlgwZy1INUlRVnFIN0E2elFlNHpKeXBXbXpUR0FCLUdoY1VNTi1DeFJIejlCaDZTOS1HYkFtS0FXYjV1dklDQk1EZF8tLTdrSXhibFhUSHc2eGhZWUJzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-08-13-046",
+    "date": "2026-08-13",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation to divest India commercial business to Crystal Crop Protection Ltd - AgroSpectrum India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmlWQzhGYnZWWi1lZ2QyWTkwRlRPS21zS0JuMlFQQlJidEQteENtdGc4dWNRUkZMSnFlSGpHY050XzNHSUk3VkR1Y0x2eF9XRW9iQ2FGT1FEVzVrYlZlV210V3B4ZG5ISnh2ZkFveG",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmlWQzhGYnZWWi1lZ2QyWTkwRlRPS21zS0JuMlFQQlJidEQteENtdGc4dWNRUkZMSnFlSGpHY050XzNHSUk3VkR1Y0x2eF9XRW9iQ2FGT1FEVzVrYlZlV210V3B4ZG5ISnh2ZkFveGFiUWliSDktZ3FSTHowdjJEb2tjVHo2ZHBEZGhLdmdmU3VpSzRualFRRFQydS0tZVFPRjF4VHJfMHdJV1BLV2FySDJ6aUhfMk9oV2tLUjVpZzl2RUdxcFJUcG1lS0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-13-047",
+    "date": "2026-08-13",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LemdTZGFCZEs0NFZZcHZCMTIwMzB2U0E5Y01pM0VQVUFVRkRnLVlUdGRPOWFnVW8wWlA1eW8wUXJYS0RpZHBWdDNqS2xzZ3FvdDNDNk1DZHM?oc=5\" target=\"_blank\">Is Arche",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LemdTZGFCZEs0NFZZcHZCMTIwMzB2U0E5Y01pM0VQVUFVRkRnLVlUdGRPOWFnVW8wWlA1eW8wUXJYS0RpZHBWdDNqS2xzZ3FvdDNDNk1DZHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -1643,6 +2065,47 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jdjN4NWVEcXM5WGdYcGRJNWt1cmpXeU5DRHk1NUJRSXQ1Ukxia2c0VHdPdEpTaDNUNl84ZVZSbWFFeFB0WTdaYU02SkVRc1IwcGl0Z0hrOWcwTzhCd01XNC01UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kpluss-2026-08-12-037",
+    "date": "2026-08-12",
+    "companies": [
+      "kpluss"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "K+S AG (KPLUF) (Q2 2026) Earnings Call Highlights: Strong EBITDA and Raised Guidance Signal Robust Performance - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeGRYcXAwblVRV2FRWVZ2Z3FGdDE2WFF1clphYkl6Y19yUTVGLXpyTzlzN1BZUmlRNlRoQ0ZBOXgyeFBZUUp4R3E3WlZzN0puTWVNUzVIZU0wQXBRdi1LdVg5NjZOcTQ0d09YVEoxOV",
+    "sources": [
+      {
+        "name": "kpluss",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeGRYcXAwblVRV2FRWVZ2Z3FGdDE2WFF1clphYkl6Y19yUTVGLXpyTzlzN1BZUmlRNlRoQ0ZBOXgyeFBZUUp4R3E3WlZzN0puTWVNUzVIZU0wQXBRdi1LdVg5NjZOcTQ0d09YVEoxOVVZN3dKM0JZV0I0SXN1UGg5aGEybzBHeTNEZUxWR1lzTW4wXzRVVk9QSHdRUlRQX1p4X0J0TTdyanFKTFd6a2F1LXMzSEluTzM5RGNPUlZGS19xSWx2MXRBQkMwdUJ5RnVoQVI0YlJxSU0ybDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-12-038",
+    "date": "2026-08-12",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries: $1.3 Billion CapEx Plan Advances Blue Point One As 400,000-Ton DEF Expansion Enters FEED - pulse2.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUdmcERQLXlQQWkwbFJKVXg1SndJbkhVcEFkRVVIXzExWmtVVHpMZHhLR2hqdGlrUTFUWHpVcFJ3Z0d1bTJZRlRvallvSlhMQ0NtUXpFNk44dHNpN3hfTFlMY3VGYkJTMlROdS1uZE",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUdmcERQLXlQQWkwbFJKVXg1SndJbkhVcEFkRVVIXzExWmtVVHpMZHhLR2hqdGlrUTFUWHpVcFJ3Z0d1bTJZRlRvallvSlhMQ0NtUXpFNk44dHNpN3hfTFlMY3VGYkJTMlROdS1uZE53MzJYUkpfakFaT09VNl9ZSngzMDFKZEg3dm9oVFVFWEJ0bjhhczlBZTA4OWpCTFRUb25hV2FsVzVhdm1rU2RSVC1BX3NOVEItTFhFT9IBwgFBVV95cUxQWnRmS0dZVThMdkJjWEQ1OTJBSGVCZV9hLWptMVMzd1czUXRISDV6ZmxXbzB3NGVKbE5QVkZqTWc4Q3h4UXRpa2hURlNncWs4Nl9rMG9OUW1iWkpVaG9JbzVZYVJieWVCSkNOVzJ0Y3lLdjdtc1hDVzVFdE9MV1IzUjloSHprOUdEVjMyRDdQYWE0eXF2WkZGbjg2RF8wN3g3RklXZ2VJM0Y0dDEtekM4VmplUlhJTE9lSVF1ZEE4amlFQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3026,6 +3489,26 @@
       {
         "name": "adm",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSi03Z0ZKRzRCdVRjNm1yOG84LVF3VkExd3JFbmsxcG1zaTllbEFZU0dERHc5ZUNtMllRSjVidEoxQWJGbng3amVRazlvLXhTMS11ZWFtVFY1dGo5RXpDSWFTanhLWEtMVGFBaXZIeWFfTEhrZlFld09YQzd6Y0RpbzJzTzZWd1RuaEJxNGpCdHVlNVVyUUh1YXNRN24tN0hSSnNuX1Nuby1KZGc5SDY2ZjFiNy1RM01Xc1dRNDdNMVZXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-10-041",
+    "date": "2026-08-10",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Bunge Global S.A. stock outperforms competitors on strong trading day - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONzFucmNWVVc5WC14Y19SbDl0eTNGOEJWQTVsYWVqdlE0VHRyUmhfREJQOGxmN1REVVBWVFlHT09maGxQQm1lcmxfYWhGSGpPZGU5cTFsNldRc2ZpTEJTYy1zU202SlpUWTlQMHZuWH",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONzFucmNWVVc5WC14Y19SbDl0eTNGOEJWQTVsYWVqdlE0VHRyUmhfREJQOGxmN1REVVBWVFlHT09maGxQQm1lcmxfYWhGSGpPZGU5cTFsNldRc2ZpTEJTYy1zU202SlpUWTlQMHZuWHFpSnVhQlBscUtUakNlUEx4eF9MT2hwa081OUE3RndWZGN5SDRwUW9qQVU2ZG9wRzRJV2RrWDN4Sk51d0hkZlFsNXVVQTJuNVlXTG5HVU5nWTJuTHM1Z2V3?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:14:52.995541Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-15-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "American-made ag drones are catching up — fast",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/american-made-ag-drones-are-catching-up-fast"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-08-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (NYSE:ADM) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlcwRTdBVjVRMEdWWUFMU2hXbHExOTVJWHd6NjZxNEhjbEQwMDJ0d1VjeGlQNnVHd3R1WThDNVhuNHdxcXhpXy1FcGpaejBTRkZVMkRmTDRsQWQ5bjJVeWFKTG1ZYkhVREd2dlBtTTRTdHZFNm1vVDNXdDBxV1lsZ1liSVBnUUo4MUVjRTlnUVhHQnpTdkh0SWNfOWVsbmw0T19MSnM3SzdvREs0RjI4cFp3RTFuTUtDT0k1dzhpcG9fSlU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 207,
+    "too_old": 127,
+    "gate1_blocked": 7,
+    "gate2_blocked": 10,
+    "passed": 25,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "The Mosaic Company Reveals Pricing Details for Debt Tender Offers - Kalkine Media",
+      "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+      "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance",
+      "Squires Tells Fed. Circ. PTAB Made Error In Corteva Decision - Law360",
+      "FMC Corporation (NYSE:FMC) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ADM相關動態：「American-made ag drones are catching up — fast」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American-made ag drones are catching up — fast（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Archer Daniels Midland (NYSE:ADM) Stock Rating Upgraded by Wall Street Zen - ...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
