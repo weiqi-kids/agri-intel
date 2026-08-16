@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:16:29.646008Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABN AMRO Bank N.V. Acquires Shares of 177,760 Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeU9vS0V3OGJTVHZxLWhIMWVDaDVyS0lZZ3BMU1lYVUJ2aTFtMWFGZm9ZNHd0U0VneW5reTZKSEl3d3RYVktCOGlMNHdrX0VvNUxvRDNkYTlpbmZSbnd1aklqQlRMT01HRjcxalZ3TjdzMTFGd3B5U2FXVlNrdW5aek1JUFFNNHhJa0pNU3VIRmRKOG5FT29iMjZyNlpxQmdhcFJHOFIwV0ZyZUVEZWpoWlFBeDM3bWxWVDZBVVB3cW54aE90eFVfUWNKNlZBMGJXSlVENA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 217,
+    "too_old": 134,
+    "gate1_blocked": 7,
+    "gate2_blocked": 8,
+    "passed": 10,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+      "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance",
+      "Squires Tells Fed. Circ. PTAB Made Error In Corteva Decision - law360.com",
+      "FMC Corporation (NYSE:FMC) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat",
+      "Archer Daniels Midland (ADM) Board Resignation Puts Governance Changes In Focus - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為ADM相關動態：「ABN AMRO Bank N.V. Acquires Shares of 177,760 Archer Dani...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ABN AMRO Bank N.V. Acquires Shares of 177,760 Archer Daniels Midland Company ...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "ADM為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

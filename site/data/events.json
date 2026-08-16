@@ -1,5 +1,25 @@
 [
   {
+    "id": "adm-2026-08-16-001",
+    "date": "2026-08-16",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABN AMRO Bank N.V. Acquires Shares of 177,760 Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeU9vS0V3OGJTVHZxLWhIMWVDaDVyS0lZZ3BMU1lYVUJ2aTFtMWFGZm9ZNHd0U0VneW5reTZKSEl3d3RYVktCOGlMNHdrX0VvNUxvRDNkYTlpbmZSbnd1aklqQlRMT01HRjcxalZ3Tj",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeU9vS0V3OGJTVHZxLWhIMWVDaDVyS0lZZ3BMU1lYVUJ2aTFtMWFGZm9ZNHd0U0VneW5reTZKSEl3d3RYVktCOGlMNHdrX0VvNUxvRDNkYTlpbmZSbnd1aklqQlRMT01HRjcxalZ3TjdzMTFGd3B5U2FXVlNrdW5aek1JUFFNNHhJa0pNU3VIRmRKOG5FT29iMjZyNlpxQmdhcFJHOFIwV0ZyZUVEZWpoWlFBeDM3bWxWVDZBVVB3cW54aE90eFVfUWNKNlZBMGJXSlVENA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-08-15-001",
     "date": "2026-08-15",
     "companies": [
@@ -33,6 +53,60 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farming-equipment/american-made-ag-drones-are-catching-up-fast",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-15-003",
+    "date": "2026-08-15",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Production expansion considered at CF Industries site near Sarnia - The Sarnia Observer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONHZJX2ppZVBZaHBJeFhsUkdXdG1OMG1FbUdCdlJKQzZSU3RyUG0wRGoyLUhuYzZrUVRLWmcwai1UZ0JZcWRSczNGaGRaYTlxaVlLdHJDa2xZbmVWcXZ6TjNhanJUY3pNSFdpdEd3SH",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHZJX2ppZVBZaHBJeFhsUkdXdG1OMG1FbUdCdlJKQzZSU3RyUG0wRGoyLUhuYzZrUVRLWmcwai1UZ0JZcWRSczNGaGRaYTlxaVlLdHJDa2xZbmVWcXZ6TjNhanJUY3pNSFdpdEd3SHpXNzRhUUdGWVZtOUtGejRpcURNZkhleWZ1MkcwM0MxazZwZVcyQ0V4NG5laEhDZGU2UUJKU29pUzZFeTM4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-004",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Week in Agribusiness, Aug. 15, 2026",
+    "summary": "",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-aug-15-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-005",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FFA Tribute: T. Wayne Williams",
+    "summary": "FFA national officer shares journey from shy freshman to southern region vice president.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-tribute-t-wayne-williams",
         "type": "rss"
       }
     ]
@@ -486,6 +560,24 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-life/don-t-wait-for-red-why-i-pick-my-tomatoes-early",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-025",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland raises $1B in dual-tranche notes offering - Dealroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTGl4TVNQLXJ2RkJ6cEFGTU5md3FwSjBsWkhrcnc0TGhLaW1CRDlQTnRuZmxuSFJlMndsaGV0SU9ERVE0dS1Wc3R6VDdzOVY2N2V5ZmZ6Rko0dTkwcW9SajJZaUkwNnRsTElWTmg5dV",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGl4TVNQLXJ2RkJ6cEFGTU5md3FwSjBsWkhrcnc0TGhLaW1CRDlQTnRuZmxuSFJlMndsaGV0SU9ERVE0dS1Wc3R6VDdzOVY2N2V5ZmZ6Rko0dTkwcW9SajJZaUkwNnRsTElWTmg5dVpRRU9uTHA5MGpQY2tSdmJkRlJXUXN1TTBVUTljaVdLLW54LWluRWl4VXRIQ2NBZw?oc=5",
         "type": "rss"
       }
     ]
@@ -1383,6 +1475,65 @@
     ]
   },
   {
+    "id": "cf_industries-2026-08-13-048",
+    "date": "2026-08-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Are Wall Street Analysts' Target Price for CF Industries Stock? - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yNk1jRGN2dG5JSVNqTjk2Mk45LUh3bjE5bEZVdThlUWhTeXJNamt2ckg5NnczbF9QdlVueUI5cWxYMVlfTEtDS0VvaUpKY196b0RzLWpHNU8?oc=5\" target=\"_blank\">What Are",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yNk1jRGN2dG5JSVNqTjk2Mk45LUh3bjE5bEZVdThlUWhTeXJNamt2ckg5NnczbF9QdlVueUI5cWxYMVlfTEtDS0VvaUpKY196b0RzLWpHNU8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-13-049",
+    "date": "2026-08-13",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial Posts Upbeat Q2 Earnings, Joins Autolus Therapeutics, Bowhead Specialty Holdings And Other Big Stocks Moving Higher On Monday - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQSmF3SUpBVGJYbmhiek5lbHhJN2w3bWp6Y0dyWmFsX051bXlRU1VUV2xHQjQ1QS1jTXRlMEVwcDJMa2RUUjVQTjBMM2l4cnEwYjNscklqb1U0ZXptRlJ0YUp4cjdVSjRPNG9jdHFhNE",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSmF3SUpBVGJYbmhiek5lbHhJN2w3bWp6Y0dyWmFsX051bXlRU1VUV2xHQjQ1QS1jTXRlMEVwcDJMa2RUUjVQTjBMM2l4cnEwYjNscklqb1U0ZXptRlJ0YUp4cjdVSjRPNG9jdHFhNERwcVp2RDZ1ZzhJaTFXVF9Id19wYXFQZ0NvcktEdFEzR0xTSzFYU0FTU0h3MFM5ZWxrSi1UbG9QOUZTcWJ3ZENtd3R2LXhHOHZic1ZMY0dBQjRvUVF2cEJib0VZdFRvbGNmaUZFSkZNTURpU2g0bm5malB3N0JLRnBDRXM4Mm8yT0ZfdDVGNnd1M3JTRnJjSWswMFFEMG5ONVVSeGRsMkdhSHhXVnk0bHpSakE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-050",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AirJoule Technologies Announces Second Quarter 2026 Results and Provides Business Update - manilatimes.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWk0zUElCcXAzVmVERTk5Y25VUm9LMV9QZ0lHODBHZ0daQjVFYndQTk1SY0pKY3RrZno1dk1jMUUtTUNFazczTHFWRGg5c0NpdFotNGhyTnlnZ2R0cm5VeWcxc0xrN2R3TmtVQTZMcn",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWk0zUElCcXAzVmVERTk5Y25VUm9LMV9QZ0lHODBHZ0daQjVFYndQTk1SY0pKY3RrZno1dk1jMUUtTUNFazczTHFWRGg5c0NpdFotNGhyTnlnZ2R0cm5VeWcxc0xrN2R3TmtVQTZMcnZxbzFzWUpwcFZhR2gwVVdna29YQzZ1aHU0QkJ5YkV3cHJyZTIwS2hSZGxfU2FldkNKSUJLb0t0MUFyRTd3eTJ6MGR3T0pRWW4tdEtydG1pSnhJSW1ucHNLTG41UV91NDBVUEdzTHhNVDdmSTdJNE9SQm9OeF9sYTFSVG1rUHk3Wk54dldWNnZkSDVR0gH6AUFVX3lxTE1aTTNQSUJxcDNWZURFOTljblVSb0sxX1BnSUc4MEdnR1pCNUVid1BOTVJjSkpjdGtmejV2TWMxRS1NQ0VrNzNMcVZEaDlzQ2l0Wi00aHJOeWdnZHRyblV5ZzFzTGs3ZHdOa1VBNkxydnFvMXNZSnBwVmFHaDBVV2drb1hDNnVodTRCQnliRXdwcnJlMjBLaFJkbF9TYWV2Q0pJQktvS3QxQXJFN3d5MnowZHdPSlFZbi10S3J0bWlKeElJbW5wc0tMbjVRX3U0MFVQR3NMeE1UN2ZJN0k0T1JCb054X2xhMVJUbWtQeTdaTnh2V1Y2dmRINVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -2106,6 +2257,46 @@
       {
         "name": "cf_industries",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUdmcERQLXlQQWkwbFJKVXg1SndJbkhVcEFkRVVIXzExWmtVVHpMZHhLR2hqdGlrUTFUWHpVcFJ3Z0d1bTJZRlRvallvSlhMQ0NtUXpFNk44dHNpN3hfTFlMY3VGYkJTMlROdS1uZE53MzJYUkpfakFaT09VNl9ZSngzMDFKZEg3dm9oVFVFWEJ0bjhhczlBZTA4OWpCTFRUb25hV2FsVzVhdm1rU2RSVC1BX3NOVEItTFhFT9IBwgFBVV95cUxQWnRmS0dZVThMdkJjWEQ1OTJBSGVCZV9hLWptMVMzd1czUXRISDV6ZmxXbzB3NGVKbE5QVkZqTWc4Q3h4UXRpa2hURlNncWs4Nl9rMG9OUW1iWkpVaG9JbzVZYVJieWVCSkNOVzJ0Y3lLdjdtc1hDVzVFdE9MV1IzUjloSHprOUdEVjMyRDdQYWE0eXF2WkZGbjg2RF8wN3g3RklXZ2VJM0Y0dDEtekM4VmplUlhJTE9lSVF1ZEE4amlFQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-12-039",
+    "date": "2026-08-12",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Are Wall Street Analysts' Target Price for CF Industries Stock? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFU0X3Y1cW9wWmQ2djR0M1FfWkpldy14Q1lSQ19zQVVkb2ZwX05MTVhvc2xHUHdZY29VSWxTNTU5VUVQclhWM2pBbThMR25mdGNwVjF2VUYydG1CMG8xWXVPLWtKQUczVllueDd5Vk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFU0X3Y1cW9wWmQ2djR0M1FfWkpldy14Q1lSQ19zQVVkb2ZwX05MTVhvc2xHUHdZY29VSWxTNTU5VUVQclhWM2pBbThMR25mdGNwVjF2VUYydG1CMG8xWXVPLWtKQUczVllueDd5VkJ0S1dFQTdUR2RKN3E0UG1aemRqNkg0S0IyUkNjNGNRRkhWWEhXMGRiS2FnNXlCTmluNGdXYXR3LWFEWndESVJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-08-12-040",
+    "date": "2026-08-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Gets More Counterclaims Tossed In Seed Patent Suit - law360.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlo1cEdzMFlhTXBDd0pUVW1jZnlhVkRoTHA3azR2TlY2Q2kxVjRYZVViS1diLU1BbmF1Um9TcHd1M0FGY2ZuV0tPalNCZjItaUtuRVdKcDUwcEVTY2V1eFR1aVFCZ1U5V0syZnNiNk",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlo1cEdzMFlhTXBDd0pUVW1jZnlhVkRoTHA3azR2TlY2Q2kxVjRYZVViS1diLU1BbmF1Um9TcHd1M0FGY2ZuV0tPalNCZjItaUtuRVdKcDUwcEVTY2V1eFR1aVFCZ1U5V0syZnNiNkZrRmhoU090VHB0bmhEWVFyZjU3NjgtemtuZlJkNHVUZVc4WmxHM0c3R0NmM0ZyTjDSAVZBVV95cUxQYW5nTUNrcFBlZm1INnBPdWQyR2VJQmpWZjI0Znlxd2FDM2w3bDhKWjhsVTR4SlZURF8xZFNTM0ZRUVhtUDRET001SlFUOFJBNlR6a1Fhdw?oc=5",
         "type": "rss"
       }
     ]

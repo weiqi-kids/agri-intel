@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 7,
+  "gate2_fail": 8,
+  "passed": 10,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+    "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance",
+    "Squires Tells Fed. Circ. PTAB Made Error In Corteva Decision - law360.com",
+    "FMC Corporation (NYSE:FMC) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat",
+    "Archer Daniels Midland (ADM) Board Resignation Puts Governance Changes In Focus - Yahoo Finance"
+  ]
+}
