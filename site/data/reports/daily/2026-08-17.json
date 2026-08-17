@@ -1,0 +1,199 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:30:42.881791Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Change up your dairy calf strategy to unlock more revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock-and-dairy/change-up-your-dairy-calf-strategy-to-unlock-more-revenue"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "As Mexico’s New World screwworm cases rise, U.S. urged to remain vigilant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/animal-health/as-mexico-s-new-world-screwworm-cases-rise-u-s-urged-to-remain-vigilant"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "8 steps to the best corn and soybean seed decisions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/planting/8-steps-to-the-best-corn-and-soybean-seed-decisions"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Electrical safety demos return to Husker Harvest Days",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/husker-harvest-days/electrical-safety-demos-return-to-husker-harvest-days"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "USDA programs, processes aim to help small beef processors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/cattle-news/usda-programs-processes-aim-to-help-small-beef-processors"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 209,
+    "too_old": 136,
+    "gate1_blocked": 5,
+    "gate2_blocked": 9,
+    "passed": 16,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "The Mosaic Company Reveals Pricing Details for Debt Tender Offers - Kalkine Media",
+      "S&CO Inc. Invests $22.05 Million in The Mosaic Company $MOS - MarketBeat",
+      "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+      "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance",
+      "Squires Tells Fed. Circ. PTAB Made Error In Corteva Decision - Law360"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為農業產業通用、種植季節、法說會相關動態：「Change up your dairy calf strategy to unlock more revenue」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Change up your dairy calf strategy to unlock more revenue（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "As Mexico’s New World screwworm cases rise, U.S. urged to remain vigilant（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

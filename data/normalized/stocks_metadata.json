@@ -19,8 +19,8 @@
   },
   "kpluss": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6802,
+    "latest": "2026-08-17",
+    "count": 6803,
     "history_complete": true
   },
   "sqm": {
@@ -43,20 +43,20 @@
   },
   "yara": {
     "earliest": "2004-03-24",
-    "latest": "2026-08-14",
-    "count": 5646,
+    "latest": "2026-08-17",
+    "count": 5647,
     "history_complete": true
   },
   "oci": {
     "earliest": "2013-01-25",
-    "latest": "2026-08-14",
-    "count": 3465,
+    "latest": "2026-08-17",
+    "count": 3466,
     "history_complete": true
   },
   "taifer": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-14",
-    "count": 6618,
+    "latest": "2026-08-17",
+    "count": 6619,
     "history_complete": true
   },
   "corteva": {
@@ -97,8 +97,8 @@
   },
   "kubota": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-14",
-    "count": 6641,
+    "latest": "2026-08-17",
+    "count": 6642,
     "history_complete": true
   },
   "etf_moo": {

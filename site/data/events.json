@@ -1,5 +1,152 @@
 [
   {
+    "id": "unknown-2026-08-17-001",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "As Mexico’s New World screwworm cases rise, U.S. urged to remain vigilant",
+    "summary": "Since June, New World screwworm cases in Mexico have climbed by nearly 10,000, while U.S. numbers have remained low. U.S. cattle producers are encouraged to continue to screen cattle and report concer",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/animal-health/as-mexico-s-new-world-screwworm-cases-rise-u-s-urged-to-remain-vigilant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-002",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "8 steps to the best corn and soybean seed decisions",
+    "summary": "The right seed choice can mean a difference of 30 to 50 bushels per acre in corn and 10 to 20 bushels per acre in soybeans. How to make the right decision?",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/planting/8-steps-to-the-best-corn-and-soybean-seed-decisions",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-003",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Change up your dairy calf strategy to unlock more revenue",
+    "summary": "Dairy Outlook: Producers are balancing immediate calf revenue with the long-term value of rebuilding their milking herds.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock-and-dairy/change-up-your-dairy-calf-strategy-to-unlock-more-revenue",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-004",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Electrical safety demos return to Husker Harvest Days",
+    "summary": "Learn what to do if a power line falls on your vehicle, how to handle electrical emergencies and other critical safety skills.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/electrical-safety-demos-return-to-husker-harvest-days",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-005",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA programs, processes aim to help small beef processors",
+    "summary": "A USDA official spoke to Arkansas cattle producers about new funding programs, clearer processor size classifications and “Product of USA” labeling options.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cattle-news/usda-programs-processes-aim-to-help-small-beef-processors",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trust guides agronomist’s work with farmers",
+    "summary": "The 2025 Indiana Certified Crop Adviser of the Year puts trust at the center of his success across a four-decade career. And he says it’s priority No. 1 for the next generation.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/trust-guides-agronomists-work-with-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-007",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5 tips for building trust with farmers",
+    "summary": "See how the 2025 Indiana Certified Crop Adviser of the Year built his reputation around trust.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/5-tips-for-building-trust-with-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Texas rice harvest underway, ratoon regrowth ‘excellent’",
+    "summary": "Texas rice harvest is progressing steadily with yields down 5% to 15% while rice delphacid insect pressure remains low and market prices have improved.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/rice/texas-rice-harvest-underway-ratoon-regrowth-excellent-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-08-16-001",
     "date": "2026-08-16",
     "companies": [
@@ -15,6 +162,102 @@
       {
         "name": "adm",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeU9vS0V3OGJTVHZxLWhIMWVDaDVyS0lZZ3BMU1lYVUJ2aTFtMWFGZm9ZNHd0U0VneW5reTZKSEl3d3RYVktCOGlMNHdrX0VvNUxvRDNkYTlpbmZSbnd1aklqQlRMT01HRjcxalZ3TjdzMTFGd3B5U2FXVlNrdW5aek1JUFFNNHhJa0pNU3VIRmRKOG5FT29iMjZyNlpxQmdhcFJHOFIwV0ZyZUVEZWpoWlFBeDM3bWxWVDZBVVB3cW54aE90eFVfUWNKNlZBMGJXSlVENA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-16-002",
+    "date": "2026-08-16",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "S&CO Inc. Acquires Shares of 24,300 CF Industries Holdings, Inc. $CF - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEtDX2hzVU56U1B2bXpiYk1nUWJCLVM0MERiQU9lLTBtaHNubkFuNGhLVmI5UU0wQWJNMXhwTVhYczdIelZqWkxpZWtYYTRYWlhnNGhtamliZEJrbFlwQkJBRGxSTlFiRUdWOUpPVk",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEtDX2hzVU56U1B2bXpiYk1nUWJCLVM0MERiQU9lLTBtaHNubkFuNGhLVmI5UU0wQWJNMXhwTVhYczdIelZqWkxpZWtYYTRYWlhnNGhtamliZEJrbFlwQkJBRGxSTlFiRUdWOUpPVklzbkNXNGItRmI3dF96TjZJM0lmUDdEcXhkVVNZbzRvT3FjUDBISlhNZ2RVS0Z6RlRxWFlHM2hmRnBRRTJmdldCNFpuV2ZLMTY3U2NZc3EtX0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-16-003",
+    "date": "2026-08-16",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Centric Wealth Management Buys New Position in CF Industries Holdings, Inc. $CF - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbmxCbThvZkpCanJMbl9wZmtHR1ZKU3NaSVVBWDZ3d1VUSFpUMTVPS3JVeTJFb2RmcWN3dmV6emRtOGYtNUF0S3FuVFdMak5hNlBydmRmTHFiLWFKaXJVc1gyVnZWeFpEczl3ejJBYU",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbmxCbThvZkpCanJMbl9wZmtHR1ZKU3NaSVVBWDZ3d1VUSFpUMTVPS3JVeTJFb2RmcWN3dmV6emRtOGYtNUF0S3FuVFdMak5hNlBydmRmTHFiLWFKaXJVc1gyVnZWeFpEczl3ejJBYUhPWWxXcmdCdTktdERjdnIweDM4Qk00bnJEUUxZajJhN25hMEJDODlseEFmT1FEZHFNNnlRZWdFcmFYYlc1MENsT0dVaFBKUFIyMTBGbzk2T0E5emh5aXpMaWRNeEw5UGZya2xn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-16-004",
+    "date": "2026-08-16",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Orca Investment Management LLC Takes $2.73 Million Position in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa2hqZ3YxQXNkQmtMWVFmMWZsNUN0NlpMNkVBRXpZZHdkYURPQzl2a2c5NnlMV01fcjRtMWVESVM0QlB3UndJdGJjRWNhSjNBTWFiOWxvWDZFT2I2NGtMeTZEZzdMYUJCa1NIRWQ2NW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa2hqZ3YxQXNkQmtMWVFmMWZsNUN0NlpMNkVBRXpZZHdkYURPQzl2a2c5NnlMV01fcjRtMWVESVM0QlB3UndJdGJjRWNhSjNBTWFiOWxvWDZFT2I2NGtMeTZEZzdMYUJCa1NIRWQ2NW5yaUhQekw2a2pjTmw0ZnllNEtOclpBeUtfRlBhSjF2cXNrb0laZ3dKbnBOSlFvdHh5SW5lMktlSjRUQ1VqUFVyb2NacXRXNm1qaG1uZHJWNE1ETVNRb01aLWJqT2luZG5TWW9QeWVGTVRtMzJQQmtGakhfal9HTFBFVnVzLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-16-005",
+    "date": "2026-08-16",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA (NYSE:BG) Declares $0.72 Quarterly Dividend - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdk5yMVFUbnRyeWpNWUgwMkIzODkzUmZHWG11Wl9zN1dJUWlSUzBvZTcwd1VidjlZZGQxeGFHcGF1OEdENzlER2lRNDNaUVlIV3Bybkpta3ZKUDJEeXl5WDlyS0ZablFsQkh0UThjOF",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdk5yMVFUbnRyeWpNWUgwMkIzODkzUmZHWG11Wl9zN1dJUWlSUzBvZTcwd1VidjlZZGQxeGFHcGF1OEdENzlER2lRNDNaUVlIV3Bybkpta3ZKUDJEeXl5WDlyS0ZablFsQkh0UThjOFFVTGt6Qi1zYzFlc1VCZm1Dc1IwMmpxLThtVXJIS0p2TlV0SEVnRzhyVXpwWGVhYmI4VjZYdGo1MjM2UEFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-16-006",
+    "date": "2026-08-16",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is CNH Industrial (CNH) Undervalued As Q2 Sales Rise But Profit Falls? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzUwRmk4bXJRX3B6dXFneFNvUTVNREFCNE9mc2IyVjJoVWp0UWlHYzRpQXVxOUprMFJZYURLYjJINmREbzlmY21uTDRZRHVqRWZJeHZyLWdxOGF6QjhSQ1pPVlFFMzFyWkwtck9NLT",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzUwRmk4bXJRX3B6dXFneFNvUTVNREFCNE9mc2IyVjJoVWp0UWlHYzRpQXVxOUprMFJZYURLYjJINmREbzlmY21uTDRZRHVqRWZJeHZyLWdxOGF6QjhSQ1pPVlFFMzFyWkwtck9NLTlFYzh4XzkyT1lNVGo0R0FTaWFjMEk4MVRqejRDRXhuaTd5eEs4dDh0bnM5X3dERF9iTDhPSm8tT1FSb1AzWjdvSVlTLWFqVkMwU1U4WEhIeFRVcFRvMnJMQjItSDZlTHpK0gHWAUFVX3lxTE1hX3JoMS1DbDBoQmIyZWRtQkpXOXd1X3lWVTZDZVhDcmFFdG1NdFpNdElDXzZEV1Q3eFlvOHNsMGc1RHFtTWFxSnI5bE8xdmtFMzJ1cGM0V01vUnp6VDlNMDNKWVZBV1FJT005aHhGc3NUZzJvZmlVdW1SdW9kdmNndjRKLTRIcEloUzhuTW1TOWFKM016Z3ZaV2RGS2NqZ2J5WlV1Zk1fVHdVQThJMjROVVNreURtQ09OMTd4ZEtkY0p3akM0WmxyM2NTMEw0R1VNang3TkE?oc=5",
         "type": "rss"
       }
     ]
@@ -578,6 +821,46 @@
       {
         "name": "adm",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGl4TVNQLXJ2RkJ6cEFGTU5md3FwSjBsWkhrcnc0TGhLaW1CRDlQTnRuZmxuSFJlMndsaGV0SU9ERVE0dS1Wc3R6VDdzOVY2N2V5ZmZ6Rko0dTkwcW9SajJZaUkwNnRsTElWTmg5dVpRRU9uTHA5MGpQY2tSdmJkRlJXUXN1TTBVUTljaVdLLW54LWluRWl4VXRIQ2NBZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-08-14-026",
+    "date": "2026-08-14",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IPI|Intrepid Potash Inc|Price:36.620|Chg%:+0.650 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWUdVVl93YzVocHktMHFodU1adVZLcnJ2QmhJM2hiYU5XbU5WcWFfcElIWG53WWF0aFlxU3RSOGc3R0poUlBva00wXzVGOWtid2JRa2djVm9JZk9XM1JJVXhRZUtTOW44a0dkQw?oc=",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWUdVVl93YzVocHktMHFodU1adVZLcnJ2QmhJM2hiYU5XbU5WcWFfcElIWG53WWF0aFlxU3RSOGc3R0poUlBva00wXzVGOWtid2JRa2djVm9JZk9XM1JJVXhRZUtTOW44a0dkQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-14-027",
+    "date": "2026-08-14",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial (CNH) Short Interest & Short Float | Updated Aug 2026 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5NeElpLUpRZU92c09YZnFMMzdiR2o3Z3hzRzdtNFN3OVZ2V0lfaGFyTkZfT2VOT3dIdGh0T2ZscHZvb2tabmhBcTBDMUdVbzBVSW00M2kxa0VSQkppRXdMQzZQQVcyN29XdkE?oc=5\" ",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NeElpLUpRZU92c09YZnFMMzdiR2o3Z3hzRzdtNFN3OVZ2V0lfaGFyTkZfT2VOT3dIdGh0T2ZscHZvb2tabmhBcTBDMUdVbzBVSW00M2kxa0VSQkppRXdMQzZQQVcyN29XdkE?oc=5",
         "type": "rss"
       }
     ]
@@ -1529,6 +1812,24 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWk0zUElCcXAzVmVERTk5Y25VUm9LMV9QZ0lHODBHZ0daQjVFYndQTk1SY0pKY3RrZno1dk1jMUUtTUNFazczTHFWRGg5c0NpdFotNGhyTnlnZ2R0cm5VeWcxc0xrN2R3TmtVQTZMcnZxbzFzWUpwcFZhR2gwVVdna29YQzZ1aHU0QkJ5YkV3cHJyZTIwS2hSZGxfU2FldkNKSUJLb0t0MUFyRTd3eTJ6MGR3T0pRWW4tdEtydG1pSnhJSW1ucHNLTG41UV91NDBVUEdzTHhNVDdmSTdJNE9SQm9OeF9sYTFSVG1rUHk3Wk54dldWNnZkSDVR0gH6AUFVX3lxTE1aTTNQSUJxcDNWZURFOTljblVSb0sxX1BnSUc4MEdnR1pCNUVid1BOTVJjSkpjdGtmejV2TWMxRS1NQ0VrNzNMcVZEaDlzQ2l0Wi00aHJOeWdnZHRyblV5ZzFzTGs3ZHdOa1VBNkxydnFvMXNZSnBwVmFHaDBVV2drb1hDNnVodTRCQnliRXdwcnJlMjBLaFJkbF9TYWV2Q0pJQktvS3QxQXJFN3d5MnowZHdPSlFZbi10S3J0bWlKeElJbW5wc0tMbjVRX3U0MFVQR3NMeE1UN2ZJN0k0T1JCb054X2xhMVJUbWtQeTdaTnh2V1Y2dmRINVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-051",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AirJoule Technologies Announces Second Quarter 2026 Results and Provides Business Update - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRi14dXU3QS0xVXFlZjA4ZnhfNElfbnhhb1ZIb1hDSmt6UkJpeTRGb1M3VkxweVJWX1JmMVJsTlhPSGdWWFFhYmk4dFk5SHhoc2xfa000TlZuTm9vQ21DLTFHejFsWXVCaUdNUG5QWW",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRi14dXU3QS0xVXFlZjA4ZnhfNElfbnhhb1ZIb1hDSmt6UkJpeTRGb1M3VkxweVJWX1JmMVJsTlhPSGdWWFFhYmk4dFk5SHhoc2xfa000TlZuTm9vQ21DLTFHejFsWXVCaUdNUG5QWWFNZlNVNU4zdXNkUHFIOGg3LUg4REJzLTdhSDlBVzk2TlN4UWcyVGRBRWg5ZFEyV1JnYkhndXA1T0oxVkI0V2lhTUljaUs0LWVFUXV0djM0akZ5aXh6U0tNcktGMDBUSWFYSm43X2lSZw?oc=5",
         "type": "rss"
       }
     ]

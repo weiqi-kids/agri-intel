@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 5,
+  "gate2_fail": 9,
+  "passed": 16,
+  "gate2_samples": [
+    "The Mosaic Company Reveals Pricing Details for Debt Tender Offers - Kalkine Media",
+    "S&CO Inc. Invests $22.05 Million in The Mosaic Company $MOS - MarketBeat",
+    "Sociedad Química y Minera de Chile (SQM) Is Up 8.7% After Doubling Mt Holland Lithium Output Plan - ",
+    "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance",
+    "Squires Tells Fed. Circ. PTAB Made Error In Corteva Decision - Law360"
+  ]
+}
