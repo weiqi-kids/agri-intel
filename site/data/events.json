@@ -1,5 +1,155 @@
 [
   {
+    "id": "cnhi-2026-08-18-001",
+    "date": "2026-08-18",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "trade_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Canada Tariffs Put CNH Industrial Stock And Cross Border Suppliers In Focus - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQREZWekVCd3hfck52Z19RMklIc3JBSHdrNFBLM2ZkSENqU2tldkVVUUVtaEhHT1M0bVJ1a0VQOWJ3TjgwYy1HbkpWNEhoMnRGTVhzMFM2WTQ4X3UtQTdoa0JUTWdDaVZvNnhyRXIyeX",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQREZWekVCd3hfck52Z19RMklIc3JBSHdrNFBLM2ZkSENqU2tldkVVUUVtaEhHT1M0bVJ1a0VQOWJ3TjgwYy1HbkpWNEhoMnRGTVhzMFM2WTQ4X3UtQTdoa0JUTWdDaVZvNnhyRXIyeXlTWlg5Q2UxczdDT1M1UTFVOGlXNDB4YUthX3JiN213N1FyazU0dVZFMTM4T2U4SVVCMDF5NGNCRl9kNnpndVlpOFJScTg4VTVjN3B2NUFJS2RPN1R0YnFtY1FIMFRKeFHSAdQBQVVfeXFMTTk5cnVFVHk1UkhVSkw4WDZLbGZ4X1l3a1hFTHdZb0drd0I3MHd3QWIxOFYyMHA5NEx6amVJZTdXcXhtS192X1ZZWENRZlk4Sm9TdmlHY0pSZlVtR2FZZWV4TDgyTC1iT0JEN0xNdmFQbFJyMnluc1RfU1lFclN5V25qUVBvejFoS2cyQ3U2R2FhbVhORlUxZG9tbnRvNExpVDZUZ2hvbVE5dUxhWmJ0UDRFSlVwOVZyOHpMLXlFM1ozb2RiSHU5V2NZTGtFVzVUYkI5OXI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-002",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thai farmers battle elephant raids to protect crops, livelihoods",
+    "summary": "University students participating in elephant ecology study come back with an understanding of the difficult balance between elephant conservation and property protection.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/thai-farmers-battle-elephant-raids-to-protect-crops-livelihoods",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-003",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is more aid coming for specialty crops?",
+    "summary": "The House Ag Committee chair defends the workforce bill as a &quot;no amnesty&quot; solution to address undocumented farmworkers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/is-more-aid-coming-for-specialty-crops-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-004",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to prevent shattercane infestations in your fields",
+    "summary": "Shattercane is a growing problem in Missouri cornfields. MU research looks at extended seed emergence.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/weeds/how-to-prevent-shattercane-infestations-in-your-fields",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-005",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Investigate cause of corn harvest losses",
+    "summary": "Corn Corner: Dropped ears and scattered kernels could indicate several problems. Scout corn plants up until harvest, and tweak combine settings to prevent corn harvest losses.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/investigate-cause-of-corn-harvest-losses",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-006",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "See manure spreaders in action at Husker Harvest Days",
+    "summary": "Daily demonstrations let producers watch machines firsthand and find the right fit for their operations.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/see-manure-spreaders-in-action-at-husker-harvest-days",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-007",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The future of farming: HHD Ag Tech Pavilion",
+    "summary": "Do you have questions about how to incorporate the best ideas in your operation? The Husker Harvest Ag Tech Pavilion has the answers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/the-future-of-farming-hhd-ag-tech-pavilion",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-008",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 generations restore Massey tractors together",
+    "summary": "Max’s Tractor Shed: Indiana family’s vintage collection of a 1957 Massey Harris 333, 1967 Massey Ferguson 1100 and Massey Ferguson 285 traces iconic brand’s evolution through American farming's most t",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/3-generations-restore-massey-tractors-together",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [],
@@ -142,6 +292,400 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/rice/texas-rice-harvest-underway-ratoon-regrowth-excellent-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mosaic Biosciences Launches New Product to Accelerate Crop Residue Breakdown and Improve Spring Field Readiness - Mosaic - Investors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNNGxrNHprdS1Va080TDNnUjFwaFpjTWxsLXZocHFGNGszY0QzWFpMeVpIRnFQYkw1TVlnRzNyOFo3NHlGNHJQaE5nY3dPUGJmY292X0pxRllwU3gzTWJvcjktYmN5bFJPMkhqYlpDYk",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNNGxrNHprdS1Va080TDNnUjFwaFpjTWxsLXZocHFGNGszY0QzWFpMeVpIRnFQYkw1TVlnRzNyOFo3NHlGNHJQaE5nY3dPUGJmY292X0pxRllwU3gzTWJvcjktYmN5bFJPMkhqYlpDYkJPMXo2TjhFTTR5bGZXdmF0SVpueFlRVXQ4by1KUXVVRVRUVHJRMUdQdVpZNkdNRWtOS1ljZHRGbXBFUnhCRmg2Q08wemN0aG0zcEFuem50ZnRwZ3c3Ti13M3dBZWVObzZLWEpqTWhDbldoOGJpMllpZ1VUb1QtWXVodnpENkpCQXZJZHpyYndpdllqYWo5cjR0NnJMQWNydVlYb0JPSnpoUHN1Z0JldDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Announces Final Results of Offers to Purchase for Cash Certain of its Outstanding Debt Securities - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS29BZjVHeGszajUzQWd0RVFRUHVJN0FIcWxGd0FpZkI1NE84STFrVjYtMGtDOE1RWVlUcExEV3VhTElmTk9DQ2ZYRGZxRFZ3UWM3bmlWYWJtcU0tcFJabHljOVpLMjBOWXkteU9zMW",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS29BZjVHeGszajUzQWd0RVFRUHVJN0FIcWxGd0FpZkI1NE84STFrVjYtMGtDOE1RWVlUcExEV3VhTElmTk9DQ2ZYRGZxRFZ3UWM3bmlWYWJtcU0tcFJabHljOVpLMjBOWXkteU9zMWdPc1dQR3l1YWZpU0FrMkdMV3pVeVpkZWtOVk42MWxFLVlQUVhtamx1OUJlWUdUMjdPRmpXdnhYa3BCeWVTYWRMb2RPVDU3bzBmcFM2N0lxbDUzeEkxbW9hSWEyTXIwSkpaTnVsYXp3eFpUMkZQLUFMcXcwTnV0Y0ZJRzlobFZ0V21WQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Mosaic Company Announces Completion and Outcomes of Debt Securities Tender Offers - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQaG5RNDFPelRaaUJBZGV0akZKNjJjWHNnS0YtODduQ2RZTWpyRU1COE4ybWVZVDZIXzZkVXc0Y0VabHp5S2hEZ2VGTzJKZTlwNzh4Z3hKMWxBeWxpeTgtZkoybXZta0ExbkRfYVAybT",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaG5RNDFPelRaaUJBZGV0akZKNjJjWHNnS0YtODduQ2RZTWpyRU1COE4ybWVZVDZIXzZkVXc0Y0VabHp5S2hEZ2VGTzJKZTlwNzh4Z3hKMWxBeWxpeTgtZkoybXZta0ExbkRfYVAybThCaUVxTVEzUEc1cEhJZGlueU1reC1HQ3RGTVoyeDdVTWI0SWtsTmFKczZlRUxBUm45VC1JbmpIYy1iMVBfeUVzSHVua0FTNktZeFNfWmo3dWl0QzU0UUJhNGNWMUY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Form 8K The Mosaic Company For: 17 August By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDVnZEgwXzZhSW1xT0xsWmdiQXh6eFlVMGhqVFZSS012SUFubDRaTUZ6XzhKX2stREFpa3ZnVnJVeHVmS2tpOFlhUkk5b3pjTGY5WFRxMGVtV2VFa2pMTEFIN284SUZCOXpJNVVFTn",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDVnZEgwXzZhSW1xT0xsWmdiQXh6eFlVMGhqVFZSS012SUFubDRaTUZ6XzhKX2stREFpa3ZnVnJVeHVmS2tpOFlhUkk5b3pjTGY5WFRxMGVtV2VFa2pMTEFIN284SUZCOXpJNVVFTnRZOEdQN3RhZHJYbGF5SktOWk1PSHpvNEthMzc3YUZoajlBNEk1NG1DR3ZDVkVaMnAxT2ww?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elicit Plant and Mosaic Biosciences to develop water-stress solutions for canola across North America - Oils & Fats International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUJveDcwSk5TZkp5UDdFdWZIa0pCMmZ6Sm1RYkNlZG5QdnBBSDlHdU9PWFZVMUJ4NnF1VEg2RG5ObGNnVlNmeE9PUDExUlpTcllCZHJBVjlNdHJsczN0M1FuUFRabGc0T2NHYzJhb3",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUJveDcwSk5TZkp5UDdFdWZIa0pCMmZ6Sm1RYkNlZG5QdnBBSDlHdU9PWFZVMUJ4NnF1VEg2RG5ObGNnVlNmeE9PUDExUlpTcllCZHJBVjlNdHJsczN0M1FuUFRabGc0T2NHYzJhb3pESDBvQk5faFJzWGxjaW01NHZobXdkSlZKcFdua2cyUnlrblFmandsN2R0STd3S1BvWi0zdG9NWkZIUzhqd0QwQTc1LUJQaW1UcW83dy1kdnRnVFhlR1dRTC1yc09kUk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-17-014",
+    "date": "2026-08-17",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "About 37.78% of one Mosaic note series is accepted - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTk4VWJDYmcta25jQ2tCVDN3cDRIcWpoSUhCcjVLSV85RUJXU3kxR2NYc1pqTjNsSmY1RktvMW94Z1RjTS1tTkp0dVhOWldGR3VHeFR1Z2tpVDF2YUNJcnJ5VXYtYVJpaG5nMVQ1TE",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTk4VWJDYmcta25jQ2tCVDN3cDRIcWpoSUhCcjVLSV85RUJXU3kxR2NYc1pqTjNsSmY1RktvMW94Z1RjTS1tTkp0dVhOWldGR3VHeFR1Z2tpVDF2YUNJcnJ5VXYtYVJpaG5nMVQ1TE4zbzlJQkkwZFB1Rld3TFVWZ1ptRmIzRHNhWndDclg3bHFGZWN1UDVsOU44M2lEUDQ0eVVyTU03SU80bEYwa2I2el8tQ2kxUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-08-17-015",
+    "date": "2026-08-17",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva introduces new soybean herbicide - iowafarmbureau.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTlyVExnRk8wVmhVNTNPTURHVEtPNDJ2aWZBcXRGcE9RSlBoMXVaTXZFTUgyeXNPSGhiWnZNWXYtNWFwaHVTaTlFOU1XVlhMbVdLZEloWU4xWGpaZFFFQTdib2w4alBXcldfSF9xaX",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTlyVExnRk8wVmhVNTNPTURHVEtPNDJ2aWZBcXRGcE9RSlBoMXVaTXZFTUgyeXNPSGhiWnZNWXYtNWFwaHVTaTlFOU1XVlhMbVdLZEloWU4xWGpaZFFFQTdib2w4alBXcldfSF9xaXF6YXFIOU5feHpCWEJLSUx1LUtRQnBpdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-17-016",
+    "date": "2026-08-17",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Flputnam Investment Management Co. Makes New Investment in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTDFlSzRvNmJtRVNBVUVLd1NtWGFaYjBDeG8yRW9kU1pmQXhQby1ialpReWdUQ1FkcEdaemdtTGNfVDFkVlpkRjlzMlBnY2FNanQzUXpIOXd6SzR0UjQxMFE2LUh5MEMya0gwX01yT0",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTDFlSzRvNmJtRVNBVUVLd1NtWGFaYjBDeG8yRW9kU1pmQXhQby1ialpReWdUQ1FkcEdaemdtTGNfVDFkVlpkRjlzMlBnY2FNanQzUXpIOXd6SzR0UjQxMFE2LUh5MEMya0gwX01yT0xfR05vb21HWmlzeDZJazBXVWFEVWE2aHVuZUVHTl94cEY2VFluRG1hOGZEVlZmV3dBNEhCVTNTXzlTUTNmSlI3U05tbl85MmpuaFhMVXpDV1pOMkdOWkk4NmEtNTQ2b1QwNFVxTWl1MnQ3NkhkUjF1YWZGWlZPZ3lu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-17-017",
+    "date": "2026-08-17",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bunge Global SA Announces Pricing of $600 Million Senior Notes Offering - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkp4b010U3U2TkNfMndLV29XRnJQZEVPNHJaUDM1T292dEI4dE8wR2FITFZUbUhWSmxHc0pWVUFXbUVwQ0R2TUF0OHAzTmlhZUFERFQ0cS1reFRSSnBqODc2Q0hUN3pSQlNGdGVwbl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkp4b010U3U2TkNfMndLV29XRnJQZEVPNHJaUDM1T292dEI4dE8wR2FITFZUbUhWSmxHc0pWVUFXbUVwQ0R2TUF0OHAzTmlhZUFERFQ0cS1reFRSSnBqODc2Q0hUN3pSQlNGdGVwblBTY25fMURzRjBiOGtObDI4Mk5sWlZRZzhDX2liMDRZODN4aDVLYU1RTUdnd25IS0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-17-018",
+    "date": "2026-08-17",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge prices $600M in senior notes to fund general corporate needs - Dealroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWtWMlE0THJoLXViSkpCQ2tRN0F6Ym5vWHNGVloxX09QcWVTSXVHV3JnWVFNUG4wQmpWX1JLZWUteGx4OTFiV1I2cFBQT0tiTXBpNk55eC0tT0dDbmlRRlBOOE5JbFJYbzQ0eUlZbV",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWtWMlE0THJoLXViSkpCQ2tRN0F6Ym5vWHNGVloxX09QcWVTSXVHV3JnWVFNUG4wQmpWX1JLZWUteGx4OTFiV1I2cFBQT0tiTXBpNk55eC0tT0dDbmlRRlBOOE5JbFJYbzQ0eUlZbVR2ZnpyTF8tY0d5N2tReUJPa0FNb3FTNUlhMG9VaGQ5Vjg4R2ZqT3pmQWNZWXdqS05z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-17-019",
+    "date": "2026-08-17",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global Prices $600 Million Senior Notes Offering - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckhXLXlzRDg2V3RZaXJwZHoyS0JEODFJYVo3dXByR1pZejNnWTVhdDZWMlY3QnFPbEZlOFVQUUJpOW5saFhqcDFqZnFfRUtPdUNxY1pJWDM5TTRObkJiaG9hVkxjMmF5a0hrdmI3eD",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckhXLXlzRDg2V3RZaXJwZHoyS0JEODFJYVo3dXByR1pZejNnWTVhdDZWMlY3QnFPbEZlOFVQUUJpOW5saFhqcDFqZnFfRUtPdUNxY1pJWDM5TTRObkJiaG9hVkxjMmF5a0hrdmI3eDF3LVF6UlZrS2lOcjhsZnIzZDZXV0FOaEZMQzhsWlJaek5KSERfOTM3UkFfdEMwb001aUdFWThZTGpEUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-17-020",
+    "date": "2026-08-17",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Rising Sales But Sharply Lower Earnings At CNH Industrial (CNH) Has Changed Its Investment Story - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUTdnaEZCQkJaX2pNQlhMZENOMUlxUWQ2OFdwM203ZUJOUllkNWoxV29FaHlkdFZrR0gyTUxfRHJuVXBzaVdocmNkdGlBVXppTzFPN3gtbDlpSWlTQ3dJQ094eUl0NG0xb2k2UnpzTl",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUTdnaEZCQkJaX2pNQlhMZENOMUlxUWQ2OFdwM203ZUJOUllkNWoxV29FaHlkdFZrR0gyTUxfRHJuVXBzaVdocmNkdGlBVXppTzFPN3gtbDlpSWlTQ3dJQ094eUl0NG0xb2k2UnpzTlpvSk5BNU5HeFVPaU84UVZTQVAxM3k3azlldFl4aGx5amx1c3VzLUwwTjFvQUM0MWNXWFdLZVoteWdLYWgxVFcxLTFOVHNibVBkRXhRSFhwU3ZwdDR1cG5yNjByTV9sVFZtX0l1Z2FR0gHWAUFVX3lxTE5RN2doRkJCQlpfak1CWExkQ04xSXFRZDY4V3AzbTdlQk5SWWQ1ajFXb0VoeWR0VmtHSDJNTF9Ecm5VcHNpV2hyY2R0aUFVemlPMU83eC1sOWlJaVNDd0lDT3h5SXQ0bTFvaTZSenNOWm9KTkE1Tkd4VU9pTzhRVlNBUDEzeTdrOWV0WXhobHlqbHVzdXMtTDBOMW9BQzQxY1dYV0tlWi15Z0thaDFUVzEtMU5Uc2JtUGRFeFFIWHBTdnB0NHVwbnI2MHJNX2xUVm1fSXVnYVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-021",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is it time to price inventory and move on to 2027?",
+    "summary": "Afternoon Market Recap: Grains trended higher in Monday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-022",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "When USDA talks, is anyone listening?",
+    "summary": "Ag Marketing IQ: When USDA talks, traders listen and the market reacts. Three questions linger following the August WASDE report.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/when-usda-talks-is-anyone-listening-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-023",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Your awesome kids deserve respect — and the estate plan",
+    "summary": "Estate Plan Edge: Give your kids some credit and let them in on the plans — and documents — you’ve put together for the future of your farm.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/your-awesome-kids-deserve-respect-and-the-estate-plan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-024",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "3 steps to support your farm’s next-generation growth",
+    "summary": "Morning Market Analysis: Corn climbed to a three-week high overnight and soybeans also firm as lower yield potential encourages buyers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-025",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beef processing capacity shrinks as industry faces losses",
+    "summary": "Farm Progress America: Major processors close plants amid record losses and shrinking cattle herd, cutting nearly 10,000 head per day in slaughter capacity.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/beef-processing-capacity-shrinks-as-industry-faces-losses",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-026",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Host families form heart of Farm Progress Show",
+    "summary": "Farm Progress Show: Meet the families who offer farmland for demonstrations and more in Boone, Iowa.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/host-families-form-heart-of-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-027",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hard year? ISU specialists can help with farm stress",
+    "summary": "Farm Progress Show: Check out Iowa State University’s exhibit space, where you can find resources to help manage farm stress and connect with well-being experts.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/hard-year-isu-specialists-can-help-with-farm-stress",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-028",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Free ag safety resources await at Farm Progress Show",
+    "summary": "Farm Progress Show: The Health &amp; Safety Tent offers interactive learning, emergency preparedness training, wellness resources and a break from the heat.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/free-ag-safety-resources-await-at-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-029",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Greeneye Technology expands presence in Dakotas",
+    "summary": "A partnership between Greeneye and Intellifarms will benefit farmers who are interested in implementing new spray tech.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/greeneye-technology-expands-presence-in-dakotas",
         "type": "rss"
       }
     ]
@@ -861,6 +1405,42 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NeElpLUpRZU92c09YZnFMMzdiR2o3Z3hzRzdtNFN3OVZ2V0lfaGFyTkZfT2VOT3dIdGh0T2ZscHZvb2tabmhBcTBDMUdVbzBVSW00M2kxa0VSQkppRXdMQzZQQVcyN29XdkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-14-028",
+    "date": "2026-08-14",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Mosaic Company Announces Pricing Terms of Offers to Purchase for Cash Certain of Its Outstanding Debt Securities - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd3h0ZThOTDJxYXRxNnVKUk5XV0EwUzAzY2Mxcmc5RXFEOHp1dEszamVuRVJlTl9HOFZwX3ZTYkNyQkU2R0owcmlSZGJEZzRTVGVsa1F1R1FtZVRBNHg1Zlc2MW9IU0hrYzNlSmpIUm",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd3h0ZThOTDJxYXRxNnVKUk5XV0EwUzAzY2Mxcmc5RXFEOHp1dEszamVuRVJlTl9HOFZwX3ZTYkNyQkU2R0owcmlSZGJEZzRTVGVsa1F1R1FtZVRBNHg1Zlc2MW9IU0hrYzNlSmpIUmJ1T2dieV8wVnZmREJ1dGp6M3BWZzBVeFY4cXZMWFZhNmdINDc1TVVZd2IzaHk0dDZvQkhZbUJvVEhCZE1YZkhkVFhCcGtCTGYzUEpUUUIyblpxQmxYYThjZVY5R19wWWEtbUh4MXE1UFNNaWdXWHpOVFIwdVVGZlNq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-14-029",
+    "date": "2026-08-14",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "AirJoule posts $8.5m Q2 loss; advances commercialization with Kubota - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQanhZbFhnTHV0Z1dNNnc0eV9UYzFNYnBweHVSa2d0a3NkemVqSFowRl9GUkVzU0x3emJWTnJ3VXNXUnlnVmN4bDA3R005WFBQYk51V19jVmtPRDBWNHdkTXRidVVFcDBwVDI2SHFtdW",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQanhZbFhnTHV0Z1dNNnc0eV9UYzFNYnBweHVSa2d0a3NkemVqSFowRl9GUkVzU0x3emJWTnJ3VXNXUnlnVmN4bDA3R005WFBQYk51V19jVmtPRDBWNHdkTXRidVVFcDBwVDI2SHFtdWdfWXU2WDZHTUhmaG9pQnl1YWtXaGhKSGJmeWJnY1RxcEF2S3UydWR6WUZXOHZYQkoyS0x1Qmh3cWQwU0RYS0ZQM284SGFzSGVDRERacnZnNkY5SDhQRUJqU0pyTQ?oc=5",
         "type": "rss"
       }
     ]
