@@ -1,0 +1,241 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:23:21.256100Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sociedad Quimica y Minera de Chile Q2 Earnings, Revenue Rise - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2RlRFY0MHJLT3lUQkl2ei1sUFd1TVN2SnM5cms1S3pMcDJKSFZheXZycnVwZjVhd3FZdC1aMnVoV2VCeElhQVNmR2JveHVtaHJkRk9FWi1yRTZ4R1RFRE5kSW5rLURaVE03eE1mY1NYMkg1by1yTGt2M2tldl9HaE9WN3BNQVRhVUYtVDI3c1cteU1BODZGUDFjNXotaHh6OWVtbW0yZTBKMkgtcmk3S1R3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lower yield plus higher acres equals grain price guesses",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/corn/lower-yield-plus-higher-acres-equals-grain-price-guesses"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BlackRock Inc. Acquires Shares of 44,621,586 Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "natural_gas_feedstock",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2t0UGVLMUlZS0NfTTFvQ2dJQXR5THNoWUpCbFAzNmI4NUVYRzFmREM5a3BjNlEwX3p2c2RwR0NIdXBoWWFDWk1oM2R3RFZOWjNtczRpZU5oaWJ4LUdDM2VIYTNXMVYtUkRpeS1FYWJRd0JTN29wUnd5VTctcHFLb19wTER6YVdKVFRZMWttUTlwaUk5eFhrd1FxRHNoWEpYSDNoenJPOHhKZU9nb2Y3cW5YaFB0bnR2aE9jVGVaQlpTWjBnRGdKS3dnTU8yS0Ezc3o4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How to navigate sweat equity with the next generation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/how-to-navigate-sweat-equity-with-the-next-generation"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘Founding father’ of HHD remembered",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/husker-harvest-days/-founding-father-of-hhd-remembered"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 187,
+    "too_old": 144,
+    "gate1_blocked": 4,
+    "gate2_blocked": 7,
+    "passed": 31,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "The Mosaic Company Closes $1,000,000,000 5.350% Senior Notes Due 2031, $500,000,000 5.650% Senior No",
+      "Mosaic Co Completes $2 Billion Debt Offering - The Globe and Mail",
+      "Form 8K The Mosaic Company For: 17 August By Investing.com - Investing.com Nigeria",
+      "Sociedad Química Y Minera De Chile (SQM) Breakout Puts Its Lithium Growth Story And Fair Value In Fo",
+      "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為ADM相關動態：「Sociedad Quimica y Minera de Chile Q2 Earnings, Revenue R...」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sociedad Quimica y Minera de Chile Q2 Earnings, Revenue Rise - marketscreener...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lower yield plus higher acres equals grain price guesses（農作物價格、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

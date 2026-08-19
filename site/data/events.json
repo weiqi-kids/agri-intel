@@ -1,5 +1,264 @@
 [
   {
+    "id": "unknown-2026-08-19-001",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera de Chile Q2 Earnings, Revenue Rise - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2RlRFY0MHJLT3lUQkl2ei1sUFd1TVN2SnM5cms1S3pMcDJKSFZheXZycnVwZjVhd3FZdC1aMnVoV2VCeElhQVNmR2JveHVtaHJkRk9FWi1yRTZ4R1RFRE5kSW5rLURaVE03eE1mY1",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2RlRFY0MHJLT3lUQkl2ei1sUFd1TVN2SnM5cms1S3pMcDJKSFZheXZycnVwZjVhd3FZdC1aMnVoV2VCeElhQVNmR2JveHVtaHJkRk9FWi1yRTZ4R1RFRE5kSW5rLURaVE03eE1mY1NYMkg1by1yTGt2M2tldl9HaE9WN3BNQVRhVUYtVDI3c1cteU1BODZGUDFjNXotaHh6OWVtbW0yZTBKMkgtcmk3S1R3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-19-002",
+    "date": "2026-08-19",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock Inc. Acquires Shares of 44,621,586 Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2t0UGVLMUlZS0NfTTFvQ2dJQXR5THNoWUpCbFAzNmI4NUVYRzFmREM5a3BjNlEwX3p2c2RwR0NIdXBoWWFDWk1oM2R3RFZOWjNtczRpZU5oaWJ4LUdDM2VIYTNXMVYtUkRpeS1FYW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2t0UGVLMUlZS0NfTTFvQ2dJQXR5THNoWUpCbFAzNmI4NUVYRzFmREM5a3BjNlEwX3p2c2RwR0NIdXBoWWFDWk1oM2R3RFZOWjNtczRpZU5oaWJ4LUdDM2VIYTNXMVYtUkRpeS1FYWJRd0JTN29wUnd5VTctcHFLb19wTER6YVdKVFRZMWttUTlwaUk5eFhrd1FxRHNoWEpYSDNoenJPOHhKZU9nb2Y3cW5YaFB0bnR2aE9jVGVaQlpTWjBnRGdKS3dnTU8yS0Ezc3o4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-003",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lower yield plus higher acres equals grain price guesses",
+    "summary": "Corn Outlook: The shock of additional acres is cushioned by strong demand and shrinking supplies. Grain price optimism abounds as the U.S. growing season winds down.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/lower-yield-plus-higher-acres-equals-grain-price-guesses",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-004",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to navigate sweat equity with the next generation",
+    "summary": "Farm Business: For new operators in the family farming operation, their time and labor may not always be reflected in wages. Here’s how that “sweat equity” can factor into compensation.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/how-to-navigate-sweat-equity-with-the-next-generation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-005",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Founding father’ of HHD remembered",
+    "summary": "Tom Collins of Grand Island, Neb., was one of the original Agricultural Institute of Nebraska members. He passed away July 16 at age 85.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/-founding-father-of-hhd-remembered",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-006",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "7 startups offering new solutions for farmers",
+    "summary": "From detecting disease spores in the air to autonomous equipment, more innovations are coming to a farm near you.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/7-startups-offering-new-solutions-for-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-007",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How grazing cover crops can save farmers money",
+    "summary": "New findings suggest that having cattle graze cover crops adds more benefits for crop farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cover-crops/how-grazing-cover-crops-can-save-farmers-money",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-008",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Young Leaders in Agriculture Conference invests in next generation",
+    "summary": "Pork Pulse: More than 70 college students gain firsthand insight into the ag industry through hands-on learning, powerful connections and life-changing leadership development.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/hog-and-pork-news/young-leaders-in-agriculture-conference-invests-in-next-generation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-009",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From seed to sip: A Maryland rye whiskey story",
+    "summary": "Field Snapshot: Chris Weaver planted his first rye crop in 2017. This summer, he finally tasted that whiskey and rediscovered a family connection.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/from-seed-to-sip-a-maryland-rye-whiskey-story",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-010",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How kids help grow 30,000 pounds of produce in a food desert",
+    "summary": "Slideshow: Youth in East St. Louis, Ill., are growing food for their community while learning valuable skills and exploring ag careers at the Jackie Joyner-Kersee Food, Agriculture, Nutrition Innovati",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/how-kids-help-grow-30-000-pounds-of-produce-in-a-food-desert",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-011",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Healthy soil is slashing operating expenses on this Arkansas farm",
+    "summary": "Where Ag Is: Adam Chappell expects to spend just $150 per acre on a field of soybeans and explains how cover cropping and soil health focus are keys to his success.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soil-health/healthy-soil-is-slashing-operating-expenses-on-this-arkansas-farm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-012",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Experience drones live at Husker Harvest Days",
+    "summary": "The show brings cutting-edge agricultural drone technology to life with live demonstrations, expert insights and hands-on learning opportunities.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/experience-drones-live-at-husker-harvest-days",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-013",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Disease pressure varies across Midsouth soybean crop as harvest nears",
+    "summary": "Some areas have been hit hard by frogeye leaf spot or cercospora leaf blight, but others have faced very limited pressure. Here’s what experts have seen so far, along with best management practices fo",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/disease-pressure-varies-across-midsouth-soybean-crop-as-harvest-nears",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-014",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global cotton mill use at highest level since 2017-18",
+    "summary": "Stronger demand was reflected in the July WASDE, which projected season-average farm price at 73 cents per pound for 2026-27, up 10.5 cents from 2025-26.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cotton/global-cotton-mill-use-at-highest-level-since-2017-18",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cnhi-2026-08-18-001",
     "date": "2026-08-18",
     "companies": [
@@ -145,6 +404,287 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farming-equipment/3-generations-restore-massey-tractors-together",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-08-18-009",
+    "date": "2026-08-18",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera de Chile SA (SQM) JUN/2026 Earning Prediction - intellectia.ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUWs3YzI5MG5pcEhGbGRfLWZoYnVVZkJTMXlSTUtpQVBUMVdkbkVQcWY5RmJsQzVpYXRJemdPVTFxY1p6bDcxam5xaDd3VUU5ZUNhR1FyZWwwWkp3cFRXSWlSdW5KalZJVTh6VEFtRW",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUWs3YzI5MG5pcEhGbGRfLWZoYnVVZkJTMXlSTUtpQVBUMVdkbkVQcWY5RmJsQzVpYXRJemdPVTFxY1p6bDcxam5xaDd3VUU5ZUNhR1FyZWwwWkp3cFRXSWlSdW5KalZJVTh6VEFtRW1WR0I5TFJzckZWMlpQNlVaaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-08-18-010",
+    "date": "2026-08-18",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC (FMC) Stock Still Trades At A Discount After An 87% Fall - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGhHcW9IandhRjNoSnBZWkJlSDZwd0sxYUlSQkdqa0FGRE9oS25TclNTYW1mSlc2anFhSjRNZlROVnZCUXJ4M00tSTNnSktXZlUwaTVPRnpCWVpsNkgzTy1YVzdvZ1NvbHlCdDJEUU",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGhHcW9IandhRjNoSnBZWkJlSDZwd0sxYUlSQkdqa0FGRE9oS25TclNTYW1mSlc2anFhSjRNZlROVnZCUXJ4M00tSTNnSktXZlUwaTVPRnpCWVpsNkgzTy1YVzdvZ1NvbHlCdDJEUU9EWmwxTjhnZHN2YldVcC1PeXJEQUprZmQ4STRsN3NmLTloUG1JbTlHZ1RMMDhEZ0FzMlV4NGJyRnNhMDZUbnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-18-011",
+    "date": "2026-08-18",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (NYSE: ADM) COO lists zero insider stake - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPajdKZm9jVC05X20ybXpzaW41ZUNfQ1pzV1M2QnFRclV5TG1ZS1R4bnplQjBSOVFnaUlxbHhTanlZV2Y5WW8zSmRFWkRteHdNZmZZdF9hLWZLb3FQc3N3QS1aV3pFaFFHUERNejVCOX",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajdKZm9jVC05X20ybXpzaW41ZUNfQ1pzV1M2QnFRclV5TG1ZS1R4bnplQjBSOVFnaUlxbHhTanlZV2Y5WW8zSmRFWkRteHdNZmZZdF9hLWZLb3FQc3N3QS1aV3pFaFFHUERNejVCOXhybmhJSlRXWTFHcGJWTHZheUp6ODRRLUpTMlNOUmZvd2dUdnZVM3ZVM0lGbUpNUFJvaE9BZjBQczZZQ25DU1F4Y3RSVnpoRTBCWUd6MVhRa0lzZFZ0cldGSVNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-012",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels' Stock Surges 20.6% in Six Months: Is It Time to Buy or Wait? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2hIZjBxYzM2NUtYRUJ5UDBFTXkxQXZLaU9hWGpuZkg1c1Z3aGRGRWx4V0xheVZvNmlra0piQ0VlSUdxS2szYVNkMkh4X3haeWVWeXJESEVvN1h2SnREV2JZQjJGV0RON2lvRzBMVH",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2hIZjBxYzM2NUtYRUJ5UDBFTXkxQXZLaU9hWGpuZkg1c1Z3aGRGRWx4V0xheVZvNmlra0piQ0VlSUdxS2szYVNkMkh4X3haeWVWeXJESEVvN1h2SnREV2JZQjJGV0RON2lvRzBMVHdYcGZaZUN2WEIzMnhtVjNTaUZtSi0xYkd5STVGRF95RW1Ydngta2ltU3VPWjg3Y2I4Y0EySUs5ZThibERZbXkzZ0lHbTVxUG1EOWtUWGl6dDdSRF81MlFN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-18-013",
+    "date": "2026-08-18",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global Prices $600 Million Senior Notes Offering - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObkpSa2QzeHE3d2o0UkFmajZYTmNTcENDSjUtSGQxNkRLdDJGcnBrS1ljY24xellrVUI5THVqdHhlVGp0Z0tzS2I4aFgxbGNiVC00YkUwTzRNb0FuNTBIS0FDRnF1RE5UX3M0bVdWMF",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkpSa2QzeHE3d2o0UkFmajZYTmNTcENDSjUtSGQxNkRLdDJGcnBrS1ljY24xellrVUI5THVqdHhlVGp0Z0tzS2I4aFgxbGNiVC00YkUwTzRNb0FuNTBIS0FDRnF1RE5UX3M0bVdWMF8wS2w2eF9zaG5JYjZEZ1I4V0NRbEpKUE9zNHBXMWY2Z1NOcjBvbkI2UVBtcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-18-014",
+    "date": "2026-08-18",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Kubota Continues North America Investments, First SVL75-3 Compact Track Loader Comes Off the Line in Salina, Kansas - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX254VGdxN21hSmt1dkNFc2h6S05qR1lVUElNRFFyejJyYWQycEhNRU1hNlVWTUxmRWNkUVF0emhHVkdPWjRoZlNZckpCZDQwYW1lekJyM2xWU2R4UHRVWUo4bWdMQXNUMjVrYlF5Mk",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX254VGdxN21hSmt1dkNFc2h6S05qR1lVUElNRFFyejJyYWQycEhNRU1hNlVWTUxmRWNkUVF0emhHVkdPWjRoZlNZckpCZDQwYW1lekJyM2xWU2R4UHRVWUo4bWdMQXNUMjVrYlF5MkQ5QTZRSGhuZEZhT1VQbFVKdktpa00zNzJwRmVJcndmWEJYTTk5RHNxY2pzanBFMlNYRUVPZHFOa3lwbkRkcFhqWVZmd0REOWNWdk1wbDBiZzh4dUNNWTRJRUZQZVdLUHZzQ1Y2cHZfQTBKaWpFY1BORk85cWJmY0JZX0ZDRm9sQmZnbktLRm9PU08xdkhadw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-18-015",
+    "date": "2026-08-18",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Escorts Kubota schedules analyst meet with Valuequest on Aug 21 - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVFhS3VsdGQzSXNOWHdxdGJkUzkzNklrM1phTDFpbDVLTjhXaFVEQ2FkS21la0l5bFIwVElrMUQ0d19EVHh6ODVXNkJMcDg4T0ZqOWNQTnozNVFqUzVwQzEwZlFZVzJZTGgzR1lfZ0",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVFhS3VsdGQzSXNOWHdxdGJkUzkzNklrM1phTDFpbDVLTjhXaFVEQ2FkS21la0l5bFIwVElrMUQ0d19EVHh6ODVXNkJMcDg4T0ZqOWNQTnozNVFqUzVwQzEwZlFZVzJZTGgzR1lfZ0pHRm9OQkM4dkZTdVpJRGtDS1JlZW5wLU8xU1pDdkNGTmNaQ1I2VDRRdmkwTWtmMVdPRUVQUnp6US1DbTk2N2JScXd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-016",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Profit-takers derailed the latest rally",
+    "summary": "Afternoon Market Recap: Corn, soybeans and winter wheat prices shifted lower on Tuesday.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-017",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will soybean prices ease sideways or shoot up?",
+    "summary": "Ag Marketing IQ: Volatile soybean prices create marketing opportunities as traders watch U.S. crop development and South American weather patterns that could trigger another rally.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/will-soybean-prices-ease-sideways-or-shoot-up-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-018",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Exports: China buys soybeans, Aug. 18, 2026",
+    "summary": "The 2026-27 marketing year for corn and soybeans begins Sept. 1",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-019",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Listen up: 3 questions USDA data didn’t answer",
+    "summary": "Morning Market Analysis: Corn futures climbed near a three-month high overnight amid concern over flooding damage from last week’s heavy rains.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-020",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EPA proposes easing data center pollution rules",
+    "summary": "Farm Progress America: New policy would let power plants skip emissions monitoring, raising concerns for rural communities as facilities expand into farmland.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/epa-proposes-easing-data-center-pollution-rules",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-021",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Crop progress: Corn quality inches lower, as expected",
+    "summary": "Soybean ratings also faced minor cuts this past week.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/crop-progress-corn-quality-inches-lower-as-expected",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-022",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to make it on the Iowa Master Farmer map",
+    "summary": "A new map pinpoints the location of every Master Farmer award winner since 1926. Want to make it on the map in 2027? The application deadline is Sept. 29.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/how-to-make-it-on-the-iowa-master-farmer-map",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-023",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can you nab more cash by growing tomatoes or vegetables?",
+    "summary": "Farm Progress Show: Experts will be on hand at the Iowa State University exhibit to answer questions related to horticulture maladies and golf course management.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/can-you-nab-more-cash-by-growing-tomatoes-or-vegetables-",
         "type": "rss"
       }
     ]
@@ -686,6 +1226,26 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-business/greeneye-technology-expands-presence-in-dakotas",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-17-030",
+    "date": "2026-08-17",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Mosaic Company (MOS) Announces Expiration and Results of Cas - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzRJdGdfWUgxb1Bhb19WLUJLUTVxYlZkX2pBazdrdlQ1MXVvU0huVjhrZDVDWk1zNzZSS1FxX3RabHlmSHdzazR3d1I0RVFIUEpIRDhpRnZYSWpqT3JiTksxQlFqUlRaZXNUNVpCOE",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzRJdGdfWUgxb1Bhb19WLUJLUTVxYlZkX2pBazdrdlQ1MXVvU0huVjhrZDVDWk1zNzZSS1FxX3RabHlmSHdzazR3d1I0RVFIUEpIRDhpRnZYSWpqT3JiTksxQlFqUlRaZXNUNVpCOEtRNEhUNUM3QWNQREJtNERKeW1fbV8tWFVpRTloUnRIa3VGempKZm1xX2ZaUDBzWXdlWmJDQ2ZTWldrQmRwUWZ6R01rMmd3MDBCd1A5OG5uVEtYcFNSRGRGbkdaWTRJRmVFU0E?oc=5",
         "type": "rss"
       }
     ]
@@ -2410,6 +2970,26 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRi14dXU3QS0xVXFlZjA4ZnhfNElfbnhhb1ZIb1hDSmt6UkJpeTRGb1M3VkxweVJWX1JmMVJsTlhPSGdWWFFhYmk4dFk5SHhoc2xfa000TlZuTm9vQ21DLTFHejFsWXVCaUdNUG5QWWFNZlNVNU4zdXNkUHFIOGg3LUg4REJzLTdhSDlBVzk2TlN4UWcyVGRBRWg5ZFEyV1JnYkhndXA1T0oxVkI0V2lhTUljaUs0LWVFUXV0djM0akZ5aXh6U0tNcktGMDBUSWFYSm43X2lSZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-13-052",
+    "date": "2026-08-13",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries begins construction of $4B blue ammonia project in Ascension Parish - 1012industryreport.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHR3Y1lEUlYzc0dHRGhwems2eGRDMG1kRTRpM2N1MTVJMGd5QmhOTVJudUpXTjVsN1JOR3VZQXpkR0YwX2R3X053eHl6cW5zU2dmcEZLUlZBUVU0R1N0UWZrTlE5RFV1QW5Ncm5PSE",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHR3Y1lEUlYzc0dHRGhwems2eGRDMG1kRTRpM2N1MTVJMGd5QmhOTVJudUpXTjVsN1JOR3VZQXpkR0YwX2R3X053eHl6cW5zU2dmcEZLUlZBUVU0R1N0UWZrTlE5RFV1QW5Ncm5PSEMyR2FMRHZPZXlvTGtZNU9PTlpRLWdaaEpqWEFtX21GRktDZ3d6UEdvTy1iYXlHLU5GLUtJcE1adDlfQTNUVFBQOFJ4cE43Y2VLb2d1VTV6LWMwWlR1eGZRbVhB?oc=5",
         "type": "rss"
       }
     ]

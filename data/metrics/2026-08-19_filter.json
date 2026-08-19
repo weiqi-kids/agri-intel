@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 4,
+  "gate2_fail": 7,
+  "passed": 31,
+  "gate2_samples": [
+    "The Mosaic Company Closes $1,000,000,000 5.350% Senior Notes Due 2031, $500,000,000 5.650% Senior No",
+    "Mosaic Co Completes $2 Billion Debt Offering - The Globe and Mail",
+    "Form 8K The Mosaic Company For: 17 August By Investing.com - Investing.com Nigeria",
+    "Sociedad Química Y Minera De Chile (SQM) Breakout Puts Its Lithium Growth Story And Fair Value In Fo",
+    "What Is Drawing Attention To CF Industries Holdings (CF)? - Yahoo Finance"
+  ]
+}
