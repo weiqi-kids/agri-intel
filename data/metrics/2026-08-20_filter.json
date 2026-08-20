@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 52,
+  "gate2_samples": [
+    "S&CO Inc. Invests $22.05 Million in The Mosaic Company $MOS - MarketBeat",
+    "The Mosaic Company Closes $1,000,000,000 5.350% Senior Notes Due 2031, $500,000,000 5.650% Senior No",
+    "Form 8K The Mosaic Company For: 17 August By Investing.com - Investing.com Nigeria",
+    "Mosaic Co Completes $2 Billion Debt Offering - The Globe and Mail",
+    "Sociedad Química Y Minera De Chile (NYSE:SQM) Following Its Lithium Growth Story And Fair Value Deba"
+  ]
+}

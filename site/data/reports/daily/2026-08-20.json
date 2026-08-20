@@ -1,0 +1,233 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:24:17.906287Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fmc-2026-08-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FMC stock steadies after recent slide as analysts update outlook - Ad-hoc-news.de",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0doaXE4UDRKQWJHVW5EclZkWjJXQ3V1YkZYcTlfWjBmSG8zelJRUTJNZzJOdWE3cURiV19zVFhnSlY4U1V2b1VxUDZmTTlUZ1JoSmhKNVlvcWY5QUp1aFcxOGdPSmtxUFJhR2hGZlIyTGhOSmtocWwxVzBoTXJyQVQtWUFpRkRCT0U4VnEtZC01N1EyT29KbUozV3QxUHRQUXFCWEdwN1pHR2FHbWhRS2NreGJpUlBTSHlPcXcwbGIxUGtlUVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-08-20-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Revenue Growth Amid Margin Pressure Will Impact Bunge Global (BG) Investors - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1gyMkpjS3NWOExpbHVpV0pybzU1ZHp3d1JUVUd3M3JPWDh3YW03MmtnYWdQZjNJcDBCZVI2VzlZMzBCc3BqMmpFNWVDZllSYVNsNXp3a0FDaUw0ekh5YVNiSVI0R2lYa3dlQ0pKaUJ5SnRuZHBDbVBHa0JwbUwta2JlRFltd1l2VURzWFdFYTFzZWd4czBReE1oZ2dOc096eERkc1JncGJEejdTZGtScmNKRDJmdkt3dTUwLXpiTzM2ZnZQSG1DUU9oOTY1akZqSllJYno5c9IB3AFBVV95cUxQVUR3UFozVVRCQUJnRVI3M24tQmVPclJKQUZzdGM0OFNES2tKc0U2NmxjMHVjVkN2MVdXcVRoWjRGdVFUUHZVbW81dHN1RzdoSWlDMWFCNFNoNDRTX2swc0xEa1FBMEFrcVpJYUR5by02QnhzNkNuN1Bfd3JkSUhSTjh3NldtZkJUcFA2dktPZmQ1SXJBSGw4SEh2M203ajFPdDNMVUVTTW1vNWRXXzcxVFJIcUl0YU9kRFpYR2FmZEM2bWhIRWtVMWMwM25QT0pxenZyUUczSHN1TnN1?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-20-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Demand could offset added soybean acres",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/demand-could-offset-added-soybean-acres"
+    },
+    {
+      "rank": 4,
+      "event_id": "nutrien-2026-08-20-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Scientists discover how to make plants absorb more nitrogen",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/crops/scientists-discover-how-to-make-plants-absorb-more-nitrogen"
+    },
+    {
+      "rank": 5,
+      "event_id": "sqm-2026-08-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cetera Investment Advisers Decreases Stake in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzgyMjlHSW5hd2RLNlpHWnBRN0VSakVNR2VvTEhzRTU3NDFrWEZ2YzI0NHFVajRvOEVVR3FMTmNxUXdlaXc5VGF0aGp5dHR6a0J0OTYxZ2htbXdublNpQzRDTEFBdllYSUJTUHpLaVY2MHB3V0tmbjdqbVhwMW8tLTRWeUxoSWtYRVAwMGU3emhjc2VGdmk3OUdreHpuN2dRd3pPQzk1STVYd0ZESElRTi1CWXJ2SThPWG5NdlFSZGxTemlzdkZuX0I2cjdIYVNhbVZQOFJn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "kubota",
+        "count": 4
+      },
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "planting_season",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 170,
+    "too_old": 136,
+    "gate1_blocked": 4,
+    "gate2_blocked": 11,
+    "passed": 52,
+    "pass_rate": "25.6%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "S&CO Inc. Invests $22.05 Million in The Mosaic Company $MOS - MarketBeat",
+      "The Mosaic Company Closes $1,000,000,000 5.350% Senior Notes Due 2031, $500,000,000 5.650% Senior No",
+      "Form 8K The Mosaic Company For: 17 August By Investing.com - Investing.com Nigeria",
+      "Mosaic Co Completes $2 Billion Debt Offering - The Globe and Mail",
+      "Sociedad Química Y Minera De Chile (NYSE:SQM) Following Its Lithium Growth Story And Fair Value Deba"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Kubota、ADM、SQM相關動態：「FMC stock steadies after recent slide as analysts update ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "FMC stock steadies after recent slide as analysts update outlook - Ad-hoc-new...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Revenue Growth Amid Margin Pressure Will Impact Bunge Global (BG) Investo...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
