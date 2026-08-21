@@ -1,5 +1,225 @@
 [
   {
+    "id": "mosaic-2026-08-21-001",
+    "date": "2026-08-21",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Bank AG Invests $73.11 Million in The Mosaic Company $MOS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazk3NDlXREJvSTE1VzIyY01mUUpqWkNWcEFmdGpMWmE0Q25VRHRRY1h1V0dfYjRGd09yRUtsLVFiRk91NER0QnNzSFRMS3Y1VGhMRGlvOGhzRW55QjlEZU1qUHRSWGUxR1hmcXZrMn",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazk3NDlXREJvSTE1VzIyY01mUUpqWkNWcEFmdGpMWmE0Q25VRHRRY1h1V0dfYjRGd09yRUtsLVFiRk91NER0QnNzSFRMS3Y1VGhMRGlvOGhzRW55QjlEZU1qUHRSWGUxR1hmcXZrMnoyTzhpbERwYXVLUjRGOWdUZXFEbGppeFRoVUlJdDVGdnA1QVJJMGNaYUhhLV9vZlgySXlPMng5bjFNMXFDU1FDZDd4a0Fsa3lWb2xMRDFCNDJ4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-002",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beyond farmland: Rethinking what families inherit",
+    "summary": "More Than Dirt: Transitioning leadership, preserving relationships and instilling life lessons might be more important than conveying assets to the next generation in a farm family.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/beyond-farmland-rethinking-what-families-inherit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-003",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Garden secrets: How to make your cut flowers last twice as long",
+    "summary": "Through the Garden Gate: Follow this step-by-step guide for harvesting, cutting and maintaining flowers to maximize the life of your homegrown bouquets.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/garden-secrets-how-to-make-your-cut-flowers-last-twice-as-long",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-004",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Easy on the trigger: Plan ahead to transfer firearms",
+    "summary": "Farm &amp; Family: Transferring firearms to heirs requires careful legal planning to avoid penalties. Learn how gun trusts and proper estate planning strategies protect your family while ensuring comp",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/easy-on-the-trigger-plan-ahead-to-transfer-firearms",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-005",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "You’ll find more than equipment at farm shows",
+    "summary": "Young Dakota Living: Husker Harvest Days serves as a reunion with co-workers, friends and others in the ag industry on top of finding the latest and greatest in equipment, tech and strategy.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-shows/you-ll-find-more-than-equipment-at-farm-shows",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-006",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Regenerative ag revolution breathes new life into Iowa farm",
+    "summary": "Wendy Johnson saw different sides of agriculture during her time in Brazil and California, and she has been implementing these strategies on her farm near Charles City, Iowa.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/regenerative-ag-revolution-breathes-new-life-into-iowa-farm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-007",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A no-cost solution for farmers fighting deer damage",
+    "summary": "Refrigerated trailers let farmers donate deer to food banks, providing lean protein for food-insecure Michigan communities.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crop-protection/a-no-cost-solution-for-farmers-fighting-deer-damage",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-008",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Red crown rot is closer than you think",
+    "summary": "Soybean Watch: The disease is finding its home across the Midwest and may already be in your fields. The only way to know is to scout.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/red-crown-rot-is-closer-than-you-think",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-009",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What happens without glyphosate for weed control?",
+    "summary": "New research shows an Illinois glyphosate ban would cost the state’s farmers $300 million to $609 million each year. Here’s how it would affect farmers and change management practices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crop-protection/what-happens-without-glyphosate-for-weed-control-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-010",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Registration is open for Organic Grower Summit",
+    "summary": "The 2026 Organic Grower Summit will be held Dec. 2-3 in Monterey, Calif. Don’t miss this opportunity to be part of the premier gathering for organic agriculture professionals.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/organic-grower-summit/registration-is-open-for-organic-grower-summit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-011",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Check out new Outdoor Zone at Husker Harvest Days",
+    "summary": "The Outdoor Zone offers a one-stop shop for outdoor recreation-related vendors and services.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/check-out-new-outdoor-zone-at-husker-harvest-days",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-012",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How these Iowa farmers pivoted to profitable meat production",
+    "summary": "Wendy Johnson and her husband, Johnny Rafkin, learned niche meat and poultry markets entail more work but have higher margins by nixing middlemen.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock/how-these-iowa-farmers-pivoted-to-profitable-meat-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-08-20-001",
     "date": "2026-08-20",
     "companies": [
@@ -469,6 +689,470 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/management/maximize-corn-roi-with-proper-soybean-residue-management",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-08-20-026",
+    "date": "2026-08-20",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien Climbs as Investors Focus on Higher Potash Guidance and Stronger Cash-Return Signals - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEtvUk5IcXNQUF84azVBLWJfTHVwYlVibzBTN0wyU1AxNEsxdHpCNldob3hMZUZQUnpDMXpYUEV1VVdGWUZtNnQwQUxJalB3Q2dueGJBekQ1Y1A2NGFNejB2S3RWZ0VfdDFTb2pUNV",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEtvUk5IcXNQUF84azVBLWJfTHVwYlVibzBTN0wyU1AxNEsxdHpCNldob3hMZUZQUnpDMXpYUEV1VVdGWUZtNnQwQUxJalB3Q2dueGJBekQ1Y1A2NGFNejB2S3RWZ0VfdDFTb2pUNVNCU1hxNVIzbnd4SkZ4Ty1XNGJIVXBFYVBFV2M3TXYwTDB0M3RGTDFUd21RRDlGSnNiWWwwSlhPNi1XSXZjMkpRLU5zZzJTTkV4SExRU282ZGc3WkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-20-027",
+    "date": "2026-08-20",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Edmond DE Rothschild Holding S.A. Purchases Shares of 700,000 The Mosaic Company $MOS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWUFJbmstM19MMG1ZcjY0MXlicHdYRVpzdmI1N2JORWlLM00yckdRbEYyQ1dES1VrOVlhTXJfOVB4SFBrTG9DNkZlTlFDTjJGeDBPXzNHWHJiOHkxUTNJRW5wZFY2M0kyc1FHV0NQWG",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWUFJbmstM19MMG1ZcjY0MXlicHdYRVpzdmI1N2JORWlLM00yckdRbEYyQ1dES1VrOVlhTXJfOVB4SFBrTG9DNkZlTlFDTjJGeDBPXzNHWHJiOHkxUTNJRW5wZFY2M0kyc1FHV0NQWGQ0dUk3dWRPNDVkZjVHQTRsLTJPV0FkTlNGTWZia29hUXdJeFE5MDFnSklYX29qdDl5WGw5VEtrMUZubmE0Zll0clFYWWVWVTVLOUtReWotWmFBd3BmdkN1MVM4aXUxTkZOT2k2RlJRSGlxZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-08-20-028",
+    "date": "2026-08-20",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SQM (NYSE:SQM) Stock Jumps On Record Lithium Sales And Big Capex Bet - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMzBrSHhmcmY2TURsYzZOejdrNWdtbUNUVU0tT0h6REx3WWYxUG1veFJmYWNZMEJYUjY3VTdZR0I0MS1INUdMZUtCOGtUU1JSdEhsVVRhN1A5NnNKb1JTekdIekRjcS1UWktIS3JRbz",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMzBrSHhmcmY2TURsYzZOejdrNWdtbUNUVU0tT0h6REx3WWYxUG1veFJmYWNZMEJYUjY3VTdZR0I0MS1INUdMZUtCOGtUU1JSdEhsVVRhN1A5NnNKb1JTekdIekRjcS1UWktIS3JRbzEwNkUwRG5BQTJHMmJGX0Q1R1JiRjBGSzBiY3BvdDl1MHNkR3hSbTRZdUtPNFRralQ1UzBJTmNTR3RLYWVMTTRBQ3laRThyWmJjWmlabnNZQk9sQUdZeG1kLUFHYUxMNkpseXdrejY1bHFTZ182dGRmTEV3SUpPUdIB6wFBVV95cUxQdmdvSnpyQUo0MWF0QWNhT0JpWkFkcG5JdjNRemppMXBjbkw3d1VzVUxMZkdSMkxsTjVncThnTTZOYXBHSnhkbm9NMUtfNjR5SlpBQXdHeEhLOGF3aVktR0xvN2QyUzZULUxoeGxublZfOVl3aDNyYnpmR2xZV2NicmlYaWtzVENQSWo0LVRUam9VRjVvREo5bTFEM2RFeExFR1ZnTEY2QWI5cms5ekROd1dvVS1kQ0w4YkU0UmtZTnh4bV83RHBiUXFZQjlTVkUwdG9fQVlMR2V0dW9fOE12SkUwdGVVNTFPc3Aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-08-20-029",
+    "date": "2026-08-20",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Química y Minera de Chile: Q2 Results And Positive Long-Term Lithium Market Outlook Make It A Buy - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm5aN05MZXY0OENNUU5LREt0YzRSTXdKRjlPbXVOMmhvQjNrdFdFTDhSNlFQTFJPTHFOS3VwcHBqbXJSM1lzNzcxTnZuaTY3cVhOX2NkS0N3eUhoZldKRDV0cjV5UDNJNTFWdl9OdX",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYm5aN05MZXY0OENNUU5LREt0YzRSTXdKRjlPbXVOMmhvQjNrdFdFTDhSNlFQTFJPTHFOS3VwcHBqbXJSM1lzNzcxTnZuaTY3cVhOX2NkS0N3eUhoZldKRDV0cjV5UDNJNTFWdl9OdXgtblQ5d1AwWFp0RmVZaS1FUXZYMU5iV3EydzBtUzBmZDliQmpfdi1UVjBHYTZSQ0p2d1VFRzYwSjFNX25kYjdIUWY4UnhVZ2tvM1RVN0ZaZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-20-030",
+    "date": "2026-08-20",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries gains as investors focus on tight nitrogen supply and supportive 2027 outlook - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajkwZW5rTUU5LTRpY3Atb2RUZ2sxaXl5YWlpTk5GbnplcFBNbDFRbGczOEZqY3VwWGxMb3Z4ekxweHNzdGZRTm1tbFNIRTZ2R3ZUQjJ6YmtSbWxfQVcxU1BYWTJoUlFNR2w1cV9QOU",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajkwZW5rTUU5LTRpY3Atb2RUZ2sxaXl5YWlpTk5GbnplcFBNbDFRbGczOEZqY3VwWGxMb3Z4ekxweHNzdGZRTm1tbFNIRTZ2R3ZUQjJ6YmtSbWxfQVcxU1BYWTJoUlFNR2w1cV9QOU1oa2hUVG9OYTVndVhOa2tYVVp1SUI2MmtHcVUtb0NoZVBWd1BpN0VqU2hkeTQwTTBOVEt2ZzVDMHQzQjZMcjh2UWRnY1U3MzdnazA3cThfalc5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-20-031",
+    "date": "2026-08-20",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look at CF Industries Holdings Inc (CF) After 5.6% Gain -- GF Value $119.49 vs Price $125.70 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNVFUeE5XaDJmZmJjQnNaRGtVX3Y4YmdTSWVCX3g5eHhadFdOemUwT1ZWLUJTZk1BSmlQclJXX2NIa21fYnZ2dFZjdlVLaHRqZjNGM3hMX21fYkZMY0Ffc0thZ0Y4eS13Y3BFWHlWMj",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNVFUeE5XaDJmZmJjQnNaRGtVX3Y4YmdTSWVCX3g5eHhadFdOemUwT1ZWLUJTZk1BSmlQclJXX2NIa21fYnZ2dFZjdlVLaHRqZjNGM3hMX21fYkZMY0Ffc0thZ0Y4eS13Y3BFWHlWMjZwQTl2N280c0NET2RYRWgxa2xHaEd3bWdPbkt3UjZMcFdjcDdQSE4tVE9HY0p4bndjbHlBMjBKYVhvdEdoTUlfZTR2T3c1YnJlQzBDYldFYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-08-20-032",
+    "date": "2026-08-20",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BNP Paribas Adjusts Price Target on CF Industries to $130 From $120, Keeps Neutral Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeE1PNTlhQjNta3lucG1FNlFTcHp6MlBnbmxxb2ZVN1lTYjdlemotejQ1dzdOSzR1ZXA2WFEwalNEdkVSeTlJRUlISk9nZkZfdVlWX0cxSnBwdm5YT24tUEpzRTI3Z3ZReE5uWkpwOW",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeE1PNTlhQjNta3lucG1FNlFTcHp6MlBnbmxxb2ZVN1lTYjdlemotejQ1dzdOSzR1ZXA2WFEwalNEdkVSeTlJRUlISk9nZkZfdVlWX0cxSnBwdm5YT24tUEpzRTI3Z3ZReE5uWkpwOWFuTkNkNFMxSUpQaUVfTWU4QXlmTjVMR2llU3JRQ1E5dmJNaW9YVFdRYmRyQkZBcEhaczEySGhDUV8xbFBYUmoyZFVPQUNCSHVuQi1kdGFLVjdTcTlKR3pjT0UzVFBIb2xXTXpZSDJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-08-20-033",
+    "date": "2026-08-20",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soybeans are going in earlier. Corteva's new residual herbicide aims to keep up. - AGDAILY",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1RHa2t4SF9UTkI4cE5IUVcwZC1zV1B2cHQ5SmNFdUllZVZVaWExTHA1UEx4UG4xYWFGc25JdlVoM3BUbHo0bXhfaFp1amtob1oxYzNMR3gtMEZQVDdYVTdfdW1JSHJINF9EdGhybW",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1RHa2t4SF9UTkI4cE5IUVcwZC1zV1B2cHQ5SmNFdUllZVZVaWExTHA1UEx4UG4xYWFGc25JdlVoM3BUbHo0bXhfaFp1amtob1oxYzNMR3gtMEZQVDdYVTdfdW1JSHJINF9EdGhybWdFbUNvN3hlV29MWC1FRHROT1UxSjB3VDZqSnpidGtvWHAxQVFzOElqY0ZrbWE1d1N3dUplRlk1Y3lpUXJz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-08-20-034",
+    "date": "2026-08-20",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corteva spinoff Vylor launches $1.1B bond sale to fund parent payout (CTVA:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUFoaS1rVkl2VnJ2UENiODNSemVEdnk4YlRtM0dhSGV2eUpma1Y0UkRlZS1ZVGVHMUFyd1FGeFF3dExxYW9PZmNTUlh4ZkdieHlkUlNrU2pfUnBfbC1VTGRnakpzcGJ2MHlGajJKTl",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUFoaS1rVkl2VnJ2UENiODNSemVEdnk4YlRtM0dhSGV2eUpma1Y0UkRlZS1ZVGVHMUFyd1FGeFF3dExxYW9PZmNTUlh4ZkdieHlkUlNrU2pfUnBfbC1VTGRnakpzcGJ2MHlGajJKTlJ5T0tBV1laNWZnWVdwN19aQkNpaU9iYnpIY3FOa3VIdmE0LU02MkNWZEs5dDFRcllfNUxtY0kxWVc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-20-035",
+    "date": "2026-08-20",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Csenge Advisory Group Purchases New Shares in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNFNwcEhtd0lHMW51OTh6X1NxSEVxNW1XdFFjNXhwMXdEdzhFeGt2a0I3TTZFbk5Sam02QzRqN3RBdnJWd3ZLQjI1el96amMweUIyNzRMa3R1YUN2MTZzbE5jV0lpa2dfWWJVTkhYNU",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNFNwcEhtd0lHMW51OTh6X1NxSEVxNW1XdFFjNXhwMXdEdzhFeGt2a0I3TTZFbk5Sam02QzRqN3RBdnJWd3ZLQjI1el96amMweUIyNzRMa3R1YUN2MTZzbE5jV0lpa2dfWWJVTkhYNU9VY3U4WEhRU0E0RzZCODNMZllfc2lSbi1jdlZDMHc2S1RYRERJclNtdWdTVUZyblN3bjExaHpWT2J4d193c3JrWG1zSDNLZl9qR080cTVna1NHQWowdzVDN0RtVHk4b0JJRHlxXzFlQ3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-20-036",
+    "date": "2026-08-20",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge to Present at Barclays Annual Global Consumer Conference - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmxvbDNIRDNEenFIVTJ2OGpOLS1kTDVjN1FVYzN6cVZiNFpKcVVNZzlYT1R4dmd1aE5rSDVQdlZ3cllkd1poS0tkNWRNSlMxSFRrRlJ0OVRwX19XUk1hdi1sMTA1aHl5a1FpNm13UT",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmxvbDNIRDNEenFIVTJ2OGpOLS1kTDVjN1FVYzN6cVZiNFpKcVVNZzlYT1R4dmd1aE5rSDVQdlZ3cllkd1poS0tkNWRNSlMxSFRrRlJ0OVRwX19XUk1hdi1sMTA1aHl5a1FpNm13UTZnSVVCc3h0cWY3TUIxZ05ZRnk1QW9HYm1rOHlaeVpEY0dRc3hxeUQzejFOZHNUamRjNlVBOUFYVUJCaFJNZnVuSkp6WW03NzA0THpV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-20-037",
+    "date": "2026-08-20",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Stock Grinds Higher As Charts Hint At Base-Building - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE94T0Vvc3o5V1Y3QVUxLVAwLWF1MTlRTGs2aXJhdTNTb1p6S2hPNXpNbDVTTHJTNWhVVWZ6ZEtnendfc0xMYUItWk5LdlEwMjFDbmtGVlljeXo0TXoyWl9fYi1MT016cWNzZE9mY19Yak",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94T0Vvc3o5V1Y3QVUxLVAwLWF1MTlRTGs2aXJhdTNTb1p6S2hPNXpNbDVTTHJTNWhVVWZ6ZEtnendfc0xMYUItWk5LdlEwMjFDbmtGVlljeXo0TXoyWl9fYi1MT016cWNzZE9mY19YakNVWW84clNZQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-20-038",
+    "date": "2026-08-20",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is CNH Industrial NV (CNH) Overvalued After 6.4% Rally? GF Value - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmR0Y0p4QVdYU1pJdmVfMkJPeEphQ3cwMVBvVFdzYktxOWxQcFRnaW1ETXNLd1JRYXF3NEpoTmItOU50S2l0MU02dm95aFVRWGQ5M2U4XzkwaTdfVl9GTHZTU0poOUdIZDZfbDlxVW",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmR0Y0p4QVdYU1pJdmVfMkJPeEphQ3cwMVBvVFdzYktxOWxQcFRnaW1ETXNLd1JRYXF3NEpoTmItOU50S2l0MU02dm95aFVRWGQ5M2U4XzkwaTdfVl9GTHZTU0poOUdIZDZfbDlxVW5nWGlWajE1OUR6QnM5RW5EbGNPWE9LRGl1MzZwS1I1N2Q2cC1MSmJYN043QURVdUEzRGU1Z0ZqT0VEZGQ5VU1RcnRhN1c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-20-039",
+    "date": "2026-08-20",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Mercury Systems (MRCY), CNH Industrial (CNH) and Duke Robotics (DUKR) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxQNVZTZFhheTFfNloxT3F4bUJ4dHBWY0JEc1JwVmZwQW8ycWxfSEFobUZFUTF5VkkyWHJJcDU3ZjVIMVdtX2FsOE9Fb0tuWm5vakFnUk9XYkdWanhlLW44ZTZINkpPbkxfZXFTbnA4aU",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNVZTZFhheTFfNloxT3F4bUJ4dHBWY0JEc1JwVmZwQW8ycWxfSEFobUZFUTF5VkkyWHJJcDU3ZjVIMVdtX2FsOE9Fb0tuWm5vakFnUk9XYkdWanhlLW44ZTZINkpPbkxfZXFTbnA4aUoyRG91ZVVmbTRieFdvOWN4dlFtWnAxZDhKNmZreEs5ZEdibldRYnJvYjhCd0dRQjZtUHVzemswSVVjaFV4aUk0MUFjLVhfT0tIY0xqaTJCMEs5eEZGUHhVUzBKZk5QYWVvNnZjUWJsSHU0akVneFRXZFhIaEJiVEtpRkMtU1dWWkxKNWg2Ylg3ai1FbGtvaW5aNDY5M3k3Tmt3dmIwNVEtSlNIa0FJdDAxVWpESW02LXJWY0UyTllZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-20-040",
+    "date": "2026-08-20",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Escorts Kubota to invest over INR 2,000 crore in new YEIDA manufacturing plant - Prop News Time",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFRaLXBTcktrSkVwX1BKTnhZRlNDd3VYQ0h2QnN3NTFJam1maGtBNE9zYTl3cHhHYnVpUTZKb29PT24zRi1scmFkcmh0cVVHMmpDTkY0ZXZVUk1fNFkxRjl4cGtKajVGN0dEOW9ia2",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFRaLXBTcktrSkVwX1BKTnhZRlNDd3VYQ0h2QnN3NTFJam1maGtBNE9zYTl3cHhHYnVpUTZKb29PT24zRi1scmFkcmh0cVVHMmpDTkY0ZXZVUk1fNFkxRjl4cGtKajVGN0dEOW9ia2ljWlEwY3R4TmFWeTJObXJFbll0Ty04SF9HMFEzNEZObTA5XzRmVkpLV3FxRGhQM1R2Rmphd29FdDhFbFRhaHVSTjVNMXhMcHRYUlg2cUxYU0ZYSjhuSVFjblR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-20-041",
+    "date": "2026-08-20",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Escorts Kubota plans ₹2000-cr investment in new manufacturing plant in UP - Construction Week India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjJUYlNXYnB3YkFjQjhrRXl0NXVqdUVMUnN5RDE2SUhIMnJwbllLQk01WlNmS1NFQ1UwcTR5TFJlYi1ySzhBYUJYcGNwVGpJSGd5X3dxVVBXb0gyRnhtTk9fSXhpcktuMUd2dWxkak",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjJUYlNXYnB3YkFjQjhrRXl0NXVqdUVMUnN5RDE2SUhIMnJwbllLQk01WlNmS1NFQ1UwcTR5TFJlYi1ySzhBYUJYcGNwVGpJSGd5X3dxVVBXb0gyRnhtTk9fSXhpcktuMUd2dWxkakF4WWU0Rmt0U2FsUnBFdUtNQk1sZDJkRFdPWkVDWGdDWE9hWDVpZFBpYWNoZnNnT05peGV4TkhNVU1PSzdINkRENzhhOW0zSFVSS2RuN0Fac0taTTRrQlJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-20-042",
+    "date": "2026-08-20",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Escorts Kubota to Invest Rs 2,000 Crore in New UP Plant - Equitypandit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXlnVUE2UmcwSW1IcXNBc3E3aTByY2RIMWE0S2w0dWlibU1OX0c1ZERkMWduSmk4akFRTmo1eTVJcERZSHJWVFBCYktXUWpxclNUSmt4dDJndjhZNklPNjdDSXVLTG0ybnFKSDJCSG",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXlnVUE2UmcwSW1IcXNBc3E3aTByY2RIMWE0S2w0dWlibU1OX0c1ZERkMWduSmk4akFRTmo1eTVJcERZSHJWVFBCYktXUWpxclNUSmt4dDJndjhZNklPNjdDSXVLTG0ybnFKSDJCSG94ZEtnRjMtSkNoMjhBVXB2UlRhZDdVQjVteEJwVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-20-043",
+    "date": "2026-08-20",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Escorts Kubota Breaks Ground on ₹2,000 Crore Greenfield Plant in Uttar Pradesh - Motorindia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUFWRzhsRncyVThCczVlYjJaS3VfTjBiemlhU1lNRkU0TC1fUXphZXRFR1FsaGF4STFPM0ltcGZ4T1lNSVAta3RoYWxmQkdWUG9DdDdZSHI5UGZkTmdqNkt4R2JZUkxDZzV0anhkQ2",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUFWRzhsRncyVThCczVlYjJaS3VfTjBiemlhU1lNRkU0TC1fUXphZXRFR1FsaGF4STFPM0ltcGZ4T1lNSVAta3RoYWxmQkdWUG9DdDdZSHI5UGZkTmdqNkt4R2JZUkxDZzV0anhkQ2VUU2Y4MXR1clVmT2p5Wmd4WEtwejVvLWEwVFpLQU5xVkdwbHg5ZWtSODg4MnZWSlZVYkRRVlBabXNoMnlGdmstN25Dc2l2UUdiUWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-044",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soy rally stalls, corn catches a break",
+    "summary": "Afternoon Market Recap: Winter wheat prices were steady to firm in Thursday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-045",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Tips: Why re-ownership strategies might make sense right now",
+    "summary": "Grain prices have seen some bullish action recently – will that trend continue?",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/management/top-tips-why-re-ownership-strategies-might-make-sense-right-now",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-046",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Export Report: Soybean sales rebound with solid performance",
+    "summary": "Corn and wheat volumes found rangebound results last week.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/export-report-soybean-sales-rebound-with-solid-performance",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-047",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Exports: Unknown buys soybeans, Aug. 20, 2026",
+    "summary": "The 2026-27 marketing year for corn and soybeans begins Sept. 1",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-048",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The twin crises that may kick door open for U.S. corn exports",
+    "summary": "Morning Market Analysis: December corn futures pushed back above $5 and November soybeans neared $12.50 on shrinking yield prospects.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-049",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can cattle producers protect profit?",
+    "summary": "Ag Marketing IQ: With the Mexican border opening Monday, prices declining and meat packers restructuring, beef’s high dollar days are in jeopardy. It’s time for producers to practice risk management.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/can-cattle-producers-protect-profit-",
         "type": "rss"
       }
     ]
@@ -1116,6 +1800,24 @@
     ]
   },
   {
+    "id": "kubota-2026-08-19-035",
+    "date": "2026-08-19",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Escorts Kubota announces Rs 2,000 cr investment on new plant in UP - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkUyZ2JkeTR5dzdWS3JKTTRiSE9NYVRsUUZvRWRDR1dKWjJXbnFVX0E3VnhUZmRCUlF6OVlFY3hhZ0k4MGxaS3VxV1FRZE1fV1NYSkR5Q1lKTkJRTEpPMEJrWTQ1SDZMcmwxa3Jsaj",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkUyZ2JkeTR5dzdWS3JKTTRiSE9NYVRsUUZvRWRDR1dKWjJXbnFVX0E3VnhUZmRCUlF6OVlFY3hhZ0k4MGxaS3VxV1FRZE1fV1NYSkR5Q1lKTkJRTEpPMEJrWTQ1SDZMcmwxa3JsajJrQWZBcDh5OW11aHNOY3JmQVYxOWV3Znd5YloycXBTdENfdTJXWExuT2Vqc2lGdzExNHpkMFJmQ0JPWjBTb2Z2RzFMUzdMU1RyNmF0Q01nLXcwQl9BSS1relJiTWQwZGlHeWRBaU5UNULSAd4BQVVfeXFMTkJMb3JpVlJlTzVWMWhHT3RmbnRmelRSbWhrYUdqQjZBUl9sQmVCclFDU2RuUGhEbjFXbjg2TkYwSEJaZjRULS11Q0NtOGlUVmo5SVBWckNLYnlicWJOb1haTEhXVFluY28tWXM3aVkxOUlSc1FjOU5zNlJsd0ZyWmtTUWplcTJ1NUFOYXBiaXpXbmRzTzZBVnRsTjBoTVB0NGVRUnpkUFRkUXE3MXAxb0dzcHBqU3c0ZUUzVzR2WnRZaEY2VWNpTno3YnBjLWhpdVJkRGtqVUdjTzhhbHhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cnhi-2026-08-18-001",
     "date": "2026-08-18",
     "companies": [
@@ -1603,6 +2305,24 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY3ZxaXU3cXJMNml2bnJBdVdPOXBXMUZjZnYxWWg0bE1OTWEzb1cwUF9EWFNWUUlUQkIxeVlqX0NfN1hTNl9FZm9UWEd4Zy1fYzRVRk53MmdqSU1ET2NUSnhVM1dNUjNOTnUzbDlpMHR5QTNDWWZHazBUemk3c2Y4aFRkX3pMd3RFQ0tvb1lWa2FoU0kwUDU4Z0M0cDJJbHMyTGRlaHVGblk4dk1hRHVaS0dHM1pQbmhKVzZXeVduRmNaN0RZNzVPTldwX2UwVFY0MVRiZEdOLTgzM18yVi1QLXFuUWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-027",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels' Stock Surges 20.6% in Six Months: Is It Time to Buy or Wait? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRE5LSnhtZTIxLUNZWG9pVjhldWYwNFVtRzl4UGNZbWNiVi1tb0l2SlNPMno3cUd3TlhRSjV6VWNEbUl5NXJzVVV4WEJ4bHBHZjVjYi1QNEYteFJfZGFaY1BGYzhhazVNRVRfampYYV",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRE5LSnhtZTIxLUNZWG9pVjhldWYwNFVtRzl4UGNZbWNiVi1tb0l2SlNPMno3cUd3TlhRSjV6VWNEbUl5NXJzVVV4WEJ4bHBHZjVjYi1QNEYteFJfZGFaY1BGYzhhazVNRVRfampYYVdDMlVkeXI1N0ZWa1RDUi1FM0xNRUdHaWVSa2xVZWxCY283THRUWVh2LTJQWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2240,6 +2960,26 @@
       {
         "name": "mosaic",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaG5RNDFPelRaaUJBZGV0akZKNjJjWHNnS0YtODduQ2RZTWpyRU1COE4ybWVZVDZIXzZkVXc0Y0VabHp5S2hEZ2VGTzJKZTlwNzh4Z3hKMWxBeWxpeTgtZkoybXZta0ExbkRfYVAybThCaUVxTVEzUEc1cEhJZGlueU1reC1HQ3RGTVoyeDdVTWI0SWtsTmFKczZlRUxBUm45VC1JbmpIYy1iMVBfeUVzSHVua0FTNktZeFNfWmo3dWl0QzU0UUJhNGNWMUY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-17-035",
+    "date": "2026-08-17",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mosaic Biosciences Launches New Product to Accelerate Crop Residue Breakdown and Improve Spring Field Readiness - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxON1pSNGNDX3NYTFZ5SjRLdUNHU0ZINGxOdEtNMHQ1cC1heGlWMVhHYTVDT3BZTjRKYWcxZFNzZE5WZE0wWktMSnhyVHhYclFiWG5vSGhqNl9qc3BvV2VWdzlueHlhLWZfb091ZFZGbD",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON1pSNGNDX3NYTFZ5SjRLdUNHU0ZINGxOdEtNMHQ1cC1heGlWMVhHYTVDT3BZTjRKYWcxZFNzZE5WZE0wWktMSnhyVHhYclFiWG5vSGhqNl9qc3BvV2VWdzlueHlhLWZfb091ZFZGbDEzWG5fc3FJcWR1ZElDVjNXMGVtdTRjdkxWekZwRDNhVHZBQkFwellZblc5eXBFQl9LbDVkVktjc1pqejVCUUFRQndFQkRzbHl4SVdXbTktTGhid05wenRQaHlMbTNqdWg4ZjJCVGtwSmM1NUZ0RnNjYUxKS1R4bkhFazc5TTVRYkV4Y3FxaHJYa2lTQQ?oc=5",
         "type": "rss"
       }
     ]
