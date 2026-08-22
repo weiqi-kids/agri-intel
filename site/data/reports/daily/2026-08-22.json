@@ -1,0 +1,149 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:16:19.052243Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Quimica y Minera (NYSE:SQM) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXM1Mm1GZzBodVNmSTBhc0hQOERPaDI2S21tUFJmNUxqYjNOdmp3cGFlWGNqZnE0dGVjRWR5S01WY1VDX29WSlp2SWNNeHNMQTJZWHNNX3pqekRFZG5lTDZZR2xGa2RfU1F5U3FfREtBaUpQTWM4Z3gxbVIwbVA1QVdEcFl4cHZsa2ZMS2tMSzZGR0NyMTdkVU9vX2FDN0dDbGRJYlNMV1lSVDRqeEZKNk9tYnR4NW53SDFlb0drS01MbFNjd1ZN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Are tariffs really about trade or something else?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/are-tariffs-really-about-trade-or-something-else-"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Summertime delight: Enjoy these sweet corn variations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/summertime-delight-enjoy-these-sweet-corn-variations"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 193,
+    "too_old": 139,
+    "gate1_blocked": 4,
+    "gate2_blocked": 18,
+    "passed": 22,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Tejara Capital Ltd Purchases New Position in The Mosaic Company $MOS - MarketBeat",
+      "The Mosaic Company Closes $1,000,000,000 5.350% Senior Notes Due 2031, $500,000,000 5.650% Senior No",
+      "Form 8K The Mosaic Company For: 17 August By Investing.com - Investing.com Nigeria",
+      "S&CO Inc. Invests $22.05 Million in The Mosaic Company $MOS - MarketBeat",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Receives Average Recommendation of \"Hold\" from Brokerages "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為SQM相關動態：「Sociedad Quimica y Minera (NYSE:SQM) Stock Rating Upgrade...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Sociedad Quimica y Minera (NYSE:SQM) Stock Rating Upgraded by Wall Street Zen...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Are tariffs really about trade or something else?（貿易政策、農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

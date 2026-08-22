@@ -1,5 +1,62 @@
 [
   {
+    "id": "sqm-2026-08-22-001",
+    "date": "2026-08-22",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera (NYSE:SQM) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXM1Mm1GZzBodVNmSTBhc0hQOERPaDI2S21tUFJmNUxqYjNOdmp3cGFlWGNqZnE0dGVjRWR5S01WY1VDX29WSlp2SWNNeHNMQTJZWHNNX3pqekRFZG5lTDZZR2xGa2RfU1F5U3FfRE",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXM1Mm1GZzBodVNmSTBhc0hQOERPaDI2S21tUFJmNUxqYjNOdmp3cGFlWGNqZnE0dGVjRWR5S01WY1VDX29WSlp2SWNNeHNMQTJZWHNNX3pqekRFZG5lTDZZR2xGa2RfU1F5U3FfREtBaUpQTWM4Z3gxbVIwbVA1QVdEcFl4cHZsa2ZMS2tMSzZGR0NyMTdkVU9vX2FDN0dDbGRJYlNMV1lSVDRqeEZKNk9tYnR4NW53SDFlb0drS01MbFNjd1ZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-002",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "trade_policy",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Are tariffs really about trade or something else?",
+    "summary": "Ag Equipment Update: Tariffs are reshaping farm equipment markets, but economists say they’re less about trade protection and more about diplomatic pressure and leverage.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/are-tariffs-really-about-trade-or-something-else-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-003",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Summertime delight: Enjoy these sweet corn variations",
+    "summary": "What’s Cooking in Illinois: There are so many more ways to enjoy corn besides cooked on the stove — grilled, in a burrito bowl or corn casserole, as Mexican street corn, added to corn muffins or cornb",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/summertime-delight-enjoy-these-sweet-corn-variations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mosaic-2026-08-21-001",
     "date": "2026-08-21",
     "companies": [
@@ -215,6 +272,295 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/livestock/how-these-iowa-farmers-pivoted-to-profitable-meat-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-08-21-013",
+    "date": "2026-08-21",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI stock steady as latest earnings define 2026 outlook - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUpSM3BRdjFmR2I2ZlhrUXNzX1lMSnFPamx4X1h2T2dJYTRHX3hVR2MzS1VSQ2pOaDNxSl9yeElGY1dtYkVpNFY2dDgwRnVmUURCY3o0RHF3dmJCejgwdURpUDF0VGlnbVFJR2ZCb0",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUpSM3BRdjFmR2I2ZlhrUXNzX1lMSnFPamx4X1h2T2dJYTRHX3hVR2MzS1VSQ2pOaDNxSl9yeElGY1dtYkVpNFY2dDgwRnVmUURCY3o0RHF3dmJCejgwdURpUDF0VGlnbVFJR2ZCb0gwRWRKSHRFa0RyRGNUY3BUbS1pTzY4TTBBSXZtRjI1MS10NXJORUNDRzI0YkFoSVBVUVNGY3BsMjZWRFhMRENsYjlpdDhQQUs2SHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-08-21-014",
+    "date": "2026-08-21",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva’s Field Trials Didn’t Undermine Its Seed-Patent Rights - Bloomberg Law News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNc0p1dkNYV2ZSbHYtQnlpSUJ2T2swR0dnd2poWEhOV29jSUZHX0o5RC1VVzhOSkFCNEJxc21keUxXLXA2Q25sdFJoc2hROEk3R2hUWFJ2Mm5Xc05HajNxekRCMVR2VHNqTHlvYzAydG",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0p1dkNYV2ZSbHYtQnlpSUJ2T2swR0dnd2poWEhOV29jSUZHX0o5RC1VVzhOSkFCNEJxc21keUxXLXA2Q25sdFJoc2hROEk3R2hUWFJ2Mm5Xc05HajNxekRCMVR2VHNqTHlvYzAydG9BSXFkaHIyM3UwNktzOHMtbWlzQVBwR3VacUFFVXY5RVYwTGhwcS12a1RBZzlhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-21-015",
+    "date": "2026-08-21",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Bunge Global (BG) A Bargain On Its Value Upgrade? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1VJSFczc3psUUhodlpWYVN5VFFOUE9PZUZLU3MzM1VvcFQ0dlBESkI1eHAwWkZQMkU1UHFmUGN1a0VjVFE0YnN0RkdLdnEtUnVvN1poaDRxeld1S1NvcnAtdHUxbTNURHRYdGpSRT",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1VJSFczc3psUUhodlpWYVN5VFFOUE9PZUZLU3MzM1VvcFQ0dlBESkI1eHAwWkZQMkU1UHFmUGN1a0VjVFE0YnN0RkdLdnEtUnVvN1poaDRxeld1S1NvcnAtdHUxbTNURHRYdGpSRTZSR1lwbDk5RW9zRTBnY0hwTllaajdHZDZxT2FjdzF1UkluQW1Wd29ZS1ZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-21-016",
+    "date": "2026-08-21",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge to Present at Barclays Annual Global Consumer Conference - WebWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCVXFJRXhlRElyTHFpUEE4YUFPRjVxMmtjY1h2cGstQ0RQdkpPTVNWbU5nUnlTQ0MxN2lPVUNBTDZxOENYMVZ6dUFJcnpvZktjaU42d1NyZ194cU5JSTkyMDFTWWR1d0tsQkdGSDZ2dw",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCVXFJRXhlRElyTHFpUEE4YUFPRjVxMmtjY1h2cGstQ0RQdkpPTVNWbU5nUnlTQ0MxN2lPVUNBTDZxOENYMVZ6dUFJcnpvZktjaU42d1NyZ194cU5JSTkyMDFTWWR1d0tsQkdGSDZ2dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-21-017",
+    "date": "2026-08-21",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global Stock: Analyst Estimates & Ratings - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPYk45S0tkc2RTNVJ3SC1sazl3bXFQUnlqeUxRUEpqWHdUNTQ4cTdJRHZmb0V2NE9LT2VDRlhrY2xtMkQ3V2N1eEppQWRxZ3V4dDlFa2M2TWp4TTVrYWJxbXVBejZZaWJhdElGQ2JBX1",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYk45S0tkc2RTNVJ3SC1sazl3bXFQUnlqeUxRUEpqWHdUNTQ4cTdJRHZmb0V2NE9LT2VDRlhrY2xtMkQ3V2N1eEppQWRxZ3V4dDlFa2M2TWp4TTVrYWJxbXVBejZZaWJhdElGQ2JBX1c4dDhhQmZSaTVWeHhIWjdVRzU3cktERFpHa0h6NEkzSFNKUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-21-018",
+    "date": "2026-08-21",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global Stock: Analyst Estimates & Ratings - inkl",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1EMEwwSHpKSm82eGNfZTV6SXBEWjhJX2ZYcUFGd3dyeFdpQm93S3V4cEZCQ3NBRnEtWFB6MFRzMFFfcTlyc2JoQnZLYVNXWnhPVmIxWEF2eEVVVDQzbzdLZlBfNzV3bDJWUUgyeENzeG",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EMEwwSHpKSm82eGNfZTV6SXBEWjhJX2ZYcUFGd3dyeFdpQm93S3V4cEZCQ3NBRnEtWFB6MFRzMFFfcTlyc2JoQnZLYVNXWnhPVmIxWEF2eEVVVDQzbzdLZlBfNzV3bDJWUUgyeENzeGNLcUFxUUFqN1B3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-21-019",
+    "date": "2026-08-21",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial NV Stock (CNH) Moved Up by 7.90% on Aug 21: What Signal Does It Send? - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVFPaHJoaFI0WVFfRHVrSGhmTTZheHhaQ2txRkVERG16U21yUzUxdTZLWkRsbmd0TWdvLXN3aEJEamQ2Y0tlZGxmNnF0eGcxVEFfUXA5MkVoV01XZEdROXE2MlZxVE1YeVJ1RjZuSk",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVFPaHJoaFI0WVFfRHVrSGhmTTZheHhaQ2txRkVERG16U21yUzUxdTZLWkRsbmd0TWdvLXN3aEJEamQ2Y0tlZGxmNnF0eGcxVEFfUXA5MkVoV01XZEdROXE2MlZxVE1YeVJ1RjZuSk82Ti1XSFJyM051dHNjdUNMWENJSko0eDZMNFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-21-020",
+    "date": "2026-08-21",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial Guides 2026 Outlook To High End, Shares Pop - timothysykes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9JcEQtZ3JiMEsyOXJXbVg1M1dZY0xzdWdfTG55MjlWaEFaS1V1dVJwVHZFRzN1STFtbzFuYW1uc3hMZzg0b1NwWHpJQUg3a1lPTDZ0RlFrSlEwQ3dCb3NoTDBCdXhsdV9tMEQzRzRad3",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JcEQtZ3JiMEsyOXJXbVg1M1dZY0xzdWdfTG55MjlWaEFaS1V1dVJwVHZFRzN1STFtbzFuYW1uc3hMZzg0b1NwWHpJQUg3a1lPTDZ0RlFrSlEwQ3dCb3NoTDBCdXhsdV9tMEQzRzRad3U3REwzcVJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-08-21-021",
+    "date": "2026-08-21",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Escorts Kubota breaks ground on ₹2,000 crore greenfield plant in Uttar Pradesh - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkpzRUdKUlhiQUNFMThCOVUtMEJ0X1kwSlRCNnVOakgwU2VkNnZhMjRJZGdlLS1GZHdQYUF4VkU1Y0s3UzFGOG1NRExkRGI2Q2hiNVRZM0JUTTNBdHVZcTZFYlduN3RQR1NpbV9xYT",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkpzRUdKUlhiQUNFMThCOVUtMEJ0X1kwSlRCNnVOakgwU2VkNnZhMjRJZGdlLS1GZHdQYUF4VkU1Y0s3UzFGOG1NRExkRGI2Q2hiNVRZM0JUTTNBdHVZcTZFYlduN3RQR1NpbV9xYThrcFFVdXdUTXdSSEg2MXlXNHNXQkxDVFRKLUN1M1JXeG1TUHBoa01qRE9Tb2IzMEVkZk16U2pqamlidGRNVU9vWEw1SGJ6Nk9tcU1QYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-022",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn ends week on a high note",
+    "summary": "Afternoon Market Recap: Soybeans also tested modest gains Friday, with winter wheat prices back in the red.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-023",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "trade_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump announces tariff relief for ground beef imports",
+    "summary": "President says exporters have committed to selling 25% below current market prices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/trump-announces-tariff-relief-for-ground-beef-imports",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-024",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Exports: 3 more flash sales announced Friday, Aug. 21, 2026",
+    "summary": "The 2026-27 marketing year for corn and soybeans begins Sept. 1",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-025",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Smart drainage tech helps farmers control water table remotely",
+    "summary": "Automated system lets growers adjust field saturation from their smartphone, reducing risks during unpredictable weather.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/smart-drainage-tech-helps-farmers-control-water-table-remotely",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-026",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Have we reached the most ‘actionable’ level for corn prices?",
+    "summary": "Morning Market Analysis: Corn and soybeans futures fell overnight amid corrective selling after yield concerns sparked sharp rally this week.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-027",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "7 states urge feds to block Union Pacific-Norfolk merger",
+    "summary": "Farm Progress America: State attorneys general argue the $85 billion railroad deal would harm rural shippers and fail to boost competition.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/7-states-urge-feds-to-block-union-pacific-norfolk-merger",
         "type": "rss"
       }
     ]
@@ -1158,6 +1504,46 @@
     ]
   },
   {
+    "id": "cf_industries-2026-08-20-050",
+    "date": "2026-08-20",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings Jumps 5.5% Amid Sector-Wide Rally - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGJhcjF5RXdXa2hSV0haSnlxemhmbU9nYmJubUZsRFFtMGFlZGZWN1E0dER0TzZGWE81T3owS2JGQm9SZjlHMEQzMTQ5bEMzMVRodXJOSmFVcGd2eEJ3MGZQNDcwMWdfMW1qamRUTW",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGJhcjF5RXdXa2hSV0haSnlxemhmbU9nYmJubUZsRFFtMGFlZGZWN1E0dER0TzZGWE81T3owS2JGQm9SZjlHMEQzMTQ5bEMzMVRodXJOSmFVcGd2eEJ3MGZQNDcwMWdfMW1qamRUTWw4SW5oNjBrcWVEVlpjay1rUi1iSGRiYUJRbmF6UmZB0gGOAUFVX3lxTFA0YmFyMXlFd1draFJXSFpKeXF6aGZtT2diYm5tRmxEUW0wYWVkZlY3UTR0RHRPNkZYTzVPejBLYkZCb1JmOUcwRDMxNDlsQzMxVGh1ck5KYVVwZ3Z4QncwZlA0NzAxZ18xbWpqZFRNbDhJbmg2MGtxZURWWmNrLWtSLWJIZGJhQlFuYXpSZkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-08-20-051",
+    "date": "2026-08-20",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Announces Early Tender Results and Extension of Expiration Date in Private Exchange Offers and Consent Solicitations for EIDP's 2.300% Senior Notes Due 2030, 5.125% Senior Notes Due 2032 and 4.800% Senior Notes Due 2033 - Eastern Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQaXVBelprM3dBc1dvMzFIRklHaXUxbzBaY2JBN2dSSUEwNTRKYWVVeDQ2Zlc0SkdoQkVFM0JaRnlMMWEtTUNoSjd5QTVCdEtmTUQxWHdLVlRsV1ZVRWZCbl9sWkVlNkNqazlXR3Qwaj",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaXVBelprM3dBc1dvMzFIRklHaXUxbzBaY2JBN2dSSUEwNTRKYWVVeDQ2Zlc0SkdoQkVFM0JaRnlMMWEtTUNoSjd5QTVCdEtmTUQxWHdLVlRsV1ZVRWZCbl9sWkVlNkNqazlXR3QwajZ3NGs2YWlsZjg5cDRqMXlBMkNvazdvWmhDSlppU3Qya1U4TkNNNWx3R2tuLTBzQk5ZZHYzRHo2ejZZMFl2MUJVTEY1ZVhCS3hTMUVWOHF2STN5aFdqZGZFUG5MRlh1MjNHNzV6VVpGTlBpVENRRkxpOWhGYWhqdXlONTY0ZXlJUU00cUpPWU1VYmI2bzZvc2tzcUdXLWk0WWVOTU1oQlA4cFdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-19-001",
     "date": "2026-08-19",
     "companies": [],
@@ -1813,6 +2199,44 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkUyZ2JkeTR5dzdWS3JKTTRiSE9NYVRsUUZvRWRDR1dKWjJXbnFVX0E3VnhUZmRCUlF6OVlFY3hhZ0k4MGxaS3VxV1FRZE1fV1NYSkR5Q1lKTkJRTEpPMEJrWTQ1SDZMcmwxa3JsajJrQWZBcDh5OW11aHNOY3JmQVYxOWV3Znd5YloycXBTdENfdTJXWExuT2Vqc2lGdzExNHpkMFJmQ0JPWjBTb2Z2RzFMUzdMU1RyNmF0Q01nLXcwQl9BSS1relJiTWQwZGlHeWRBaU5UNULSAd4BQVVfeXFMTkJMb3JpVlJlTzVWMWhHT3RmbnRmelRSbWhrYUdqQjZBUl9sQmVCclFDU2RuUGhEbjFXbjg2TkYwSEJaZjRULS11Q0NtOGlUVmo5SVBWckNLYnlicWJOb1haTEhXVFluY28tWXM3aVkxOUlSc1FjOU5zNlJsd0ZyWmtTUWplcTJ1NUFOYXBiaXpXbmRzTzZBVnRsTjBoTVB0NGVRUnpkUFRkUXE3MXAxb0dzcHBqU3c0ZUUzVzR2WnRZaEY2VWNpTno3YnBjLWhpdVJkRGtqVUdjTzhhbHhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-036",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera Q2 Earnings Call Highlights - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3JfYkxTZVlTa1l3SThUTlVtRmU3WlJCUGM3ZFBNTWNfelJlMVJvbjBVUnhWamJvQ2JlVkZZbmVIRUN4UUlJV1RMMUxaUVNiUFRWd0RLMGRvRXh2anJqUXlvbHd1QjZOeFdXR1FwTm",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3JfYkxTZVlTa1l3SThUTlVtRmU3WlJCUGM3ZFBNTWNfelJlMVJvbjBVUnhWamJvQ2JlVkZZbmVIRUN4UUlJV1RMMUxaUVNiUFRWd0RLMGRvRXh2anJqUXlvbHd1QjZOeFdXR1FwTmVLRG8wUm1MNnBjTEhQV0ZOWWRmNlgtVHVJdGxrN2pMUkh1N180emYtMGFCVGtMMXFheG91NmRXOUtmdEZmRUdJZDBoSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-19-037",
+    "date": "2026-08-19",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Revenue Growth Amid Margin Pressure Will Impact Bunge Global (BG) Investors - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPamVydXRFM2QwWF96S0l5WThqSzVROTQ5U3dUYVZqR3lYMzd1Vy1Sc0tHZU5NQ1VtbGpUUzYxUGZrbUxaY2RiZ2pFWVcyaHVsSExtYnpUWWs1ZkdqbFpPQnJ5MjVfZlhITFdzTkpNRl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPamVydXRFM2QwWF96S0l5WThqSzVROTQ5U3dUYVZqR3lYMzd1Vy1Sc0tHZU5NQ1VtbGpUUzYxUGZrbUxaY2RiZ2pFWVcyaHVsSExtYnpUWWs1ZkdqbFpPQnJ5MjVfZlhITFdzTkpNRlhVTF9vamUxdUtySWFJdkRvdUhHdG5WOERQQzhjN015Vm1LZ1ZXeWhxU21YX3NMSUcyeU5CdEZBaVQ3bVR0OEhOVGtRam1MNk5vRy1oVkJEZEdXbFdNZ2tKVg?oc=5",
         "type": "rss"
       }
     ]
