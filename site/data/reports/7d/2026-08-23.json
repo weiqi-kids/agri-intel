@@ -1,0 +1,163 @@
+{
+  "date": "2026-08-23",
+  "date_range": {
+    "start": "2026-08-17",
+    "end": "2026-08-23"
+  },
+  "generated_at": "2026-08-23T08:17:29.302011Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cf_industries-2026-08-18-024",
+      "date": "2026-08-18",
+      "title": "CF Industries, Nutrien and Mosaic: best fertilizer stocks rated after earnings - Investing.com Nigeria",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 65,
+      "last_week": 78,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": -0.0
+    },
+    "earnings": {
+      "this_week": 7,
+      "last_week": 5,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.07
+    },
+    "planting_season": {
+      "this_week": 14,
+      "last_week": 10,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": -0.09
+    },
+    "trade_policy": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "natural_gas_feedstock": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "crop_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "cnhi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "adm": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "sqm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "fmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "bunge": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "kubota": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nutrien": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 7
+    },
+    "mosaic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 193,
+        "last": 205,
+        "change_pct": -5.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-17",
+      "event_count": 35,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 27,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 38,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 52,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 27,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 10,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-17 ~ 2026-08-23）共 193 則事件，重點為「CF Industries, Nutrien and Mosaic: best fertili...」。Nutrien Ltd表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "ADM",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Kubota",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Nutrien Ltd",
+        "reason": "受農作物價格議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
