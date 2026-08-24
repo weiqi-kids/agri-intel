@@ -1,5 +1,232 @@
 [
   {
+    "id": "adm-2026-08-24-001",
+    "date": "2026-08-24",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Daiichi Life Insurance Co. Ltd. Acquires New Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbWE4N1VueV9vSnQtalN1dEZ0THZ4b29KMzRRZ3V2aUR5MEhTS25yLW1lTTJHNTViYTBsT1NYTjdVMW5Va1pBYnFlSGJFcHBVMDU0WGx1dFY4QUV1ZFlpcHN3a0MwZjhubVM5TnFpOE",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbWE4N1VueV9vSnQtalN1dEZ0THZ4b29KMzRRZ3V2aUR5MEhTS25yLW1lTTJHNTViYTBsT1NYTjdVMW5Va1pBYnFlSGJFcHBVMDU0WGx1dFY4QUV1ZFlpcHN3a0MwZjhubVM5TnFpOE5TYVNqYjRHN3hyMW5NVDRCNFBKU3M1ZGpIeW44VWxCUGdxNEcyUE1CNGZOMG1pbnN1dkxtWjN3cVNfMzdlUjM0YWxLdFlRdVc2cng1MDlqYzNORjB5S1pnRnZ3Szh4bE5CendhSlV5c29WbHZULWM3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-24-002",
+    "date": "2026-08-24",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bank of Nova Scotia Purchases Shares of 388,350 Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY1FycTh1RUtCSlpkTFpQZlNjMm1wbTVYRl9uZHAybjViMzJMZk1nemxWQjI0TC1DQnZFTWxBOWNGazRmcXZ1eGl0Z3lSNEdNWmhOdk8zU0g2cUtIZDZqMkcwWHEtOG10Q2ZhZEhtdG",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY1FycTh1RUtCSlpkTFpQZlNjMm1wbTVYRl9uZHAybjViMzJMZk1nemxWQjI0TC1DQnZFTWxBOWNGazRmcXZ1eGl0Z3lSNEdNWmhOdk8zU0g2cUtIZDZqMkcwWHEtOG10Q2ZhZEhtdGF5MDBKc0FicFU1S0F5RjYtdHhEZWloZ0x0MHpNdmp5UkdzVVlWTjlFM2pDay1ZV2VfcXZ5cUo2Y213VDlvSkdfOUJVSUtWVUdobGtkbGZvaVZsSTN2V3dBN3pUSU14blhIRnNsUHROTjdGQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-24-003",
+    "date": "2026-08-24",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global stock holds 2026 gains as quarterly earnings and guidance support outlook - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXRhOVY0R0R2dGE0cl9DMWVLU2FBY3E1QWNKQ196OXRaeGoyNDlGS2pTaVdlOS1qQVU4cE9wSFhOeGw4QzlEamxnbTBjcFQ5bGgxMVlpZUx0REtidWJfdklGbUl6eEhBbW93ZnNkZX",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXRhOVY0R0R2dGE0cl9DMWVLU2FBY3E1QWNKQ196OXRaeGoyNDlGS2pTaVdlOS1qQVU4cE9wSFhOeGw4QzlEamxnbTBjcFQ5bGgxMVlpZUx0REtidWJfdklGbUl6eEhBbW93ZnNkZXhRWk1vRG9CYVhKVjdSeW40SXpUdU9WazU4V0ptUWdkbXdwbjk2VlZDazIwenEtVWNSNl9QUWdkZmo4QlM5MUhQS0hTMk5QMElzbWdXS1pUOTFaNS1RaTZnTWxVUmtldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-004",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Midwest flooding threatens corn and soybean yields",
+    "summary": "Midwest Crop Report: Heavy August storms brought over 12 inches of rain to Illinois and Indiana, causing lodged crops and saturated fields as farmers monitor harvest prospects.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/midwest-flooding-threatens-corn-and-soybean-yields",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-005",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Get social at Husker Harvest Days",
+    "summary": "Use #HHD26 to share your show experiences on all social media platforms, and follow Farm Progress editors throughout the show.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/get-social-at-husker-harvest-days",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-006",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Switzerland gets right about farm succession",
+    "summary": "Business Basics: Swiss law takes an unusual approach to keeping farms intact and putting agricultural land in the hands of farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/what-switzerland-gets-right-about-farm-succession",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-007",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Don’t overcomplicate diversity: Lean into farming strengths",
+    "summary": "See how this Indiana farming family tapped into their shared skill set to diversify the operation with the tools already available.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/don-t-overcomplicate-diversity-lean-into-farming-strengths",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-008",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Arkansas farmers hope to diversify harvest with sunflowers",
+    "summary": "Through a contract with Seven Sundays cereal company, Adam Chappell and Taylor Herren are growing sunflowers for the first time. They eagerly anticipate harvest, hoping to see greater profits and impr",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/arkansas-farmers-hope-to-diversify-harvest-with-sunflowers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-08-24-009",
+    "date": "2026-08-24",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Discover agronomic champs at new Agronomy Zone",
+    "summary": "Farm Progress Show: Farm Progress has partnered with Brian and Darren Hefty of Ag PhD to create professionally managed research and demonstration plots featuring different seed, nutrient and crop prot",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/discover-agronomic-champs-at-new-agronomy-zone",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-010",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Estate planning: 5 steps for agricultural families",
+    "summary": "Estate planning is crucial for agricultural families, but creating a plan can feel daunting. Extension ag law specialist Tiffany Lashmet offers advice on how to build a living estate plan.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/estate-planning-5-steps-for-agricultural-families",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-011",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hairy vetch shows promise for Palmer amaranth control",
+    "summary": "Nebraska researchers say termination timing is crucial for maximizing benefits for the cash crop.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/weeds/hairy-vetch-shows-promise-for-palmer-amaranth-control",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-012",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Your complete guide to Farm Progress Show services",
+    "summary": "Farm Progress Show: Airport transportation, first aid, lost and found, and other services are available.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/your-complete-guide-to-farm-progress-show-services",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adm-2026-08-23-001",
     "date": "2026-08-23",
     "companies": [
@@ -69,6 +296,24 @@
       {
         "name": "adm",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX1pqcVRsal9SczhFMGFBUmw0djNIUGR6ZkNBYTFHR3lOaGhOc3lIbHNlbnVVU25LamU1N09ZSG5qY1ZHdnFaTFRpeWJ2MDJUUG5BeERFUktnMGt5Qk10QmsyNVFGcHA4M2R3TzcxajAtby16SmtiSkZBMUIyLUZtb0J0YXJIeVI5OHBYanhZV09wbDl2cWF5cnp3V0JEeFRkYlVOZXpQOVR3U2ttV01zYTdfeW5JbXhLTnFXMGdUVHJ6d1RjdjJIWkdNeGR3RGtRTlYwSktPZklZVzl2UFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-23-005",
+    "date": "2026-08-23",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Northwestern Mutual Wealth Management Co. Makes New $10.70 Million Investment in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNMDg3VkNfT0lSakUyS1d6NGMxY2h0Nmkyd2lubEVud1dIaTc1RHcxbGJCYTQ1MjJXbnVHUjlpbEJIYTRiZ0plVFVsUzRsMWdzU0ZFQ05HTkxfMzgtclZPNHZVU2VLbzkwYVVnREVtTW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMDg3VkNfT0lSakUyS1d6NGMxY2h0Nmkyd2lubEVud1dIaTc1RHcxbGJCYTQ1MjJXbnVHUjlpbEJIYTRiZ0plVFVsUzRsMWdzU0ZFQ05HTkxfMzgtclZPNHZVU2VLbzkwYVVnREVtTWljWU9fWWxLZzA1TWgtN3JNR0o2R3B0bHNUdDV1ZFhsdlFNM3dLMDlyZjJaekVXOTkyUmcwVjl4SjF5SndqbnNHa3RVRUVPSlFka0FNc3RyYlZIdkdXalJIUDdiVERBZjBSeFhBRXU4UGpvdFVWbHR2QVAxcng2OVJlOWZFaVBLNS1NRktmVHo5c1hPMGlSOGJGeGRZ?oc=5",
         "type": "rss"
       }
     ]
@@ -263,6 +508,26 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-chapter-tribute-edward-winters",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-22-011",
+    "date": "2026-08-22",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "trade_policy"
+    ],
+    "impact": "neutral",
+    "title": "CNH CFO Says Tariffs Are Eating Into Gains That Should Have Gone to Shareholders - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMW5ZWkx5SzNWcTc3Zy1UYldrVWdqWVVETlRmekh5a190N3JPSExicDZRdXFuYVhnc3ZNR2NWRWJLOHhXM2ZqRWNCNDVCLU9HTjdKNTEzUklVaFZFNl9NN2g3UjZka3dZUDFfblBuT2",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMW5ZWkx5SzNWcTc3Zy1UYldrVWdqWVVETlRmekh5a190N3JPSExicDZRdXFuYVhnc3ZNR2NWRWJLOHhXM2ZqRWNCNDVCLU9HTjdKNTEzUklVaFZFNl9NN2g3UjZka3dZUDFfblBuT2plRmNiTVlyeDhfdDBCS0ZPR1hETC1PNGR6N3lpc2g1V3NvdVVlUG9jNFYtc0FzRXkwelhIc0traTdXd1ZDbVA5S0R6dndoWHRNeEJLUnBUVWdEVFdSTVEwWmRKSFY?oc=5",
         "type": "rss"
       }
     ]
@@ -1770,6 +2035,46 @@
       {
         "name": "sqm",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzVrV3hSUWVDakNaZDZ1ZnM4QldWT01CZk1vTmNyejBZTERhMlRRQXlGYUFpVXRhNzUyWG1iTnVERGtXMnVyOEphTGZxdDByNWk3bVR0eGxGdmMydWx1ZEkwZEVFTmhia1pZcjZUdncwX1NhT1VTWEFsMFZaeUY0Slh0VlY0bUJhTGRkYWZleVVINnp1UGFacXhlekRBNkpOUWdRZmFQd1Bxb21DVnJ5R3gwUTUwclVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-08-20-053",
+    "date": "2026-08-20",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Announces Headquarters for Two Future Companies Following Planned Separation - Eastern Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTXA2bkpFR21ib215b0RNSms3ZzcyWVEwbkNjZXZLTHNMMmZJTzdqa09aVWd6SGp3R05fb2w4eW9fcnh5WW54ZDhCMi1QT1RKSU1PQkM1WDZsTGthaXhSY2RWb1E3ellQblg1RWRPTz",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTXA2bkpFR21ib215b0RNSms3ZzcyWVEwbkNjZXZLTHNMMmZJTzdqa09aVWd6SGp3R05fb2w4eW9fcnh5WW54ZDhCMi1QT1RKSU1PQkM1WDZsTGthaXhSY2RWb1E3ellQblg1RWRPTzRZTHUyNFJmbVVRbUNhRlNodU50X0preWUtWGJlQ202ZTdabENSY25BMTZfU0VReFZ5eUZlQVprbVZsc2pPRHhYZlYwcGxjNnRKdXdLZWZXWksxX2M3cWFzQkNwbHFCZXhabWFBTGpWLTZ5WlJmX3BhUUVPSUJ6MjRNOU4tSUFPcTZtR0I1bmFITG9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-08-20-054",
+    "date": "2026-08-20",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge to Present at Barclays Annual Global Consumer Conference - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjEtRlROQUFLNGo0MjQyTHNPMWRwT0FvQ2hGclE3ZTlGQ0ZIS2RKWXV1Vlp0MXhLUlV0eUU0d1RFYk13aFd2cEp0UzFxMUgwdUo1d3V6T1JiU0s4UkJyNlc2Z1NlaDlNOXdZZzllT0",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjEtRlROQUFLNGo0MjQyTHNPMWRwT0FvQ2hGclE3ZTlGQ0ZIS2RKWXV1Vlp0MXhLUlV0eUU0d1RFYk13aFd2cEp0UzFxMUgwdUo1d3V6T1JiU0s4UkJyNlc2Z1NlaDlNOXdZZzllT0dQN21qaHVnWWhMdjVGSzB0MmRSSDJIY3VhazFRMlpGWXFrdzVUMWwyTXhwOUg1aXAtRk5j?oc=5",
         "type": "rss"
       }
     ]

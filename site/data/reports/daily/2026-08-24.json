@@ -1,0 +1,220 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:35:26.431650Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bunge-2026-08-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global stock holds 2026 gains as quarterly earnings and guidance support outlook - Ad-hoc-news.de",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXRhOVY0R0R2dGE0cl9DMWVLU2FBY3E1QWNKQ196OXRaeGoyNDlGS2pTaVdlOS1qQVU4cE9wSFhOeGw4QzlEamxnbTBjcFQ5bGgxMVlpZUx0REtidWJfdklGbUl6eEhBbW93ZnNkZXhRWk1vRG9CYVhKVjdSeW40SXpUdU9WazU4V0ptUWdkbXdwbjk2VlZDazIwenEtVWNSNl9QUWdkZmo4QlM5MUhQS0hTMk5QMElzbWdXS1pUOTFaNS1RaTZnTWxVUmtldw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-24-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Arkansas farmers hope to diversify harvest with sunflowers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/crops/arkansas-farmers-hope-to-diversify-harvest-with-sunflowers"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-08-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daiichi Life Insurance Co. Ltd. Acquires New Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbWE4N1VueV9vSnQtalN1dEZ0THZ4b29KMzRRZ3V2aUR5MEhTS25yLW1lTTJHNTViYTBsT1NYTjdVMW5Va1pBYnFlSGJFcHBVMDU0WGx1dFY4QUV1ZFlpcHN3a0MwZjhubVM5TnFpOE5TYVNqYjRHN3hyMW5NVDRCNFBKU3M1ZGpIeW44VWxCUGdxNEcyUE1CNGZOMG1pbnN1dkxtWjN3cVNfMzdlUjM0YWxLdFlRdVc2cng1MDlqYzNORjB5S1pnRnZ3Szh4bE5CendhSlV5c29WbHZULWM3Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-08-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of Nova Scotia Purchases Shares of 388,350 Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY1FycTh1RUtCSlpkTFpQZlNjMm1wbTVYRl9uZHAybjViMzJMZk1nemxWQjI0TC1DQnZFTWxBOWNGazRmcXZ1eGl0Z3lSNEdNWmhOdk8zU0g2cUtIZDZqMkcwWHEtOG10Q2ZhZEhtdGF5MDBKc0FicFU1S0F5RjYtdHhEZWloZ0x0MHpNdmp5UkdzVVlWTjlFM2pDay1ZV2VfcXZ5cUo2Y213VDlvSkdfOUJVSUtWVUdobGtkbGZvaVZsSTN2V3dBN3pUSU14blhIRnNsUHROTjdGQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Midwest flooding threatens corn and soybean yields",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/crops/midwest-flooding-threatens-corn-and-soybean-yields"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 208,
+    "too_old": 138,
+    "gate1_blocked": 1,
+    "gate2_blocked": 17,
+    "passed": 16,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Tejara Capital Ltd Purchases New Position in The Mosaic Company $MOS - MarketBeat",
+      "The Mosaic Company (NYSE:MOS): Why Does Its Latest Move Matter Now? - Kalkine Media",
+      "The Mosaic Company Closes $1,000,000,000 5.350% Senior Notes Due 2031, $500,000,000 5.650% Senior No",
+      "Sociedad Química Y Minera De Chile (NYSE:SQM) Following Its Lithium Growth Story And Fair Value Deba",
+      "Sociedad Química y Minera’s Lithium Boom Is Back, But Iodine Steals the Show - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為ADM、Bunge、Nutrien Ltd相關動態：「Bunge Global stock holds 2026 gains as quarterly earnings...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bunge Global stock holds 2026 gains as quarterly earnings and guidance suppor...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Arkansas farmers hope to diversify harvest with sunflowers（種植季節、法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

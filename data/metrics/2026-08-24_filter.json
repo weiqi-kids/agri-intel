@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 1,
+  "gate2_fail": 17,
+  "passed": 16,
+  "gate2_samples": [
+    "Tejara Capital Ltd Purchases New Position in The Mosaic Company $MOS - MarketBeat",
+    "The Mosaic Company (NYSE:MOS): Why Does Its Latest Move Matter Now? - Kalkine Media",
+    "The Mosaic Company Closes $1,000,000,000 5.350% Senior Notes Due 2031, $500,000,000 5.650% Senior No",
+    "Sociedad Química Y Minera De Chile (NYSE:SQM) Following Its Lithium Growth Story And Fair Value Deba",
+    "Sociedad Química y Minera’s Lithium Boom Is Back, But Iodine Steals the Show - The Globe and Mail"
+  ]
+}
