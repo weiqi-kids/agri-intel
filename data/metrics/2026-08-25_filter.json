@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 1,
+  "gate2_fail": 15,
+  "passed": 31,
+  "gate2_samples": [
+    "The Mosaic Company (NYSE:MOS): Why Does Its Latest Move Matter Now? - Kalkine Media",
+    "Sociedad Química y Minera’s Lithium Boom Is Back, But Iodine Steals the Show - Yahoo Finance",
+    "Sociedad Química Y Minera De Chile (NYSE:SQM) Following Its Lithium Growth Story And Fair Value Deba",
+    "Sociedad Química Y Minera De Chile (SQM) Breakout Puts Its Lithium Growth Story And Fair Value In Fo",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Receives Average Recommendation of \"Hold\" from Brokerages "
+  ]
+}

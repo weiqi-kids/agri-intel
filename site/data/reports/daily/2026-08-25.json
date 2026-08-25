@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:29:23.424725Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-25-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Minnesota farmers can sharpen their soil health skills this September",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/soil-health/minnesota-farmers-can-sharpen-their-soil-health-skills-this-september"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tariff Shifts Put These U.S. Industrial Stocks On Retail Investors Watchlists - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEpLTFZBRlB1WE5Jd05ob0xhOXJiQU52Y1ZlNDQ2SWphOFRWR3o3dWYzRzNpUnplN2NsTjZKNlNWUXdyM1lteFFWem12bkUtdjBHRUdPa3R4dndXOVdPQ3N1VGhsRE41bnc3bFpIT0txMFVqTjJhdktCUXZ3YldQazVFR080YnUxNHFKMG12Y1ZkMXpoQm5IMWJBSUVfUXFHdENXX3hoUVFtQzlTR0RzQzFPNDlqQm5FNjZKSFpCYmlkRmVGeTRkSEp6d0tjVWxOWWfSAdIBQVVfeXFMTTRKS0xWQUZQdVhOSXdOaG9MYTlyYkFOdmNWZTQ0NklqYThUVkd6N3VmM0czaVJ6ZTdjbE42SjZTVlF3cjNZbXhRVnptdm5FLXYwR0VHT2t0eHZ3VzlXT0NzdVRobERONW53N2xaSE9LcTBVak4yYXZLQlF2d2JXUGs1RUdPNGJ1MTRxSjBtdmNWZDF6aEJuSDFiQUlFX1FxR3RDV194aFFRbUM5U0dEc0MxTzQ5akJuRTY2SkhaQmJpZEZlRnk0ZEhKendLY1VsTlln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Save money on N applications without sacrificing yield",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/management/save-money-on-n-applications-without-sacrificing-yield"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Year-round E15 could strengthen corn industry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-policy/year-round-e15-could-strengthen-corn-industry"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Compare cutting-edge machinery tech in real time",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-progress-show/compare-cutting-edge-machinery-tech-in-real-time"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "planting_season",
+        "count": 4
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 190,
+    "too_old": 139,
+    "gate1_blocked": 1,
+    "gate2_blocked": 15,
+    "passed": 31,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "The Mosaic Company (NYSE:MOS): Why Does Its Latest Move Matter Now? - Kalkine Media",
+      "Sociedad Química y Minera’s Lithium Boom Is Back, But Iodine Steals the Show - Yahoo Finance",
+      "Sociedad Química Y Minera De Chile (NYSE:SQM) Following Its Lithium Growth Story And Fair Value Deba",
+      "Sociedad Química Y Minera De Chile (SQM) Breakout Puts Its Lithium Growth Story And Fair Value In Fo",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Receives Average Recommendation of \"Hold\" from Brokerages "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為農業產業通用、種植季節、貿易政策相關動態：「Minnesota farmers can sharpen their soil health skills th...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Minnesota farmers can sharpen their soil health skills this September（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tariff Shifts Put These U.S. Industrial Stocks On Retail Investors Watchlists...（貿易政策、農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
