@@ -1,0 +1,198 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:29:33.752768Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-26-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record-breaking bratwurst sells for $6,000 to benefit Wisconsin youth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/record-breaking-bratwurst-sells-for-6-000-to-benefit-wisconsin-youth"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "See latest innovations in irrigation technology",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/husker-harvest-days/see-latest-innovations-in-irrigation-technology"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Beyond the weather: What's really killing your hay yields?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock/beyond-the-weather-what-s-really-killing-your-hay-yields-"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why fall is best window for small-grain weed control",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/weeds/why-fall-is-best-window-for-small-grain-weed-control"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Soil sampling is shifting to data-driven models",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soil-health/soil-sampling-is-shifting-to-data-driven-models"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 180,
+    "too_old": 143,
+    "gate1_blocked": 4,
+    "gate2_blocked": 17,
+    "passed": 31,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "The Mosaic Company (NYSE:MOS): Why Does Its Latest Move Matter Now? - Kalkine Media",
+      "ICL Group validates InvestingPro Fair Value with 62% gain By Investing.com - Investing.com",
+      "Sociedad Química y Minera’s Lithium Boom Is Back, But Iodine Steals the Show - The Globe and Mail",
+      "Sociedad Química Y Minera De Chile (SQM) Breakout Puts Its Lithium Growth Story And Fair Value In Fo",
+      "Sociedad Química Y Minera De Chile (NYSE:SQM) Following Its Lithium Growth Story And Fair Value Deba"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為農業產業通用、種植季節、貿易政策相關動態：「Record-breaking bratwurst sells for $6,000 to benefit Wis...」。主要關注主題為農業產業通用、種植季節、貿易政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Record-breaking bratwurst sells for $6,000 to benefit Wisconsin youth（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "See latest innovations in irrigation technology（種植季節、農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,260 @@
 [
   {
+    "id": "unknown-2026-09-03-001",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Live from Farm Progress Show, Thursday, Sept. 3, 2026",
+    "summary": "Join us live from the Farm Progress Show, streaming all sessions on Thursday, Sept. 3, 2026.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/live-from-farm-progress-show-thursday-sept-3-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-001",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Live from Farm Progress Show, Wednesday, Sept. 2, 2026",
+    "summary": "Join us live from the Farm Progress Show, streaming all sessions on Wednesday, Sept. 2, 2026.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/live-from-farm-progress-show-wednesday-sept-2-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-001",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Live from Farm Progress Show, Tuesday, Sept. 1, 2026",
+    "summary": "Join us live from the Farm Progress Show, streaming all sessions on Tuesday, Sept. 1, 2026.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/live-from-farm-progress-show-tuesday-sept-1-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-001",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "See latest innovations in irrigation technology",
+    "summary": "Husker Harvest Days is the best place for farmers and ranchers who rely on irrigation tech for their crops, forages and livestock.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/see-latest-innovations-in-irrigation-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-002",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Record-breaking bratwurst sells for $6,000 to benefit Wisconsin youth",
+    "summary": "Wisconsin State Fair’s livestock and meat auctions generate nearly $500,000 for 4-H programs and youth exhibitors.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/record-breaking-bratwurst-sells-for-6-000-to-benefit-wisconsin-youth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-003",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beyond the weather: What's really killing your hay yields?",
+    "summary": "Beef Brief: From soil testing to stand evaluation, here are the management strategies that can turn around disappointing hay yields.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock/beyond-the-weather-what-s-really-killing-your-hay-yields-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-004",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Why fall is best window for small-grain weed control",
+    "summary": "Talkin’ Weeds: Dense winter weed populations slow crop development and cut yields. These herbicide strategies deliver more consistent results when applied in fall.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/weeds/why-fall-is-best-window-for-small-grain-weed-control",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-005",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soil sampling is shifting to data-driven models",
+    "summary": "See how you can fine-tune your soil sampling routine to someday align with high-tech models that yield more accurate results.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soil-health/soil-sampling-is-shifting-to-data-driven-models",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-006",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "trade_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ranchers react to Trump’s plan to import beef",
+    "summary": "Concern arises from president’s social media post outlining plan to import more ground beef without out-of-quota tariffs.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/ranchers-react-to-trump-s-plan-to-import-beef",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-007",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to traverse traffic at Farm Progress Show",
+    "summary": "Farm Progress Show: Here's what to know about traffic flow.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/how-to-traverse-traffic-at-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-008",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New weather tech keeps Farm Progress Show visitors safe",
+    "summary": "Farm Progress Show: Here’s how to know what to do if the weather turns bad.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/new-weather-tech-keeps-farm-progress-show-visitors-safe",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-009",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Learn how conservation can enhance your farming operation",
+    "summary": "Ducks Unlimited will connect Husker Harvest Days attendees with resources that support both agriculture and wildlife habitat.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/learn-how-conservation-can-enhance-your-farming-operation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-010",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seana Day innovates at intersection of agriculture and technology",
+    "summary": "Dave Wilson Nursery CEO built bridges for specialty crops and California agriculture that largely didn’t exist before.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/seana-day-innovates-at-intersection-of-agriculture-and-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-011",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wyffels to mark 80th anniversary at opening ceremony",
+    "summary": "Farm Progress Show: Wyffels Hybrids is again sponsoring the opening ceremony each morning, celebrating 80 years as an independent seed company.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/wyffels-to-mark-80th-anniversary-at-opening-ceremony",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-25-001",
     "date": "2026-08-25",
     "companies": [],
@@ -307,6 +562,274 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/husker-harvest-days/free-cancer-screenings-available-at-husker-harvest-days",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-08-25-018",
+    "date": "2026-08-25",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera (NYSE:SQM) Shares Down 3.8% - Here's Why - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPelB1S1VVWFlmN1VSTDctM1psS3NqYzNrNHFteFFTMzVHQkg4a3h3R0otRFN1R0hEWGlKOTRFUUdjZ0dMd09wQ01uMDNFR0RHSkxpQUlfV2hGekFfNFlQVzdPcHpTVVllSUphSV9saG",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPelB1S1VVWFlmN1VSTDctM1psS3NqYzNrNHFteFFTMzVHQkg4a3h3R0otRFN1R0hEWGlKOTRFUUdjZ0dMd09wQ01uMDNFR0RHSkxpQUlfV2hGekFfNFlQVzdPcHpTVVllSUphSV9saGJPaHVYcVNwUzNvNUxwWFhvZ0RKdmI0aFFUcThMNExXTFBONGtxelpzcnVCR2pLWmI1bTh2UThyZ1dlX1p0MGNmcG90SEVFbzJ6UlRv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-08-25-019",
+    "date": "2026-08-25",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equities Analysts Issue Forecasts for SQM FY2026 Earnings - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1FxclA0T0hIeXRrTjZucnI0N2FtWjdKbWtOMU1RTTJsby1CQkhQMlpYeDZ4TzlSX2ZMQ0JFZ3BzRzRlZDdJNnJSNzhLbWhESW9qTzdreG4xOUJOdU1XU1RsckpoRWUtdi1JNEZRQX",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1FxclA0T0hIeXRrTjZucnI0N2FtWjdKbWtOMU1RTTJsby1CQkhQMlpYeDZ4TzlSX2ZMQ0JFZ3BzRzRlZDdJNnJSNzhLbWhESW9qTzdreG4xOUJOdU1XU1RsckpoRWUtdi1JNEZRQXBzam01ZEs1LXJBTVI0QVpLbHBUNnBDX1JFM0ZmSURMREpDZ0tHUzE4SmYzTFdLVkdUci1KYTBxaGVYa1ZQREh1cFo5b181SlRfOEZ1aTZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-020",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blue Point One ushers in the next chapter of Ascension’s industrial boom - Baton Rouge Business Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEhSVEtlTVZUeXRXQThTcTFMUldJVTNOVHdtcEY4X3hHVm90RVQwN0c3R2ZYSktpSDR4OGFWNHFLMkFCU21wX295d28ya2N5WlA5TjhBUW5TSV9JU0Z2bW1pb29lTmhOVmdBS3N6NF",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEhSVEtlTVZUeXRXQThTcTFMUldJVTNOVHdtcEY4X3hHVm90RVQwN0c3R2ZYSktpSDR4OGFWNHFLMkFCU21wX295d28ya2N5WlA5TjhBUW5TSV9JU0Z2bW1pb29lTmhOVmdBS3N6NFNYazlIT3ZZQmJ2cU5rcVY1NWI5Z3QtbE1JY3BBTXVyN282X0RtZXo0aU1lZ1BuU082WFpVaHl2R2JRb3R4OUdGam1YaWRyQdIBvgFBVV95cUxPaEhPenpjOFlRX0hhNUNoakVfWVU2MXVPQUlnN2JIUmtza0FlSmVoMzJBZm5raVB2M0ZoTUFhT2RQYVlRdzBhVFE3WVBMMERRU3hYZHFpZkZObjFPbFFtRVJob1BFS2hvamxLZFZ2S3BhVi1lQ2dQcDlMMjM1dkpJQWlwTkJtX3ZRUnhDazBIWXpmQjJ2V3lzR1dLRWstSmFJbkpaM2ZKc3YxNzlIYVI4bHU0R3U1bm1nS3BPbEZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-021",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chemical sector outlook: commodity names lead in 2026 as valuations diverge - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFV5WXJvT0puVlQtRVFZdERnMEdDTU85ZFRPZ0pzRkFuTDRqN19QTlVOY2RCUFUzMUdLc05GYzBpdGdWc1lMNVpib1I3SlF0RzdKLU5yd1lWYktqaXRWdWlLcE1zRXR2dTlXYWJ1Mn",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFV5WXJvT0puVlQtRVFZdERnMEdDTU85ZFRPZ0pzRkFuTDRqN19QTlVOY2RCUFUzMUdLc05GYzBpdGdWc1lMNVpib1I3SlF0RzdKLU5yd1lWYktqaXRWdWlLcE1zRXR2dTlXYWJ1MnlCVlNnTTl6V0JiVUJ5dHBNV3NFeFBCbUU5RDlwcVYxRll0X0N6QkNodWU5VTEwTHZfQ3FkUUtRdk80VVNaSXE3bGdwVWQ5b1RlUFdjSktJRmhJN0RLWVNnNEM5R25JSzFvODVUTXBqekthbHNC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-08-25-022",
+    "date": "2026-08-25",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arctic upgrades Yara to buy (hold), target price 500 Norwegian kroner (470) - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVjlHZUNoT0hucm10cXRFRmZSNGhna3k3MWw5d3c1NXFnSXB5NUE2YWRpclVtZkpkVEkzS255VG5oRWN6RWh3QzJISy1mSmpORFFYZEo2X0dwdGZ5QzNyTWZsbTRCRFg5MmlqWmFuTE",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVjlHZUNoT0hucm10cXRFRmZSNGhna3k3MWw5d3c1NXFnSXB5NUE2YWRpclVtZkpkVEkzS255VG5oRWN6RWh3QzJISy1mSmpORFFYZEo2X0dwdGZ5QzNyTWZsbTRCRFg5MmlqWmFuTEdaTFUzLXB5VVNaWFdTcTc2U0NzUmpZd05PMkVOZ0NObkhvTzFkVkNhT2lSQ3FLRVY3Q09zZ0E3R216ZmM1TTVGZU9mQllmNWQ5TlFQTVRUbm0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-25-023",
+    "date": "2026-08-25",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cullen Capital Management LLC Buys New Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV01HTGhrWGFZcE9OTzNDRFc4aDNucVA4OEdNcUluanJTVXJ4MTlBeWFyck0zejBRVTRVUkdhaU5KaTlMZ1J1cy1DXzVBMGdQaXpIRWhlSHplaHM4em85c2Fia3ZGWTduZi1LOUVxdy",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV01HTGhrWGFZcE9OTzNDRFc4aDNucVA4OEdNcUluanJTVXJ4MTlBeWFyck0zejBRVTRVUkdhaU5KaTlMZ1J1cy1DXzVBMGdQaXpIRWhlSHplaHM4em85c2Fia3ZGWTduZi1LOUVxdy1fX2tWcDVwRVlkeUYxNUdId1JmN0NBQVpSb20xT0VRallabmFqWm1GZjZFbThCR0hzNnFmcUZFbWNXaEtxODdEdFJ5NXFsZXhTMHFnRE1CX3J3SUhZaTEwbF9Ddk5ZcjgyOW5UNjBndU1PU00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-25-024",
+    "date": "2026-08-25",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "74,515 Shares in Archer Daniels Midland Company $ADM Acquired by OMERS ADMINISTRATION Corp - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3dJTHh3eTJrUzdObjE4Z1hSV3hfWFAxb0poeTZpVjF0NjZJa3hiaWxnbElReGZKVzlwQ0duSG5mXzZzdHNaVnczZTZqcWFxNkR5M0VpQmM4bm5GOWhnVlNkUGlSekFBQmljaWxwRH",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3dJTHh3eTJrUzdObjE4Z1hSV3hfWFAxb0poeTZpVjF0NjZJa3hiaWxnbElReGZKVzlwQ0duSG5mXzZzdHNaVnczZTZqcWFxNkR5M0VpQmM4bm5GOWhnVlNkUGlSekFBQmljaWxwRHYwLUtBc2RoMDJPNlRwLW5VWklHWmJ0SnZQc3F5RWVtaDRRbUN0SnNQU1BJWnotWWM0T0RtNG5YMU5ad2ZKTW4tREU5OHh4UmxfeTE3aHU4QklBUDVkMDZTVVBsVUk5YmVLeHNzYkNxcDlJTmRmMEkyQThwcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-25-025",
+    "date": "2026-08-25",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Van Hulzen Asset Management LLC Makes New Investment in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa0pPeDVvMmNobmpxb0ZJbk83REhTa3hTZjVTeUUyNmt6X3dsTlVhc2U0ZTFoaS1JZmRzQUJBQjc3RE1qVnNsQTJqUzlCSzdsY0d1QWQyR1EwcnFxVGpLbkN4c1N2d1Foa0RkMTlFRC",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa0pPeDVvMmNobmpxb0ZJbk83REhTa3hTZjVTeUUyNmt6X3dsTlVhc2U0ZTFoaS1JZmRzQUJBQjc3RE1qVnNsQTJqUzlCSzdsY0d1QWQyR1EwcnFxVGpLbkN4c1N2d1Foa0RkMTlFRC1kYUJOU0lIVGR5d29CaUI3R3hyR3NmbTNoUHV2Mm1tcVozT1poN1d5Vm1QbXRRQVlzOFk4SEtUdEZMMzZfUkNvSGY2b25zUTA3SklGN0VIR1RuNzJqQVRnQWl5V2Y2MXJ0STVYb2ZtazRqRFh5RzNxNVMxcXBYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-25-026",
+    "date": "2026-08-25",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commerce Bank Buys Shares of 46,175 Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSk9HZXR4ZXpTblB5N3NiZ1I0X2I4TTJvOUJyUDd5OGRFQmlyZ3d3d0RiS01qV0VqQWlzYlNjN2hIMTd1Y0FDbWs3ZG91cHByVmd5QWwwUFhEcmEzZmhBaEhtclhoeGZXeEUzMGd1am",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSk9HZXR4ZXpTblB5N3NiZ1I0X2I4TTJvOUJyUDd5OGRFQmlyZ3d3d0RiS01qV0VqQWlzYlNjN2hIMTd1Y0FDbWs3ZG91cHByVmd5QWwwUFhEcmEzZmhBaEhtclhoeGZXeEUzMGd1amtEY0hxaTBOY3l6SjVsVUVjalNyUmpSN0VYNkNCMm9laWE4OFBQTE8tMXRndFlodG9mWmwyMzhjSUpjbWJCMWtqS0p0bGRSaFh4OW5vaXV0ckVaX0kxOG5ONjlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-25-027",
+    "date": "2026-08-25",
+    "companies": [
+      "adm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cibc World Market Inc. Invests $13.19 Million in Archer Daniels Midland Company $ADM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWkFTX0Z2clNPWVNKX0NUTXJXYkstOUlGRDhsZlp0UHhrM09ZWTBGM2tFeXRwS0NIYU91Y1hSQlNJU0NiVkc3blZTWXVUMGd4T1lETHN0d2JaUXFnUDljTlIzWUZvZmI0NG1jV2F0UV",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWkFTX0Z2clNPWVNKX0NUTXJXYkstOUlGRDhsZlp0UHhrM09ZWTBGM2tFeXRwS0NIYU91Y1hSQlNJU0NiVkc3blZTWXVUMGd4T1lETHN0d2JaUXFnUDljTlIzWUZvZmI0NG1jV2F0UVhfdEw0ZjVQaF9RMjBTaVptMVRUYUNTTkhFVEF2Y19hMWNOOGd6c0JHMkJ6V05mSkhnMWJweDBMZTk5X2dlNkdIeDJJQ1RLcVlLYldRSVpyUVgtWDlFRVNIaDdUaGdWQVRfWW5VeGoxbTY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-08-25-028",
+    "date": "2026-08-25",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial to invest ₹2,000 cr in India by 2030, double tractor manufacturing capacity - ET Manufacturing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQanRqWmxOT3kxTkQ1eGZwa1ZCdFpGTUVxckZ5dmtXN005V1k5Q3pLT3JFN0xHMk5sZ0g1QWNEMUZldVNRV0xRcWZvYmtqcUVILXhvMmhEZUNTWEdPZHlzOFNjT1Y1R1RKR3otVmtHdG",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQanRqWmxOT3kxTkQ1eGZwa1ZCdFpGTUVxckZ5dmtXN005V1k5Q3pLT3JFN0xHMk5sZ0g1QWNEMUZldVNRV0xRcWZvYmtqcUVILXhvMmhEZUNTWEdPZHlzOFNjT1Y1R1RKR3otVmtHdGVZWU9fa1ZENU1XemFMejFFSmRwTlhOQlV0QjZtWGkzT1F4Vzl1N24teWtCbjM0eDdsdG9UNkhpdnk0eTZKN0NLVU5ReHljSkZxNWtLU0RqekZ0VmI1Zm00Tkh2Ql9TUGlreFM5TjRQTnJsZ1E5SG15ZDZmLVM5N09o0gHuAUFVX3lxTE1XMnVNTzc5b2V2YmlvMnZTcFhNRF9mZU9URi02OUpyU0gyS050WjBGcklBbVhmSTZVRzM5Y0lJbHRMaFBSa3hLUXlJX0ViOXpwTGNfYWw5TDR1MzcwSzdidmw0ZTR2d1VLcmdaZW9MU0luNWRFdW5QNUhyQ295VkJQamxyN05oRG1FRG44dHlHLWQ0M3VZWElGem91RUh6WTV3aDF2Z01PbjB3TnN6S2dPMDhLRzZXT2hoemFGOHlzRW82ZnRJSlpLckNtN3N6NEpjMmJjbERsdndETXpLMVUyVnEwYzZGemU0VzZ3YkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-029",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lower-quality ratings gave corn rally a foothold",
+    "summary": "Afternoon Market Recap: Soybean and winter wheat prices were also firm on Tuesday.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-030",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "U.S. farmers pessimistic while Argentine growers optimistic",
+    "summary": "Farm Progress America: New research reveals stark differences in agricultural outlook between the two major grain-exporting nations, with input costs weighing heavily on both.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/u-s-farmers-pessimistic-while-argentine-growers-optimistic",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-031",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Key date in September promises to be a tone-setter for grain markets",
+    "summary": "Morning Market Analysis: Corn futures saw a corrective pullback from three-year highs overnight despite a larger-than-expected drop in weekly crop ratings.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
         "type": "rss"
       }
     ]
@@ -750,6 +1273,47 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/tv-and-radio/trump-beef-import-plan-threatens-cattle-prices-ncba-warns",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-08-24-024",
+    "date": "2026-08-24",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Have Insiders Sold Mosaic Shares Recently? - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGdBTnVwQ1lXRVF5dzlZc24yMUhZOEpHN3doNWJzTC1VTVczQWFjcEl3dFlFNkFLM1NKdUJ1Nm5nalV3VWJJQmdJVkJkZGpSRlhSREh1elZFVUJLcmV5SVR0Zk1ibGM1cXNjVWJiUm",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGdBTnVwQ1lXRVF5dzlZc24yMUhZOEpHN3doNWJzTC1VTVczQWFjcEl3dFlFNkFLM1NKdUJ1Nm5nalV3VWJJQmdJVkJkZGpSRlhSREh1elZFVUJLcmV5SVR0Zk1ibGM1cXNjVWJiUm1VUUNOcVEwYU5uMmRlM2syTlktSmdNNGsxSlhLUFZPUTYtb1dPa2p6Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-08-24-025",
+    "date": "2026-08-24",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q2 Ingredients, Flavors & Fragrances Earnings Review: First Prize Goes to Archer-Daniels-Midland (NYSE:ADM) - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdURTZGxaelpJNEl4OFNuWTFGUTgyNVAzYk0xSnd3X3VnVWxwRjNaT1ZsMDVGT21oYWlURG9ZRFlaTU1kbndhV282X0t6TE1lQWgxdm1CVlpIRHlFaW82TU5RTUlZN25WOTlyZDFyZ0",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdURTZGxaelpJNEl4OFNuWTFGUTgyNVAzYk0xSnd3X3VnVWxwRjNaT1ZsMDVGT21oYWlURG9ZRFlaTU1kbndhV282X0t6TE1lQWgxdm1CVlpIRHlFaW82TU5RTUlZN25WOTlyZDFyZ0pCdTlUM2NINTVveFY0Qkk4QVFJWDhOQ3dVdy1mVjNwVWQzOG1qeTdiOTZGM2dnVWdLOTg2ajBHcVlWRDROeFpncHRmZUkyeTA2YjR5MmdxTERoVVhMbGsxZ1huQ0piaFJ3eGtzMmd0YWk0UnlMV3JTMDdNTFRCSk92WnNuMllhRFBOZw?oc=5",
         "type": "rss"
       }
     ]
@@ -3379,6 +3943,24 @@
       {
         "name": "icl",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kYkJFTW1JYWVSeURNZU9hUzVwWXgzV0djZlRndTV1cGo5Z2FYUzJwalNfSS1CdnFKS295aTF1cFAzOTVJWl9neEpTdzNOcF9xSmtjQWVSRWgxVEpJcWFDOHVFWVE1NzNHaEJTQnRtMUY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-039",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Quimica y Minera Q2 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONDdfLTBrTjJiNWlicHZibVVZLXVWWldSbmhwWFZ4SHd0bGg1SmRzMWtacTZlakxRc1pqUVphZTAxbEgtWjN3bmZlVThJUF9kLTA2ZkdZRGltV3BRR0JNS3Rnc0wtMEdqcmUwOTcwN3",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDdfLTBrTjJiNWlicHZibVVZLXVWWldSbmhwWFZ4SHd0bGg1SmRzMWtacTZlakxRc1pqUVphZTAxbEgtWjN3bmZlVThJUF9kLTA2ZkdZRGltV3BRR0JNS3Rnc0wtMEdqcmUwOTcwN3RfNkVvblRadkMtWnM4ejh6cTlNLXV3ZnBsUXR3RFlIUnZaSS10QnE0SA?oc=5",
         "type": "rss"
       }
     ]

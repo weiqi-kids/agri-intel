@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 4,
+  "gate2_fail": 17,
+  "passed": 31,
+  "gate2_samples": [
+    "The Mosaic Company (NYSE:MOS): Why Does Its Latest Move Matter Now? - Kalkine Media",
+    "ICL Group validates InvestingPro Fair Value with 62% gain By Investing.com - Investing.com",
+    "Sociedad Química y Minera’s Lithium Boom Is Back, But Iodine Steals the Show - The Globe and Mail",
+    "Sociedad Química Y Minera De Chile (SQM) Breakout Puts Its Lithium Growth Story And Fair Value In Fo",
+    "Sociedad Química Y Minera De Chile (NYSE:SQM) Following Its Lithium Growth Story And Fair Value Deba"
+  ]
+}
