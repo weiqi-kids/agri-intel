@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:29:36.140883Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-08-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic responds to plant workers laid off at two Louisiana sites - Unfiltered with Kiran",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTmVtN3hkSnpVbGROTkxNUWxPcEJpakVTeU81OHl2NThnX1lWdS1CWDdOWkhMXy12NS1YeXdaZXhMbnJ2cnhqaWJoc1k0M19uRzAwd3lZdlAwbDdtY19XNUhkQnRzTHpwZW5BTFc2VHhkdTdlZnNVS1V4YmdMYU1qYTdwYnFWTVlxcTRlSkxPYWpudTRs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sqm-2026-08-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Quimica y Minera (NYSE:SQM) Upgraded by Citigroup to Buy Rating - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWU1CYnZjM2JHZE5GSkVNX1BteHdwT2VQanVjc1A0MmZsTWJydDd4bWlkbkR6WFNKV2JpMnRTdzk2a2FMdjB0Zi14LVROMlVzeHlCc3RYLWNnSFVpVWl3OURySU9kY012aXV0QUs4eGh5bEhraHBkLS1zZFhDbHg5ejBhUHVFbkc2Sk9sT2pJdHhjcVBUQnNKMW1Wbl9iZ2ozS1lPemJfTy1feU5takVnazI3dHJOZUc1NjBtekpEOWRHek5mX2FoTnhYOHM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intrepid-2026-08-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Makes Intrepid Potash (IPI) a Strong Momentum Stock: Buy Now? - Yahoo Finance",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDB0NkZuWEs4UnVHeHRIck9FRnZuOGZBemdfS2NseWd4bHNiVU1PNS0wbVZveG1ueHVydGJZM1UwVnVCdjdyX1hUZkdwRDNwWkJNVTJ1NWU0WWtWbW5WdW5ieEZoT1BtTjd3RHRNcUo5VWNnM2JvajlheE5Yc3Nla21IQWMzLXJQdlY4RHNuWFRfWEZ1SHFVSWtlaENnQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-08-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries & Partners Break Ground on Low-Carbon Ammonia Plant - Yahoo! Finance Canada",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1ppck05VjJCcEJ2c2sxeVJQWFhKWTdJY1gzdXNteWhudmF6VVJQYkxPaVNUQnNacXk4UjVtRnpaTXI2ZmtURHFTTlBRMEpzM29NNXRUVVlqZ2dTd2N1OVRuaWZHdDVLUDdyRk1HRjF6Tjh3QWlRYmpjU3R3cmFIdVRudFI1WjVIbW5ZRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "$3.7B Louisiana ammonia plant breaks ground - New Orleans CityBusiness",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanVVYl9LN0hxUHVZWl85WmhlQ2ZwZEVkZV9HS0Q0Tm5KYVFHb1BsZV9leUxZZkxoQ0lhWVR2OVZybkNBWWJYSXVCRU1MUVhqbTFYQlNURE1tU0pFWGRQTUtpeVZRSVhldEVyMWlfUlJ2OHV2QS1lMHhwNzFUX3lvREdUY3NtMk9XaHlDd3Z4UlJGOVk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 28,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 7
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "intrepid",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 172,
+    "too_old": 136,
+    "gate1_blocked": 1,
+    "gate2_blocked": 15,
+    "passed": 53,
+    "pass_rate": "25.9%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Mosaic cuts Louisiana workforce at two facilities amid sulfur supply shortage - WBRZ",
+      "The Mosaic Company (NYSE:MOS): Why Does Its Latest Move Matter Now? - Kalkine Media",
+      "ICL Group validates InvestingPro Fair Value with 62% gain By Investing.com - Investing.com",
+      "Sociedad Química y Minera’s Lithium Boom Is Back, But Iodine Steals the Show - Yahoo Finance",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Receives Average Recommendation of \"Hold\" from Brokerages "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為CF、ADM、Mosaic相關動態：「Mosaic responds to plant workers laid off at two Louisian...」。主要關注主題為農業產業通用、種植季節、天然氣原料，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mosaic responds to plant workers laid off at two Louisiana sites - Unfiltered...",
+        "level": "green"
+      },
+      {
+        "text": "Sociedad Quimica y Minera (NYSE:SQM) Upgraded by Citigroup to Buy Rating - Ma...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 1,
+  "gate2_fail": 15,
+  "passed": 53,
+  "gate2_samples": [
+    "Mosaic cuts Louisiana workforce at two facilities amid sulfur supply shortage - WBRZ",
+    "The Mosaic Company (NYSE:MOS): Why Does Its Latest Move Matter Now? - Kalkine Media",
+    "ICL Group validates InvestingPro Fair Value with 62% gain By Investing.com - Investing.com",
+    "Sociedad Química y Minera’s Lithium Boom Is Back, But Iodine Steals the Show - Yahoo Finance",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Receives Average Recommendation of \"Hold\" from Brokerages "
+  ]
+}
