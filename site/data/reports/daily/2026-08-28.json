@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:44:31.887763Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-08-28-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ADM (ADM) Stock Looks Below Fair Value On Cash Flow, Above Fair Value On Earnings - Yahoo Finance Australia",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRVFTZ3NXWU41bk1EeUEteVhkSFdSNTlnaG1hN0djQ2F0WjBhSmpKX1R0YUkyVnppQUpRTDNZUXhNOTZoemhTM0FWMFZOdkxNVWpfWmNnQTZjQzhmaV8zc1JIdmhkalI2QjRrYWFVX3VhdjhPakFPMTZTS2hhSU0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-28-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Livestock pack profit, land stewardship into just 280 acres",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-operations/livestock-pack-profit-land-stewardship-into-just-280-acres"
+    },
+    {
+      "rank": 3,
+      "event_id": "mosaic-2026-08-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic declares $0.22 quarterly dividend per share By Investing.com - Investing.com Australia",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdTRyaU5QQjAwLXdNYURsVFAxcXB1dXZaWDhuQVY5X3ZNM0cxNEU1R2tZRV9sb29KbE5nb2w3eGRjb1Y4elZUcDhQVWYwbzVraTVBWkxCLXR4WnBZWGFHRmRjQ1Rfc1R3ZU5NVVRXV0VGUE1WbmJNeFpNWHNqVTJlX2VFc2hFU1hDRDFnZENjZWhtc2pnd2xEYW40aVJjS0c4RlBVdTA0eE1zVHg5emxyZWtlVEdCNmJ4dDBrQ0R3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sqm-2026-08-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Quimica y Minera S.A. Declares Special Dividend of $1.44 (NYSE:SQM) - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnBZbEJWaDZmZ1pZVEQ5S1pyZ0g2OHo4X0ptOVVObHltY2tSTTRBd2JTUzJoZ1JvSEhtd0ZiYUt6Sl96WlB1TlZYazdxa0wxWURYOVAxV25uLW05aFhaSUdYdWNHOTloQmY0NnRCenhrQlRHVWhNUmJ5RlhzR2laLVBtT1pkRW5YX1ZOdUdoZFFfV2I4TTkzUlVGOFY2ZThwbTlhb0hzenZYRG1iaUZtUUN3TV9NNVVnTTJRclhWQjJieUNtLVo2VHV1YUVodw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sqm-2026-08-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Quimica y Minera (NYSE:SQM) Given New $94.00 Price Target at JPMorgan Chase & Co. - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3hXUVNVd0VxMnltelg1cGRIckl6RDlTcEcydm0tdzJOMUZYcmh1aHdYb3A2UVZ4VVY4cGpSem95dGVuUnhlRXJQRzZsZV9XVDBHZDF3WlFEMFlDU0RMRExTc19tYkV4SFFJZ0tfSGZjMm5fQkVmLVlYWFpTQUR5T1JCc196Vk5qeW5ZeVVBcDNDWVRScHByb3BGMjloSWNYLUMwYVRDRmw1Q1lNb0M5bjVVQ25aY1pFd3ZzcTctYndFUnlYM3VFYndYeUo4OFhRRXFKSi1CbjNMRlFCUlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 3
+      },
+      {
+        "id": "sqm",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 181,
+    "too_old": 131,
+    "gate1_blocked": 6,
+    "gate2_blocked": 18,
+    "passed": 41,
+    "pass_rate": "20.9%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Mosaic cuts Louisiana workforce at two facilities amid sulfur supply shortage - WBRZ",
+      "ICL Group validates InvestingPro Fair Value with 62% gain By Investing.com - Investing.com",
+      "Sociedad Química y Minera de Chile: Staying On The Sidelines (NYSE:SQM) - Seeking Alpha",
+      "Sociedad Quimica y Minera S.A. (NYSE:SQM) Receives Average Recommendation of \"Hold\" from Brokerages ",
+      "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為CF、SQM、ADM相關動態：「ADM (ADM) Stock Looks Below Fair Value On Cash Flow, Abov...」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ADM (ADM) Stock Looks Below Fair Value On Cash Flow, Above Fair Value On Earn...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Livestock pack profit, land stewardship into just 280 acres（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

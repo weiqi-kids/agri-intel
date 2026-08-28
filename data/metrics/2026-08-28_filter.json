@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 6,
+  "gate2_fail": 18,
+  "passed": 41,
+  "gate2_samples": [
+    "Mosaic cuts Louisiana workforce at two facilities amid sulfur supply shortage - WBRZ",
+    "ICL Group validates InvestingPro Fair Value with 62% gain By Investing.com - Investing.com",
+    "Sociedad Química y Minera de Chile: Staying On The Sidelines (NYSE:SQM) - Seeking Alpha",
+    "Sociedad Quimica y Minera S.A. (NYSE:SQM) Receives Average Recommendation of \"Hold\" from Brokerages ",
+    "Are Investors Undervaluing Yara International ASA (YARIY) Right Now? - Yahoo Finance"
+  ]
+}
