@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 5,
+  "gate2_fail": 16,
+  "passed": 12,
+  "gate2_samples": [
+    "Over 200 Mosaic employees laid off at two facilities amid sulfur supply shortage - WBRZ",
+    "Mosaic cuts Louisiana workforce at two facilities amid sulfur supply shortage - WBRZ",
+    "ICL Group validates InvestingPro Fair Value with 62% gain By Investing.com - Investing.com",
+    "Sociedad Química y Minera de Chile: Staying On The Sidelines (NYSE:SQM) - Seeking Alpha",
+    "CF Industries (NYSE:CF) Shows High Growth Momentum and Breakout Setup - ChartMill"
+  ]
+}

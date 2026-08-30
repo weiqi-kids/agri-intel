@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-30",
+  "date_range": {
+    "start": "2026-08-24",
+    "end": "2026-08-30"
+  },
+  "generated_at": "2026-08-30T13:24:31.820823Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "bunge-2026-08-24-003",
+      "date": "2026-08-24",
+      "title": "Bunge Global stock holds 2026 gains as quarterly earnings and guidance support outlook - Ad-hoc-news.de",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 98,
+      "last_week": 65,
+      "week_over_week_change": "+51%",
+      "sentiment_this_week": 0.01
+    },
+    "earnings": {
+      "this_week": 5,
+      "last_week": 7,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.2
+    },
+    "planting_season": {
+      "this_week": 13,
+      "last_week": 14,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.04
+    },
+    "trade_policy": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "natural_gas_feedstock": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "adm": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "bunge": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nutrien": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "mosaic": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "sqm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "intrepid": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cf_industries": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cnhi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "yara": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 190,
+        "last": 201,
+        "change_pct": -5.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-24",
+      "event_count": 26,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 34,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 35,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 51,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 31,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-24 ~ 2026-08-30）共 190 則事件，重點為「Bunge Global stock holds 2026 gains as quarterl...」。農業產業通用、種植季節、法說會為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "ADM",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Bunge",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "SQM",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
