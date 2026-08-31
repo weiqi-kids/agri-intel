@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-31",
+  "total_events": 21,
+  "by_company": {
+    "nutrien": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cf_industries": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "yara": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "oci": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cnhi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deere": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": -0.04
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": -0.11
+    },
+    "crop_price": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
