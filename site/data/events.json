@@ -73,6 +73,324 @@
     ]
   },
   {
+    "id": "unknown-2026-09-01-002",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soybean quality goes down, prices go up",
+    "summary": "Morning Market Analysis: Corn and winter wheat prices also test gains ahead of Tuesday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-003",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "U.S.-Mexico cheese trade dispute threatens dairy exports",
+    "summary": "Farm Progress America: American dairy producers face potential losses as Mexico's EU trade deal restricts common cheese names, putting $1 billion in annual exports at risk.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/u-s-mexico-cheese-trade-dispute-threatens-dairy-exports",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deere-2026-09-01-004",
+    "date": "2026-09-01",
+    "companies": [
+      "deere"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "John Deere’s new AI assistant can analyze farm data",
+    "summary": "JD, embedded in Operations Center, helps farmers make sense of field data through conversational artificial intelligence.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/john-deere-s-new-ai-assistant-can-analyze-farm-data",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-005",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Case IH tech at the Farm Progress Show",
+    "summary": "Two key precision technologies — Active Implement Guidance and SenseApply — are on display at the show.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/new-case-ih-tech-at-the-farm-progress-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-006",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Louisiana facility could radically change U.S. fertilizer market",
+    "summary": "CHS and OCP North America have broken ground on a phosphate fertilizer plant near New Orleans — the first in the nation in over 40 years — that could reduce import dependence by 60%.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/new-louisiana-facility-could-radically-change-u-s-fertilizer-market",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-007",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5 ag tech startups you can’t miss at Husker Harvest Days",
+    "summary": "The Husker Harvest Ag Tech Pavilion is your one-stop shop for the cutting-edge technology coming soon to a farm near you.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/5-ag-tech-startups-you-can-t-miss-at-husker-harvest-days",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-008",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "August moisture saves season for Ohio grower",
+    "summary": "Field Snapshot: Wheat harvest was disappointing, but Seneca County farmer Bryce Kirian is optimistic after rain boosted corn and soybean prospects.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/august-moisture-saves-season-for-ohio-grower",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-009",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Recent farmland sales reaffirm buyer preferences",
+    "summary": "Land Sales: Flat, open land is usually preferred by farmland buyers in the Midwest, and those parcels are priced accordingly.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/recent-farmland-sales-reaffirm-buyer-preferences",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-010",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "trade_policy",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "What do Canada’s tariffs mean for your milk check?",
+    "summary": "Ag Marketing IQ: Milk production climbs 2.2% as the dairy herd hits 9.71 million head, but Canada’s new 50% tariffs and rising grain costs create uncertainty for already pressured prices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/what-do-canada-s-tariffs-mean-for-your-milk-check-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-011",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois harvest outlook: Expect early crops, short windows",
+    "summary": "For many Illinois farmers, especially in central Illinois, crops are running ahead of schedule. Here’s a look at how the weather has affected that, plus what to expect during harvest.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/illinois-farmers-face-compressed-harvest-windows-as-el-nio-brings-wetter-fall-despite-early-crop-maturity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-012",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Missouri farm girl finds her voice",
+    "summary": "Agri-Ready Profile: Public speaking contests, FFA and a family dairy farm helped Sophie Geppert build the confidence to become an advocate for agriculture.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock-and-dairy/missouri-farm-girl-finds-her-voice",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-013",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Start the farm succession conversation",
+    "summary": "Figuring out how to transition the farm is a shared concern among the senior generation of farmers. See how these farmers have kickstarted the process.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/start-the-farm-succession-conversation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-09-01-014",
+    "date": "2026-09-01",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why this dairy farmer spreads manure days before corn harvest",
+    "summary": "Autonomous manure spreading allows Paul Mason to apply nutrients when his crops need it, not just when it's convenient.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock-and-dairy/why-this-dairy-farmer-spreads-manure-days-before-corn-harvest",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-015",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3,700-acre organic farm thriving despite tough spring",
+    "summary": "Field Snapshot: From rotary hoes to lightning-like weed zappers, Luke Ewald's farm uses innovative mechanical methods to control weeds and maximize yields.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/organic/3700-acre-organic-farm-thriving-despite-tough-spring",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-016",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Antique tractors still make perfect furrows for these plow wizards",
+    "summary": "Slideshow: A Wisconsin antique tractor club is keeping an old farming tradition alive by bringing multiple generations together for a day of plowing, storytelling and fun.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/antique-tractors-still-make-perfect-furrows-for-these-plow-wizards",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-017",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Pistachio Growers names new chief executive",
+    "summary": "As president and CEO, Mike Forbes will represent American pistachio growers and processors while working to increase domestic and international demand for the product.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/american-pistachio-growers-names-new-chief-executive",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-018",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soil health benefits take time to build",
+    "summary": "Think about the long term when considering soil health practices for your farm. Results won’t be easily measurable, but their impact is invaluable.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soil-health/soil-health-benefits-take-time-to-build",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nutrien-2026-08-31-001",
     "date": "2026-08-31",
     "companies": [
