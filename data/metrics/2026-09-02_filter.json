@@ -1,0 +1,16 @@
+{
+  "total_raw": 366,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 4,
+  "gate2_fail": 17,
+  "passed": 51,
+  "gate2_samples": [
+    "Conservation Partners & Mosaic Company Deliver Scrub-jay Win - Osprey Observer",
+    "Mosaic cuts Louisiana workforce at two facilities amid sulfur supply shortage - WBRZ",
+    "Over 200 Mosaic employees laid off at two facilities amid sulfur supply shortage - WBRZ",
+    "Public Employees Retirement System of Ohio Invests $8.87 Million in Sociedad Quimica y Minera S.A. $",
+    "Is CF Industries Holdings (CF) Fully Valued Following Its Blue Point One Groundbreaking? - simplywal"
+  ]
+}
