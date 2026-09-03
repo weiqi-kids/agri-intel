@@ -1,0 +1,14 @@
+{
+  "total_raw": 120,
+  "dup_title": 59,
+  "no_date": 0,
+  "too_old": 29,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 28,
+  "gate2_samples": [
+    "DNB Carnegie Downgrades Yara International to Sell, Reduces PT - marketscreener.com",
+    "Baird Upgrades CNH Industrial to Outperform From Neutral, Adjusts PT to $15 From $11 - Moomoo",
+    "Baird Upgrades CNH Industrial to Outperform From Neutral, Adjusts PT to $15 From $11 - marketscreene"
+  ]
+}

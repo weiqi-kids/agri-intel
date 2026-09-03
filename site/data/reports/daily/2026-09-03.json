@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:20:19.677675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cnhi-2026-09-03-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Evercore ISI Upgrades CNH Industrial to Outperform From In Line, Adjusts Price Target to $18 From $12.50 - marketscreener.com",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOGZhRFB5ZHVOUjloMXRydzRMTzVyUXBwRjIwdW1zUGNXUkZ6RjNfbk9aUEZOWXJuaFl0eHlNSTFITVRDN2lzSnNTYlpaNXIzM2dBZl9PYUJudllYMVd3NEdsdnlEVHVvbzFycHlfWFRpelBrSnVrVmxpN1Zjc0RCUnlhbDJuMDlGb1RadW9yX1Y5SDFoV0pIRlN0b1JSbzZHVzVlZ1l3WVBhVG8zS2wwb1F2UjRjLS04Rk5PWEJlZGF1aGhRd3gwdEtmLVcwWDV4VTJwLXJQTEFjcHhOVUFNalNJRWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Live from Farm Progress Show, Thursday, Sept. 3, 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-progress-show/live-from-farm-progress-show-thursday-sept-3-2026"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Search for sustainable water leads Texas farmers out of state",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/cotton/search-for-sustainable-water-leads-texas-farmers-out-of-state"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Unique high school class mixes culinary skills and agriculture",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-operations/unique-high-school-class-mixes-culinary-skills-and-agriculture"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 farmers, 3 paths to better soil health",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soil-health/3-farmers-3-paths-to-better-soil-health"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 120,
+    "dup_title": 59,
+    "too_old": 29,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 28,
+    "pass_rate": "45.9%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "DNB Carnegie Downgrades Yara International to Sell, Reduces PT - marketscreener.com",
+      "Baird Upgrades CNH Industrial to Outperform From Neutral, Adjusts PT to $15 From $11 - Moomoo",
+      "Baird Upgrades CNH Industrial to Outperform From Neutral, Adjusts PT to $15 From $11 - marketscreene"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為CNH相關動態：「Evercore ISI Upgrades CNH Industrial to Outperform From I...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Evercore ISI Upgrades CNH Industrial to Outperform From In Line, Adjusts Pric...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Live from Farm Progress Show, Thursday, Sept. 3, 2026（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
