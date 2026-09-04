@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 3,
+  "gate2_fail": 15,
+  "passed": 49,
+  "gate2_samples": [
+    "Over 200 Mosaic employees laid off at two facilities amid sulfur supply shortage - WBRZ",
+    "Sociedad Química y Minera de Chile: Staying On The Sidelines (NYSE:SQM) - Seeking Alpha",
+    "CF Industries (CF) Chief Accounting Officer Richard A. Hoker Ann - GuruFocus",
+    "CF Industries: Still Misunderstood, Still Undervalued - Seeking Alpha",
+    "Is CF Industries Holdings (CF) Fully Valued Following Its Blue Point One Groundbreaking? - simplywal"
+  ]
+}
