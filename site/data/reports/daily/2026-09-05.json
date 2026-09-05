@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:28:02.066678Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-05-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Farm tech outperforms humans through consistency, not skill",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/farm-tech-outperforms-humans-through-consistency-not-skill"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-09-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company (NYSE:ADM) Receives Average Rating of \"Hold\" from Brokerages - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU0hfbHRkaWU1UVQ2MzZGTDFKX3BCRG42QkRFSlpiUW9rV1QyOTJSWFhYNGMyY3hjWXlQaTNtVG1RNDRORkZZT0ZMMUxsTzhyUFg0SEFPSHhnM1FGbVd0Nll0ejJHa3ZYR1I1YTlldHJKQ0pYQ29sUjUxdlc5ZHJpREF1WnlCcm9LUnNDSy1sODVuYTFBZ2hGd1Q5ZjNDS3V6WjRuVE90N2YzUW9BVEQ3R0h4RThuT2R1Ql92YXVTOUU5MTVwbENDZ2VQZy1zcXo2QjBCTFR0b1RQcHMwVG5OOFZ3T2g2UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-09-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Travelers Companies, Virtu Financial, Paycom Software and The Allstate - Zacks Investment Research",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdUMwbUxMZERFX2w3SHhheUVETzQ5Qm9mdGZFZE9FcHBBTzVKc0JUSUFXN2ppTUFPT1FMRGN5dlNtVmd5UndqTlJFR0J4a2k4bW9sV1BSY1ZLeldCUGNPZlg5aE9EUHZhRHNPOHpzbkRKR1pILVBRZkVBeldRZWF2eVoxd2wtSUpleHBhNjFleUpzQzNXVTY5U0JJYVhpZWtJR1BrMW0tcm5pYV96RnJ4bENtN09WZEw4SEx3czdzQ3pJbDhwMThWMUVVT1JERWlCZlk0ZzBKM3FOZzFIOTdsN2hZRDdGVFluaGxDdFp6VUk1RDQzd1FMQlk2OThsekhfVHB0bWljMElhMlBydjkxY0djdWdmWHhzUzBtR0Y0NnVXV3ZvVW55bmtn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adm-2026-09-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Munich Reinsurance Co Stock Corp in Munich Cuts Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSFptdVZLT1hLSUN1SFRJRy1CSjJDRlo1bnRTS3pqQ2FaejhTWnY5cHRhQ0RaeWlIbkRESURibE9wUFVxZXg5VGpjaVJIMVJqZDFtcGxtZHhYQ2JwZHVLRzhkRDl3cmQxVmRXZk1vU3lHQnk0X2dvS0UxRHI0VmVORUxZZEtlZmJFSmJpanlLMnZqTnNLNWZQREl0NmFFNHg3QkhUbXFLS1JzS2RXaEhSakRLVXpFZDRsZ2V1dE5oYmtvc3VaMVRocEd4cS0wekFaNk1GX050ZFJ2RHg2cF8ycC1NcjBpZVhhVFBR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-09-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "B. Metzler seel. Sohn & Co. AG Has $3.15 Million Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVBTcEw3cnNtUS1vb2Jqc1Rud1dYaE1RWWhoZjV1eTFrSHJIdWxfTnRSOEtndjhtaS16UjBqSGd5QzZDMVo2WWRManVXT1VRQll1VXlZejl4Ymh3aC1RdHhsWDhzVEJYUzdHUFBKZ24weEtyM25OQzkwTGJiZWhQUnJ5dmV1anhpZmpBMDRyblFCR0gwbHZubjBPU0pVSDB3TkU0eGE0M2F0SmYzeTFmSjVrM3haQTFEMFowcVBkdURMYmptdXRBaUh2X0FLMnEyRnItMllsclJEUG5udG9R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 182,
+    "too_old": 138,
+    "gate1_blocked": 4,
+    "gate2_blocked": 10,
+    "passed": 35,
+    "pass_rate": "18.7%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Public Employees Retirement System of Ohio Invests $8.87 Million in Sociedad Quimica y Minera S.A. $",
+      "CF Industries: Still Misunderstood, Still Undervalued - Seeking Alpha",
+      "Is CF Industries Holdings (CF) Fully Valued Following Its Blue Point One Groundbreaking? - simplywal",
+      "CF Industries (NYSE:CF) Exhibits Technical Strength and Bull Flag Breakout Setup - ChartMill",
+      "CF Industries (CF) Chief Accounting Officer Richard A. Hoker Ann - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為ADM相關動態：「Farm tech outperforms humans through consistency, not skill」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Farm tech outperforms humans through consistency, not skill（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Archer Daniels Midland Company (NYSE:ADM) Receives Average Rating of \"Hold\" f...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
