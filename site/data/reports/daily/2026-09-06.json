@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:49:01.917757Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-09-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TD Waterhouse Canada Inc. Has $7.83 Million Stake in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYXpVbDd0ck1acTRsLXhzc3dIakE1OGMzcVBzMUNhbGQ4WGxhYzk1akh5YS1WUlFzNnB6YmM3YUhETF80ZTEyQmtOTk45VWVXUy1vNUY1SzFqZkJtREdPQmZLekk2MG02bElFaE9hOXdoWkJOSzkzUU9DeUVTbE9pa2NtdndGajhOMDVOalpqZ3pIemVxcmJHMzZWTmJTeEJSZTZENFRYZFFldnBGY25BYW43UzNTRm5kUmtvWG9paFNGajNXVkQ5em1MdVhqaEs2dko2N3RLN1JjQ0V4SEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 194,
+    "too_old": 147,
+    "gate1_blocked": 5,
+    "gate2_blocked": 12,
+    "passed": 14,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Public Employees Retirement System of Ohio Invests $8.87 Million in Sociedad Quimica y Minera S.A. $",
+      "CF Industries: Still Misunderstood, Still Undervalued - Seeking Alpha",
+      "CF Industries (NYSE:CF) Exhibits Technical Strength and Bull Flag Breakout Setup - ChartMill",
+      "CF Industries (CF) Chief Accounting Officer Richard A. Hoker Ann - GuruFocus",
+      "Is CF Industries Holdings (CF) Fully Valued Following Its Blue Point One Groundbreaking? - simplywal"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為ADM相關動態：「TD Waterhouse Canada Inc. Has $7.83 Million Stake in Arch...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "TD Waterhouse Canada Inc. Has $7.83 Million Stake in Archer Daniels Midland C...",
+        "level": "green"
+      },
+      {
+        "text": "ADM為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

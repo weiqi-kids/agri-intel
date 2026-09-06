@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 5,
+  "gate2_fail": 12,
+  "passed": 14,
+  "gate2_samples": [
+    "Public Employees Retirement System of Ohio Invests $8.87 Million in Sociedad Quimica y Minera S.A. $",
+    "CF Industries: Still Misunderstood, Still Undervalued - Seeking Alpha",
+    "CF Industries (NYSE:CF) Exhibits Technical Strength and Bull Flag Breakout Setup - ChartMill",
+    "CF Industries (CF) Chief Accounting Officer Richard A. Hoker Ann - GuruFocus",
+    "Is CF Industries Holdings (CF) Fully Valued Following Its Blue Point One Groundbreaking? - simplywal"
+  ]
+}
