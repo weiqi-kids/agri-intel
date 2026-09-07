@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 6,
+  "gate2_fail": 12,
+  "passed": 16,
+  "gate2_samples": [
+    "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - marketbeat.com",
+    "Public Employees Retirement System of Ohio Invests $8.87 Million in Sociedad Quimica y Minera S.A. $",
+    "CF Industries: Still Misunderstood, Still Undervalued - Seeking Alpha",
+    "CF Industries (CF) Chief Accounting Officer Richard A. Hoker Ann - GuruFocus",
+    "Is CF Industries Holdings (CF) Fully Valued Following Its Blue Point One Groundbreaking? - simplywal"
+  ]
+}
