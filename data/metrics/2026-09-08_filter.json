@@ -1,0 +1,16 @@
+{
+  "total_raw": 374,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 8,
+  "gate2_fail": 16,
+  "passed": 24,
+  "gate2_samples": [
+    "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+    "CF Industries: Still Misunderstood, Still Undervalued - Seeking Alpha",
+    "CF Industries (CF) Chief Accounting Officer Richard A. Hoker Ann - GuruFocus",
+    "Yara International (OB:YAR) Dropped, So What Is Driving Attention Now? - Yahoo Finance"
+  ]
+}

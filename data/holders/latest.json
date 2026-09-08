@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:46:38.470204+00:00",
+  "updated_at": "2026-09-08T12:22:06.699603+00:00",
   "companies": {
     "nutrien": {
       "name": "Nutrien",
@@ -211,61 +211,61 @@
           "holder": "ADVISORS' INNER CIRCLE FUND II-KOPERNIK GLOBAL ALL-CAP FUND",
           "shares": 4499001,
           "pct_held": 2.51,
-          "value": 75943133
+          "value": 77697749
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 2589028,
           "pct_held": 1.45,
-          "value": 43702790
+          "value": 44712514
         },
         {
           "holder": "FlexShares TRT-FlexShares Morningstar Global Upstream Natural Resource",
           "shares": 1815005,
           "pct_held": 1.01,
-          "value": 30637282
+          "value": 31345137
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 1734364,
           "pct_held": 0.97,
-          "value": 29276062
+          "value": 29952467
         },
         {
           "holder": "ADVISORS' INNER CIRCLE FUND II-KOPERNIK INTERNATIONAL FUND",
           "shares": 1398096,
           "pct_held": 0.78,
-          "value": 23599859
+          "value": 24145118
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 1292907,
           "pct_held": 0.72,
-          "value": 21824269
+          "value": 22328504
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 828564,
           "pct_held": 0.46,
-          "value": 13986159
+          "value": 14309300
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Continental Small Company Series",
           "shares": 751775,
           "pct_held": 0.42,
-          "value": 12689961
+          "value": 12983154
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 665788,
           "pct_held": 0.37,
-          "value": 11238500
+          "value": 11498159
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 670089,
           "pct_held": 0.37,
-          "value": 11311101
+          "value": 11572437
         }
       ]
     },
@@ -479,7 +479,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1314,
           "pct_held": 0.0,
-          "value": 601155
+          "value": 614295
         }
       ]
     },
@@ -492,61 +492,61 @@
           "holder": "DAVIS NEW YORK VENTURE FUND INC-Davis New York Venture Fund",
           "shares": 1822154,
           "pct_held": 0.86,
-          "value": 7489053
+          "value": 7478120
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 1486007,
           "pct_held": 0.7,
-          "value": 6107488
+          "value": 6098572
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 948281,
           "pct_held": 0.45,
-          "value": 3897435
+          "value": 3891745
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 747581,
           "pct_held": 0.35,
-          "value": 3072558
+          "value": 3068072
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 421280,
           "pct_held": 0.2,
-          "value": 1731460
+          "value": 1728933
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 377622,
           "pct_held": 0.18,
-          "value": 1552026
+          "value": 1549760
         },
         {
           "holder": "SCHWAB STRATEGIC TRT-Schwab Fd.amental Intl Small Eqy. ETF",
           "shares": 319484,
           "pct_held": 0.15,
-          "value": 1313079
+          "value": 1311162
         },
         {
           "holder": "Thornburg Income Builder Opportunities Trust",
           "shares": 279469,
           "pct_held": 0.13,
-          "value": 1148617
+          "value": 1146940
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard European Stock Index Fd.",
           "shares": 249151,
           "pct_held": 0.12,
-          "value": 1024010
+          "value": 1022515
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
           "shares": 219713,
           "pct_held": 0.1,
-          "value": 903020
+          "value": 901702
         }
       ]
     },
@@ -961,7 +961,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 7810,
           "pct_held": 0.0,
-          "value": 22781770
+          "value": 21785995
         }
       ]
     }

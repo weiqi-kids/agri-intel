@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:22:07.315320Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-08-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Brace for more turbulence in cattle markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/brace-for-more-turbulence-in-cattle-markets"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-08-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "9 smart phosphorus strategies to protect your bottom line",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/crops/9-smart-phosphorus-strategies-to-protect-your-bottom-line"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-08-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Arkansan leading USDA food safety talks agency’s biggest challenges, solutions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/names-in-the-news/arkansan-leading-usda-food-safety-talks-agency-s-biggest-challenges-solutions"
+    },
+    {
+      "rank": 4,
+      "event_id": "sqm-2026-09-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Quimica y Minera S.A. $SQM Shares Sold by RWC Asset Advisors US LLC - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOHNsTXExaUdvc2NzSEUxUnItekpqY1h5ZXFGa0IyMmEtcU54TkFidWkwMTVoLTVFWW5MNERoZ0hhaDdLWjZMRFowa09SNzdVS2UtbFlhOUlNUG14T1Q0anRkRHhycnpiajdxRDZRTmhRSE9STjBSUUFmbm5mUUtyVDN1S0VfNUZzQmI3UWRpak9aY1JiNTFaUkRxOUZNaGlhd3JWRW1XV3ZjSjY0TnVpbmhjVWNKVzVLZEJVa0EzNGg3M25jQzJXaGpJWnotUVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-09-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Groupe la Francaise Purchases Shares of 57,586 Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeW5OTERDTkFTaU8zbm5KZFNsdG1XZUZaRkx6M0Y4ZjlaaHgtaHM2MXBBeFU4WEF6UHBVNHVhbVA3RTFzaFRtVktkVG5WeE1qckJCUzVGbzE0NlVMN3F5WHU4MEJzXzZ3dXFKSnRmcFlwN2JsZUN1X3BUVXU2RnFlbW9SUUZtSEdoS0Q3RFBfZERzWk40M182aWJnb2kzSGZMTFNhYWx6S1FKaEJrUDFuVHBmUXFDQUItMUo3bXlCOUUxaFJwTy0yalRsZkNEZV9abXVUQWs2MV8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 374,
+    "dup_title": 184,
+    "too_old": 142,
+    "gate1_blocked": 8,
+    "gate2_blocked": 16,
+    "passed": 24,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+      "CF Industries: Still Misunderstood, Still Undervalued - Seeking Alpha",
+      "CF Industries (CF) Chief Accounting Officer Richard A. Hoker Ann - GuruFocus",
+      "Yara International (OB:YAR) Dropped, So What Is Driving Attention Now? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為ADM、SQM、CNH相關動態：「Brace for more turbulence in cattle markets」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Brace for more turbulence in cattle markets（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "9 smart phosphorus strategies to protect your bottom line（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
