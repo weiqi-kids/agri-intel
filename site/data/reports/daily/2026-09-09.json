@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:34:12.951387Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-09-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Buccaneers And Mosaic Extend Tackling Hunger Partnership - Osprey Observer",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcW91SDdWaFZHYU1iZDVhY2JzYnVtcENiNFN4bjJkNTR0NmtoaEt6SmsteVFEUWFqX04tRG9hS2piT1J4S2ZzNFM4ZEMtdGUwR3E5Q1pkTWRyY3ZlbnZlZVRtcG9oNl9OSG1GSjljZHlmUTdTSmd1Z0FucWg0WW5qNGtoODNZYm1hLTlNY1k3TmpnYm1sX0ZDVjlTdVc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oci-2026-09-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI stock rises on fresh dividend and cash update - AD HOC NEWS",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWQ2dXhhbFU3aG8wemkwWXpRX3FhQkZ5RklPbGFrSEFsLWppZUp0Q25JdnNhME9XLWh1M3QzQjlGbklHbkV6eE9rM1RTRVczODlwU1p1RWJpLTNYd214S05nV2d1dVdINzJqelVVdE1wTzc1TzhSRzVSSU5MUF9yazdYdm42OTYtUzZMNlo0Qm5fVDREWUZFMTRoaXhUVnkyc2NQR0VkUjhpNFJDTHpFTzBB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oci-2026-09-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI stock heads into the open after a weak Euronext close - AD HOC NEWS",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVEVUhrbmV1QmVhQzNhYnI1RGFvMkI3Zi01SXE3ekpTb2hxS1VJU083UGE0WU0ycy1mRGtxV3N2aTRocnVwWm02SGw0NENocTlvOEtfcTdOaFdIRHY1QnYwM2xWQlBZSlhnS1R5b2RxdmJMaEk5aXN1Mm5wbGhma3ZBYmxxenFyRTBVVGx6aFMxaS1uWG1HalpxX1dKa0JnLTc0b1U2RjZ1Z1FmenhZSDRVYVdMb19fZW5FSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corteva-2026-09-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corteva, Globachem Enter into Definitive Agreement to Form a Joint Venture to Advance Development, Commercialization of New Formulated Crop Protection Solutions - PR Newswire",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORkZBLUFNRVYxbVNQR2VsZ2ZnZ2ZnSlhwNU9MZDVJS1dRNXh4UmJKYXM0U1pCWjd4WXNPTC1JV3RSNEt0OGJPWFItdHRkdWpBcmFEai1laVdhNld6emxrYi10Qmd3YWhlTjlDcUctZnNIanpyamVhVXdFWXZOQ0RSNUJiNi05eFZ5RFhGN2J0WkROd01aUVc3U3A4LTNEY05HbGtiVDV1UFdaTGRNM2lIUU5xM0NtbTV3Q2dxUlVDU3BlbnpvckxhbEZqeFM0dWVqeDZkeG5vcG9QUVBnM1R4b2NuVi1QQzNFOEtEMzZ2d3kxR2ExdW9NV2FUb3VtdFdXV2R1N0NNX0pmNHF2aWdJNnR2dHFFeEVzMVZERTItRk1ZVUlydkRySEJkSHI3bDg2a1RvZGM4MkpIdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adm-2026-09-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland Company: Agro Commodity Supercycle Inflection Unlocks Asymmetric Upside - Seeking Alpha",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1Y2R1JZNXlXa3RQWmVDZUptS0hFSG94cHBhRXdLbnE1SFVyaG5QREIwb2lZN1FaOVcwa3NnRlBzdUZmOUVaLTdaWlFRS2FSdWJuZGtwQks2ZGlMMkozZjNwVTcwbUpoTHQ3ZVM2VkM0aXFjUkdhSzhjbWdibG9fbVFOdVBPUWxuZzk0WlFsaHFsRF9BbG5sbjdGelZDa0tFU28yOHlaN0Zla01VWGNZYjlEU25QS0xfMWM0RmltWlhEYzh5aW50a1NsdWFneUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "oci",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "planting_season",
+        "count": 5
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 162,
+    "too_old": 148,
+    "gate1_blocked": 8,
+    "gate2_blocked": 16,
+    "passed": 41,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+      "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+      "CF Industries: Still Misunderstood, Still Undervalued - Seeking Alpha",
+      "Yara International (OB:YAR) Dropped, So What Is Driving Attention Now? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為ADM、OCI、Mosaic相關動態：「Buccaneers And Mosaic Extend Tackling Hunger Partnership ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Buccaneers And Mosaic Extend Tackling Hunger Partnership - Osprey Observer",
+        "level": "green"
+      },
+      {
+        "text": "OCI stock rises on fresh dividend and cash update - AD HOC NEWS（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
