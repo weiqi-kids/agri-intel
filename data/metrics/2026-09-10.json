@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-10",
+  "total_events": 18,
+  "by_company": {
+    "mosaic": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sqm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.05
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 3,
+      "sentiment_avg": 0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

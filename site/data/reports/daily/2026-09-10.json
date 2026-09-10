@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:27:48.522304Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-09-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer Daniels Midland (ADM) Could Be 29% Below Fair Value On Earnings Focus - simplywall.st",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMnlBVnByNEoySkFfMzBtV1FQVTllUGRObWFpbmRhdnU2Um1TRGtYQmNFMEQwcjh3M0hLeFpieThaSDhYbEhtWGREdGQtdFhKMWJfQlIyLVh4dkkxZURhZW11UXhzOWtSdTN2dkQ3YTVadTE5NV9CZVJhVWNnN3lXOFl5bVZjRTNleXQ2QWxGVzk1TWlseVBYUzFfZXNZU2pVYzJ1alpCUG0xUllZRDh1M004VlBuekdxdW9PMV85RUptdkpQMXp0WUJ5VDJBeGt6YnEyMmFWbmc1N2Y3OGZrcDBnWnRZZ9IB6wFBVV95cUxNUHhjaFZ2eHR0bHhwME1iMmRRdVo4NlEwMFk4bWdpQ2JiSmlZRk4wWDgwWkNPcjA2cVVjdkZzRDE5RU9yVnpMOUQyNGlBeTNHTlZ4Rnc0bDFQbzhxTERkTUIxS2hkeERWdnNBZFB1QzYtQjZNVVZCY0NGV1B3ZGRCaVAzdm5pVEZzQjc5LUY5MERvOFZDME1ES21jSUR0aG1aSldfNmpqTENJY0ROY1pIWVBmQ0gtRG9FS0Z5YV9OSzVQTVN0dDdVMEVwZllIaEo3QUp4Vkl3VXhrcDYycHdhYWFlQlAybnhXME9r?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-10-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "See nitrogen research at Husker Harvest Days",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/husker-harvest-days/see-nitrogen-research-at-husker-harvest-days"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-10-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Extension agent caught in middle of license plate camera mix-up",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/technology/extension-agent-caught-in-middle-of-license-plate-camera-mix-up"
+    },
+    {
+      "rank": 4,
+      "event_id": "mosaic-2026-09-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Mosaic Company (MOS) call put ratio 14 calls to 1 put with a focus on September 25 calls - StreetInsider",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXNicUdQU2lIUndzRlRDWVotY2xOT2Zsa2lxUzJub1JvYUNYX2oxLTF0N3pFNWNyNXdCU25UMWpnR1luRGkzYUJ4RDBZVGs4a2ZEV0FlNDVacXVSZnhiWlVYc1UyWVh4eGs5R3Q5R3M4aWxiNk0wVWxhSmx3YU1YYmdzYTdZZmdEa3ZZSHJYVDRDaWxTQjdUd05neXhHSk9heFhOazlRM2hKalJRUDRacHBhVENfYnpyRVFkRGNWeUNaUnpWQmYtVEE4djVoZ0hWZnhUVVVtWk96UVJsczAyTDRn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mosaic-2026-09-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic Company stock heads into the open after a 2.3% gain - ad-hoc-news.de",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnktZEp5dnY4VEtVTVRlMTZhZml0LXotall5QXhhTzZ4U1pPbDhHQ1JSejk0Q1pYeVZPUEJ2Wi1meFdhcGxaOU9JWmVEa0hOc1VzTnBUZDlmWFAtenNYclhGNTByb3hLRDNwSGdQNmVMSHJVU3ZvbGpVTkZNXzFtZUtmRGo1OVBtWE1vU2Z6c2kwR0tYMU1jYmZzc0pMMW1kNVlENDI4MzU4V196LXdKWktvQ2l5QnBYdXpueU4wQ01UNXgtaWl3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mosaic",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 175,
+    "too_old": 148,
+    "gate1_blocked": 7,
+    "gate2_blocked": 14,
+    "passed": 32,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+      "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+      "Yara, Northern Lights inaugurate Europe's largest industrial carbon capture facility in Sluiskil - P",
+      "Yara International opens a new site - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Mosaic、ADM、SQM相關動態：「Archer Daniels Midland (ADM) Could Be 29% Below Fair Valu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland (ADM) Could Be 29% Below Fair Value On Earnings Focus ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "See nitrogen research at Husker Harvest Days（種植季節、法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
