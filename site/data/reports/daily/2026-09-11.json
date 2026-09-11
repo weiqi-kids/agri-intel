@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:25:57.441960Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-11-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China buying helps fill deep hole in soybean exports bucket",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/china-buying-helps-fill-deep-hole-in-soybean-exports-bucket"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-11-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is ‘spoon-feeding’ fertilizer the best strategy?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/management/is-spoon-feeding-fertilizer-the-best-strategy-"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-11-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Use lessons from 2025-26 to reshape crop marketing strategy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/five-key-lessons-from-2025-26-crop-year-reshape-risk-management-strategies-for-corn-producers"
+    },
+    {
+      "rank": 4,
+      "event_id": "mosaic-2026-09-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KeyBanc initiates Mosaic stock coverage with Sector Weight rating - Investing.com",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "natural_gas_feedstock",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZGpvR0QzUWJZTVpSZHhkckNxWjY2NzRfZkRTTFR6SjNSbVRFMnI3elZMaHB5WGcycUw3QXBSbVdsSVlwZGdVbmR6OFozdXp5ekxpU3N5MXlDUkEzVnNCYUN4Ym5HRV84OWVES1NPejNhcEdWcUViblo1VUU2M0YwNFBKM2ZSSUpsQV9jeVFpbUl1TXNzWDhNdHIwb0RaVjVsUFAyME9TX1VhcklQeVVORTF4eDRvWV9UZHBhR0VDQkhTTVhQMVpLbk1wOXFyQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-09-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KeyBanc initiates CF Industries stock with underweight on supply concerns - Investing.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM0VpS2ctclNEM0w1T01FeGxqRWdadUtuaS15RGVTWHFWbzgtc1Jyd3M2SXpIY3RRYWE0ZTFhV3UwS0QxM0k0dFhqdFFiMHpVYUtLd0ZYRFF1V3lvZHoyWGctV3JFVzV6UERCUDRJTENDZ2VCOHZaYVh0cEdFOXBnYWtvWUEwcWQ3QUNVU191TmlKVkd6RWUyQjVLX3BXNHJRLVF2a2NWdU44cUJEUWFJMkZHWjdUVmc0OXdaUkFsaGxSX0Zaa1M3b2ZaNEluUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "planting_season",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 169,
+    "too_old": 144,
+    "gate1_blocked": 10,
+    "gate2_blocked": 14,
+    "passed": 38,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+      "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+      "Yara, Northern Lights inaugurate Europe's largest industrial carbon capture facility in Sluiskil - P",
+      "Yara Sluiskil Inaugurates Europe’s Largest Industrial Carbon Capture Facility - Carbon Herald"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為CF、ADM、Bunge相關動態：「China buying helps fill deep hole in soybean exports bucket」。主要關注主題為農業產業通用、種植季節、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China buying helps fill deep hole in soybean exports bucket（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is ‘spoon-feeding’ fertilizer the best strategy?（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

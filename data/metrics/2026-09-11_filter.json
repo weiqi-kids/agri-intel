@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 10,
+  "gate2_fail": 14,
+  "passed": 38,
+  "gate2_samples": [
+    "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+    "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+    "Yara, Northern Lights inaugurate Europe's largest industrial carbon capture facility in Sluiskil - P",
+    "Yara Sluiskil Inaugurates Europe’s Largest Industrial Carbon Capture Facility - Carbon Herald"
+  ]
+}
