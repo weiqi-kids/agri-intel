@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:47:12.011995Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-09-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Engineers Gate Manager LP Sells 148,257 Shares of Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcXBQNFByQS1Gb3N2dTZCckxwNUdYZ1NKQldod3JEcVRSTnF3d0FfMGJSRC1QM29jVy1RR2tJUjdMUUdHdUlfWU5iOGdjWVljbTVGQTBLSHE1aUFWMVpWSlRaTHc3UzY3MFR1NElZMVNNRW1OM0ZqM1lOVm5YYnBtR1IwX3ZDWlo4RGRubXNOaDFxVjc1M0ZfQVNQVDJ4TnRSdlQ1OVRBVklPQ0E5NlFuOVFkY21VLVZ0eW43Sk9jSmJyUnp4TEZKVVFrTXNpTnE1TTJjN19SXzdVdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-09-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Waverly Advisors LLC Sells 11,671 Shares of Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNXdaRFpKZkl6S1lldmEzRlNIZGZGRmE1OHd6YjctNWIyb2o2VkRuNWIyUjlQLU5CendlY3lLdWZhalhPQzZQRnJnZ3phdDM4TW8wNWpuRlBUVXF0UGZuclc0dE1aLUxJZVJEcXVBVjhVb3BuOGd0NzEtTkVXZzZZS3FnWTdISjROUVVMbHgtNm1DbHhTRTUwclBwTDNYZktBMkh2UGFVMnhodVMtUXoxVXJaZElLbkpKUE1xZXJpNXNsZDNkVHJ3Mm5PLTJWbFVwNmF5bg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-09-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "National Pension Service Has $72.97 Million Stock Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdHBkTGdQOFJIT0gyZmxLSWMtSGNBZExYOGVoTUxBZlhmZy1mdEtNVWlSZEl4LWlNMEYwY3RMNl9obVdYY0pKVEF6Ri0xUUVnbC0tOC1qdUw2Y2s3VlcxMk83eW50VFBGc0hUYVNjZ1dpYnZ2UFVvYkpCSzhvTmxsdzZjQjBta29MNWh3YWlxd3ZucGh5SGhjSnk5TlJVM1ltTnJtQ0stdDM4OHgtcG9xbERCSkxja012bzZZVUVPcFJJaERybGRIWXkwazJCaTlYWlZXamVFaEowdDU4WGpQNmVnS25PSS13RHdv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-09-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial (CNH) Teams Up With Bourgault, Does The Stock Look Fully Valued? - simplywall.st",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb1hSNXd1R2N5Z0k0QVBGbGV6ZlhIVzFnbjM0NFRqUm5MdktTZnhMbFppV1VPY2pZZHhXQ2FDeE43Sno1V0YyeUpRcmhZeHQzSWJaZjRQNmN3YkVVU3EwRkJkVFp5RHU2MGZ2WTBPMmJOLVNMZklaT0w4a1NQSjFwRkk5UUtaVlVIZGFpZXpwNVo3bGJ4MnJnaDIyQVM4WVY2bHNmX000ZjRNb2hJUkxhdkpTeEIyWlNrMXpGYll1VUVobnZJSXZwWkNYazZtTnVs0gHWAUFVX3lxTFAxdzhJX1drMnBVYlcyMlhTOERjcjZBYzMxY3FFWlBLb3EweEVVeFc3RUtwTDZBMDlCVWk1MWhfVHlPMkpldWp3bjJneUVyM1hJUXlTdVMyNF9zNWZTT2lIdGhsbkdFdVFVanY2ay14YjdUQW1XV2E5cHBnMjROcExEel9SLXFKbVc5VW1JMnloeWd5QUJwMHFiZ2tRODA4QVdsNVd1dlBxVm9XSnFUZjNTUXhEZjVXSFFtaV8xOHhmRkc5aS1SQm1rX0gyY1hrcllzbHZIZnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 158,
+    "too_old": 173,
+    "gate1_blocked": 6,
+    "gate2_blocked": 7,
+    "passed": 31,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+      "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+      "Yara Sluiskil Inaugurates Europe’s Largest Industrial Carbon Capture Facility - Carbon Herald",
+      "Yara International opens a new site - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為ADM、SQM、CNH相關動態：「Engineers Gate Manager LP Sells 148,257 Shares of Socieda...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Engineers Gate Manager LP Sells 148,257 Shares of Sociedad Quimica y Minera S...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Waverly Advisors LLC Sells 11,671 Shares of Archer Daniels Midland Company $A...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
