@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:55:19.770747Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Polymer-Coated Phosphate Market to Accelerate on Controlled-Release Fertilizer Demand, Reaching 2035 Growth - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2pnMVNoVzE1V2h1LWRsb0h6clZtRnZ5Z1lScnFSY09MZFdJNHpzN0hfb0JUa3hiQ2xPVUZWUnhsX2FUSXNrTnFDZ1IycVMyWFFFa05SNmUyNnNoWmMtS0d3OW1xemU3X0FNYy1jTW1PbU1TelduWWNMRmdqNjlLVkZUZVhPUEZNNm1oNlIwWnlkZXQxWUhwekdsN0hoYnA0czhxbzMxaXZVOWl3RGh1SUFEYnc0RnA4NVZGX2htN21PWWktSUNlUEVYY3pQWmVLM3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 Farm Equipment Stocks If US Canada Trade Relief Lifts Machinery Demand - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVnpQeWQtRUpKOTFDelNiZ3J2dXdPTW95SEx1emVsSUhINWc5YzA2Uk1SUjJ2S3RqR3NxVWhjREJYanhyWlM0aUFXNWJmdlU3UGdJM29iUUpRNHQtRHYwSWxQVDIyVTRBUW82cm5Nbjh3ZXFtS0ZnWWtDRnJzWkt1Zk1XLVJPdWtidUR2OFNVd3UyRGFPcVhoa1BRREVSVVJRMkRFM1dKNEp0Nk5HdEtneVpGYlZSTV9zazluTVFPbmJyYXJhYTg4TTk2aC1lWFdkZzl1VE5B0gHWAUFVX3lxTE5WelB5ZC1FSko5MUN6U2JncnZ1d09Nb3lITHV6ZWxJSEg1ZzljMDZSTVJSMnZLdGpHc3FVaGNEQlhqeHJaUzRpQVc1YmZ2VTdQZ0kzb2JRSlE0dC1EdjBJbFBUMjJVNEFRbzZybk1uOHdlcW1LRmdZa0NGcnNaS3VmTVctUk91a2J1RHY4U1V3dTJEYU9xWGhrUFFERVJVUlEyREUzV0o0SnQ2Tkd0S2d5WkZiVlJNX3NrOW5NUU9uYnJhcmFhODhNOTZoLWVYV2RnOXVUTkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 199,
+    "too_old": 144,
+    "gate1_blocked": 8,
+    "gate2_blocked": 10,
+    "passed": 14,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+      "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "Can CF Industries Holdings (CF) Stay Cheap After A 201% Run? - simplywall.st",
+      "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+      "Yara Sluiskil Inaugurates Europe’s Largest Industrial Carbon Capture Facility - Carbon Herald"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為農業產業通用相關動態：「Polymer-Coated Phosphate Market to Accelerate on Controll...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Polymer-Coated Phosphate Market to Accelerate on Controlled-Release Fertilize...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "3 Farm Equipment Stocks If US Canada Trade Relief Lifts Machinery Demand - si...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
