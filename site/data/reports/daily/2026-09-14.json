@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:32:32.833322Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-14-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Production, price and profit prospects for 2027 wheat crop",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.farmprogress.com/wheat/production-price-and-profit-prospects-for-2027-wheat-crop"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-14-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "U.S. pork exports overcoming trade tensions, disease scare",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/hog-and-pork-news/u-s-pork-exports-overcoming-trade-tensions-disease-scare"
+    },
+    {
+      "rank": 3,
+      "event_id": "mosaic-2026-09-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic stock heads into the open after a 1.1 percent gain - ad-hoc-news.de",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ0cySHpHbWppUzFqdlFucWpDSXhJVHk3WlRiLTdQUjRobnlhem11V1Y1M04zREhxN1pMSnJocEJnSGhvRjdxd01wUXZKS2JWdF9yQUNhZFdwb1VONExZbVFjMFFNVE5xcEVCbE1hYUk0RHl2cEZnX0RmMGtSOVduZU8yVVJzYVVVTFVCemVITjlPMVlacjZjQ2V4TjBUSW1WbmFodkpwZlZMc25ySGZ0TWRsZEpUR0h3QW5CdQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "yara-2026-09-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yara Launches Sluiskil CCS: 800,000 Tonnes CO2 Capture Annually - News and Statistics - IndexBox",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb3BIQW1QYU5BZ3YxVmtWbXFMNVV6NTQtb0hwN3lOdzZoVkt0VzRla0U5NFBaT1puQzhJV1loTElyNDlnWThQcUVZUHhvaXJDaktvLVFZcHMzeUxseE9uSy1RUTZHR3hsb1lvRS1xV1RSRjdnU1pEbnE1Xzk5U0J2LWNXaGhjZGV5MXZKc0hVd2lqc281c0ZPVHVIWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "oci-2026-09-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI stock holds steady on Euronext with muted recent move - ad-hoc-news.de",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUlg2Wm9tcXgyaDlCdFVoQ29MN1hCZm0wZDdyQnlmRmFHbFhxMXNHaFRXWFJXRG1OVHNTVExJcnYyYldTLXcxSTgwRlVPMVVveVBGaVUxMWd1ODlKeXhNMURoTGdlTXVYaXlRQmdGOVlLYzRsZzFFQXItalJ3T0pVaWFjbmVmX0hSLUdKRmFvOFJydHZGVWZUcjBNTE5zdFB1bjJtMVBZVTlqU2xVM2I5M2RmODFxc0l0Y1RCWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "oci",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 199,
+    "too_old": 142,
+    "gate1_blocked": 4,
+    "gate2_blocked": 7,
+    "passed": 23,
+    "pass_rate": "13.1%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+      "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+      "Can CF Industries Holdings (CF) Stay Cheap After A 201% Run? - simplywall.st",
+      "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+      "Can low-carbon fertiliser command a premium? Yara bets it can - agnavigator.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為OCI、Mosaic、Yara相關動態：「Production, price and profit prospects for 2027 wheat crop」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Production, price and profit prospects for 2027 wheat crop（種植季節、法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "U.S. pork exports overcoming trade tensions, disease scare（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

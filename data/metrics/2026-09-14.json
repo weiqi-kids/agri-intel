@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-14",
+  "total_events": 16,
+  "by_company": {
+    "mosaic": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oci": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "corteva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.09
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    },
+    "planting_season": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 4,
+  "gate2_fail": 7,
+  "passed": 23,
+  "gate2_samples": [
+    "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+    "Nykredit A S Takes $2.76 Million Position in Sociedad Quimica y Minera S.A. $SQM - MarketBeat",
+    "Can CF Industries Holdings (CF) Stay Cheap After A 201% Run? - simplywall.st",
+    "CF Industries Holdings (CF) Could Be 6% Overvalued On Blue Point One Groundbreaking - simplywall.st",
+    "Can low-carbon fertiliser command a premium? Yara bets it can - agnavigator.com"
+  ]
+}
