@@ -19,6 +19,267 @@
     ]
   },
   {
+    "id": "unknown-2026-09-15-001",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rallies happen at any time: 5 lessons from a wild year",
+    "summary": "Morning Market Analysis: Corn and soybean futures dropped overnight as harvest accelerates, while wheat futures traded near three-week lows.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-002",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How bagged silage can lead to better herd health",
+    "summary": "Bagged silage is a way to cut storage losses and make better and more nutritious feed.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/forage/how-bagged-silage-can-lead-to-better-herd-health",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-003",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Don’t reset your financial strategy at harvest",
+    "summary": "Next-Gen Agribusiness: Fall fertilizer decisions offer an example of how successful farm planning extends beyond a single season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/don-t-reset-your-financial-strategy-at-harvest",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-004",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wanna play dead? How to kick-start a farm succession conversation",
+    "summary": "Farm succession planning can get complicated, but avoiding the subject is a surefire ticket to trouble. Here’s how to start the conversation.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/wanna-play-dead-how-to-kick-start-a-farm-succession-conversation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-005",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Increase profits by playing corn’s long game",
+    "summary": "Across Agronomy: Reduce nitrogen costs by 30% to 40%, protect yield potential through resistance management, and optimize every input decision to maximize returns in corn today while securing profitab",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/increase-profits-by-playing-corn-s-long-game",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-006",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Welcome to Husker Harvest Days 2026",
+    "summary": "You will see more new ag technology demonstrated in the field than at any other farm show in the western Corn Belt.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/welcome-to-husker-harvest-days-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-09-15-007",
+    "date": "2026-09-15",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Don't let your soil, or profits, wash away this fall",
+    "summary": "From preventing $20-per-acre erosion losses to recycling valuable nutrients, the choice to remove or retain corn residue has financial implications.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soil-health/don-t-let-your-soil-or-profits-wash-away-this-fall",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-008",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive Case IH tractors hit auction block to support National FFA",
+    "summary": "Farm Progress Show: The pair of Case IH tractors are adorned with special red, white and blue paint jobs to celebrate the United States’ 250th anniversary and the farmers that have been integral parts",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-progress-show/exclusive-case-ih-tractors-hit-auction-block-to-support-national-ffa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-009",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "75 Years of IFYE: Bringing Wisconsin to the world",
+    "summary": "Slideshow: Alumni of the International Farm Youth Exchange share stories of agriculture in other countries and lifelong friendships.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/75-years-of-ifye-bringing-wisconsin-to-the-world",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-010",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A sip of Pepsi keeps an 87-year-old farming",
+    "summary": "Eddie Brown remains active on the family farm, but he prepares the next generation to lead. It starts by passing on wisdom to his grandchildren.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/a-sip-of-pepsi-keeps-an-87-year-old-farming",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-011",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Get easier access to Husker Harvest Days via Highway 30",
+    "summary": "Show visitors are urged to take the new Highway 30 route instead of Husker Highway for improved safety and speed.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/husker-harvest-days/get-easier-access-to-husker-harvest-days-via-highway-30",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-012",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Diesel prices hit all-time highs as harvest fires up",
+    "summary": "Ag Marketing IQ: Diesel prices make records on the approach to $6 a gallon. The causes? Middle East conflicts, a halt on Russian exports and domestic inventories at 20-year lows.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/diesel-prices-hit-all-time-highs-as-harvest-fires-up",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-013",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pairing policy, tech to fix ag’s labor crisis",
+    "summary": "The challenges facing farmers in North Carolina and across the Southeast are unique due to the large number of fruits, vegetables and other specialty crops produced in this part of the country.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/pairing-policy-tech-to-fix-ag-s-labor-crisis",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-014",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to unite heirs around your farm’s future",
+    "summary": "Estate Plan Edge: Use strategic estate planning to create win-win scenarios where cooperation maximizes benefits, preventing land sales while rewarding both farming descendants and investor-minded chi",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/how-to-unite-heirs-around-your-farm-s-future",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mosaic-2026-09-14-001",
     "date": "2026-09-14",
     "companies": [
@@ -315,6 +576,64 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/wheat/production-price-and-profit-prospects-for-2027-wheat-crop",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-017",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Crop Progress: Corn ratings tick higher",
+    "summary": "Cotton harvest inched forward last week, with spring wheat harvest nearly complete.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/crop-progress-corn-ratings-tick-higher",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-018",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn, soybeans return to the rally",
+    "summary": "Afternoon Market Recap: Winter wheat prices continued to slide lower in Monday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-019",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will commodity prices absorb an interest rate hike?",
+    "summary": "Ag Marketing IQ: With USDA’s September crop report out and a Fed meeting this week, analyst Bryce Knorr delves into the price outlook for corn and soybeans.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/will-commodity-prices-absorb-an-interest-rate-hike-",
         "type": "rss"
       }
     ]

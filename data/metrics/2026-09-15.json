@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-15",
+  "total_events": 14,
+  "by_company": {
+    "nutrien": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "planting_season": {
+      "count": 5,
+      "sentiment_avg": 0.3
+    },
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

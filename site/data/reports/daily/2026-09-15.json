@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:00:30.547291Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-09-15-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Don't let your soil, or profits, wash away this fall",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/soil-health/don-t-let-your-soil-or-profits-wash-away-this-fall"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Increase profits by playing corn’s long game",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/corn/increase-profits-by-playing-corn-s-long-game"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-15-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How bagged silage can lead to better herd health",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/forage/how-bagged-silage-can-lead-to-better-herd-health"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-15-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Diesel prices hit all-time highs as harvest fires up",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-operations/diesel-prices-hit-all-time-highs-as-harvest-fires-up"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rallies happen at any time: 5 lessons from a wild year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "planting_season": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "planting_season",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 20,
+    "dup_title": 1,
+    "too_old": 0,
+    "gate1_blocked": 2,
+    "gate2_blocked": 0,
+    "passed": 17,
+    "pass_rate": "89.5%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Nutrien Ltd相關動態：「Don't let your soil, or profits, wash away this fall」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Don't let your soil, or profits, wash away this fall（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Increase profits by playing corn’s long game（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
