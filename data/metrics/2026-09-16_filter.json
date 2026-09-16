@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 40,
+  "gate2_samples": [
+    "What Is Shaping Sentiment Around Mosaic (MOS)? - Kalkine Media",
+    "Wellington Management Group LLP Invests $6.58 Million in Sociedad Quimica y Minera S.A. $SQM - Marke",
+    "Can CF Industries Holdings (CF) Stay Cheap After A 201% Run? - simplywall.st",
+    "Can low-carbon fertiliser command a premium? Yara bets it can - agnavigator.com",
+    "OCI N.V. Sets Oct. 30 EGM on NNS Cash Offer - TradingView"
+  ]
+}
