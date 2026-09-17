@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:51:47.900900Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-17-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kellogg family turns gullies into dynamic conservation mission",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/conservation-and-sustainability/kellogg-family-turns-gullies-into-dynamic-conservation-mission"
+    },
+    {
+      "rank": 2,
+      "event_id": "yara-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yara stock gains as Oslo price approaches 52-week high on fresh carbon capture milestone - ad-hoc-news.de",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS2RxNjVaT3d3cmVBcE9Kck5Bc3NLcnlTYXhIVjhZb2NKc0xSQWtnTHhKNHc2d3FoZHBvaGxMR2wxNmw2Ni1PZmJ5cFk3WHo1dkgyMDYzQ090M1NsQXhlXzM0U0xzbWdLTEc1U2hmb3ExQ1kzSjBhSERFMDNrSWNEN0NpN2VvbUgwMDJNUGhhWnlGRHhKM2N0Qzk0LVlGWWJFeDA1alJsUWMweTg5R3ZaM0t2dExmZFVZb2xYcVpwM3pPVFJ3eFU5N0tzQjdqQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oci-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI N.V. statement regarding an open letter from shareholders - The Globe and Mail",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYW5EMVVINFNPM0NIYzRiZlhzV3Vmb2hsN0JzQXRZNHRhZ1ZXOXFKdEhDbnBIaXJYb2lfbWN1NW9UalI0aHdnR2tFbmlNWDNjVXVtRi1yMFR5UnRJaUdqNVdMSzF4OHNoc3NjWjlKRTF0UGVvb1Y1YWR5Nm83SDJDZlJsOUpWakNFSEQ3bkJqM1ZmeGh6SlZzaFJxdzRhT0I1M0c2OExLbU5xXzNHWHA1aXhvRUYzSXl5YkhUQWNDcEVGTHR1ODBMSGg0T3BjRnJxa3pfYkZlenJhR1Jl?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "oci-2026-09-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI stock gains on NNS takeover bid and 4.0640 EUR close - ad-hoc-news.de",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTc1LUNyQ3NWQjhhTWdLTU4ycEFodUhlSGVwdFVnc3M0ZHR0M0VFcjBsWmdxZDFMTzN0SGFCVE8ySy02SDlsa212Y2pVMm0zTmZNQ1RoTE9hM295amdxVS1TRHM2SXRac3lwMWRPS011NC1aeWRHVVVYbzdSaDgycElETVNKdGd6aUxWdjZ3ZFgtbHdsbVB2T3daTTBIYnNpalVlVk1yRjBqOHRWay1NeWxIQ2pCcGFpd3VN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corteva-2026-09-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sunitha Simon joins Corteva Agriscience as Communications Lead, South Asia - Adgully.com",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkhUdjZYQ0VlTGRSUGV1V056bWF1dXlmbW03VFFwQnFSTlhOS0dGNThtNGdFLWlaSG9LZ3JWVW9OUTZLR1JNODZNMlVJTnN4Xy1ub292dUVkUjd1WHRQSldwbEJVWXFsYjNQUnRUQ0UxTldhYUVRWFNSZVl2TjdVdW1sNGViSkk2dG45aGRRN1VXbktfcGtKSmZiUm85bGphMTZ1V1ZGSDdwWUNl?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "oci",
+        "count": 2
+      },
+      {
+        "id": "fmc",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 135,
+    "too_old": 190,
+    "gate1_blocked": 3,
+    "gate2_blocked": 11,
+    "passed": 33,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Can CF Industries Holdings (CF) Stay Cheap After A 201% Run? - simplywall.st",
+      "Yara Opens Europe’s Largest Carbon Capture Facility - ESG News.earth",
+      "OCI N.V. statement regarding an open letter from shareholders - Morningstar",
+      "[PRNewswire] OCI N.V. statement regarding an open letter - Yonhap News Agency",
+      "OCI N.V. Sets Oct. 30 EGM on NNS Cash Offer - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為OCI、FMC、Bunge相關動態：「Kellogg family turns gullies into dynamic conservation mi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Kellogg family turns gullies into dynamic conservation mission（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Yara stock gains as Oslo price approaches 52-week high on fresh carbon captur...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

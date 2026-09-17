@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 190,
+  "gate1_fail": 3,
+  "gate2_fail": 11,
+  "passed": 33,
+  "gate2_samples": [
+    "Can CF Industries Holdings (CF) Stay Cheap After A 201% Run? - simplywall.st",
+    "Yara Opens Europe’s Largest Carbon Capture Facility - ESG News.earth",
+    "OCI N.V. statement regarding an open letter from shareholders - Morningstar",
+    "[PRNewswire] OCI N.V. statement regarding an open letter - Yonhap News Agency",
+    "OCI N.V. Sets Oct. 30 EGM on NNS Cash Offer - TradingView"
+  ]
+}
