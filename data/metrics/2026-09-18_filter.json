@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 3,
+  "gate2_fail": 13,
+  "passed": 38,
+  "gate2_samples": [
+    "$100 Invested In CF Industries Holdings 5 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Can CF Industries Holdings (CF) Stay Cheap After A 201% Run? - simplywall.st",
+    "Yara International (OB:YAR) Looks Fairly Valued As Carbon Capture Project Goes Live - simplywall.st",
+    "OCI N.V. statement regarding an open letter from shareholders - Morningstar",
+    "OCI N.V. Sets Oct. 30 EGM on NNS Cash Offer - TradingView"
+  ]
+}
