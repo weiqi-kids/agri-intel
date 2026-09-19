@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 3,
+  "gate2_fail": 14,
+  "passed": 33,
+  "gate2_samples": [
+    "$100 Invested In CF Industries Holdings 5 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Can CF Industries Holdings (CF) Stay Cheap After A 201% Run? - simplywall.st",
+    "Yara opens Europe’s largest carbon capture facility - C&EN",
+    "Yara International (OB:YAR) Looks Fairly Valued As Carbon Capture Project Goes Live - simplywall.st",
+    "OCI N.V. statement regarding an open letter from shareholders - morningstar.com"
+  ]
+}
