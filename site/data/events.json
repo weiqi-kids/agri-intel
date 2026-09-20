@@ -19,6 +19,67 @@
     ]
   },
   {
+    "id": "oci-2026-09-20-001",
+    "date": "2026-09-20",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI stock holds steady as investors await next earnings update - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQWc2Y1RGcVRPNGFrdFVmT1NvSHVZekZVZ1hwbE0wVm53bjVEb0JMWlN6WTZid2xoekNCc1VGMklKQXRYVHFPNFFYV2FZb0lpR0lhTFV5T3J0eEd1NWZmeklpLXNFZ3JUWTFZX0Mxbl",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQWc2Y1RGcVRPNGFrdFVmT1NvSHVZekZVZ1hwbE0wVm53bjVEb0JMWlN6WTZid2xoekNCc1VGMklKQXRYVHFPNFFYV2FZb0lpR0lhTFV5T3J0eEd1NWZmeklpLXNFZ3JUWTFZX0MxblIyWHhHd091S3BoYl9RQm5nMjVqZUF2ZmhxTVFlbmVQcDlKV2VkdzdIVG1SelU5NUYzcmZDWGtvRTZ1WVZseXY3Q0xsWnRROFRhSkRUM0tBcU9sRkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-09-20-002",
+    "date": "2026-09-20",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Agriscience creates awareness on pest control among farmers in Nellore - The Hindu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdVJsck00XzVPcldXTk0tZ3JiNmN1NC1NSmtBTEJGb1VjYXoteHRjWFVqTWVvQjJOTTlsZzVYUnRDRUJYUFVoa0xreE5TUXFSTFFQVHpzOHNuSFVYaTl1UmVyVzQ2SlYtZ0d0bTRyeX",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdVJsck00XzVPcldXTk0tZ3JiNmN1NC1NSmtBTEJGb1VjYXoteHRjWFVqTWVvQjJOTTlsZzVYUnRDRUJYUFVoa0xreE5TUXFSTFFQVHpzOHNuSFVYaTl1UmVyVzQ2SlYtZ0d0bTRyeXJyaGtETHBqYUNMYTlLRThYU01EZVZkZWxSS2pLUGZsbF82ZThUeHFtdGxQcjVEeFNmZEJTZDZ0SDFrQjJ6OGIyM0lNUFBab05uUElCTFhVc0NhYU1YbFNsWUJwSDNwbUZQQnU2QkJvUjN6SXNfeHdZd2d1U3Z4dUXSAe4BQVVfeXFMTWhwbDBac3ZYc3JQX2dlUlFyNi0xZzg0SkM4dVlsTmlpWGJUS0Y1c0pPckdyMkZiUmhRY3kxQ0lNWm0tTWlKVjdwa1gyMjhCMDFZRFFsVGhOak1sczhrWTFsRkdjQ2RWc1RmejJhVUYzLW1wN0hxUTh0U09KZmxjbG1aOUZrYzVldW5OcGp5blV4SlFuZGNvc1pRZ1VxdWlVZFM4RXVMRGhTVC1ZX1hYcUR1MlcteTROcmhNNjhEbUFaNE0zRlV4NkRVS1RKMVRpQm5aeU9EYVNSX3A0TWV4ay12azk3WWpYVnBuVU92UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-09-20-003",
+    "date": "2026-09-20",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Stock Dropped, So What Is Driving Attention Now? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMUt2TmJXdzF4X2NyWjF2T2ZaMFdPenM3UDJLX1Q4am44bVJrVng2Mkd5Vm5paXJhbkxjSTBiSDhMaUhMa3Awa01YT2RWQkQtNFJwOURpSHpHZ0hsVEJHeVB4TWlTLVZsSTFYS0R3em",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMUt2TmJXdzF4X2NyWjF2T2ZaMFdPenM3UDJLX1Q4am44bVJrVng2Mkd5Vm5paXJhbkxjSTBiSDhMaUhMa3Awa01YT2RWQkQtNFJwOURpSHpHZ0hsVEJHeVB4TWlTLVZsSTFYS0R3em9ieEhTeUpia2Z0SXhUVmhGcThlUzhnUlJGckdKeDkzVG16eDNQbEVYMmVWUVZSOTNUZFRGc2JaWF92UHZVZTZmUlA1NHh2Rk54cjNCc3c0YlRvVk5tMmJoX2pVQWMzdHRtdklJX1hJZ9IB3AFBVV95cUxNY0pVNjdCSzcxYlVKZTZkcndDNEZ3OGp6Tkx3UXplbmd5QWFrZlVZZVJMbm53ZEN1R09lclViWGdJbFhPNjRtUVdvMjlOcGFQbDR2MlFJN2RsT1pvQXlScWhLNVBxdzV5ak93WThGZUYzcDhuMHFaYkZmckJYbWpXYnJ2cWtpNkdVdEFyQXNES3FTMDRxNGR4OEdvNDFYdk9pakRuZk81YmZndUd5cGxNczBaYmpQMzJGbmhYNEtncTlxVktsOE9xbm5JanhBWkNCQ2dSYW5qWTN5el9p?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intrepid-2026-09-19-001",
     "date": "2026-09-19",
     "companies": [
@@ -132,6 +193,26 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farming-equipment/revolutionary-farm-tech-turns-science-fiction-into-reality",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-09-19-007",
+    "date": "2026-09-19",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Mosaic Company stock holds near $24.50 after weak margins - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHFKUlRCVVJ0bG91bUNUem8xQWFYRFdfa1pvWE04QThVWllKUWlVNmdYc2VuZEtYTnBIa1FnSWhuNjNNU1ZWNHZ5QTlkSlZwdnNVUnM2a0tlS08zbERKSGJfYTlZb1NxLXB5UFJWam",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHFKUlRCVVJ0bG91bUNUem8xQWFYRFdfa1pvWE04QThVWllKUWlVNmdYc2VuZEtYTnBIa1FnSWhuNjNNU1ZWNHZ5QTlkSlZwdnNVUnM2a0tlS08zbERKSGJfYTlZb1NxLXB5UFJWamtZOFdsLTAydFlnbzBrMkk0Q3JQYk9LSUFjdkdfSWozM3k1aERXNk8xZWQ0azFQZ1JRbnhwNlZ5SGdKUXp4d2c0bGs0aWRBRnc4RE9N?oc=5",
         "type": "rss"
       }
     ]
@@ -823,6 +904,130 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-09-18-037",
+    "date": "2026-09-18",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien Riding Agriculture, Fertilizer Fundamentals Strength Wave -- Market Talk - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORGxJVm15Wjk1a2M1M1lsX2Z6NnNwZmZhdEc0bFAxRnl5XzBoSG1GSUdQQndaWFR3MFJJeWlKbEdyWVRySTFjeVl5bjVsZDV6cFo5cTlidnc2M0R5T3FZbDNNQm5kOHRQamo3QnVvYU",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGxJVm15Wjk1a2M1M1lsX2Z6NnNwZmZhdEc0bFAxRnl5XzBoSG1GSUdQQndaWFR3MFJJeWlKbEdyWVRySTFjeVl5bjVsZDV6cFo5cTlidnc2M0R5T3FZbDNNQm5kOHRQamo3QnVvYUR1a09zNU1tNDJPd2JUdmVlMHBqQW5objVsOXp6V0NncjJlY09qZ2lIbnUyYmxrV2FGX3lIcEtxaUpqTFk1UmlRaUp5OEJWTkstZUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-09-18-038",
+    "date": "2026-09-18",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cf Industries Holdings (C4F) Q2 2023 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9OMjdxSVBKWGlORDNFVUl6Q185X01SZXp2azZ5QmwxTVA4THpWZmtWTDFZRXpZTVYtQ1E4a1VyZnBrNXRnN0hkSDhldDNQN2NyZGtoVmotZGw1cHNBbnFuQlZHVVpOSGZsZUNpOVYtNA",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OMjdxSVBKWGlORDNFVUl6Q185X01SZXp2azZ5QmwxTVA4THpWZmtWTDFZRXpZTVYtQ1E4a1VyZnBrNXRnN0hkSDhldDNQN2NyZGtoVmotZGw1cHNBbnFuQlZHVVpOSGZsZUNpOVYtNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-09-18-039",
+    "date": "2026-09-18",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cf Industries Holdings (C4F) Q1 2023 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeERod1pQOVY1YzVzd1E2QzQ4RTd6ZG1XdFpRVTlnVmxFWHk1a3lOR2FvdGl2cURGVHRGa2FZa0RtVzRNS0JYY2RzWkZwamljOEdHSlhfUHdBaHJQb2J3ZmpEXzhtZzRfdUstbmgzaw",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeERod1pQOVY1YzVzd1E2QzQ4RTd6ZG1XdFpRVTlnVmxFWHk1a3lOR2FvdGl2cURGVHRGa2FZa0RtVzRNS0JYY2RzWkZwamljOEdHSlhfUHdBaHJQb2J3ZmpEXzhtZzRfdUstbmgzaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-09-18-040",
+    "date": "2026-09-18",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cf Industries Holdings (C4F) Q3 2023 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBJNnFtMHdZRmNCOG1sdHh0UmJHeWNIdXk1QUlsR0NLZVJXQmVXem1lc2FzTGE3Mk96NGVPTXljSk9OZkpKTUhoYTBPWTZ2RmJZallUWERFZE9ESE1ucVNQOFFaVGJ5R3FwS2dOOENUVQ",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJNnFtMHdZRmNCOG1sdHh0UmJHeWNIdXk1QUlsR0NLZVJXQmVXem1lc2FzTGE3Mk96NGVPTXljSk9OZkpKTUhoYTBPWTZ2RmJZallUWERFZE9ESE1ucVNQOFFaVGJ5R3FwS2dOOENUVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-09-18-041",
+    "date": "2026-09-18",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Lifts 2026 EPS Outlook as Oilseed Momentum Offsets Grain Risks - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVNQYnp2TU05THd3NWE1V3FhYWJwdUU1VEVmVzVIQ1E0Z1FIcFNNSFhyQU0yYzZUb0Jkd01La2p6eWdoWHVJZ2xsOUpqTDR1MkQycWVxdjJ5QkZ1WGJsTEw4YWJ6SWlxOGhzQ0llM1",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVNQYnp2TU05THd3NWE1V3FhYWJwdUU1VEVmVzVIQ1E0Z1FIcFNNSFhyQU0yYzZUb0Jkd01La2p6eWdoWHVJZ2xsOUpqTDR1MkQycWVxdjJ5QkZ1WGJsTEw4YWJ6SWlxOGhzQ0llM1laUWhJYWNCRjBaZkRudEl6V2RYcFgyMExjWkw4SEdtMDlYOGhidUZ3SA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-09-18-042",
+    "date": "2026-09-18",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Bunge Worth Buying as Oilseed Strength Meets Integration Risks? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHNGcnFsZ0ZYZE1NOFEzNHNQTUNzTlJHcWxrc1Y5OFdEQmt0X1l3ZUhPeURNQXVMUkhFOGtqRUxEeUlHX3gwXzgwQm40Und4TzMzWDRwRVNHbnVERzBJcU5FZVEza1liRE1xcmdxaV",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHNGcnFsZ0ZYZE1NOFEzNHNQTUNzTlJHcWxrc1Y5OFdEQmt0X1l3ZUhPeURNQXVMUkhFOGtqRUxEeUlHX3gwXzgwQm40Und4TzMzWDRwRVNHbnVERzBJcU5FZVEza1liRE1xcmdxaVhzUlNEZjBZTm1uekgzc1BkZnNnU3ZXQzU5TGtVWEVjOTVIMF9oNUVSV25FdUlhUjVkdmdWOS01czRoWUpOZDVmLXNYTG5maWc5ZkJUaQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1608,6 +1813,26 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1pnclo4azV1U2JiX0piZU5MZ3ZsLXZtYXBab0FFcElCby1TNUZzMm4wR1ZUYzRqZUlUMGVGRDBDNEdqZEc4Sy1mV0o0c3V3U0tNVHhJai1IQk9GdUU2OGZYMkdXeWgwUkFuM090a0ZsbFVMRXFrWnFPZ1l0dGVyR0FLV2RIbzdLQzdPZnAxcXlETVM2V0RfbU5TcERYdHlSemoyQWtZRWFnRTJkS05jbzcySGhYci1faVpNZ0dJS1pOZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-09-17-042",
+    "date": "2026-09-17",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (ADM) Stock Price: Up +3.32% Today, Target $92.22 2026-09-17 - Triple Top - CarePlus VietNam",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1hfdUUtYWRpNFpOM3VBalgxYWtHb244Yzc0SE1KUENocU5VamxXaU1kb1VtU21iVERvT1VVWEhfZDBqS2RwcjQ0c0VCdTZMbm1jSml3R0UzXzMzRTNHYkhLaFAzam9OOVlMUmJIcE",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1hfdUUtYWRpNFpOM3VBalgxYWtHb244Yzc0SE1KUENocU5VamxXaU1kb1VtU21iVERvT1VVWEhfZDBqS2RwcjQ0c0VCdTZMbm1jSml3R0UzXzMzRTNHYkhLaFAzam9OOVlMUmJIcEg0bzRkTWRBcTc1eElPcFBNNU96blNqc2dteE53dnIwS0R1NFdTZWduZWNhUFlpZHNEUFp1M1VCSGFHUnR1V1NDcW1HUEFBQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2852,6 +3077,26 @@
     ]
   },
   {
+    "id": "adm-2026-09-15-031",
+    "date": "2026-09-15",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMO Capital Maintains Archer Daniels Midland(ADM.US) With Hold Rating - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkE4bnB2MkRXNzBFNVFlWkRqODcxQjlXMXVNbElqbXhEQXlZbzRFWlR0YVdUWlRNbDRqYll6QWlBV1diTF91Rkhiek5yWFpIdnphZ0h0TmFhYUs4X0N1ZDBjakFtVU5iaVBhT3VNQ0",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkE4bnB2MkRXNzBFNVFlWkRqODcxQjlXMXVNbElqbXhEQXlZbzRFWlR0YVdUWlRNbDRqYll6QWlBV1diTF91Rkhiek5yWFpIdnphZ0h0TmFhYUs4X0N1ZDBjakFtVU5iaVBhT3VNQ0hoLU0zOWVvSnp3dzV1RDh6dklPWm5oN0JJeFh6cTFDcGpOTDJHQ0dHeTlfR0hJNXpMaUdNZXJqQ1hVZ2pObUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mosaic-2026-09-14-001",
     "date": "2026-09-14",
     "companies": [
@@ -3345,6 +3590,24 @@
       {
         "name": "oci",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLWVzVjhONEJ3TExFeUVaMVQzRjRkNjQ2WmpTYUh1dHV5S0RjRFN3SGdqZ1V0OXlRUzB5dE82LUFnMDhfVkxzQkJ5N2U2Wmk4UUprRHVienZJV0hQM2o3b21nUGJLYkhQYko0MzBBQTZ1RFJ4a21rSkl0WXhTdlRDd19tLXhnbmVuanotOXF2MUNDQ1pvT2duanlsT3JaYlhyRWRTd1ZaZnZjV3RF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-09-14-027",
+    "date": "2026-09-14",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corteva Categorically Rejects Unfounded, Unprecedented Allegations by State Attorneys General - Key Biscayne Portal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxNVV9CZnhrOGF4aU9sQzdkb1lkUGJvYy1qMXFacHVONXhWV3hsS1hXVGdYejdTeWtmYk5KUWhUMExsRTV0RkYwYWRiV3NhTW0xN3pKRUh4WEJiRzJaSlhVaVJTY0lMTnNtT3IzRTJLaX",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNVV9CZnhrOGF4aU9sQzdkb1lkUGJvYy1qMXFacHVONXhWV3hsS1hXVGdYejdTeWtmYk5KUWhUMExsRTV0RkYwYWRiV3NhTW0xN3pKRUh4WEJiRzJaSlhVaVJTY0lMTnNtT3IzRTJLaXZzbjhBcVduQW4waTJQVHRqeG5fNHVSR1EtM3FrMzVsMnY2VG9oNmZIN3pvYW12Rk5fZWpGbU5NRlFUUGpIQTBrYXhnTEI1QlJBbnhBeDZpNzRibzM0TzR3WXFzU2xGWGRIc0FwbmY2Q3NhNWFPampyYjhXbnhpVXNSb1lOU3VObzRxNmVQT2VmMnhvcTIzWG1tdjgya19XOF95Z0dSd203bS0yTDhPdXhhQmx1bHlmUi1KMW13Tkc3OFhBVFp6YW1v?oc=5",
         "type": "rss"
       }
     ]
