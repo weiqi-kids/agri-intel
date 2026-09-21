@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:40:03.258424Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-09-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yara stock edges higher on Oslo after latest quarterly results - AD HOC NEWS",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb24yZVlDTVdVa252TldQTTBhaGxNQVVVOEZjT3VUdmVGVFBVUVdrUlIyaHdlM29rdUZzV1g0bVdsVzBhVW44RVdEbW8xTXV4UVBPcnQ5Q1lWWXlFQmZ5OUNlWnNSY2UyZFFQcURYNjFhNlpTRDRCdlF2RXM3SmN0bjdjam44RkxUeTA0YjlWVjBOVlkzNVhVU2R5cS1TUlhXanNDdkhsUFV5bGxzbWtJcUx6Q1BSZW54UHo1b29TQzdSVWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-21-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "New dairy industry challenge: Balancing butterfat and protein",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock-and-dairy/new-dairy-industry-challenge-balancing-butterfat-and-protein"
+    },
+    {
+      "rank": 3,
+      "event_id": "nutrien-2026-09-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien (NTR) Dropped 15.4% in Q2: Why the Fertilizer Stock Could Be a Bargain - finance.yahoo.com",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1Y2cnNlV1puVHd3M1B1S0cwTnN5dGJZMWhxSzBXamJObXFYUmp2bnpzY1hDZTBnTXRtcFBOTW81V3pOalBibWp5NmllWHRTeFJMcVQ4OFo1Zks0Q0NhLTRlVzFBMU9JMTA1ZUgwZUhIWkNmMk5aQ0lxS1BYS1Z4OUFwVlFyS01OWEY4Q1ZFSXpFcEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nutrien-2026-09-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien’s CAD 1.31 Billion Cash Position Bolsters Financial Flexibility as Fertilizer Markets Stay Tight - kalkine.ca",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDR1eXRoMlU2SUd4RU9zaTVvNmZ2YWRrd3pJTTE0NjhWMjhmVklicmZ1Mm1aTkhINnkyLTI1OEdSZHRVTTV4MC02RVdJcDNpUUJTeFFVMFdQZlpmQUNGWWl5R014MjJGMTMxYmlCTHB6YnhyUHpMTVB2YmdubDB3OUJnT0NPLTM4NXB0UVlvLXo5ejBZSVpQNHV2WDZvTk8wbjVxc21xNWQydDMydUlYbS1OU3ZLNGlfbUtjd3c1NDVWc1VkNXBqYzVfWDZ1UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mosaic-2026-09-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic Co. (MOS) Was Just Added to the Portfolio: Why the Fertilizer Stock Looks Undervalued - finance.yahoo.com",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlpNRHNXN2xoaU1sR05QbW9fWnE4RjRXb1FDZWl6Y01RNEoza2JfRUN1dkhmRFVycS1jNGV4OE45emxtOVBfRWhiam1Wb29kbklPUkFNWXk1NlVXanpnZFZJTWx1MVRKYnp4Qy0wMFl4d2tzZmJtU2RwVldvaGdzYU9NbVB5Yzk5QURTOW41ZXdzNDg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 147,
+    "too_old": 186,
+    "gate1_blocked": 3,
+    "gate2_blocked": 20,
+    "passed": 19,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "$100 Invested In CF Industries Holdings 5 Years Ago Would Be Worth This Much Today - Benzinga",
+      "Yara opens Europe’s largest carbon capture facility - cen.acs.org",
+      "Yara International (OB:YAR) Looks Fairly Valued As Carbon Capture Project Goes Live - simplywall.st",
+      "OCI N.V. statement regarding an open letter from shareholders - finance.yahoo.com",
+      "OCI N.V. statement regarding an open letter from shareholders - Morningstar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Nutrien Ltd、Mosaic、Yara相關動態：「Yara stock edges higher on Oslo after latest quarterly re...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Yara stock edges higher on Oslo after latest quarterly results - AD HOC NEWS（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "New dairy industry challenge: Balancing butterfat and protein（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
