@@ -19,8 +19,8 @@
   },
   "kpluss": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-21",
-    "count": 6828,
+    "latest": "2026-09-22",
+    "count": 6829,
     "history_complete": true
   },
   "sqm": {
@@ -43,20 +43,20 @@
   },
   "yara": {
     "earliest": "2004-03-24",
-    "latest": "2026-09-21",
-    "count": 5672,
+    "latest": "2026-09-22",
+    "count": 5673,
     "history_complete": true
   },
   "oci": {
     "earliest": "2013-01-25",
-    "latest": "2026-09-21",
-    "count": 3491,
+    "latest": "2026-09-22",
+    "count": 3492,
     "history_complete": true
   },
   "taifer": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "corteva": {

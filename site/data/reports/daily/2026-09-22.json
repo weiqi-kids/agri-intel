@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T12:55:04.487675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fmc-2026-09-22-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FMC Corp stock sets an October earnings checkpoint - AD HOC NEWS",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWQwalJ3OEdUZEtPRTJveE5DWU84bFZKYllyY3c3bDFqZGd6SjRucUtVMWhtR3AzSXpKdERlckp5U3NaejBSMy11XzRPWWFMc2REb3pORXl5aFVaT2E5cVQ3dGI2aVdtekl0bC13enFfZ09vMF9nV1VtREFwNHFYOS13NEhKM1RfZVBYNFBocFdDTmIzMFJLdDVJRU96eWhwWllicEE4UVNBNDdFd1lqLWYwYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-09-22-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global stock gains after 2026 EPS guidance rises - AD HOC NEWS",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPanMwVXFkWXNSX2hsWmpYZUNVQ3VoSWxFZnJzVUlRbmZEUDM4SW9Sc01GbXNXdGpVc2RpcWVnTTRTMTdnTWlaTUI0VUpsVDNxRWNkSG1CU0ZMQVMxWE9YbHZyeGRnaW1paHFLYnRraFhydXY2U1dUNFVKQ0pVQXhkU21idEsxdHdTQXJnN0htOXBOUU1EMlFELS1JWWM2ZmE0NHZQVEl4TW5sc3ZQNHplRVJvNG9tbG1T?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-22-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Shrinking supplies keep prospects for $14 soybeans on table",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/shrinking-supplies-keep-prospects-for-14-soybeans-on-table"
+    },
+    {
+      "rank": 4,
+      "event_id": "mosaic-2026-09-22-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Mosaic Company stock heads into the open after a 1.7% decline - AD HOC NEWS",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWW8xSUhZeGs5SzR5NUhMTllEd3l6b0s0NW9nRmlabGJ3MkhjSy00VURCcGhDX1pkc0JaY0czcHRKeGl0eVREQ2VlNk1ENHJVUjFMS19FanI5SlNNRnZsNFdCTzRDYWFRZy1vdGRPTDBjZ2JkcHZSczdUc19ORzJLMnBlUjNkSmxMTDZnOTNoT0hVNGxiSGMzN0UzVUpXVkxVSEcycS1KanU3SUQ4eVRrbDU0ZWw2MzZZRFBtTGVxQWpMR2lyejdQbDJPMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bunge-2026-09-22-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Is Bunge Global Stock Outperforming the S&P 500? - Barchart.com",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzZ0SG9HWUZLZmtBcExHQ185MDJlMzFoYmlibWtWX1BqeU4wd3R6RlBGX3lqbWFwR0xiTnA3ekhGSVFXYzlSakN6X3RjSExHbjROTFhZOHF3TkdoY0d5SUswekVhY0U4czYtOHZwVFQyV2NTNk13WVJzcU5MRVJvYmE5MjFIODBfeEtYZTVzTGhyRnVSRVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 23,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 4
+      },
+      {
+        "id": "cf_industries",
+        "count": 3
+      },
+      {
+        "id": "bunge",
+        "count": 3
+      },
+      {
+        "id": "nutrien",
+        "count": 2
+      },
+      {
+        "id": "fmc",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 170,
+    "too_old": 121,
+    "gate1_blocked": 6,
+    "gate2_blocked": 22,
+    "passed": 54,
+    "pass_rate": "26.6%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "$100 Invested In CF Industries Holdings 5 Years Ago Would Be Worth This Much Today - Benzinga",
+      "Yara opens Europe’s largest carbon capture facility - C&EN",
+      "Yara International (OB:YAR) Looks Fairly Valued As Carbon Capture Project Goes Live - simplywall.st",
+      "OCI N.V. statement regarding an open letter from shareholders - Yahoo Finance",
+      "OCI N.V. statement regarding an open letter from shareholders - Morningstar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為CNH、CF、Bunge相關動態：「FMC Corp stock sets an October earnings checkpoint - AD H...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "FMC Corp stock sets an October earnings checkpoint - AD HOC NEWS（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global stock gains after 2026 EPS guidance rises - AD HOC NEWS（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
