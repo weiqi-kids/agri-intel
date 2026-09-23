@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:06:45.012903Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-09-23-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yara stock holds at NOK 350 as margins shape outlook - AD HOC NEWS",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDVRZkFlbXhJcUozd3prc3V3dzBSV1dhel9lZThmUWd4WUlIekh5bWZsd3o3c1NoWFlZMGdJXzg5REtnRVZOdXlfQVNhb3V4MkNVSWtuNWZLQl9KNmJmbU1ka2xxb0xiRGhtU1V6Z3BPWkxHQ2FDbW9PbnJNc05GNzA5RG0xMTZCLXNkUDVpb2M1b3FZRWJ4WXA1ZThYSUZCSDMyZDlqcVBXT0lmSUZReFByWlVMQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-23-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cow-calf producers hold advantage despite market turbulence",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/commentary/cow-calf-producers-hold-advantage-despite-market-turbulence"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-23-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Will U.S. wheat exports see boost from Russia-Ukraine conflict?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/wheat/will-u-s-wheat-exports-see-boost-from-russia-ukraine-conflict-"
+    },
+    {
+      "rank": 4,
+      "event_id": "mosaic-2026-09-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "THE MOSAIC COMPANY ANNOUNCES EXECUTIVE LEADERSHIP CHANGES - PR Newswire",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbW5rbFVObThpZERORUlkMmRLNl9HdXc4VnJGSDVyM2ZnWVdHSk5GTEljVmNlWUU2ZkJwYlhnZmpGNEpzWTQtUm0xSGVxMXMtZ0tKMmszem1TTmI0d3I2QXBEd210N052SGRqOWx4RGJGTHUxV1NPYXFmdnNVbTJnZGFGTGQ1TzhXZmd0UEhMRUtSVkhjZ2ZOM2pqQTdnMERRdjROTEFNU0FmRVNxMFYwVVB2VQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mosaic-2026-09-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Mosaic Company Announces Executive Leadership Changes - TradingView",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHpXUnZWSnBhVWVEZmp2QVhjbTZnWVByb1lrbzZuQjN2Tk5LbFdMZzFZOTZfbFh0XzFFZEN6VXZ2aGZoVFIyRTBSLW1SVVN4Zi1ibjg4eUpHbUI0Qng1dHVvWVM2YzRnVFV3UDNvYTJFM3BSR2wwRWdYczJsSXdhLW96WGZWWXo0MmhUeFhqNmNjZGctcDdLbHdPVUtZVFFrNUZESVM3OXdacUpIN1ZwY3lVeFN4UlhrY1pDVVBKUktGWU1IOGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 19,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "mosaic",
+        "count": 5
+      },
+      {
+        "id": "yara",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 185,
+    "too_old": 124,
+    "gate1_blocked": 6,
+    "gate2_blocked": 21,
+    "passed": 37,
+    "pass_rate": "19.7%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Why Did Nutrien (TSX:NTR) Fall 3.205% on 21 September 2026? - kalkine.ca",
+      "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+      "$100 Invested In CF Industries Holdings 5 Years Ago Would Be Worth This Much Today - Benzinga",
+      "Yara opens Europe’s largest carbon capture facility - Chemical & Engineering News",
+      "Yara International (OB:YAR) Looks Fairly Valued As Carbon Capture Project Goes Live - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為Mosaic、Yara、SQM相關動態：「Yara stock holds at NOK 350 as margins shape outlook - AD...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Yara stock holds at NOK 350 as margins shape outlook - AD HOC NEWS（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cow-calf producers hold advantage despite market turbulence（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 6,
+  "gate2_fail": 21,
+  "passed": 37,
+  "gate2_samples": [
+    "Why Did Nutrien (TSX:NTR) Fall 3.205% on 21 September 2026? - kalkine.ca",
+    "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+    "$100 Invested In CF Industries Holdings 5 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Yara opens Europe’s largest carbon capture facility - Chemical & Engineering News",
+    "Yara International (OB:YAR) Looks Fairly Valued As Carbon Capture Project Goes Live - simplywall.st"
+  ]
+}
