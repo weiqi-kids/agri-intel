@@ -19,6 +19,241 @@
     ]
   },
   {
+    "id": "unknown-2026-09-24-001",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "He said, Xi said: Devil in details as U.S.-China meet",
+    "summary": "Morning Market Analysis: Soybean futures jumped overnight amid strong export sales expectations and hopes for favorable U.S.-China trade summit",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-002",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Husker Harvest Days 2026 showcases beef, ag tech innovations",
+    "summary": "Farm Progress America: The 48th annual show in Grand Island, Nebraska featured expanded cattle programming and a new technology pavilion for producers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/husker-harvest-days-2026-showcases-beef-ag-tech-innovations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-003",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cotton prices are finally going up",
+    "summary": "Cotton prices have risen due to geopolitical issues and production deficits. Here is what we’ve seen so far this crop year and what you should watch for globally.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cotton/cotton-prices-are-finally-going-up",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-004",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should I bulk up my cereal rye cover?",
+    "summary": "Soybean Corner: A thin stand of cereal rye could warrant a pass with the drill to fill it in. However, it may not always be necessary or worthwhile.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/should-i-bulk-up-my-cereal-rye-cover-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-005",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ire over poor water quality grows among Iowa farmers",
+    "summary": "Water woes: Many Iowans are “fed up” over poor water quality. Here’s how it could impact the way you farm.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/conservation-and-sustainability/ire-over-poor-water-quality-grows-among-iowa-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-006",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmers: Talk to your ag lender",
+    "summary": "Dr. Kohl’s Commentary: Lenders are tightening credit, and the way through starts with making sure both sides understand the farm’s financial footing, what’s needed and what’s possible.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/farmers-talk-to-your-ag-lender",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-007",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Robots don’t replace good dairy management",
+    "summary": "Dairy Strategies: Automated milking systems improve consistency and generate valuable data, but dairy farmers remain responsible for cow hygiene, udder health and follow-up.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/dairy-cattle/robots-don-t-replace-good-dairy-management",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-008",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "It’s time to shop for seed",
+    "summary": "Here is the first corn and soybean seed shopping list to help you prepare for 2027.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/it-s-time-to-shop-for-seed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-009",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flying cameras help farmers spot pivot problems from home",
+    "summary": "Ag drones provide new perspective on center pivot monitoring and inspection. Uses for drones are growing, but some are still skeptical that the tech is ready for widespread adoption.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/flying-cameras-help-farmers-spot-pivot-problems-from-home",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-010",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Resilient ranches: Grass adviser offers soil health strategies",
+    "summary": "Sheridan Wilson draws on her firsthand understanding of the responsibility that comes with caring for livestock and land.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/conservation-and-sustainability/resilient-ranches-grass-adviser-offers-soil-health-strategies",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-011",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Small town’s sign challenges AI revolution — or maybe not",
+    "summary": "History and economics have made it clear that farms that thrive aren’t managed by farmers who reject technology, but I don’t think those who let algorithms make every future decision will thrive eithe",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/small-town-s-sign-challenges-ai-revolution-or-maybe-not",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-012",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Question sparks change: Where do you get your water?",
+    "summary": "Water Woes: Water quality concerns prompt Seth Watkins to change the way he farms.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/question-sparks-change-where-do-you-get-your-water-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-013",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Camso tracks get new Michelin name but use same soil-saving technology",
+    "summary": "Michelin’s rebrand of Camso agricultural tracks to Bibtrack keeps manufacturing and innovation intact while making the company’s track and tire offerings easier to navigate.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/camso-tracks-get-new-michelin-name-but-use-same-soil-saving-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mosaic-2026-09-23-001",
     "date": "2026-09-23",
     "companies": [
@@ -431,6 +666,60 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-progress-show/whats-new-in-hay-equipment-for-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-023",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grains slumped in midweek selloff",
+    "summary": "Afternoon Market Recap: Traders remain anxious ahead of the next Trump/Xi meetings.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-024",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New farm math? Compressed margins and trade changes alter financial picture",
+    "summary": "CoBank’s Jacqui Fatka tells the Women in Agribusiness Summit that weather volatility, government payments and demographic shifts are rewriting farm economics.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/new-farm-math-compressed-margins-and-trade-changes-alter-financial-picture",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-025",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Exports: Mexico buys corn",
+    "summary": "The 2026-27 marketing year for corn and soybeans began Sept. 1",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
         "type": "rss"
       }
     ]

@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:01:45.744962Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "He said, Xi said: Devil in details as U.S.-China meet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Husker Harvest Days 2026 showcases beef, ag tech innovations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/tv-and-radio/husker-harvest-days-2026-showcases-beef-ag-tech-innovations"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cotton prices are finally going up",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/cotton/cotton-prices-are-finally-going-up"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should I bulk up my cereal rye cover?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/should-i-bulk-up-my-cereal-rye-cover-"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ire over poor water quality grows among Iowa farmers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/conservation-and-sustainability/ire-over-poor-water-quality-grows-among-iowa-farmers"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 20,
+    "dup_title": 2,
+    "too_old": 0,
+    "gate1_blocked": 2,
+    "gate2_blocked": 0,
+    "passed": 16,
+    "pass_rate": "88.9%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為農業產業通用、種植季節相關動態：「He said, Xi said: Devil in details as U.S.-China meet」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "He said, Xi said: Devil in details as U.S.-China meet（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Husker Harvest Days 2026 showcases beef, ag tech innovations（種植季節、農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-24",
+  "total_events": 13,
+  "by_company": {},
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "planting_season": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
