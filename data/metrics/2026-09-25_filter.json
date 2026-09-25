@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 6,
+  "gate2_fail": 17,
+  "passed": 50,
+  "gate2_samples": [
+    "Why Did Nutrien (TSX:NTR) Fall 3.205% on 21 September 2026? - kalkine.ca",
+    "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+    "Yara opens Europe’s largest carbon capture facility - Chemical & Engineering News",
+    "Corteva Agriscience appoints Noam Silberstein as Chief Strategy Officer of Vylor - indianchemicalnew",
+    "Key facts: FMC sells 30.32M to Tessenderlo; pacts effective 9/23/26 - TradingView"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:05:47.847315Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-25-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "U.S., Argentine farmers diverge sharply on AI benefits for ag",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/technology/u-s-argentine-farmers-diverge-sharply-on-ai-benefits-for-ag"
+    },
+    {
+      "rank": 2,
+      "event_id": "mosaic-2026-09-25-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Mosaic Company stock falls 2.75 percent after Q2 loss - AD HOC NEWS",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXy1oWHAxaXFqRkRCcUdtWmkwZm1saXVCa3pDejc1OTAxdExtdWE2TGpveHhPdzdBVjN4NFFHTmxwTnZHclpFaGt0NXp5cHJMNUgzRlQzOWxzZ1FDejlrem9kcndVMUk5b1hndnd1YWd1SjhNSWJKMXd3X29kQ2tqX3BhdkY4M1hMY3FzNV9BWWU2RGwtaEtNVTVPeEJ3NXlrcWExWi0wLU5JeE10ZjNWeHRQOHVMT3Aya21BSg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cf_industries-2026-09-25-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bernstein Initiates CF Industries at Outperform With $162 Price Target - marketscreener.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2Vta2g3aExIMWtTSXFoeEJhQTFmV1NLV20xcWFTSmhRc3MtU19XZGhRZE8ya1k4b2dzLUtNUlhEcmdkYUtmbGdRUGgtdjQzOF85b1hBTEJGX2MzMVhZT0JPUVNYT3lQUFBra0J2ZjFoWUp3WjVLTHA0VFVncGtCc0hqdEk5YlluNUI4aHUySC12VkZiRkNwSFp1bDNBeXRicERLS2EtRl9yOHc3UXlKS1NoNW5neW5wbGRlcl9HRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nutrien-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien Dividend Yield at 3.29%: Can Strong Cash Flows Sustain Shareholder Returns? - kalkine.ca",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczhya1RsVHdGbGdJSk1kWkZLZENrVDlhVy1oTkRrQkdEYS1ZNDFwN1lxcThHVkprTkRkSXY4YTZtWVNhaXdYYmFrVnNVQUJZeDRKNFNsY29iQ2VDNWt2OFlUb1F1Q1dpS2JYSS1iOF93SFZITTBnb0p1MjRHNndOTTcycnh6UVEwRmF5Q1hxS2M1Yzg2cmo0cnd6MDFpVnlhMXFYZjgySmxDaG00UXU3S1ZweU50RjJMRHBz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-09-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bernstein initiates CF Industries stock coverage with upbeat view By Investing.com - Investing.com Canada",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSW1oZ2FIRGJFemktYUJuRjh6cXZxQnFJRWE4OGFKY3E0NXRDUkkyRUoxR2p1MEw4aWxkQUNRRVJOd1F2MDhPTmhDbzFVSVNtSzBXd2F3a2NQMDJxcEJBekFSNGVPeFlWX0pBeXVNRi1KM2duSENscnNqeEJUcE9zVGpfZzY2aXFSOW1ZSThkMWxsZXlZS3lBMEF4QmVlYmxPaXh3TjRGT1pLQ01LaXdIS1AzYUJiVC0xdUtPUXBfWnhQWVky?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 163,
+    "too_old": 137,
+    "gate1_blocked": 6,
+    "gate2_blocked": 17,
+    "passed": 50,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Why Did Nutrien (TSX:NTR) Fall 3.205% on 21 September 2026? - kalkine.ca",
+      "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+      "Yara opens Europe’s largest carbon capture facility - Chemical & Engineering News",
+      "Corteva Agriscience appoints Noam Silberstein as Chief Strategy Officer of Vylor - indianchemicalnew",
+      "Key facts: FMC sells 30.32M to Tessenderlo; pacts effective 9/23/26 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為CF、Nutrien Ltd、Mosaic相關動態：「U.S., Argentine farmers diverge sharply on AI benefits fo...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "U.S., Argentine farmers diverge sharply on AI benefits for ag（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "The Mosaic Company stock falls 2.75 percent after Q2 loss - AD HOC NEWS（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
