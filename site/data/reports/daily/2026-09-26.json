@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:33:09.232043Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intrepid-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intrepid Potash Inc (IPI) Stock Down 5.0% but Still Overvalued -- GF Score: 70/100 - GuruFocus",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDNITF9MTE1WVV9Ea0xYN0VTQzJzbkZUMUo1c0xCWFF1RHRNMF9kV2p1ZjZvQVFDVGdJVUE3RHlMdm5GVFdMbnY4QVlLN0FLcnhUU1N6d1ZHSXBwaEF0cWU1anZfS0Y2cTh5djRRRkdfWktGV05kbEV6WnYxcWY2YUVES3paeG5xdW1Xd2Z5dmFIcG01WE82aVBKR0NVeGFlTWVyWlFoek1IRDYtQ0RHWnFB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fmc-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Corporation And Tessenderlo Group Complete Minority Equity Investment - Global Agriculture",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOVd1bENxTy1RMDhzbnhFeDdxUWNOQlJ3SlNZZXhLTURWdTdfcG1kZHhzYjZUTmwtMjZKLUlGR01ZLVZJTFVDUTdZRHlNOFc0ZjZxb0txQUNia183Y0JFUGc2WlowRWFZazF5TkFCTzJwTzkwejlTQWxaWmVaYVRpRDhOdE9hX0xQTnk2NWE3el8yZU5JaWVaa2JoRk1QU0U2eGZ6bHo5SzJ4NEI2TGlOWDhhSDZxM3RtSEZVa2czQ2NTVGl1aEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-09-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Did Credit Line Extension Just Shift Bunge Global (BG) Investment Narrative? - simplywall.st",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmNBRHk4V18xSzgyUUVITmUyZmtCTXVqOUtfTnRTVEx0NnU4ejMtNzNudUpOYUJSZVVTX3VDRjFNWGZpYmVNR3BIQzI4d05oMjl2WmNEQnBYYm41M2VRWHFGLVZmSml5bGw4YlBlQktyNzJhX2ZjZUhZMVpsTEFVRTZ6amJMTXFXRFVoTlZTSWRJbFFCd0Z4ZGFYNS1HT004dDFXMHlHY0pqMVhSTWRiUVN5Y3NETTVpazFzSEp1eGN4UjFwVGVpcEVvV2VlZWU2d1ZnWlZtWdIB3AFBVV95cUxPeWxhWWVpUmFCWHFSVjVWNE5YZXJXdGpOV1BVRXplX2ptZllaNWkwdXNZUFh4S0hvQ3BPSzVON0NLLXhQSlhEaGU2RS05M3prdkl6bThIR3BVcGFndWc3Z1hXc01NVjZuRTBHMUc3NDBOdzFsNDNLMUo2T1ZGaXAtS0dtWVdPX0l4aEE5enRhbDF0MW56TVBTSU5qWlhjNUw0aVVaVDVGWGdtSGZ2S1lTTHhzaUNhN2gxNGJOOUdPSEhWMlJ2azVZM2c5WmxSX0lNeFZrZmloTlJyUjVk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Week in Agribusiness, Sept. 26, 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-sept-26-2026"
+    },
+    {
+      "rank": 5,
+      "event_id": "agco-2026-09-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Farmers use AI to revolutionize ag logistics",
+      "companies": [
+        "agco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/technology/farmers-use-ai-to-revolutionize-ag-logistics"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "agco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 177,
+    "too_old": 136,
+    "gate1_blocked": 7,
+    "gate2_blocked": 18,
+    "passed": 35,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Why Did Nutrien (TSX:NTR) Fall 3.205% on 21 September 2026? - kalkine.ca",
+      "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+      "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+      "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+      "Is CF Industries Holdings Inc (CF) a Bargain After 3.2% Drop? GF Value Says Undervalued - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Intrepid、FMC、Bunge相關動態：「Intrepid Potash Inc (IPI) Stock Down 5.0% but Still Overv...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Intrepid Potash Inc (IPI) Stock Down 5.0% but Still Overvalued -- GF Score: 7...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "FMC Corporation And Tessenderlo Group Complete Minority Equity Investment - G...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

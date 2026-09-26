@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 7,
+  "gate2_fail": 18,
+  "passed": 35,
+  "gate2_samples": [
+    "Why Did Nutrien (TSX:NTR) Fall 3.205% on 21 September 2026? - kalkine.ca",
+    "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+    "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+    "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+    "Is CF Industries Holdings Inc (CF) a Bargain After 3.2% Drop? GF Value Says Undervalued - GuruFocus"
+  ]
+}

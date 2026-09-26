@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-26",
+  "date_range": {
+    "start": "2026-09-20",
+    "end": "2026-09-26"
+  },
+  "generated_at": "2026-09-26T12:33:09.366551Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "oci-2026-09-20-001",
+      "date": "2026-09-20",
+      "title": "OCI stock holds steady as investors await next earnings update - AD HOC NEWS",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 10,
+      "last_week": 13,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": -0.05
+    },
+    "industry_general": {
+      "this_week": 103,
+      "last_week": 85,
+      "week_over_week_change": "+21%",
+      "sentiment_this_week": -0.03
+    },
+    "planting_season": {
+      "this_week": 8,
+      "last_week": 11,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": -0.06
+    }
+  },
+  "company_7d_summary": {
+    "oci": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 6
+    },
+    "corteva": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "bunge": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "nutrien": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "mosaic": {
+      "event_count": 8,
+      "sentiment_avg": -0.25,
+      "rank": 1
+    },
+    "yara": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "adm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cf_industries": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 5
+    },
+    "fmc": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cnhi": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "sqm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "intrepid": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "agco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 202,
+        "last": 201,
+        "change_pct": 0.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-20",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 41,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 48,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 35,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 28,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 40,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 5,
+      "sentiment_avg": -0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-20 ~ 2026-09-26）共 202 則事件，重點為「OCI stock holds steady as investors await next ...」。Mosaic情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Mosaic",
+        "reason": "本週情緒偏負面（-0.2），共 8 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "OCI",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Bunge",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
