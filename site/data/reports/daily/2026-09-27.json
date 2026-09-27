@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:23:46.228424Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 205,
+    "too_old": 138,
+    "gate1_blocked": 6,
+    "gate2_blocked": 17,
+    "passed": 7,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+      "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+      "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+      "CF Industries Holdings (CF) Pulls Back, Is It Still A Bargain? - simplywall.st",
+      "Is CF Industries Holdings Inc (CF) a Bargain After 3.2% Drop? GF Value Says Undervalued - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-09-27 無農業產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
