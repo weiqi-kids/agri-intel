@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:11:46.255730Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-09-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CF Industries upgraded at Redburn as crop rally brightens fertilizer outlook (CF:NYSE) - Seeking Alpha",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakFfUFc0VnRMSW5SN0g5NnJDZVY0d1FiVmlZYWluNjZFRjVncE5Tc3ZDTTRYTXVjVkxHUTA4aUJVcThhR1BNTUhrVUE5MHM5czY3TmNpVV9fN0E0amIxRWpRUjNVbFEwSW5PZDlpQm80MWRIUEtsT1JwVHl5bVRlVlhyUUpFLXZrTEpVTC0wdnZXRG5hdXRhN1RET2lDaFNMSDFaRU41Tkx6cTEzUGJYazZxTzk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-09-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rothschild Redburn upgrades CF Industries stock rating on nitrogen market outlook - Investing.com UK",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQemRvS1NWWUlmaGNOZDZBX0VXZWwxa28xZEpmOFIyNDdhQzZ3aG1lNHlacFZ1NjBkbWRNdUc2UjZkby02Z1p6MFM3ZmFEcDRyR1NFdXFUcGgzY1VjVjE3VEhsYjhnUE8yWjdnY1BqWmh4T3lrT084ZGZJNVVtS1NoMkpoY2lRMGhPSVlENHU4SlloZ1dyZHNsWjg4TDBFRk4wYTBESHJoZF9zR2NsT3paQ2V4SjVERUxocjFsTW9KdXpLMDdXVUtmMVpKelNNek1xNVhTWERzRUlLQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mosaic-2026-09-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic Company stock slips 2.93 percent as debt redemption arrives - AD HOC NEWS",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOekFXYzFja3J6ZmpvbmlPQ2dQSFpjaEJ4cmwzUWh0OGpPbFFIYjI2aFd2RHFQUUJrVDVveUZ1RzVUSkwyeUVabm1HMGNKdVY2Z0JHekhCOWRSYkVVSmVFc2o1N0s4S1pkRzZoZl8xeUxpcWJSSFFIU0pOdVE0S0IxYTVQT0FBNWkyUnZDZ2tvbVNVOFI4bDhVc0M3Wk9Tdlo2al9uLWdTYzNhekdySHFRblJxdVY3UF9jOVFkQ0c3T1FQbWVPVWdhRA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-09-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rothschild & Co Redburn Upgrades CF Industries (CF) to Neutral o - GuruFocus",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUNxcElQN0pyT0xCMXFlemFRNl9NdUNQRkdVOGpyaTZpLWVoOXk1NDVaQ1NHNjJyYy0ycGxDaERKajhHeGN4aU4zRUxXeE10SktaRzZDYXkwSzRIQjV6b0NPWVBSZXV5RXZtMktUX19USnRrZGgxYi1TcTBhTWM3YVM4dVp1eFBITnZodlcta0dVbTRiQy1jOHZLZU94NG5tXzlhTHZaZXl3a1p2cUxaYWdKb0NZYVJfN0lEX0J1eXZpZUJU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "yara-2026-09-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yara stock falls 2.28 percent as Q2 EBITDA rises 39 percent - AD HOC NEWS",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcDJyLVd4UE9rOEdOdUl6YXJUMkRuLUwwT29YaHV0ekxqa1M3enY2SXctQTRiYnQ5OEJiZ25rNENzTjBJbDdvSmM3MmtLY2FrdmExLTNYM3JqWnFUQjBNWGV3Rm51dTRLUGhXb0JIQWZfYTBqSVdXM2RZOU1mV0ZvdkxrSUtGcDhST0xhMXE5M09XQ3FXQV9jYklDeGc0TThES1NnUmtVV05GYjZrbWJlakRSVFU0T1JadjVoNW55TQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 3
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 193,
+    "too_old": 135,
+    "gate1_blocked": 7,
+    "gate2_blocked": 16,
+    "passed": 22,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+      "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+      "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+      "CF Industries Holdings (CF) Pulls Back, Is It Still A Bargain? - simplywall.st",
+      "Is CF Industries Holdings Inc (CF) a Bargain After 3.2% Drop? GF Value Says Undervalued - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為CF、Mosaic、Yara相關動態：「CF Industries upgraded at Redburn as crop rally brightens...」。主要關注主題為農業產業通用、法說會、貿易政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CF Industries upgraded at Redburn as crop rally brightens fertilizer outlook ...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rothschild Redburn upgrades CF Industries stock rating on nitrogen market out...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
