@@ -1,0 +1,247 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:23:42.318371Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-09-30-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Mosaic Company stock gains 1.58 percent as losses shape outlook - AD HOC NEWS",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTVd1LTMzZzVMbWFUdy1PY3NXNmdtN0w4Yl8xSkRWTjBMbmx2LXpiWWdNUlcybVBzdklFMzVmRHNfa3pONTNUQ3lzbVFNRHViY2RoNzZ6NW1tR0ZtaGNZZzhicGxzVVg1NjFob2FrYktCaDJObGJxYWM2RUt3a1JpNWpYRUxzclpxVFZ2VWtMd1FyTng2YzRKWW5GdE1hOFZIRWQyV19OeE51bWhQMFVXUXlJTklqMGM2SEFzandXbmN5bWhF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-30-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "‘Spoon-feeding' drives record corn yields on Pennsylvania farm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/crops/-spoon-feeding-drives-record-corn-yields-on-pennsylvania-farm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-30-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Yields, input costs push and pull on preharvest farmland market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/yields-input-costs-push-and-pull-on-preharvest-farmland-market"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-30-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record-high Tier-2 sugar imports expected to boost U.S. supply",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/sugar-beets/record-high-tier-2-sugar-imports-expected-to-boost-u-s-supply"
+    },
+    {
+      "rank": 5,
+      "event_id": "sqm-2026-09-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Química y Minera de Chile S.A. (SQM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEc0YxcTRJY1NKVF9Dek9TQWJUazNobUxXTHZhUElUTEhwdUd4YldXR3Jia3UzMjNINVR1TmsyMUVBbFVQTXRZZ3dYNThDQV9G?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 20,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 4
+      },
+      {
+        "id": "sqm",
+        "count": 2
+      },
+      {
+        "id": "corteva",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "planting_season",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 166,
+    "too_old": 141,
+    "gate1_blocked": 3,
+    "gate2_blocked": 21,
+    "passed": 45,
+    "pass_rate": "21.4%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+      "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+      "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+      "Is CF Industries Holdings Inc (CF) a Bargain After 3.2% Drop? GF Value Says Undervalued - gurufocus.",
+      "CF Industries Holdings (CF) Pulls Back, Is It Still A Bargain? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為ADM、SQM、Corteva相關動態：「Mosaic Company stock gains 1.58 percent as losses shape o...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Mosaic Company stock gains 1.58 percent as losses shape outlook - AD HOC NEWS（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "‘Spoon-feeding' drives record corn yields on Pennsylvania farm（法說會、農業產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

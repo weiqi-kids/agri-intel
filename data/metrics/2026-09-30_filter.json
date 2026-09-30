@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 3,
+  "gate2_fail": 21,
+  "passed": 45,
+  "gate2_samples": [
+    "The Mosaic Company Appoints Walt Precourt EVP–Operations; Swager To Retire - TradingView",
+    "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+    "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+    "Is CF Industries Holdings Inc (CF) a Bargain After 3.2% Drop? GF Value Says Undervalued - gurufocus.",
+    "CF Industries Holdings (CF) Pulls Back, Is It Still A Bargain? - simplywall.st"
+  ]
+}
