@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:55:19.267941Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oci-2026-10-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OCI reports USD 1 million net profit and OCI stock trades below EUR 4.10 offer - AD HOC NEWS",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHpyM0tTZkE0Q3o5NFpyNlc1dnc0TzVhWUhQQmx3eUZnWEVDbHBiQ3ZtdzRJVERTa3J4dU5DV2sxQzAxYkw1b19uOHd4N0ZmbmhCWGVKZ2lISVpnTV84ZG9rdndkQ29jRTNNMXh1NUJETnRYbWY3UmFiU2RiNFFMRFlXWE5wSkhITk1uMGxlQUluMHRPTE5BTUt2YjRFMEt3aE8zdVFUR0dkTWlRZGVHVjl6SFhQWlB2d05xVC05b1B5YzVNSDVVZ0wxekt2dFda?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-10-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Schedules Third Quarter 2026 Earnings Release and Conference Call - Business Wire",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMml2VDVjQS01V1IyTFBYWGtJaHFuLXFlRmtQbU5BUm16YXRnRGNmN3VZZ3M4NnF6LXJOT1BITzJWZk9BZnZlVlU2YkI4WnB3blNYZmszenNLZTQ4RDlvRUxnN2FJcGJacTFJQ0kxaUtrYnNWcEdnd2F0cnRmdlJydTJhWVEtZlBxVXRZS19TSzRjNDduNFUtZzhNeVlyRzNkSUpkeXdPSlR4YmJDSGpKRHpzQ29JWGE0LVJxMTI2ZVBSLXRpVW5r?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cnhi-2026-10-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial Reports Q2 2026 Results: Full Earnings Call Transcript - Benzinga",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVhmd2JEUmFmRHk1Um8tRFVaTmVqSVdnZ1p4Y0FrN2ZGN1dEYzh2Z1JnTmFrWkpJLUpfRkF6dlZZSUcyWnJabWsxZVZHYnJoVkMxWnlwQ0pqZ1JTNHc4Qk14YzlkLVV6bW1YS0hjVWtYRHBQNnRXTURweTVuTXVkU25ZT0thTDExZ3JhWHpSS1BkdVFPSk5FQk5YSFVWV2kyNzQyal9ZeUNGZGxVaHRjUFE5NA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sqm-2026-10-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Sociedad Química Y Minera De Chile (NYSE:SQM) Reasonable After A 52% Run? - Yahoo Finance",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYnVQS0VjTFQzOGNTZ2lUT2dDSC1oYUhVTVAzN3BzTXFWRmFuZlNsZmZxR1paQXNWd2t5dnJaaEhlUmVJV0VUNkRVaHd6Znk4T2U4S1FOdEdlSHBMVVJmRHk5aTFLaDJMUnE3WnNxcVhCMFV0akhuQzYzYVRvZ1RBX3VHcGVXVFF1SUZIODR4bkN6WGNB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "yara-2026-10-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Molan Steel Signs Deal to Resolve Legal Dispute with Yara International - marketscreener.com",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDRvTUxCMkExa3ZRQWF3cHJWZWtuMjBGSGNUd2pTY0F4a3A1SEgtQ29PMDQxVno0REhNTnN6NTdKMGVvRklodjJFTmJLeElZbzRLQ0R3Q1ZHZlN0TVNmeTlEUnlnbzNLTnJoMjV6S0I3NUIwS0xHUmtKME5qZXpVV2xHTFlVNnRmVFVURDM5bGJpckhhbkMtS0F5ODc5TU5SdXJmcjhPVmxiYlRzeVFQTGxQN194MDd4MXFvUUNXeWs3dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 186,
+    "too_old": 130,
+    "gate1_blocked": 5,
+    "gate2_blocked": 24,
+    "passed": 30,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+      "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+      "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+      "Here's How Much $1000 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzing",
+      "Is CF Industries Holdings Inc (CF) a Bargain After 3.2% Drop? GF Value Says Undervalued - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Bunge、SQM、Yara相關動態：「OCI reports USD 1 million net profit and OCI stock trades...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "OCI reports USD 1 million net profit and OCI stock trades below EUR 4.10 offe...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Schedules Third Quarter 2026 Earnings Release and Conference Call - Bus...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
