@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 6,
+  "gate2_fail": 27,
+  "passed": 39,
+  "gate2_samples": [
+    "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+    "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+    "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+    "Here's How Much $1000 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzing",
+    "CF Industries Holdings (CF) Pulls Back, Is It Still A Bargain? - Simply Wall Street"
+  ]
+}

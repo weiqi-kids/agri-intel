@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-02",
+  "total_events": 20,
+  "by_company": {
+    "icl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "intrepid": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nutrien": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sqm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corteva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": 0.0
+    },
+    "fertilizer_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "crop_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "icl",
+      "to": "intrepid",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    },
+    {
+      "from": "icl",
+      "to": "nutrien",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    },
+    {
+      "from": "intrepid",
+      "to": "nutrien",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ]
+}

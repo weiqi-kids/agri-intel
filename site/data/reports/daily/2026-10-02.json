@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:16:56.406539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "icl-2026-10-02-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Nutrien, ICL and Intrepid Potash - Yahoo Finance",
+      "companies": [
+        "icl",
+        "intrepid",
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWkE4aHVnTGVqeFIzbWRBU00zU2pveU9DSVFRaUtUSUthUV9FR3VaNFN5SUZjcHZ2LUdNZG9xbTNBam1heFNaMHpxTjBFRGNtTnRCdDZrYTdMTjdzNXk3eW10U3JLaVhsLVQ5VHRkZnlreFBrS2w0Z0ZwNHE5cnNkV1VNX0pZa2JZRGg0TnprRmxndXJZMU5SeDVYZTRzVThyUXZNcG9mUVBoZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "icl-2026-10-02-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Nutrien, ICL and Intrepid Potash - Zacks Investment Research",
+      "companies": [
+        "icl",
+        "intrepid",
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0dqT2x1VzVIYlZsSU1NZjVKVVBIeDROdW16UEFqcHlfdXo0eTV1Z3hyVmtobjBCeUhVeUtQSkNPOVEyNUJZb0JpMzJTSEVPZ2FXWExhbHBsQmstSjd1UUdoZWRjVVRMT2FiSXJLTGVTSHFpLWx0VXFScGxEVUY2WVIxeU9uVXlOb0dYYVI3WjBRTG9ScXd5anJxUE9NVHdGdjBOOWdlYVdhYzdJWDV3U0xoZXd3TUtBcDc5RmhwRjZKYUxhbi12RmxYcE5TVVVrUGZMUTA1cXhhTVVVbFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nutrien-2026-10-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is Nutrien (TSX:NTR) in Focus as Fertilizer Prices and Potash Demand Drive the Outlook? - kalkine.ca",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXZNZXJBcDdIdUNhazYxZDYxUmVBX0s0RkVOSjE2N09rUDgxckRxVGVLTWhRMk9xaE54bXlrOEpzUnhkZEFvdXd0MFZKc1A5NFFrdnYzUFpDT2NvUXI5eGRac1VQUnNiejIwNHFnT1NRZWp6bHBORlNTdjc4VjU2QlprOWJDeGk5ZWl5cmQ1b2tENEI5VGptME45UXlOTXg1Uy1CNDRGdjR5SU5ud0M0blVuZUZfOFFnalE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-02-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "‘Focus now shifts directly to yields and demand’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    },
+    {
+      "rank": 5,
+      "event_id": "sqm-2026-10-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Did Lithium Expansion Plans Just Shift SQM Stock's Investment Narrative? - Simply Wall Street",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdC0ySHlDdUxzQU1lS3VfMmg0b1RXb0JZd3ZEVEdTOFNIZWFub2ZkM1l1ZE5xQkxJQ0lpd29KT0dkMzZ4b1hjUHRlYkVEYWVwZERPTURyQ1RsNWVKWC1ocnJfbTh6Q1RhWnM2dDkyb0w2ZF9QeHI5TGJNb0wwRDBZeUhOZ1RqUTltNUY5S0Nsd3BqQ3AwdTZUdUxPMktoM21ncmxiRGszaDR6a2RJeGFIN05KeHVlUnN3bHExWC1wWDZyQ2dwWVllS3pKZ0J0ek1qNWMwYTlmendDTGZxVVVCdEpxdXpuQdIB6wFBVV95cUxPQkFrbkVVS2xGa3F6aURqWms5NlZFN1liYTdxVWFhVG9XLWFfUEZmTkx5VDNWRDZCeE03RXJVVnI1U2haYmU0TDRYNUcxazZTVEFKREJhTnIzVjVPelNXTmNSRjdmWVd1M1kzZXdXc1hvcDNTdFh3aE8tMXlEdTI3OThMVTM1NHBvNjFQU0h3UDhNWmpZY1VBTkpHZlhjRTJDZ25PX3VnMjhYYVJSS1FELS1LaWUwd3JTS3VVVmlzWjBQMTBabG5fYlJsMzVCMlFJVjFZNlpJWTJ6c09zYlNLclQ3MTd1bTBTRXE4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "icl",
+      "to": "intrepid",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    },
+    {
+      "from": "icl",
+      "to": "nutrien",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    },
+    {
+      "from": "intrepid",
+      "to": "nutrien",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 3
+      },
+      {
+        "id": "icl",
+        "count": 2
+      },
+      {
+        "id": "intrepid",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 175,
+    "too_old": 129,
+    "gate1_blocked": 6,
+    "gate2_blocked": 27,
+    "passed": 39,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "ICL.B7 Bond Profile: Coupon and Redemption - TradingView",
+      "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+      "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+      "Here's How Much $1000 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzing",
+      "CF Industries Holdings (CF) Pulls Back, Is It Still A Bargain? - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Nutrien Ltd、ICL、Intrepid相關動態：「Zacks Industry Outlook Highlights Nutrien, ICL and Intrep...」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Highlights Nutrien, ICL and Intrepid Potash - Yahoo Fi...（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Zacks Industry Outlook Highlights Nutrien, ICL and Intrepid Potash - Zacks In...（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
