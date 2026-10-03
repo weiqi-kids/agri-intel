@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:49:30.242102Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mosaic-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mosaic Company names Precourt to lead operations. What it means for Mosaic Company stock - ad-hoc-news.de",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjZoWk5oRS1sS0ZWcDctOHRZT2ZVMUFEcEw1T3FoZWJvajBjN1BLdUh6Rzl0aFBKMzAwZmN1YXhuUWkyZlB3THJfSjBFalVTcWNtUEo0UENLRmxKWkNUQTJQWFZtaW53X2VlaDZOM2J6U2NtZ0tWM3FGcXU5ZFg2RkVHZXBwUlVGVVhqcjNaZzRsZWZpaEREZmp0LVM3V0lrUmtSRHJwSDRtSnM0cld0bllTSGZ1T1NhbUJfd014bjkwZDU3cDlhVnNkMWpweEVsWkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sqm-2026-10-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Química y Minera de Chile S.A. (SQM) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEc0YxcTRJY1NKVF9Dek9TQWJUazNobUxXTHZhUElUTEhwdUd4YldXR3Jia3UzMjNINVR1TmsyMUVBbFVQTXRZZ3dYNThDQV9G?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oci-2026-10-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI reports first-half results as NNS offer targets OCI stock - ad-hoc-news.de",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDlzd1dpWGVhVDZKY1h6X0hQblhvM0NCWm1Cem5NNVNCZGdqN0NZVjZYRlo0enVXbTBaS3Q0aXdiMFpqc0M1Vk1wd1dIMTNmeTlSeGt6Uzk3UFhWRnVMYkhpTkNLZ0lIakVXVlcyaVJBaG5DZjUwTXBRMTBJRDJRWkFLYi1aRWRnV3lvVnVNQWVNSnFqRmxVQko3eXpwUzJVbS1HY01QRlN4VzFKQUJGOG9kdWFIc3pWYjJ2Z3pIRGNiUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corteva-2026-10-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "An October 1 trading debut is expected for Vylor (NYSE: VYLR), the Corteva spin-off. - stocktitan.net",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1NSaFJxOXFPUWtTV3B4b3lvRkNWTnRzdlREcUszNV84bXlWTGRON3pNdFlvZkFIaHc5Snh4SFV2cHNmdDdVNGZGdThNMVVGZWZSM2FJd3NoVk1IRVNVeFN4MXRhU2tUZXM0d0p1OUdrVjhKZTVyU3BfSHkwWWJFdnlrY1lpajZqbUlYcEliODREbGNmREZPR3JwT0N4R3M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Week in Agribusiness, October 3, 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-october-3-2026"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 186,
+    "too_old": 134,
+    "gate1_blocked": 6,
+    "gate2_blocked": 21,
+    "passed": 29,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+      "Sociedad Quimica y Minera (NYSE:SQM) Cut to Buy at Wall Street Zen - MarketBeat",
+      "Here's How Much $1000 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzing",
+      "CF Industries Holdings (CF) Pulls Back, Is It Still A Bargain? - Simply Wall Street",
+      "Yara International: Texas City Turns A European Gas Hostage Into A Spread Owner (YARIY) - Seeking Al"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Mosaic、SQM、OCI相關動態：「Mosaic Company names Precourt to lead operations. What it...」。主要關注主題為農業產業通用、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mosaic Company names Precourt to lead operations. What it means for Mosaic Co...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Sociedad Química y Minera de Chile S.A. (SQM) Stock Price, News, Quote & Hist...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
