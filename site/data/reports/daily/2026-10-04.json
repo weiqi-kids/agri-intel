@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:33:19.882694Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-10-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Molan Steel Paid Yara International SAR 6.8 Mln Under Payment And Reduction Agreement - TradingView",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb254LXp3bGpFZkhQN1ZTQ0ZjaEwyWUk4OVRhaWk5cVlZRDRvMWNmb0pRZ1JValBnWHJLc1ZFZ1FQU1JzQ0ViWXlkOTh1YVFRSGJHRXRsTHk1RTltd3NTaEVySlZtSU9rNWdwNU4xM0dFV19mclNQSHVwRVcxM2dFZWZCVXFSejlESE9jLWlFNGtHcmtMNl83U0NiSnBkUmxkTWFncUJ1WElDU09ubEN2X0l3S1p5UEJlSTlTWFpBSng3ZnV6YkFoNktiTTlpaDZ2Tk9SMkNibDZWUGVDUGlpQ0hoa0NDUWF6TVNF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "yara-2026-10-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Molan Steel Fully Settles Payment, Reduction Deal with Yara International - marketscreener.com",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVC1SWDBXM3JiWVdiTmtwYUVfeUZNSXpybEhjT3I0WjhEXzF0eW5BdmZvOHBuTjRrNDc1TTZyZXJxV21QZFBZeUFzVTVPNjRvcmg4LTVlTFh0dk1RY1lXMklCMDQwSi1aV3ljajBQQkJuNVItcVdzLVZZNzJPVFpmUU5zb19nZkNNT2hwNkVJNEQ5dzhhWlFPSzNWcDkwS0c2ZHBVTi1IajBxNE9hRTRCalRGcHQyV3N3NVV6VXFOTlNqTGM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "yara-2026-10-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Molan Steel Settles Financial Obligation to Yara International After Paying SAR 6.8 Mln - maaal.com",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCRkZLNUNOUkNHNnNSeDBlNjJSSXQ5dlpGYWpLNzVWakdmWVIyWEU2REtaS0FnZWlXT3dPcHZrUXpydXIzZndRZkFSSV9Oa2tWTElMZkRkcTFaMVo2NTFnakNsUTFEa0dDWjVfUw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "yara",
+        "count": 3
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 147,
+    "too_old": 172,
+    "gate1_blocked": 6,
+    "gate2_blocked": 25,
+    "passed": 26,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+      "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+      "CF Industries Holdings, Inc. (CF) options chain - uk.finance.yahoo.com",
+      "Here's How Much $1000 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzing",
+      "Yara International: Texas City Turns A European Gas Hostage Into A Spread Owner (YARIY) - Seeking Al"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Yara相關動態：「Molan Steel Paid Yara International SAR 6.8 Mln Under Pay...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Molan Steel Paid Yara International SAR 6.8 Mln Under Payment And Reduction A...",
+        "level": "green"
+      },
+      {
+        "text": "Molan Steel Fully Settles Payment, Reduction Deal with Yara International - m...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
