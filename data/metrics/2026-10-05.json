@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-05",
+  "total_events": 24,
+  "by_company": {
+    "nutrien": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "mosaic": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "intrepid": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oci": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnhi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "kubota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": 0.01
+    },
+    "planting_season": {
+      "count": 2,
+      "sentiment_avg": -0.75
+    },
+    "crop_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

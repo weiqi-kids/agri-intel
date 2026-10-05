@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:32:50.003202Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Looking for another farm revenue stream? Invite guests",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/looking-for-another-farm-revenue-stream-invite-guests"
+    },
+    {
+      "rank": 2,
+      "event_id": "nutrien-2026-10-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nutrien’s Annual Revenue per Employee Puts Fertilizer Margins and Retail Revenue Quality in Focus - kalkine.ca",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXFRQV9jYW9hcG9IWTNKV1lzYmRLVmtpY1h4Wm9McTd5ZnBYX3hmS09UalJHaWhkQ19uWHB2V2ZJSWdmeTdhT0dEQUJFSUFFM1dSamtfVmJvNy1QZllXeE1hVzU4RDBSUlRIVzVGRGludEJTcHFwRDJPNEZQRTR2YmVzYmw2MnRMZVZJeHptb3dqZk1IOUdPeGRERFM1b2pwdmdCMjh0QU1JNzBYNlBWWFVNQm1neXZBUmJwU2VtM2kzRjktNVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "oci-2026-10-05-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OCI reports USD 1 million profit as OCI stock sits below EUR 4.10 offer - AD HOC NEWS",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3pCZDY3UktsUl9ZZFdQUGM4d3JzZ0NCd0MxT2RScHpJX1ZLZEdDbEhfS0FOR25Kc21VQTJmNXFicTRya2Z2Q1dPc1F3WTRzYkhFczdBTWwweXdZRlpNWkNKTDZTaHptMFJBelU3djZaMTgxdUN1TFFBTjU5OXFTV1VmV3VwUGdPYzljamdvSkJzQ2IzY1RlLU8yZ0ZJS1gxQUMyamVNSDJfRGRaWWYyWnBmNThzRDhTSXJicEZUSUtNVmVoQVNHLVNsU1lleEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-05-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Beef producers can expect strong returns for fall-marketed calves",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock/beef-producers-can-expect-strong-returns-for-fall-marketed-calves"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-05-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How a ‘buddy system’ can help you stay on top of markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 2
+      },
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 136,
+    "too_old": 170,
+    "gate1_blocked": 6,
+    "gate2_blocked": 24,
+    "passed": 39,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+      "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+      "CF Industries Holdings, Inc. (CF) options chain - Yahoo Finance UK",
+      "Here's How Much $1000 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzing",
+      "Yara International: Texas City Turns A European Gas Hostage Into A Spread Owner (YARIY) - Seeking Al"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Nutrien Ltd、Mosaic、CNH相關動態：「Looking for another farm revenue stream? Invite guests」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Looking for another farm revenue stream? Invite guests（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nutrien’s Annual Revenue per Employee Puts Fertilizer Margins and Retail Reve...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
