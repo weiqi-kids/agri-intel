@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:34:41.663882Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-10-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nutrien Earnings: Fertilizer Margins and Cash Conversion Shape the Investment Outlook - kalkine.ca",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0taVGRDdEVZaUxvMmxSeENtaUFrUmw2VlM5UU5MMjhad2RzUmRZdnNBdmZTMUNqekxqajFqUTZpVXVvbDFiNS1wRU5URjNHVHZlV1dieDNDZVlsOTZZTnJtU1BDOHg4akkwWVdnSVlFd0xyT0hoRzE0RGROektHa0p4Ri1RMnE4cGVqMXZLMThIYW5OTW1TLVhHaFpQRE8wblE1My02VUJmUGRFZFFQSEFsX2RUYXFkQmVxag?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-06-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "USDA supply shocker knocks corn off $5 perch — for now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.17
+      },
+      "source_url": "https://www.farmprogress.com/corn/usda-supply-shocker-knocks-corn-off-5-perch-for-now"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-06-023",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Texas peanut acres drop to 145,000 acres amid drought, market pressure",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/peanut/peanut-acres-drop-to-145-000-acres-amid-drought-market-pressure"
+    },
+    {
+      "rank": 4,
+      "event_id": "nutrien-2026-10-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien Pulls Plug on Trinidad Nitrogen Plants, Threatening Ammonia Supply - ChemAnalyst",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTTV4blBmc2tkekZObnJSLUJEUXV0SzB1ODVpSXozWVc4Mmt4RnJRUHdpY25FeFlRSXMzZVB5YS1YM19Ha1JRQjluR3VidHpRTzlsdzl3QndWODNYYkVFbnhIeHp3QzdJNlZNbTA2SVZiOW9LQ3Y4T3hKWS1DMEZaakJLcHJIRVg5TFh6Ry1yZU9rS29ib21Tby12aHBFUXZNMWFiRFNkMXFONFZNWjEzamktbnJORVFhbktYNVNqZmxHMFU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nutrien-2026-10-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien Joins Most Actively Traded Canadian Stocks as Fertilizer Markets and Portfolio Moves Drive Investor Attention - kalkine.ca",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcTlid09qVmkzcXVHeURHaTc3eXhiZ2Nla2Z4dklUWDJueTdwZXdCeWdEZmk2V2pnaDRDaVp2SDBsRXhFT2RpY0RpMHFMZnpVVHpLY1hMYk14TE82cUVScFZHTzNVZWxzWExocXlRZlNSdmtvUFROakpjMW5UeE1LemxSU3JBWnRzbnlKZzY4cmh0Y0U5TDhxTFRGbFF6Rk1EeWtlNjkyQnhXUmJRQnlBT3QxNmhVczN5eDZubFJVTmU5dWdUR0dSc2hHTjdTM0tscjJITzc5U09SUU52V3RzSXl3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.22,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 3
+      },
+      {
+        "id": "oci",
+        "count": 3
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "planting_season",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 374,
+    "dup_title": 177,
+    "too_old": 125,
+    "gate1_blocked": 6,
+    "gate2_blocked": 21,
+    "passed": 45,
+    "pass_rate": "22.8%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+      "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+      "CF Industries Holdings (MIL:1CF) Short-Term Debt & Lease Ob - GuruFocus",
+      "Here's How Much $1000 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - benzing",
+      "Could Cf Industries Holdings, (NYSE:CF) Turn Its Current Setup Into Progress? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Nutrien Ltd、OCI、Mosaic相關動態：「Nutrien Earnings: Fertilizer Margins and Cash Conversion ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nutrien Earnings: Fertilizer Margins and Cash Conversion Shape the Investment...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "USDA supply shocker knocks corn off $5 perch — for now（種植季節、法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

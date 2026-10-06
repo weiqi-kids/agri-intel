@@ -1,0 +1,16 @@
+{
+  "total_raw": 374,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 6,
+  "gate2_fail": 21,
+  "passed": 45,
+  "gate2_samples": [
+    "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+    "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+    "CF Industries Holdings (MIL:1CF) Short-Term Debt & Lease Ob - GuruFocus",
+    "Here's How Much $1000 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - benzing",
+    "Could Cf Industries Holdings, (NYSE:CF) Turn Its Current Setup Into Progress? - Kalkine Media"
+  ]
+}

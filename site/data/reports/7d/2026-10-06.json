@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-06",
+  "date_range": {
+    "start": "2026-09-30",
+    "end": "2026-10-06"
+  },
+  "generated_at": "2026-10-06T14:34:41.804039Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "icl-2026-10-02-001",
+      "date": "2026-10-02",
+      "title": "Zacks Industry Outlook Highlights Nutrien, ICL and Intrepid Potash - Yahoo Finance",
+      "importance_score": 0.95
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "icl",
+      "company_b": "intrepid",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "icl",
+      "company_b": "nutrien",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 16,
+      "last_week": 8,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.04
+    },
+    "industry_general": {
+      "this_week": 113,
+      "last_week": 92,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": 0.01
+    },
+    "natural_gas_feedstock": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "planting_season": {
+      "this_week": 18,
+      "last_week": 8,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": -0.13
+    },
+    "fertilizer_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "crop_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "trade_policy": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mosaic": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 4
+    },
+    "sqm": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "yara": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "taifer": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "corteva": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "adm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "bunge": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cnhi": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "oci": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "fmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "icl": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "intrepid": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nutrien": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "kubota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "cf_industries": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 215,
+        "last": 223,
+        "change_pct": -3.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-30",
+      "event_count": 50,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 37,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 42,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 40,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 24,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-30 ~ 2026-10-06）共 215 則事件，重點為「Zacks Industry Outlook Highlights Nutrien, ICL ...」。農業產業通用、種植季節、法說會為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Mosaic",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "SQM",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Yara",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
