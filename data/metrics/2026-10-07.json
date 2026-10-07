@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-07",
+  "total_events": 18,
+  "by_company": {
+    "nutrien": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corteva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kubota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": 0.11
+    },
+    "trade_policy": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "crop_price": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "planting_season": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

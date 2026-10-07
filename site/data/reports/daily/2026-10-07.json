@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:51:40.034778Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-07-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tight supplies support soybean prices in wake of China’s snub",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "trade_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/tight-supplies-support-soybean-prices-in-wake-of-china-s-snub"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-07-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How to delegate data analysis to the next generation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/how-to-delegate-data-analysis-to-the-next-generation"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-07-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A smarter strategy: Rethink cow size for maximum profitability",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/cattle-news/a-smarter-strategy-rethink-cow-size-for-maximum-profitability"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-07-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Iowa yields under scrutiny coming into Friday’s WASDE report",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/iowa-yields-under-scrutiny-coming-into-friday-s-wasde-report"
+    },
+    {
+      "rank": 5,
+      "event_id": "nutrien-2026-10-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien provides update on Trinidad Nitrogen operations - World Fertilizer",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlF6YVNLcXBfTXdORnF6ay1GeG1jSlJwU083X2RvYWpobnVNWjNwMnpwT2lfZlpzWmdjQVJWS3hYc3hJSEVuNy1PVEQtRTFwRTMxXzFscVVNLUVuV3NubW5WZW5NbFhTNW4xdGhoSUFtZmpLZnY0dUlEUEFkZENfMl9LY3NaZ0lCT1JwNUxsVE13V2RYZ3RmTkhRU2pPejNLeUV4Wi04ZlN4d9IBrwFBVV95cUxQc1pvQjd2WG1ITU9EVUJSRGZ4d3E5WGNKQnlFT0VkNTdXVUdOTDc3SGZXUDdtMUs3Y0pyeUlMdEo5cFl6T2dEMjNuLWgxdVYwM0poSlJJNWNNRFBfblc2Mjg0QkpBQUFoRlFIcGFzbUNtQkxGS0NxSlpZbTNKSFBOd3BkbEZUd1RWdzFuYV9qSkxwV2hjYkR1dllOZXhpRFpmdHItM0Z0RlU1M1RiRHAw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "kubota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "trade_policy",
+        "count": 2
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 191,
+    "too_old": 126,
+    "gate1_blocked": 5,
+    "gate2_blocked": 17,
+    "passed": 34,
+    "pass_rate": "18.7%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+      "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+      "CF Industries Holdings, Inc. (CF) options chain - Yahoo Finance UK",
+      "Could Cf Industries Holdings, (NYSE:CF) Turn Its Current Setup Into Progress? - Kalkine Media",
+      "Yara International: Texas City Turns A European Gas Hostage Into A Spread Owner (YARIY) - Seeking Al"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Nutrien Ltd、Corteva、Kubota相關動態：「Tight supplies support soybean prices in wake of China’s ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tight supplies support soybean prices in wake of China’s snub（農作物價格、貿易政策、法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "How to delegate data analysis to the next generation（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
