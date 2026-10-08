@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:02:25.908269Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-08-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Monitor these 4 wheat market drivers as prices stabilize",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/wheat/monitor-these-4-wheat-market-drivers-as-prices-stabilize"
+    },
+    {
+      "rank": 2,
+      "event_id": "intrepid-2026-10-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Intrepid Potash stock draws a 22.9 percent 2026 growth outlook - AD HOC NEWS",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnVUN21aQWtsWjEwdW1BZVA5SW1OeGxaYnNDZ1RsNUU0dXFYMUk1aEREUVNya0pWTFlpbERZUmlBbXQxN3dpOXh5dlJQVTg2bk9JSlg5YU9pdlg2ZFgtOHBxU0VQY3l2MDRMcHJCSUlkMGR6cVJGUmdCZ2tiTnNhSjZETUhkMWppWWhqQldHRDVGdjRTUEU0LW9oRkQ1Zm94MVBCMUhxTDd0bnpNQk5SbXhEdDQzQmJFYnliZDBB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intrepid-2026-10-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks projected 22.90 percent earnings growth for Intrepid Potash stock - AD HOC NEWS",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzl0ZEIwb3FEcW42UUlVUzJiWkhRQ1Jrc0JBcTd3eUFxT29kankxWXEzUW1fdm8wSFlPVVFLdWhERTRhTlQtd2dSQW9ZV3ZXblRqVEw0OWh5aS1YTTI3LW5qRFdjenppQ3ltbE5HN1Bfc0FhUHlYbnpacjZjenZ0S2xrbF9xenFJNlNEdjRBNFVhZnlpTlhQdG4yZC14dlhNdGhJdHFPX3hfZV9yY0VvTDhlSy1ONDJjTDJZc0NMcjdxdGFkNmpXQ2ZB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-08-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 takeaways from World Dairy Expo 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock-and-dairy/3-takeaways-from-world-dairy-expo-2026"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-08-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Summit snub casts doubt over China’s soybean purchases",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 2
+      },
+      {
+        "id": "oci",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 179,
+    "too_old": 128,
+    "gate1_blocked": 4,
+    "gate2_blocked": 20,
+    "passed": 41,
+    "pass_rate": "21.2%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Can CF Industries' Strong Cash Flow Drive More Growth and Returns? - TradingView",
+      "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+      "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+      "Could Cf Industries Holdings, (NYSE:CF) Turn Its Current Setup Into Progress? - Kalkine Media",
+      "CF Industries Holdings, Inc. (CF) options chain - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Intrepid、OCI、Nutrien Ltd相關動態：「Monitor these 4 wheat market drivers as prices stabilize」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Monitor these 4 wheat market drivers as prices stabilize（農作物價格、法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intrepid Potash stock draws a 22.9 percent 2026 growth outlook - AD HOC NEWS（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

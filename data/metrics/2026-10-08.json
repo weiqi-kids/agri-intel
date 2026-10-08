@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-08",
+  "total_events": 20,
+  "by_company": {
+    "nutrien": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intrepid": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "cf_industries": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yara": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oci": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnhi": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": 0.03
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "natural_gas_feedstock": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "crop_price": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 4,
+  "gate2_fail": 20,
+  "passed": 41,
+  "gate2_samples": [
+    "Can CF Industries' Strong Cash Flow Drive More Growth and Returns? - TradingView",
+    "Sociedad Química Y Minera De Chile (SQM) Looks Undervalued On Paper, So Why Is The Market Hesitant? ",
+    "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+    "Could Cf Industries Holdings, (NYSE:CF) Turn Its Current Setup Into Progress? - Kalkine Media",
+    "CF Industries Holdings, Inc. (CF) options chain - Yahoo Finance UK"
+  ]
+}
