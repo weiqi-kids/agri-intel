@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 7,
+  "gate2_fail": 14,
+  "passed": 30,
+  "gate2_samples": [
+    "Is Sociedad Química Y Minera De Chile (SQM) Undervalued Following Its Recent Pullback? - Simply Wall",
+    "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+    "CF Industries Holdings, Inc. (CF) options chain - Yahoo Finance UK",
+    "Yara International: Texas City Turns A European Gas Hostage Into A Spread Owner (YARIY) - Seeking Al",
+    "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - "
+  ]
+}

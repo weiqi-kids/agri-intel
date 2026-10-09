@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:46:37.465940Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corteva-2026-10-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corteva: A 'Buy' On Constructive Growth And Margin Outlook (NYSE:CTVA) - Seeking Alpha",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQndrT2N1QWFDSU9ENXpXcHdsSFBLaV9JdGJ1b0IyZVBtRW9HOWdORnM4VC04RTNSZ3BDVUNXc21jWmVjTTU4WE9oeDRVMUo0Z1N1QWt3VW11NXRQN2VoVEl5bWR0SW1ZbnZqd01IOFFnWUtEWXc5MjlmQWpFeGpZQndESTNTNkstdjFHcEozVU9FVWpp?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-10-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Consumer Staples Earnings Momentum Boosts Archer-Daniels-Midland Co (ADM) Ahead of Q3 2026 - GuruFocus",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUpyLWNzeXNEYVVLdTdmY05MbmZSLVhRRmxRYjVaRUhTOVVEYUQ0ajk5Vi1lYWVkeXdwcWNWTU0tcFpGQmwzNGhiSUU0b29QZ2lqSU55UGxjMXlZMlZZZnR1WGZIblNMVWYxTVVucjlWc3lISEpEQWYwRnlKX0tsX0t1N2JfRkpwLWNqSXEzWlFqd3FNSkR0OGZhU1JrZGQzejhaaV9lY2VvVFdLTU01bG4ydlhTYWpkdlBpXy1VTG9NdEk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-09-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How to survive a freaky USDA Friday? Play defense",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-09-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FAA cracks down on illegal drone spraying with record $290K fine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/tv-and-radio/faa-cracks-down-on-illegal-drone-spraying-with-record-290k-fine"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-10-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CF Industries Holdings (CF) Following Its Dividend Declaration And The Undervalued Narrative - Simply Wall Street",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWZHeWFIOFFjX3RoYmNVNGtCR1ppbjZEX0xRTlFNYm5kM2Z3cmMtc2hLTWlQZXB4ZDF5ZlZKYXh0SzU3T0NJRVU4djJKbm9JTWdtYlMtUU13U3FjU1gxWDgxTFBISjc4Y0cwQVhMeGtJRUp3RnhFdU5ia0RnLXQ2ZTdTdjlVMDltSFE1ODZ6YXlQRUhJYVZpUU12dW1WeFpCQ3lnaWlxX1RuNmJRRG1GZHBHRmp2ZzVRRkMtRGhPTUVGMGF3Wk9NOU53bkttUGpCVFhqQtIB2gFBVV95cUxPZW1MR29ESl8ydy1PMXFrbU11ZDRmbFBCWF9lLXBNdzhRTGVldWhpaW5WYnBsMWkzazhlcTJwSHBrRFRrMVBTbVM4Vm9EcTVSei1FWmp5NFExcDRDMFk1cm5MRGxIWmRVVDhFYTdHVVdtRjZ3UENZMVJOUjREVU82SEhQanluZVJFVzVzWUp0cDB0eEdKN1hKUndGTlJQWkc5WVNiTTRiTlNHUnAxRk9mNUJGeG4tU2tlVDhCU3RIY3B0ZnNFdGFhM1A1ZTRxUnBaX3ZrQ1dhZ0JQQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 191,
+    "too_old": 131,
+    "gate1_blocked": 7,
+    "gate2_blocked": 14,
+    "passed": 30,
+    "pass_rate": "16.5%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Is Sociedad Química Y Minera De Chile (SQM) Undervalued Following Its Recent Pullback? - Simply Wall",
+      "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+      "CF Industries Holdings, Inc. (CF) options chain - Yahoo Finance UK",
+      "Yara International: Texas City Turns A European Gas Hostage Into A Spread Owner (YARIY) - Seeking Al",
+      "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為CF、Yara、Corteva相關動態：「Corteva: A 'Buy' On Constructive Growth And Margin Outloo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Corteva: A 'Buy' On Constructive Growth And Margin Outlook (NYSE:CTVA) - Seek...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Consumer Staples Earnings Momentum Boosts Archer-Daniels-Midland Co (ADM) Ahe...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
