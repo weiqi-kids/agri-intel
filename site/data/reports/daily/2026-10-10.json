@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:04:55.444074Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (NYSE:ADM) Stock Gets Downgrade from Wall Street Zen - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVNmQzI5cUg3V3Bld0J3eWRkaF9fdnpOUTVOV3ZuNE5IYnJ5TGdBMXh0STZJcUVrWjVzd21zYWJfZl94QTRQTUFsN3hzMWJvX0VPZkRXUHBPTTdQNDVJRUtmd0Rrc1hDd0lma3FHTU1xemg2aGFJWHJOTmJsemxSSWFaSVY5ZVJSQm5MMGRYZWFFbnNDS2c2WU1heUx1OFlPY2E0cUtuOUw4TkFGNkV3M2FMNkRJQllOX1hMZUdkQ1ZLbzZMTV9UVGY1NDFKSzV3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Week in Agribusiness, October 10, 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-october-10-2026"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 209,
+    "too_old": 129,
+    "gate1_blocked": 9,
+    "gate2_blocked": 10,
+    "passed": 18,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Mosaic Dance Company founder plans 30th anniversary extravaganza - Santa Fe New Mexican",
+      "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+      "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - ",
+      "OCI N.V. statement regarding correspondence from the Dutch association for retail investors (VEB) - ",
+      "Corteva (BOVESPA:C1TV34) - analisi del titolo - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ADM相關動態：「Archer Daniels Midland (NYSE:ADM) Stock Gets Downgrade fr...」。主要關注主題為農業產業通用、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland (NYSE:ADM) Stock Gets Downgrade from Wall Street Zen -...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "This Week in Agribusiness, October 10, 2026（種植季節、農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

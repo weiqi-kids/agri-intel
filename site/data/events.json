@@ -19,6 +19,45 @@
     ]
   },
   {
+    "id": "adm-2026-10-10-001",
+    "date": "2026-10-10",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (NYSE:ADM) Stock Gets Downgrade from Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVNmQzI5cUg3V3Bld0J3eWRkaF9fdnpOUTVOV3ZuNE5IYnJ5TGdBMXh0STZJcUVrWjVzd21zYWJfZl94QTRQTUFsN3hzMWJvX0VPZkRXUHBPTTdQNDVJRUtmd0Rrc1hDd0lma3FHTU",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVNmQzI5cUg3V3Bld0J3eWRkaF9fdnpOUTVOV3ZuNE5IYnJ5TGdBMXh0STZJcUVrWjVzd21zYWJfZl94QTRQTUFsN3hzMWJvX0VPZkRXUHBPTTdQNDVJRUtmd0Rrc1hDd0lma3FHTU1xemg2aGFJWHJOTmJsemxSSWFaSVY5ZVJSQm5MMGRYZWFFbnNDS2c2WU1heUx1OFlPY2E0cUtuOUw4TkFGNkV3M2FMNkRJQllOX1hMZUdkQ1ZLbzZMTV9UVGY1NDFKSzV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-10-002",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Week in Agribusiness, October 10, 2026",
+    "summary": "Harvest updates, diesel tax relief, propane rebates, and new biofuel market opportunities for farmers featured this week.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-october-10-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-10-09-001",
     "date": "2026-10-09",
     "companies": [
@@ -311,6 +350,221 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-business/harvesttime-brings-steady-land-values",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-10-09-017",
+    "date": "2026-10-09",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Nutrien (NTR) Stock Is Down Today - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUkZnZzBnYnRGZ1NsU0ZaNGg0VXJPeVBwNFhPREtNV0FpY1dCcEpNaGhuRWtmcHoxdUFxM0h0TkJWQ3p0N1NIUjZsUmlvZjFVa3BsTWhkamVIQjh1b09oOTFWQnBtYkM3UG1KSXVpNX",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUkZnZzBnYnRGZ1NsU0ZaNGg0VXJPeVBwNFhPREtNV0FpY1dCcEpNaGhuRWtmcHoxdUFxM0h0TkJWQ3p0N1NIUjZsUmlvZjFVa3BsTWhkamVIQjh1b09oOTFWQnBtYkM3UG1KSXVpNXBDMVlXeDAtWGJKR3Z1RTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-10-09-018",
+    "date": "2026-10-09",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fertilizer Cycle Watch: Nutrien Attracts Substantial Canadian Market Interest (TSX:NTR) - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGtTWk9WTldtN1p3RHZYc0tLRC1Ld3dZUzZXSnBJY1J1N0YzVWEwLUF5cGl0OWNtdVkxU1ptMUY1VkVNZm0xQ2RtZk1BSU1RS1JkWTVmSDR4bC1lblc4cmppbkowblpYWGpQajEwVT",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGtTWk9WTldtN1p3RHZYc0tLRC1Ld3dZUzZXSnBJY1J1N0YzVWEwLUF5cGl0OWNtdVkxU1ptMUY1VkVNZm0xQ2RtZk1BSU1RS1JkWTVmSDR4bC1lblc4cmppbkowblpYWGpQajEwVTI5MGo0bzFtV19zaUVfOTZQSThwVEstakdnRExwZ3VLOU5kMnFXcDYyeUl1TW9aQl9McVVqRXpxVFJ1alk4Q0lHZ3JVbko?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-10-09-019",
+    "date": "2026-10-09",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Sociedad Química Y Minera De Chile (SQM) Undervalued Following Its Recent Pullback? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWXZISzBWYVJvZzJrUEFxSExFWFNDRmMyOFVRWVlsTmxWczY5S01wU1BTXzVvWUlUWm95bmV1d3djcjV2WWd5R1hTNVpmU2NENFFxckVWU21Ub2NkTjlzdmtURFlnVUdSejBXNGtkMm",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWXZISzBWYVJvZzJrUEFxSExFWFNDRmMyOFVRWVlsTmxWczY5S01wU1BTXzVvWUlUWm95bmV1d3djcjV2WWd5R1hTNVpmU2NENFFxckVWU21Ub2NkTjlzdmtURFlnVUdSejBXNGtkMmR3MlJZZUhLS1dESGlyYW5UYUpmMkJnWHlIWDZGSjNqUnpvN09WVHBlZmt0b3NnOXpzWWNCN0Z4d25XenBLRkJLZXJ5cDdVaUZ6Q0stU3lPdHJvN01FMmVSbS1NMVV2LVhNV3dQTEJtbnF4N0VLR2p5OE1fX09UZWI4WGlr0gHrAUFVX3lxTE1ZdkhLMFZhUm9nMmtQQXFITEVYU0NGYzI4VVFZWWxObFZzNjlLTXBTUFNfNW9ZSVRab3luZXV3d2NyNXZZZ3lHWFM1WmZTY0Q0UXFyRVZTbVRvY2ROOXN2a1REWWdVR1J6MFc0a2QyZHcyUlllSEtLV0RIaXJhblRhSmYyQmdYeUhYNkZKM2pSem83T1ZUcGVma3Rvc2c5enNZY0I3Rnh3bld6cEtGQktlcnlwN1VpRnpDSy1TeU90cm83TUUyZVJtLU0xVXYtWE1Xd1BMQm1ucXg3RUtHank4TV9fT1RlYjhYaWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-10-09-020",
+    "date": "2026-10-09",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries gains as dividend update and firmer nitrogen pricing support sentiment - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGJYRnpqUFd6aWI1R1lwZFVNV3B0QTVjZ0RlaWxFZWYtREdiY0FEd0ZyQzlqYVhySGJ2ZW5veTdERWRqU3VKbkhOWWFZNm1wT3ltRWZfSU1BeHltaEQ3OENWMV9nVV9HVzBpWUlENU",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGJYRnpqUFd6aWI1R1lwZFVNV3B0QTVjZ0RlaWxFZWYtREdiY0FEd0ZyQzlqYVhySGJ2ZW5veTdERWRqU3VKbkhOWWFZNm1wT3ltRWZfSU1BeHltaEQ3OENWMV9nVV9HVzBpWUlENUFsdHBLcmlGM2RTTXc0VXdpbDBqNndidU9mdW01WFFvRW9vUHNVcERZSUw0b0V1anUtQnpVdEZBZzE4Z1lWUzdOVzhGZUpjYW01?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-09-021",
+    "date": "2026-10-09",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "A Look at Archer-Daniels-Midland Co (ADM) After 3.1% Decline -- GF Value $61.35 vs Price $79.89 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0VTTGl4X1JJc0pfUy00cThFbG5uLUNmRF93c0tuLXdEaXcxNk1nb2JUVVBmM3I5am5zVktGdWFfcWdqQ2N1N1IwX3JmTUlrd1lRZXg2TDd6STVtSEY3d2U0SloxWnBIeFVBT2EzS0",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0VTTGl4X1JJc0pfUy00cThFbG5uLUNmRF93c0tuLXdEaXcxNk1nb2JUVVBmM3I5am5zVktGdWFfcWdqQ2N1N1IwX3JmTUlrd1lRZXg2TDd6STVtSEY3d2U0SloxWnBIeFVBT2EzS0M4d3JVOFRQN2dOMFY5NHlpdk84X215LXNGekVENC13SEVNdG1QSE94aXhTX1lsQ3daMi1yTmJ4MXZtamduVzh3Y1I5MEtsYXhQYXNQWDhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-09-022",
+    "date": "2026-10-09",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Bunge Global Slides as Traders Weigh Weak Grain Signals and Await USDA Data - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHJ6ZjdyV05zQ0EtNktHVlJkNGhQMElWVDZUNlpINmVPSjRRUUdXbng0bDFwaFdjWDJ0MjBidE9nYXZKem5NVk5GQmFkZkxWajJZVWZRbDhLRUVFZ2VUQzRIZDhtbkp5QzdtcURLQn",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHJ6ZjdyV05zQ0EtNktHVlJkNGhQMElWVDZUNlpINmVPSjRRUUdXbng0bDFwaFdjWDJ0MjBidE9nYXZKem5NVk5GQmFkZkxWajJZVWZRbDhLRUVFZ2VUQzRIZDhtbkp5QzdtcURLQnlQbUpmS2puellzSHRVMWN1WnJVd1NYUWtFb1ZsUm9vRkVWMDZLODdXY0hheUh0VlpQQkF3OWRlS0VDTWho?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-10-09-023",
+    "date": "2026-10-09",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial NV (CNH) Shares Fall 6.1% -- What GF Score of 71 Tells Investors - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0tWeHNiUGYydzlkODI5Q09OWV8wUEpzaEhoakRYQ0R0Q3QzaFNxaGl5bmFMT1o0U1ZvSk9LU1JpcEV0dlp4ZkhqWWZ1Z0EwM2NTbUNIeUptN1NCS0RsZmE2bHIzQTBuVmFibDZmbm",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0tWeHNiUGYydzlkODI5Q09OWV8wUEpzaEhoakRYQ0R0Q3QzaFNxaGl5bmFMT1o0U1ZvSk9LU1JpcEV0dlp4ZkhqWWZ1Z0EwM2NTbUNIeUptN1NCS0RsZmE2bHIzQTBuVmFibDZmbmN0ckhxY0wtZnRqVXY4VU1COFBPYXNKeFpvZXc3eHhRQ2dGeG9vYnNzMm1fdGZtdk5ySmFXTzFQUjduQWZwZmFJbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-10-09-024",
+    "date": "2026-10-09",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial Price Target Raised to $11.00/Share From $10.00 by JP Morgan - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHQ3b0VjRDhtVTl3LWZ0ZlcxdVZzRVo3MUI1NGNHN0EyV1luRUlZaFgwZVotODBEX1hhSWJ1UWxJQjY2SlZxZ1NWMjJDaHFoTFRJdkNnUktMcXVDQl9Oc3dHelhfdWtKcEFFUlQ1bW",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHQ3b0VjRDhtVTl3LWZ0ZlcxdVZzRVo3MUI1NGNHN0EyV1luRUlZaFgwZVotODBEX1hhSWJ1UWxJQjY2SlZxZ1NWMjJDaHFoTFRJdkNnUktMcXVDQl9Oc3dHelhfdWtKcEFFUlQ1bWFzTUk3S2h5SVdlVUtJNXJOelZTZHlGdzVTenBVV05iR3ZKN05TVXBxSHo3SzZOek0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-10-09-025",
+    "date": "2026-10-09",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is CNH Industrial stock sliding today? By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXhHQThmVC1VbzF2eEc4VkxqMGUwR3hlb1hMbXBHc2Z2WnNtOWpMZlNlVFlBVzI1Wmk3aE5GeWl6YXN2TWszcENjbHQxYmx5ZVhwcDZVVmE3aGEtckk2T0d4TGFxLUM0ZTBSSU9wRW",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXhHQThmVC1VbzF2eEc4VkxqMGUwR3hlb1hMbXBHc2Z2WnNtOWpMZlNlVFlBVzI1Wmk3aE5GeWl6YXN2TWszcENjbHQxYmx5ZVhwcDZVVmE3aGEtckk2T0d4TGFxLUM0ZTBSSU9wRWloTnVrTkJ6Yk85amppMFhEZUlNbWplZlducUpXQ28zbUp6ZFJYMFlXN2Q2Wll1VG5lbURJVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-026",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WASDE whiplash leaves corn bleeding out",
+    "summary": "Afternoon Market Recap: Winter wheat prices also faced severe cuts in Friday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-027",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA yield shocker sends corn sinking to 8-week low",
+    "summary": "Unexpected yield boost clashes with trade expectations for a small cut by agency; soybeans end higher despite higher numbers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/usda-yield-shocker-sends-corn-sinking-to-eight-week-low",
         "type": "rss"
       }
     ]
@@ -849,6 +1103,26 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/marketing/top-tips-will-you-pivot-in-pivot-moments-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-10-08-029",
+    "date": "2026-10-08",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH equipment helps Thai rice farmer replace stubble burning - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkxhNjYtTTlUU1VOYjNSVjhzc294ZlFzaU9UZkFvVHgtMVM3aVpRQkxGQmp4aXpBR3c0Ul9BWE54SlJDdEhXYkNqNUV5MnFlcFlBOFZOcjJWYld3VzJ0TzdVM2dLSzJEb3ctcWhMa2",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkxhNjYtTTlUU1VOYjNSVjhzc294ZlFzaU9UZkFvVHgtMVM3aVpRQkxGQmp4aXpBR3c0Ul9BWE54SlJDdEhXYkNqNUV5MnFlcFlBOFZOcjJWYld3VzJ0TzdVM2dLSzJEb3ctcWhMa2hlZFBaMGY2cDV5OWNNX1ctRXZPLVROTFF0TFpBUHA2YkVnUm90LURaTFpOem92UHhsTHhDaDZCMTVkZW1iUEd0eXBaU2VGc0tzNkdSWVplS2s2QllEaGoyVjFNaUw?oc=5",
         "type": "rss"
       }
     ]
@@ -1635,6 +1909,82 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUFPU1lhb3V0Zmk2Sy1zM2tUTWYzRmVrZVhaVjljZE5WLWMwd0xXSkl4TDRrMXVmd2drVmxFN2FjMFlFX0x0TTEyRWtkcjA3cXJlU2VzODZ4UXptSmo5VWJWVkQ3Z3JXa1JaWGZrc2hwRVctYzNNeEs4R3FsbmlZb1BwbjN6Zmx3MjU4WWZqMmwyZGN2ZWdLaTVtaEpJMDZ6VUd4ZkRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-10-07-042",
+    "date": "2026-10-07",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI N.V. Notes Enterprise Chamber Decision Not to Order Inquiry - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHZueUpJQWxjXzhldkdHczFYdm9xcHE5VDktNVV4amtPNUVueEUzOUhNM21DcmIzZUE4N0dLX1dLMjhONWRsX2o2YnNwYlM0SnF2Qm5tN0JYVF9wZEE4anA4Q2tnSDAyaW5qY3V1c1",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHZueUpJQWxjXzhldkdHczFYdm9xcHE5VDktNVV4amtPNUVueEUzOUhNM21DcmIzZUE4N0dLX1dLMjhONWRsX2o2YnNwYlM0SnF2Qm5tN0JYVF9wZEE4anA4Q2tnSDAyaW5qY3V1c1Z0N0FlNDJLNW1hU3pkWDhQWGxsa05NNnJZVG5MVlk2cVdBWEIwMTlyZUlicnY0Yy1TTm9qYlRVczU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-10-07-043",
+    "date": "2026-10-07",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI N.V. Notes Enterprise Chamber Decision Not to Order Inquiry - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNVZHTzdlRFRGTXNlUW96TkRuNm5UaXUyV1hoX3licWxJZ0o4bkItQndiZE9PemtONXdSbjRRSWhSeVBMTC11YkJTUGpRdjM0UUo4SUc3ampoX0Z3ME9Qa240WVM0MHBIM1JHUjJwLU",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNVZHTzdlRFRGTXNlUW96TkRuNm5UaXUyV1hoX3licWxJZ0o4bkItQndiZE9PemtONXdSbjRRSWhSeVBMTC11YkJTUGpRdjM0UUo4SUc3ampoX0Z3ME9Qa240WVM0MHBIM1JHUjJwLURpZEtwa2tEbzhFQjIteF9ScmQ1MXpaN0pRWkxMa29zWkFDSWI3TUVyeUR6VlhCa25JVnlHdm5TRlhqeFZ1bHQyNUJCTHliNFY3U1ota3ltbjNYRXA2bVVvb1Z0MGl2MTNIaWJyQ3I0amMtTXVRTWI4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-07-044",
+    "date": "2026-10-07",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Price Target Cut to $10.00/Share From $12.00 by UBS - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGlPNkhaTTE5d1RXZ0M4LWdfUHdMZDlacXJ6V1VTNDl4OVRMTnBmWU9BODJYNS1PT0lNYWFtbXl3eGRPaGVBcUZUS1duZlAwV19ScWRqNmk3S1J1UkpXbGxLdWRLMDdTaXNpVTNlVG",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGlPNkhaTTE5d1RXZ0M4LWdfUHdMZDlacXJ6V1VTNDl4OVRMTnBmWU9BODJYNS1PT0lNYWFtbXl3eGRPaGVBcUZUS1duZlAwV19ScWRqNmk3S1J1UkpXbGxLdWRLMDdTaXNpVTNlVG9jejlua1VQNkFfYnVaT2VlTW1tYlpUd2tyNEJFVGl4cHM5eXk3RU10WFM3Tkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-10-07-045",
+    "date": "2026-10-07",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CNH Stock Is Outperforming the Market but Still Looks 39% Undervalued - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFh2am05aVAtZ1pfaU1mQUlDbnFPMWM3N3cxQWNGUl83c0h4WVh6THZDZ3IzRUs0SlQyc1ZlYXh4Z2FFM1VwbWRCNHZTcDRqR0RINHdsbHk5Q0czTkNVUUFLYno1Q2owaks4bUVLT2",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFh2am05aVAtZ1pfaU1mQUlDbnFPMWM3N3cxQWNGUl83c0h4WVh6THZDZ3IzRUs0SlQyc1ZlYXh4Z2FFM1VwbWRCNHZTcDRqR0RINHdsbHk5Q0czTkNVUUFLYno1Q2owaks4bUVLT2VrYk03TjVfQ2MyNFhYNVFBT1lRd3pESXRsbUZWS21fZk9NMHpzZ2N2OHRRQ09NNkxMY0dUeVVoMA?oc=5",
         "type": "rss"
       }
     ]

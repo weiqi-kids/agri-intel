@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 9,
+  "gate2_fail": 10,
+  "passed": 18,
+  "gate2_samples": [
+    "Mosaic Dance Company founder plans 30th anniversary extravaganza - Santa Fe New Mexican",
+    "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+    "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - ",
+    "OCI N.V. statement regarding correspondence from the Dutch association for retail investors (VEB) - ",
+    "Corteva (BOVESPA:C1TV34) - analisi del titolo - Simply Wall Street"
+  ]
+}
