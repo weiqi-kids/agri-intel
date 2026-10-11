@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:28:50.451923Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-10-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Quimica y Minera S.A. (SQM) - What Are Investment Firms Thinking About This Stock? - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNjVoTDNQZzJJbXg4d2NkVGNMVTZtRWJQbmJhbFp1Yy1USzlLaWZHcTdyMXRvc3hyWWUwd3hpUlk0UlNBbHhCRF94c1pBWFJoVDhOWWhaZmJ4eWxIMVRWdzZESDNBTVhKTGx4Q2R4RU4xRHczNmNrVW81MFY2NHVfWWxyck5wdkl5MVg3SHNCTUZpWE5iZ3l0SU15OFNIZ0x6Q3R6UWE4V0U4MkJMMXdXXzFGc01RYkFSMEw4Vl9qQVMzakV4WGdXeDdpRFRfOTN5YU80cjZiS3pjaVJxQktPQmln?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-10-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ADM Stock Price Prediction 2026-2027 | Archer-Daniels-Midland Forecast - 24/7 Wall St.",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnJhY1Q1QTk5bmVpQUNac2R4NEFhdVQ4SEh6all6QUdBdDRhQTRIRlBUVzVtUHM2cXJIbHNEY0hsX3dCZjh0aFhQRndpMFcwQ09YempucHh0YzY1ckptSHNJdm5ZdTB5NHVvd01hVkwwTmgtX3U5QkpqbGUxUnBnTXNaVEs3a19vMk8xa3lTUE8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cnhi-2026-10-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial N.V. Common Shares (CNH) Financial Statements - Pluang",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pOXd2ZGZ3bDdYQVBPMWRESndnVGM1Q05WZVBCNm1Sci1Nb0JpejNXbGxwOXB1dzdjRmtJZDMzcFhFQmthbmNLTE5xdkJmYzV2UXNaNHRrQTFYV3FSUkc4RDc1VDVCQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 217,
+    "too_old": 132,
+    "gate1_blocked": 7,
+    "gate2_blocked": 10,
+    "passed": 9,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Mosaic Dance Company founder plans 30th anniversary extravaganza - Santa Fe New Mexican",
+      "Sociedad Quimica y Minera (NYSE:SQM) Raised to \"Strong-Buy\" at Wall Street Zen - MarketBeat",
+      "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - ",
+      "OCI N.V. statement regarding correspondence from the Dutch association for retail investors (VEB) - ",
+      "Corteva (BOVESPA:C1TV34) - analisi del titolo - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為SQM、ADM、CNH相關動態：「Sociedad Quimica y Minera S.A. (SQM) - What Are Investmen...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sociedad Quimica y Minera S.A. (SQM) - What Are Investment Firms Thinking Abo...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "ADM Stock Price Prediction 2026-2027 | Archer-Daniels-Midland Forecast - 24/7...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
