@@ -19,6 +19,307 @@
     ]
   },
   {
+    "id": "unknown-2026-10-12-001",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "These materials stocks earn strong profitability grades as Q3 earnings begins - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXl4aFJ5bU9uNDJRemh6aWplYjRsOWxMdlU0dVlQVHNXLUJZQmw0R2RPano2cEw0cU9NVjY1S2E4bm1HTG41MzdOZjZXa2w0elFNVkRPZFJteG5DMml2cHpJWWRveDVreTZvUXg0Mz",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXl4aFJ5bU9uNDJRemh6aWplYjRsOWxMdlU0dVlQVHNXLUJZQmw0R2RPano2cEw0cU9NVjY1S2E4bm1HTG41MzdOZjZXa2w0elFNVkRPZFJteG5DMml2cHpJWWRveDVreTZvUXg0MzJnQ2I4WHAxYklPaFVDbHN0bklaTnEwQy1NMHE4NG14T0lHSWs1cWV5Z0F5THRkX3R5UHZjWGJDRUlSRHk4THR5WUlmWDZfTkN4dmd0WVh1WlVSaF9QMU1aLU1LMHM5d05wSDBLc1F3NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yara-2026-10-12-002",
+    "date": "2026-10-12",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "fertilizer_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Exclusive: Yara Growth Ventures backs soil-sensing startup Stenon as fertilizer prices surge - AgFunderNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVJDdjJ0TFNTdEoza29UcERIQnJMdTNVeTg1YlNWcXZtLTB5N3o1Y0NEckFsQng3dHpLYWcwLTJQaUh0djJoaGsydDdrWHVpYzQ1UlBPb3Z2WEtmalFqQ0NYaUxoc0ZmVTdmS01KLW",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVJDdjJ0TFNTdEoza29UcERIQnJMdTNVeTg1YlNWcXZtLTB5N3o1Y0NEckFsQng3dHpLYWcwLTJQaUh0djJoaGsydDdrWHVpYzQ1UlBPb3Z2WEtmalFqQ0NYaUxoc0ZmVTdmS01KLWs3RnhMU3kzYkN6OGRRVXBQX0dSMFc2SXpnaUVtdDJqS081Yzltd1k0QU1xRHE2MjI0clZSRWdabE13cXFKanl5SDZoYUk4OTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-10-12-003",
+    "date": "2026-10-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva’s #2MillionWomen Initiative Marks Two Years of Empowering Women in Indian Agriculture - Telugu Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3AtSmNfMFdBT0RXUU5CSTFISlRXVjY1akhPcDNLb1NMbXZFYmpJdFhJYnBsOUpPY0Y0SzJ6Q0phQnIzeUIzVnNzYlkzSGFlYVhiU20ydXVxSmpzRGQyRzNkd09SNDFtQUtKb0l2Nk",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3AtSmNfMFdBT0RXUU5CSTFISlRXVjY1akhPcDNLb1NMbXZFYmpJdFhJYnBsOUpPY0Y0SzJ6Q0phQnIzeUIzVnNzYlkzSGFlYVhiU20ydXVxSmpzRGQyRzNkd09SNDFtQUtKb0l2Nkw2bWNhSTEyaWVJM2FXV05BeFJkU1hUc3E4blA4d0dWa0Nld3ZQVDVnUU5fYnFQOTBJME03VG5YUmFlYjh5REVPZ2tUTEMyaHdqWjFlR3VFTU5nak9vSGVlclQyajMxdzJRa0k4Nkp0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-10-12-004",
+    "date": "2026-10-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva's ‘#2MillionWomen’ initiative marks 2 years of empowering women in Indian agriculture - AgroSpectrum India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0lqbmNtQ2F5N1FhV0RibGh6X2phODliaTllcGxOQW9vZFdSbXB3c2pCZHJTY3JwMDZmamc4WGNFU1hLNDk5RlM5Q01xd2hhZThXQmk1bGp1VVJKRWQyRnowMml1VVZvMW5zNTk2RV",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0lqbmNtQ2F5N1FhV0RibGh6X2phODliaTllcGxOQW9vZFdSbXB3c2pCZHJTY3JwMDZmamc4WGNFU1hLNDk5RlM5Q01xd2hhZThXQmk1bGp1VVJKRWQyRnowMml1VVZvMW5zNTk2RV85SWszWG9HeTJyMzBPNjE5SFNtTHh2c2lJZFVGNG9hd3RwcXdlamdEcG44U0l6UDk2VmkxczRUamI4RTIxTjM1cFIzYkE5UU94dUlwTmFZdGpIdkY0MEhTS2d3TkVCVG03eW1Qdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-12-005",
+    "date": "2026-10-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (NYSE:ADM) Stock Gets Price Target Reduction from JPMorgan Chase & Co. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxORW9HZ2cycFFsdGk1RXlEZ1hEbjQ4cEhYb3NSblF5dlhvTWtwNkt2b0ZnV1d6SzlDWWNoeDRCRW9jTENWb1V6QmFYbUpMMGRGMXhkbnlqVjZHa0JLTTBNYW9aM084c2ZYWDYtVlpSVl",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORW9HZ2cycFFsdGk1RXlEZ1hEbjQ4cEhYb3NSblF5dlhvTWtwNkt2b0ZnV1d6SzlDWWNoeDRCRW9jTENWb1V6QmFYbUpMMGRGMXhkbnlqVjZHa0JLTTBNYW9aM084c2ZYWDYtVlpSVlVFRFBYSDBrZmw3a2xTeFE0RWRrdllMcjdJVm8xWC11bW5fM1lHWWNHZVhOOEJaWFQwOWs4dkNsMDBCZUY4enlSMGVyWHR6YjNETGItZ2IzZEl2WG9QbHhJdzlVU2kycUdxYWVYYmVaRm9IRmlMaVU2eHJtRjY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-006",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "natural_gas_feedstock"
+    ],
+    "impact": "neutral",
+    "title": "Form 4 Archer Daniels Midland For: 11 October By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXpCOS0wOGZPdzRmVWM1UlhKam5kUkVQTk1WYm50VWEtXzdvR1ROLUIyRnRvLUVKdkMzRlpqdHdYYUJzeTFMQ21ja1JYWlhBZUJvTlRFem1SendTd2hhbG1Hb0tUTTFJS01ERVlETG",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXpCOS0wOGZPdzRmVWM1UlhKam5kUkVQTk1WYm50VWEtXzdvR1ROLUIyRnRvLUVKdkMzRlpqdHdYYUJzeTFMQ21ja1JYWlhBZUJvTlRFem1SendTd2hhbG1Hb0tUTTFJS01ERVlETGI3LWJ3Rjc5NTgyZDhKeHhMZlNaYzBrSkZuMzFpTWlmd3hqYU5IQnRsS1ZmQXJRM2Q1MlUzQjBidzk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-007",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grain prices attempt to regroup",
+    "summary": "Morning Market Analysis: Overnight action shows soybean futures may have a rough outing on Monday.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-008",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmer sentiment drops as input costs squeeze profits",
+    "summary": "Farm Progress America: Purdue's ag economy barometer shows farmer optimism falling as diesel and fertilizer costs rise, while land values stay strong amid data center interest.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/farmer-sentiment-drops-as-input-costs-squeeze-profits",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-009",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How to best manage quality-damaged corn and soybeans",
+    "summary": "September’s prolific precipitation spurred quality concerns in corn and soybeans across parts of Iowa. Here are some ideas on how to best manage them.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/management/how-to-best-manage-quality-damaged-corn-and-soybeans",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-010",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "U.S. hog inventory down, profits expected to follow suit",
+    "summary": "Hog Outlook: U.S. pig farmers’ production costs surged 31% from 2020 to 2025, and experts forecast potential losses of $22 per head in 2027, but U.S.-China trade negotiations offer a glimmer of hope.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/hog-and-pork-news/us-hog-inventory-down-profits-expected-to-follow-suit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-011",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Better data leads to better soil",
+    "summary": "Digging Deeper: Modern data collection and soil health management may be the superpower for today’s farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soil-health/better-data-leads-to-better-soil",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-012",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "trade_policy"
+    ],
+    "impact": "positive",
+    "title": "Beef import surge more about supply and demand than politics",
+    "summary": "CattleFax CEO Randy Blach breaks down how declining cow slaughter, rising consumer demand and basic market economics — not trade policy — are driving increased imports.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cattle-news/beef-import-surge-more-about-supply-and-demand-than-politics",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-013",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Combat weather extremes with soil health",
+    "summary": "Turning your “dirt” to soil can help it withstand weather swings, providing a strong base for your cash crops.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soil-health/combat-weather-extremes-with-soil-health",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-014",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How will more planted acres affect your farm?",
+    "summary": "Sunflower Extra: Planted acres increased 6% from 2025, totaling more than 1.36 million acres in 2026.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/how-will-more-planted-acres-affect-your-farm-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-015",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to test for soybean cyst nematode in your fields",
+    "summary": "SCN is the No. 1 yield-robbing pathogen in the U.S. Here’s how to collect samples and interpret results.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crop-disease/how-to-test-for-soybean-cyst-nematode-in-your-fields",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-016",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New beef import policy brings less volume than expected",
+    "summary": "Trump administration’s beef import plan shows limited impact through first month, likely bringing in significantly less “new beef” than intended and having no effect on prices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cattle-news/new-beef-import-policy-brings-less-volume-than-expected",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-10-11-001",
     "date": "2026-10-11",
     "companies": [
@@ -74,6 +375,44 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pOXd2ZGZ3bDdYQVBPMWRESndnVGM1Q05WZVBCNm1Sci1Nb0JpejNXbGxwOXB1dzdjRmtJZDMzcFhFQmthbmNLTE5xdkJmYzV2UXNaNHRrQTFYV3FSUkc4RDc1VDVCQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-11-004",
+    "date": "2026-10-11",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (ADM) Stock Dropped, What Is Behind The Fresh Attention? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSU02Y1B0Tl8tbzh1UzVyWGNtU1NJVVpFNUdBVkxWTWlzSFliWm4yZzJYbmItdzlrOHhYNkdQTElldGJINTNOa2JsZGpmdUQ2aVRWYXUxQktOdWFzN2pzMXlhVWNKT1U4T240TW5BNl",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSU02Y1B0Tl8tbzh1UzVyWGNtU1NJVVpFNUdBVkxWTWlzSFliWm4yZzJYbmItdzlrOHhYNkdQTElldGJINTNOa2JsZGpmdUQ2aVRWYXUxQktOdWFzN2pzMXlhVWNKT1U4T240TW5BNlpQNl9NTktxekZad3JKSGdUQS1COHlJOFlEdlk0UGRfeU1FRk5lT19iMkpLX1g1MkE0eWdwZ2hBTzJWaDJqWlhNd3pmVW5mczFkZWVYeWtaeXVBX3pObkg5WVRodkd1NUYwdm91NjhSVFdGRTF5eVFoNUdiTVDSAeoBQVVfeXFMTzNmQkV1bzJ4ZFpDYmhKWExFYjVkOVo3WFJhVTI1WGtDMVpFVGozVWR0RzJZUUcyQjhBMkRMd0x2SlNmWVUtOHM1a01jd1kxUWR4bU9DNzM1bTFrQ3NaWnI5a0Z1c0Zqc0lYTkc1LWZsb0JDVUR4TjZuRWxtZ1I4NElleGw1ZVVHeEo1c2JFNkM2cXltdi1meEdpZVZLck5LWUNBTngxQlZiTWxCRktod080bTNJTHlLODVQYVdhMDRjSEt4eWx3NFZ2QXVHcC1JbGJ0Qmk1UnoxcnhjeDd0NjRwLUR4TjI1eG1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-10-11-005",
+    "date": "2026-10-11",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Engineering growth from ground up: Escorts Kubota’s rising momentum - AgroSpectrum India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQelU2Qk5oQmRocElEVjBuTGJtMTJPWHBwMHVodG1xcTFVMjVFOGdUdW50aW9lS0FpcUo3dTJDeUJrQ0VldzRFYWExZGNZdmtiVDBCdDlzMklCU29HTnE2TFZNcUMyeXp4bkQ2QXBJRW",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelU2Qk5oQmRocElEVjBuTGJtMTJPWHBwMHVodG1xcTFVMjVFOGdUdW50aW9lS0FpcUo3dTJDeUJrQ0VldzRFYWExZGNZdmtiVDBCdDlzMklCU29HTnE2TFZNcUMyeXp4bkQ2QXBJRWY0aUVzRDVkVC13YllmTGlRU2staEd5TEYzQVNGOGJIRE1ick1KanpuUmdyc0pzTVI4czByRFdxZFNNb3ZEd1QwOEJKMjA?oc=5",
         "type": "rss"
       }
     ]
@@ -666,6 +1005,26 @@
     ]
   },
   {
+    "id": "yara-2026-10-09-028",
+    "date": "2026-10-09",
+    "companies": [
+      "yara"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barclays Sticks to Its Sell Rating for Yara International (0O7D) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ2pwVDZPSXZZRzFvUlFTMHJVYlZqR0luQkxnVVJsOUxST013OFI5YlRwU0p6dkpPUVVxR2RnaUJfSktTeDVhXzBrcDBwN2YyZDRzUGdPVEFQM2R4cE1yeEk5MEVpRXBlcWo0NG53SW",
+    "sources": [
+      {
+        "name": "yara",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ2pwVDZPSXZZRzFvUlFTMHJVYlZqR0luQkxnVVJsOUxST013OFI5YlRwU0p6dkpPUVVxR2RnaUJfSktTeDVhXzBrcDBwN2YyZDRzUGdPVEFQM2R4cE1yeEk5MEVpRXBlcWo0NG53SWtYMm5jVkRzUzFDM2tDRnB0Wnk2YzdEaVBUM2MwN2JHUUpFSF9BYi1yMGhNZDd0SUhhR0ZuVF9Hbll2LUJKUFNFVlMyUTVsTXJzUVZxWVJfZVdQUVJ2dWN0cmNKc25DOTdTMkR3TDZ2N2NkYjFiNzhIeU1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nutrien-2026-10-08-001",
     "date": "2026-10-08",
     "companies": [
@@ -1239,6 +1598,46 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb04xWEhiWEwyeEQ5eVJYWWloeFl3cE4wSUJRd3QyRGZHemhkV2F4YnJyRXQ5aVBSYVdOS2ZNTVBqQlJMMi1qUV9PLTluRGJUUDFRMUZWajVoQy1SWVhvcGNDa1czME9JSlhHQUVBa0h3Y0Q4MUlsamFVZE8xNW9QWDBqTlYycktkMTJlRWFiNjdaeW1IbGZGZEUySlE3dGRtSnJ6NnpfNTZRV0ht?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-08-031",
+    "date": "2026-10-08",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC closes USD 403 million deal. FMC Corporation stock falls 1.86 percent - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSlEzMnl6bEJ2a2dIUHBQbWM1TVg4aFpOMnQ4NXVITGwyYkxaekthbnJWTXBjcERfbHc1T20zdUgxbDZYN3pCZERwTVAyT2xFRnJ4eVpmRXJmbTVsM3YxZDh3dTJjNHVnYXItQ3htTH",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSlEzMnl6bEJ2a2dIUHBQbWM1TVg4aFpOMnQ4NXVITGwyYkxaekthbnJWTXBjcERfbHc1T20zdUgxbDZYN3pCZERwTVAyT2xFRnJ4eVpmRXJmbTVsM3YxZDh3dTJjNHVnYXItQ3htTHAxZzV2QmJyd3VYdXd6NDR1S3pIS0FreS1QOGxDOUszVFpXN0tWckxkWnZsaXducXlnekZiOW9USHVoaDlxc29IZHpEWWgtNThIZmlsVWVKT2tXdjA2cU12YVAzcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-08-032",
+    "date": "2026-10-08",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Did FMC's (FMC) Brazil Rimisoxafen Filing Just Shift Its Crop Protection Investment Narrative? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1BqeC1xTXZ4NnV3b1pFTzF3TVJLSkJGTGxwNmZQQkU3UUZrb2tERjNpVmtHbDJfd1pPUkpWZFJ4aGVGNnAyZi0tVXhqa3NMOGNpcTI3c1hFbHdPbG5qc3A5UGljYk1BN2l0VUlPcz",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1BqeC1xTXZ4NnV3b1pFTzF3TVJLSkJGTGxwNmZQQkU3UUZrb2tERjNpVmtHbDJfd1pPUkpWZFJ4aGVGNnAyZi0tVXhqa3NMOGNpcTI3c1hFbHdPbG5qc3A5UGljYk1BN2l0VUlPczc4Zl9BT2F0Z3JFS3R1eFpfbllUSXNzeXNjcUZPWk5FZ1VzaW85bG9HZEJTOGc?oc=5",
         "type": "rss"
       }
     ]
@@ -2794,6 +3193,24 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IWGdMb05laG5KNUFuTXJWQkpDcHEzQUxrdTBiSmstVm9IamFxQnByZHcxblR2ellBdi1rWGEwbzdpajVTM0tnZDlHTkFaRWEyUXU0dWJqQ2lPWTR6Z1lEODNZaHEwTVM4Q2RXUEJoUnZLNVJ0dTlpSkMwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-10-06-036",
+    "date": "2026-10-06",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI N.V. statement regarding correspondence from the Dutch association for retail investors (VEB) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPeVgtRG50YmVHc3hQNGtrR0N3ZF85cV9yU2lzbUtYMzNsdG1BLWg0aHgxU3BTSXBwRGJTREpFMkF3YjQwNjJ0YjRPYS1sbGU5NG5xU2h1RkxMXzdRYW9BUDJ0TmFmTWJvWVFESldVTm",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeVgtRG50YmVHc3hQNGtrR0N3ZF85cV9yU2lzbUtYMzNsdG1BLWg0aHgxU3BTSXBwRGJTREpFMkF3YjQwNjJ0YjRPYS1sbGU5NG5xU2h1RkxMXzdRYW9BUDJ0TmFmTWJvWVFESldVTmVuYkFyTDJXdk5IelR4WldobkFfWHpoWWZ0Zlp2blgyWkQyQWQzNHp6T1ZhQ1BMWWpldUxDUjNTejc3bV96UENJRVNxQk91WGJIenp3LVgxRGhhS2c3TUZuU3loanJQMUVTTGo0d2hSeWxKamNXWVlJSU85TDZNMUxjVWJuWkNaRF9DUENrSU9DWFNmcnZIUGlMNGxRZDV2MHZNZw?oc=5",
         "type": "rss"
       }
     ]

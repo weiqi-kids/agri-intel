@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 6,
+  "gate2_fail": 10,
+  "passed": 22,
+  "gate2_samples": [
+    "Mosaic Dance Company founder plans 30th anniversary extravaganza - Santa Fe New Mexican",
+    "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+    "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - ",
+    "OCI N.V. statement regarding correspondence from the Dutch association for retail investors (VEB) - ",
+    "FMC Corporation (FMC) options chain - Yahoo Finance Australia"
+  ]
+}

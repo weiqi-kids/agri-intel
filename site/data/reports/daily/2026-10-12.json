@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:07:00.786357Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-12-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "U.S. hog inventory down, profits expected to follow suit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/hog-and-pork-news/us-hog-inventory-down-profits-expected-to-follow-suit"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "These materials stocks earn strong profitability grades as Q3 earnings begins - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXl4aFJ5bU9uNDJRemh6aWplYjRsOWxMdlU0dVlQVHNXLUJZQmw0R2RPano2cEw0cU9NVjY1S2E4bm1HTG41MzdOZjZXa2w0elFNVkRPZFJteG5DMml2cHpJWWRveDVreTZvUXg0MzJnQ2I4WHAxYklPaFVDbHN0bklaTnEwQy1NMHE4NG14T0lHSWs1cWV5Z0F5THRkX3R5UHZjWGJDRUlSRHk4THR5WUlmWDZfTkN4dmd0WVh1WlVSaF9QMU1aLU1LMHM5d05wSDBLc1F3NA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-12-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Farmer sentiment drops as input costs squeeze profits",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/tv-and-radio/farmer-sentiment-drops-as-input-costs-squeeze-profits"
+    },
+    {
+      "rank": 4,
+      "event_id": "yara-2026-10-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Exclusive: Yara Growth Ventures backs soil-sensing startup Stenon as fertilizer prices surge - AgFunderNews",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVJDdjJ0TFNTdEoza29UcERIQnJMdTNVeTg1YlNWcXZtLTB5N3o1Y0NEckFsQng3dHpLYWcwLTJQaUh0djJoaGsydDdrWHVpYzQ1UlBPb3Z2WEtmalFqQ0NYaUxoc0ZmVTdmS01KLWs3RnhMU3kzYkN6OGRRVXBQX0dSMFc2SXpnaUVtdDJqS081Yzltd1k0QU1xRHE2MjI0clZSRWdabE13cXFKanl5SDZoYUk4OTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corteva-2026-10-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corteva’s #2MillionWomen Initiative Marks Two Years of Empowering Women in Indian Agriculture - Telugu Times",
+      "companies": [
+        "corteva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3AtSmNfMFdBT0RXUU5CSTFISlRXVjY1akhPcDNLb1NMbXZFYmpJdFhJYnBsOUpPY0Y0SzJ6Q0phQnIzeUIzVnNzYlkzSGFlYVhiU20ydXVxSmpzRGQyRzNkd09SNDFtQUtKb0l2Nkw2bWNhSTEyaWVJM2FXV05BeFJkU1hUc3E4blA4d0dWa0Nld3ZQVDVnUU5fYnFQOTBJME03VG5YUmFlYjh5REVPZ2tUTEMyaHdqWjFlR3VFTU5nak9vSGVlclQyajMxdzJRa0k4Nkp0QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "corteva",
+        "count": 2
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 202,
+    "too_old": 135,
+    "gate1_blocked": 6,
+    "gate2_blocked": 10,
+    "passed": 22,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Mosaic Dance Company founder plans 30th anniversary extravaganza - Santa Fe New Mexican",
+      "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+      "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - ",
+      "OCI N.V. statement regarding correspondence from the Dutch association for retail investors (VEB) - ",
+      "FMC Corporation (FMC) options chain - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Corteva、Yara、ADM相關動態：「U.S. hog inventory down, profits expected to follow suit」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "U.S. hog inventory down, profits expected to follow suit（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "These materials stocks earn strong profitability grades as Q3 earnings begins...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
