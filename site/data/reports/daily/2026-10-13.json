@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:23:08.456715Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-10-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nutrien Ltd. Pressured as Bearish Momentum Deepens: Earnings Miss, Sector Weakness, and Valuation Questions Cloud Recovery Outlook - kalkine.ca",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTmtCQ0w4eThnT0RHdk11UmFwQlhsNDhMendFVnZ4ZU4xeTU5Yl92LXdZWE1seEktcTNDcVZDa2xpSDY0LXVZM3hzekhnQ01aakp3SlJuYl9PZlhnaHJYYlhDTzlaeVk1eWdNRnF1cVJfdUpWcjlkM0Q2cXhqNThmaTdTODc3UENRX1p2UnY0Ri05SjNseEREQ2hUNUtscFQ4b2hCc0g1bVJLZGxWRTJsTVVTMUxLdndRZWtjVG5TV2FnOWNsSUVIYUw1MjZhUktUREhObV9TU0FkMDRYZ2h6ejlHZkhzYUpjeW95aWh3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-13-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Beef producers need an environment that encourages expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/cattle-news/beef-producers-need-an-environment-that-encourages-expansion"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-10-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Dole, Diageo and The Hershey - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEsxaXJySTJRX2g2d0RNRnFrbHA2TTNIaDloMkFURVJfUVFCMXVRQVVMSFVBTFZLTjk2U2xVVGp5akRIZGVIa2pDSjlteU51Vks1ZVllY0t0YTRGb2VQR3UzeUlEN2hVUHo1RXJFSkthYi10cFJjMTNyNGxvLWs3c2J4eGtmUDZFd3ZNWnBXNFA3QnJyNDEtOXZ0RzlQenFpZDNR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2 of Wall Street’s Favorite Stocks with Promising Prospects and 1 Facing Challenges - FinancialContent",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0d3bjdCUm9sRXJoN2F4WWRRX0pmaWVLa0lTREZDcHFqRkd2di1YMmJuWU9oMG1fQU9YeG1ENlFiUXlsakI5eDdCX242d3pUQ3hHMGdQR3UyYzFrdDdqUnBkLXE3Q2lLOGVGckVkZW5mOWkxdDljaW11WW9DU1JZdnVlOUNBZXZVazhqa09ZY296QXZXT0dnMjBkbmxMaUlPYk5vVnVVRl9nUXFZTzYtdGRFV0xkcXI2TFFqLXdWa2I2UmJCakFXRDJHTzRiX1JmczRjcGVQb1NLbjFNZ0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnhi-2026-10-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Citi Reaffirms Their Buy Rating on CNH Industrial (CNH) - The Globe and Mail",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWQ4TWhzbUJKLXR1Z0VmWlFnSUdvSHVjXzVlZWpHYm5LRzJjRTRTM2pUVUU2YzZmams1ZUdjdlVwbktULU9nQnZRaS00TFd0STFDdk5FQ3EzYThWT3hiS1I2UXNQYW56cERxQjdZUUMzV2RJZS1kSTAtcHlNUVpDNE5kYmtVSVdqSHJxR2xrUy14WWZzRzdXMDQxYmdKelVpQ3U3THRsWGlhbU1sWXdsMHpCLVFrT0FhUEExZ19TM1FrY3JjVktCZ0VKNXJfOHM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "kubota",
+        "count": 2
+      },
+      {
+        "id": "deere",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "planting_season",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 205,
+    "too_old": 126,
+    "gate1_blocked": 4,
+    "gate2_blocked": 10,
+    "passed": 30,
+    "pass_rate": "17.6%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+      "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - ",
+      "OCI N.V. statement regarding correspondence from the Dutch association for retail investors (VEB) - ",
+      "[PRNewswire] OCI N.V. Issues Statement on VEB Correspondence - Yonhap News Agency",
+      "Corteva’s #2MillionWomen Initiative Reaches Over 637,000 Women - The CSR Universe"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Kubota、John Deere、Nutrien Ltd相關動態：「Nutrien Ltd. Pressured as Bearish Momentum Deepens: Earni...」。主要關注主題為農業產業通用、種植季節、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nutrien Ltd. Pressured as Bearish Momentum Deepens: Earnings Miss, Sector Wea...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Beef producers need an environment that encourages expansion（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

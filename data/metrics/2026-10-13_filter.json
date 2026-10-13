@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 4,
+  "gate2_fail": 10,
+  "passed": 30,
+  "gate2_samples": [
+    "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+    "OCI N.V. Statement Regarding Correspondence From the Dutch Association for Retail Investors (VEB) - ",
+    "OCI N.V. statement regarding correspondence from the Dutch association for retail investors (VEB) - ",
+    "[PRNewswire] OCI N.V. Issues Statement on VEB Correspondence - Yonhap News Agency",
+    "Corteva’s #2MillionWomen Initiative Reaches Over 637,000 Women - The CSR Universe"
+  ]
+}
