@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 5,
+  "gate2_fail": 7,
+  "passed": 26,
+  "gate2_samples": [
+    "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+    "FMC Corporation: The Shorts Have A Point (NYSE:FMC) - Seeking Alpha",
+    "FMC Corporation (FMC) options chain - Yahoo Finance Australia",
+    "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+    "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus"
+  ]
+}

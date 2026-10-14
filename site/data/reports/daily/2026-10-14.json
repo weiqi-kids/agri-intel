@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:10:37.852756Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-10-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yara backs Stenon in Series B vote of confidence for soil nitrogen intelligence platform - FeedNavigator.com",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "natural_gas_feedstock",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLW5kZU9sX0FsWndmbkNScE1RVHgxcTlSYUtNeWtORDF0RVhuZFBwQXZkTjM4cHVaMlNVSUZBaGx0YTBsYTlKeU5VTTFiblpSNXFJaVVUODhSZ2ZMMXE1SjJXM3JQbW04R2VYZnktTzlxNFlPVmFGS1BHQ25NeWJYQlJSZ1owSmZRSmZYRkd2YS1Kem91YVdQN2NhRUlYMmRfbzFKc2NnRWN2TUNxU3JLak1SWVp6djVJNUxLN0RwdXA3SWM3STVDZGx2LTFGSWlvcUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-10-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Purchased by Sax Wealth Advisors LLC - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3A0X2doczU3Q2d2UjNncjdxdFV2ZUNNT0djcFplMHNhTUxIZFBmaEVXTXJabFFlM0hPUTYxUjctTnZscXc5Y2JsT3RsZ28yQjk5dVcxdHZPVkxNcTJHRGtld3prNUIxemF6eEFJdFZtNFYyU2pwdU1kOUIzNE9vMVdUcjlXWmV4YTYyMGFZMjlrWXBHcFdwNHl0Q0tINXJnVHhHZkJFYzNtQ1pyRkJKdG1QQlBoc0twQjNibkdIQzBTVERMWklvWEh5UzN2bjA0Z0JOd093?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. ethanol exports hit 5-month high on biofuel demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/tv-and-radio/u-s-ethanol-exports-hit-5-month-high-on-biofuel-demand"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fuel’s errand: Why Trump diesel deal won’t help farmers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How to sleep easy: Sell the corn, buy the call",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/marketing/how-to-sleep-easy-sell-the-corn-buy-the-call"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "planting_season",
+        "count": 4
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 212,
+    "too_old": 125,
+    "gate1_blocked": 5,
+    "gate2_blocked": 7,
+    "passed": 26,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+      "FMC Corporation: The Shorts Have A Point (NYSE:FMC) - Seeking Alpha",
+      "FMC Corporation (FMC) options chain - Yahoo Finance Australia",
+      "Archer-Daniels-Midland Company (ADM) Options Chain - Yahoo! Finance Canada",
+      "A Look at Bunge Global SA (BG) After 4.7% Decline -- GF Value $1 - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Yara、ADM相關動態：「Yara backs Stenon in Series B vote of confidence for soil...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Yara backs Stenon in Series B vote of confidence for soil nitrogen intelligen...（天然氣原料、農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Archer Daniels Midland Company $ADM Shares Purchased by Sax Wealth Advisors L...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
