@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T12:57:20.146949Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fmc-2026-10-15-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "FMC plunges 43% after guiding Q3 revenue far below expectations on weak demand, price cuts - Seeking Alpha",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1E4MlZ6WlVrUEpfZTA5c1JSYkJoMEd4Sm5GN1BQR0NWd0ZaM3JDUEh6dm5ubC0tR3FEMktWdmt6TG1oaDFCVWh4QW9rVHMtZmc0OXpWNGhQTDZvekRNWTY3Tngxa2lwR3ktNGVTYVpWTkZZUThUOHgwb3pWbzRfY1hEdjFHS2JXNExNeUZQQXZPSE4xczU2cENrRXJIRG9hSUtrTVhFTHNFVGN2SWdzRGlCMkRDTEpzWjB4TWs4MFhVa3Zj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fmc-2026-10-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FMC Corporation Provides Earnings Guidance for the Third Quarter of 2026 - marketscreener.com",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTNwRTNUTTI4WEZUOXpfM3E5RDhtVDROREZralRwRF9zQkY0cmpYcVVmQ1ItZUV3VUZhNGVmQWQtanJMaXpncVFneTVxRlVzQTh4bjNPZGxwQTZ0R0d2eVNCaGFaZ3l2U1Bqc1J4ejNPMTBEYzNlWTF0WURUSUdpOHIyNDkyTHhlLU5jNml6a1VZUEZ2WGt1OGNvbkp6bXRUdlI0ZnhxOTVYZE1feG9QcWVpQWZNNl9LYnBtNmhTV2thX2M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fmc-2026-10-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FMC Cuts Third-Quarter Revenue Outlook to $65 Million to $125 Million - Quiver Quantitative",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYm5HYVVjU3lxeDB0bmMyUzFXTWNLd0FQbmsxV0RZQTk3ZVFHamVGZ1Fqb2dZc1NldnpBaG81TjVkb2JEM18ybW94LXRhZUVqdDYwUXVDemZNMGdpMWx3R2s5Vm5mUUczMkRZUmFTMUFuUUhUTXNUSVlqWlBkaFFqM1dMSDFFakhOOHBDVDBrbjFyMlFvRFdaWXJBelZ4T0g0QWFldU9hRE5pdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fmc-2026-10-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FMC Stock Slides As Analysts Cut Targets And Outlook Stays Cloudy - Timothy Sykes",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pNVlvZHBnU0ZhbFNpOTlzOGxkTlBtbUhtM0JadzRKR2hZVUU2TDVEM3VNc2xDS1F0aWNpN1hob2ZIN1NlaUJ2amdzTEt6SThrTEJuamtxSDBpTHEtc1pVQXFHdXpsMmswZUlscTh5WHJQdjd2ekNPcXB3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fmc-2026-10-15-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FMC tumbles 35% after slashing Q3 outlook over weak demand and inventory issues - Yahoo Finance",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1ZaYzRXVHFHQ01CQ3Q3NVE0Q01TU2VqeVJ2QjVDOWtidXdDYTZkNTdCazJ5aGRuOThJSC1BY3Q1YnJBYThyLS1QM0ZxQUxrWHp6Y1p2ZTFGbjBmWTRyel9RSGVTR3N5X1VxcDlKSVg3YmFrbVdNaWtpVkVzT3lMZW16aEJXb2l3Snp0X0pVdUpJZWQ2VVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "fmc",
+        "count": 6
+      },
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 193,
+    "too_old": 126,
+    "gate1_blocked": 8,
+    "gate2_blocked": 12,
+    "passed": 37,
+    "pass_rate": "20.2%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile S.A. (SQM-A.SN) - Yahoo! Finance Canada",
+      "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+      "Stay ahead this season with Corteva Agriscience turf management solutions - Golfdom magazine",
+      "FMC Corporation: The Shorts Have A Point (NYSE:FMC) - Seeking Alpha",
+      "FMC Corporation (FMC) options chain - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為FMC、CNH、Yara相關動態：「FMC plunges 43% after guiding Q3 revenue far below expect...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "FMC plunges 43% after guiding Q3 revenue far below expectations on weak deman...（法說會、農業產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "FMC Corporation Provides Earnings Guidance for the Third Quarter of 2026 - ma...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

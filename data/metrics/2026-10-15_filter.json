@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 8,
+  "gate2_fail": 12,
+  "passed": 37,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile S.A. (SQM-A.SN) - Yahoo! Finance Canada",
+    "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+    "Stay ahead this season with Corteva Agriscience turf management solutions - Golfdom magazine",
+    "FMC Corporation: The Shorts Have A Point (NYSE:FMC) - Seeking Alpha",
+    "FMC Corporation (FMC) options chain - Yahoo Finance Australia"
+  ]
+}
