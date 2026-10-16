@@ -1,0 +1,16 @@
+{
+  "total_raw": 375,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 6,
+  "gate2_fail": 15,
+  "passed": 50,
+  "gate2_samples": [
+    "Sociedad Química y Minera de Chile S.A. (SQM-A.SN) - Yahoo! Finance Canada",
+    "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance",
+    "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+    "Yara International : Consensus Estimates - 15 October 2026 - www.marketscreener.com",
+    "OCI NV (OIC.HA) Options Chain - Yahoo! Finance Canada"
+  ]
+}

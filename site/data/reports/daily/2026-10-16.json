@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T12:49:11.837635Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What to Expect From Archer-Daniels-Midland’s Q3 2026 Earnings Report - Barchart.com",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2Y3cWpqSjRXTjJNamFPYnVVdWJEaklNLTJqbTZDUG52ako4QjF1UG9wZzhRc1JNSzF1ODU5MF9VMGh3R2dteW1GUElJdGtROUR4cUFsMXpJLXFISDhVVElYNmJYS2wxOWxpNnlweV9rVXpiR0pHcnlpT29MTUlMbmIySmZfVUlVRVlwRjh1QS0tMm1ManB4NkJ4ay1tQUZtNkJYNDRHTHZSVjM1Wk5BRw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-16-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Soybean yields validate early planting date",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/soybean/soybean-yields-validate-early-planting-date"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-16-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "700 people in a machine shed: When loss becomes a lesson on the farm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-life/700-people-in-a-machine-shed-when-loss-becomes-a-lesson-on-the-farm"
+    },
+    {
+      "rank": 4,
+      "event_id": "kpluss-2026-10-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Infosys and K+S AG sign digital transformation agreement - World Fertilizer",
+      "companies": [
+        "kpluss"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHBOcC1GNzdiZHNVd1ZhUzFDRGZTX3QxcDVDazlaTVJKcXluekxKdWZ3T0ZxV1dBc0J4SGFTTVA5ZnNUZXRXZHozdllTZEhYb3BnU0VQUTV6ZGdyNElidVBwbkZtUGVnRDAtdS16czlqZHNLUF9ucC1TSDNMMklDdDlJcWRhLUV4djRobGxFRnU1VVlEUlpwTEloWkh6V3g1UWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fmc-2026-10-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Stock Is Falling Friday: What's Going On? - FMC (NYSE:FMC) - Benzinga",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLTRfSVBrZ3c0bm5QbDRzcWxBb3lwRi1aUmxJSjJXZDRuSFBfaXFlRmxieEdIUjg4VUozX3B4VTBzSDJ1OGxEQUJ3VFVKRmgwLVVNRVA0ejRMOU9aVUdzNUFWSUkyMnNJUkd4emJtdlBrQXJscHAxcU5fYThyaDA2eWpOT2tmSWNMRWZzWDRpbFRhelJLWE12V25JZlBMdXp0UERkRDNZQW5fa1ZNSmpjeVJTQWMtV3BCZkczYTkwSFB1dkU2U2hLVWhVQ3MzSGg2aGZQbmNYWTNIZmlkS0FKSXcwX3gzWVRRV09R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 21,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "fmc",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "kpluss",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 177,
+    "too_old": 127,
+    "gate1_blocked": 6,
+    "gate2_blocked": 15,
+    "passed": 50,
+    "pass_rate": "25.3%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile S.A. (SQM-A.SN) - Yahoo! Finance Canada",
+      "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance",
+      "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+      "Yara International : Consensus Estimates - 15 October 2026 - www.marketscreener.com",
+      "OCI NV (OIC.HA) Options Chain - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為FMC、ADM、CNH相關動態：「What to Expect From Archer-Daniels-Midland’s Q3 2026 Earn...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "What to Expect From Archer-Daniels-Midland’s Q3 2026 Earnings Report - Barcha...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Soybean yields validate early planting date（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

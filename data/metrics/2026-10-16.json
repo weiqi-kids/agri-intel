@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-16",
+  "total_events": 23,
+  "by_company": {
+    "kpluss": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fmc": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnhi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "kubota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 22,
+      "sentiment_avg": -0.09
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "natural_gas_feedstock": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
