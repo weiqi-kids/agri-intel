@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:50:11.976950Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fmc-2026-10-17-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FMC Cuts Third-Quarter Forecast, Projects Up to $565 Million Adjusted EBITDA Loss - TOKENPOST",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsXzVUNUNhTHktZHlyQ3llbTVqVy1ValVTVjcwNE0xdi1UcWZPN2I0ZnVkNEY2MGZsS2FOZEpNaTlBcHJuemZfbFc5X0tTNHVOS1FHczI4WjQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sqm-2026-10-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sociedad Quimica y Minera (NYSE:SQM) Stock Moved Down to Buy by Wall Street Zen - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObzhCR3plS3VhX0o0alZIMHJpbUJad0tzUG1QOUhFNzRzWE1vQ3ZSVV9ES0dZWE40N0pXY2xieUJ6QnppM01FaW9nLVBPMnJ5TkRSUUF5VkVxU2JnN2hrWWRoMGkwVFhBaU1LZGdqNkFnUTZvcEhWRmp2a2ZMZ201eFZPOWpwSnB0eGV2bFI4UEJqeTBtTlFEZ0tXaTlfLUVoMUxoSGduTGdzMzQ4MjRUVHpYUEpmQWdZSUNLTVdTZG8wcllLb2dZYUdQNjQxc2s0Q1M2UVh3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Farming’s ‘Wild West’ requires early tech adoption over hesitation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farming-equipment/farming-s-wild-west-requires-early-tech-adoption-over-hesitation"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 374,
+    "dup_title": 201,
+    "too_old": 126,
+    "gate1_blocked": 5,
+    "gate2_blocked": 15,
+    "passed": 27,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Sociedad Química y Minera de Chile S.A. (SQM-A.SN) - Yahoo! Finance Canada",
+      "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance",
+      "CF Industries Holdings, Inc. (CF) options chain – Yahoo Finance - Yahoo Finance Singapore",
+      "Yara International : Consensus Estimates - 15 October 2026 - www.marketscreener.com",
+      "OCI NV (OIC.HA) balance sheet - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為SQM、FMC相關動態：「FMC Cuts Third-Quarter Forecast, Projects Up to $565 Mill...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "FMC Cuts Third-Quarter Forecast, Projects Up to $565 Million Adjusted EBITDA ...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Sociedad Quimica y Minera (NYSE:SQM) Stock Moved Down to Buy by Wall Street Z...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
