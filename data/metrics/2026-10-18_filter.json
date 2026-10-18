@@ -1,0 +1,16 @@
+{
+  "total_raw": 374,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 4,
+  "gate2_fail": 17,
+  "passed": 19,
+  "gate2_samples": [
+    "MOS - Mosaic Company (The) (Holding Company) | News - OTC Markets",
+    "Sociedad Química y Minera de Chile S.A. (SQM-A.SN) - Yahoo! Finance Canada",
+    "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance",
+    "Yara International : Consensus Estimates - 15 October 2026 - www.marketscreener.com",
+    "OCI NV (OIC.HA) balance sheet - Yahoo Finance UK"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:15:37.184173Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SB1 Markets upgraded Yara to Buy with a NOK 450 target for Yara stock - ad-hoc-news.de",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWFh5QThpMHFzSjB6ZjhteTZEQkUyVDEtQnh4SjM3WDhBeURGalc4bHFRM1dNb2syQkhkS3AxR2Vac01MTFhGc2hDd3Q1d1hnbFpZVUhtNHozT1daUFhBeGtPU19GVTF2WnZ5bVlQYTJjVDhyZVNuVU5KbGUzdjlWSGkxcXRkUG5kc3RtdmNTYmVRUy16RnVpdzlLaF91UGlpejJrYkNHczFNTXhweVJNRHg0RHlEcnRxbTRvWXBYS3Jwem9KRElJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oci-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI schedules October 30 vote: NNS offers EUR 4.10 for OCI stock - ad-hoc-news.de",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT3lTVVlZY2JEZC1zVUtCUVFIYXpPeDJGSXBSbjBvN3Z2SWJJYkRkdTc1MFBfUmUta2ZjN1pUQjFtaEtnZXFhSFFmRFZ4MjFsOC14MXVCZExZdUZNb09Bc2xqQ0paTFBWbGlFT3pUTFJZMVhEaHloYzc1Z2dvRkNDamJ3dHUtcXNraDZSZUNSMFpEV2EwV1gzQ01xVzdsNHhwQkxBaFZKX3hublJrNWN0eHc5bTJuaXI1VHJlbHZUQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland Company $ADM Shares Sold by Howard Capital Management LLC - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbVpDNW4ybnJ4RGdCdnJIZmUwWno4RlhHYVg1MWN2aDVzUThEQjlJNmowTEVkYkY3OVQ5cGlzUUFXNWliNUxhWGlhS05ESk1WUVFLZ2lycm11TzBKRlJJM3JBTHRPdXFBTzE4aDZSNnZwM2lnTUtIR2FFWS0zNHp3cG9RMFJodnp6czEtaUU5WkJXLXVQeGExMGg4WklyTGhKT2ViUW4zS0M3Y3dkVGdXNU1ZVTQ0aHYyZDMyUFliSHkzVGZmSXlReHFsVnBYV254ZElwN3JxOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-10-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Stock And 2 Grain Logistics Names Riding Global Shipping Disruption - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekRkcjZEUnpJWnhiVjRCUENOWUd2bXNtWUJ5eFVPREp5U1Zmd25vcXc3UFdPeUZTRGRkRDRqY2lMTThmVmtOc21qQkFQOGtweElYMkNTMjlhMm5NR0wtb29nbTdraGhGYWx2YTFyOE1vWGxEV211S3NtNENQeHB2bFpSQUJid2Q5dkRqTVA3Qm9oLURyN1pJZ3k4eklnNkYt?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 374,
+    "dup_title": 216,
+    "too_old": 118,
+    "gate1_blocked": 4,
+    "gate2_blocked": 17,
+    "passed": 19,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "MOS - Mosaic Company (The) (Holding Company) | News - OTC Markets",
+      "Sociedad Química y Minera de Chile S.A. (SQM-A.SN) - Yahoo! Finance Canada",
+      "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance",
+      "Yara International : Consensus Estimates - 15 October 2026 - www.marketscreener.com",
+      "OCI NV (OIC.HA) balance sheet - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Yara、OCI、ADM相關動態：「SB1 Markets upgraded Yara to Buy with a NOK 450 target fo...」。主要關注主題為農業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SB1 Markets upgraded Yara to Buy with a NOK 450 target for Yara stock - ad-ho...（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "OCI schedules October 30 vote: NNS offers EUR 4.10 for OCI stock - ad-hoc-new...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
