@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:06:50.624090Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "taifer-2026-10-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan Fertilizer reports 9.82 billion TWD revenue: what it means for Taiwan Fertilizer stock - ad-hoc-news.de",
+      "companies": [
+        "taifer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQWJGdjZ2Sjk5NzN2MmxYZmhDaHlVcXdGd3ZLNm1LQXU2WTdfSVI3VnhuZHlNR21DblVYaXJuU3NZX3R3S1Q4bmxZRTJHV3lleFNLUjJacTJibFpMWkN3TS0zLUtQTlp1WExQWHdydkRXS0FTWURiZ3NrVS1fSUs2OHIxa2J0WTEyT3ZILUJiSWRWNzlGWWR5YlV5SDlkZWl2c29xemNyOEpPbHJTTGlMa1JWRmlCRTZDX21uMWZPYlo4UTFxbUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-19-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The $345-per-cow opportunity in your milk tank",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/dairy-cattle/the-345-per-cow-opportunity-in-your-milk-tank"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-19-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pork downturn looms, while cattle industry faces headwinds",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock/pork-downturn-looms-while-cattle-industry-faces-headwinds"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-19-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Husker power leads to USDA corn yield upside surprise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/husker-power-leads-to-usda-corn-yield-upside-surprise"
+    },
+    {
+      "rank": 5,
+      "event_id": "nutrien-2026-10-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nutrien’s Trinidad Nitrogen Shutdown Adds to Rising Global Fertilizer Prices - Global Agriculture",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXJ0NTJpU0tsaTdUNG1sQ2hlb002UV9hMmVvdzVILVN2RjAyMGlTMS1ydFRMMm8yUDQ5eFJYQVo0NGZYeHpmT2g2aWJXSkEwNWlqQTNKT3lhTGJWaFJXZVZFanJoa3NzYjFnaGE4YWVoUWIzWjE3UDlmLVM2ZXFIeDh3aEF3ODVSSDN1ZFJFZjNacEhWTUdUUDRGbnQ4XzUzWFpWWi1OWkJFTElIV3dzQTlDUktybjBHMF9NNzhRNjJEc3VS?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "taifer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 215,
+    "too_old": 116,
+    "gate1_blocked": 2,
+    "gate2_blocked": 18,
+    "passed": 22,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "The Bet Nutrien Holders Made - Simply Wall Street",
+      "MOS - Mosaic Company (The) (Holding Company) | News - OTC Markets",
+      "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance",
+      "CF Industries Holdings, Inc. (CF) Options Chain - Yahoo! Finance Canada",
+      "Yara International : Consensus Estimates - 15 October 2026 - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為ADM、Nutrien Ltd、Mosaic相關動態：「Taiwan Fertilizer reports 9.82 billion TWD revenue: what ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Taiwan Fertilizer reports 9.82 billion TWD revenue: what it means for Taiwan ...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "The $345-per-cow opportunity in your milk tank（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
