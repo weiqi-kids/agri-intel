@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 3,
+  "gate2_fail": 18,
+  "passed": 33,
+  "gate2_samples": [
+    "The Bet Nutrien Holders Made - Simply Wall Street",
+    "MOS - Mosaic Company (The) (Holding Company) | News - OTC Markets",
+    "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance",
+    "CF Industries Holdings, Inc. (CF) Options Chain - Yahoo! Finance Canada",
+    "Yara International : Consensus Estimates - 15 October 2026 - www.marketscreener.com"
+  ]
+}

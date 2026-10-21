@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:19:10.310211Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-21-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "$8 billion farmer diesel relief comes with a catch",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer-Daniels-Midland (ADM) Faces A Fresh Valuation Test As Pipeline Case Enters View - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalFxemhyTEphLW5odC1ybmZhUDhsV1Ffb3QyeEVxU0RQVW1rY1REQ19kY3RSNHJNbHVhNEx4X041MFVDb3E2dWIxbWFHMFBORUpmdll6eXZyeVN4bXl5Qmd6bXlJTFhhNUpZYU8tSHBYS2xxNUJJZ0VaU1dmaG41SmtXLTFURjl3WU1MRENlaWdMWEFYT3FkZDBCZDJFZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bunge Stock And 2 Grain Shipping Plays Facing Black Sea Insurance Shifts - Simply Wall Street",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFRPQUhvb0hrM3Vvc2ZMdTNPR2FBR21yMXdwajEtTmFrbzkxMnowc3lBWDF3VXJBR2NPWkJtNXAtbFpzaXEyd0xmLXpWbG5aM1QzT013c0lDUEIyQ0hnTE85ZzY3azBRZTEwQk1hcXZOdEtydmVHT2ZQNjEyTFIwZFpTX0VOZFJubDBIWkVNTVJ6N3RGaVhYYUZIMkREUDR5QUQyRXRvc3RDZEdVb2FoN3lSbGJNSUVtcVhES096ZzFNeXpmRkhUdVgtMGpyWTJEdng5MTRWZHFBcWZBRi03OVF0TGtqaUFMeXpFdzJFMHNYUdIB8gFBVV95cUxOWFRPQUhvb0hrM3Vvc2ZMdTNPR2FBR21yMXdwajEtTmFrbzkxMnowc3lBWDF3VXJBR2NPWkJtNXAtbFpzaXEyd0xmLXpWbG5aM1QzT013c0lDUEIyQ0hnTE85ZzY3azBRZTEwQk1hcXZOdEtydmVHT2ZQNjEyTFIwZFpTX0VOZFJubDBIWkVNTVJ6N3RGaVhYYUZIMkREUDR5QUQyRXRvc3RDZEdVb2FoN3lSbGJNSUVtcVhES096ZzFNeXpmRkhUdVgtMGpyWTJEdng5MTRWZHFBcWZBRi03OVF0TGtqaUFMeXpFdzJFMHNYUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EPA proposal shifts biofuel burden to big refiners, boosting soy oil hopes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/tv-and-radio/epa-proposal-shifts-biofuel-burden-to-big-refiners-boosting-soy-oil-hopes"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Florida dairyman named Farmer of the Year at Sunbelt Ag Expo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/names-in-the-news/florida-dairyman-named-farmer-of-the-year-at-sunbelt-ag-expo"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "deere",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 193,
+    "too_old": 123,
+    "gate1_blocked": 3,
+    "gate2_blocked": 18,
+    "passed": 33,
+    "pass_rate": "18.6%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "The Bet Nutrien Holders Made - Simply Wall Street",
+      "MOS - Mosaic Company (The) (Holding Company) | News - OTC Markets",
+      "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance",
+      "CF Industries Holdings, Inc. (CF) Options Chain - Yahoo! Finance Canada",
+      "Yara International : Consensus Estimates - 15 October 2026 - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為ADM、Bunge、John Deere相關動態：「$8 billion farmer diesel relief comes with a catch」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "$8 billion farmer diesel relief comes with a catch（種植季節、農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Archer-Daniels-Midland (ADM) Faces A Fresh Valuation Test As Pipeline Case En...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

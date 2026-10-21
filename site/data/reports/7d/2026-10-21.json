@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-21",
+  "date_range": {
+    "start": "2026-10-15",
+    "end": "2026-10-21"
+  },
+  "generated_at": "2026-10-21T13:19:10.445616Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "fmc-2026-10-15-036",
+      "date": "2026-10-15",
+      "title": "FMC Stock Crashes 33% On Massive Earnings Downgrade – Citi expects ‘Modest Negative Reaction’ For Peer Corteva - TradingView",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 100,
+      "last_week": 88,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": -0.05
+    },
+    "earnings": {
+      "this_week": 12,
+      "last_week": 10,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": -0.02
+    },
+    "natural_gas_feedstock": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "planting_season": {
+      "this_week": 11,
+      "last_week": 16,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": -0.14
+    },
+    "fertilizer_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "crop_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "yara": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "oci": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "fmc": {
+      "event_count": 14,
+      "sentiment_avg": -0.12,
+      "rank": 1
+    },
+    "cnhi": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "kpluss": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "adm": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "bunge": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "kubota": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "sqm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nutrien": {
+      "event_count": 2,
+      "sentiment_avg": -0.38,
+      "rank": 8
+    },
+    "mosaic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cf_industries": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "taifer": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "corteva": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "deere": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 208,
+        "last": 162,
+        "change_pct": 28.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-15",
+      "event_count": 57,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 46,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 12,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 35,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 38,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 14,
+      "sentiment_avg": -0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-15 ~ 2026-10-21）共 208 則事件，重點為「FMC Stock Crashes 33% On Massive Earnings Downg...」。Nutrien Ltd情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Nutrien Ltd",
+        "reason": "本週情緒偏負面（-0.4），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Yara",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "OCI",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
