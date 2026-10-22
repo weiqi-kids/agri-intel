@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 3,
+  "gate2_fail": 13,
+  "passed": 34,
+  "gate2_samples": [
+    "Why Did Nutrien Ltd. (TSX:NTR) Fall 1.524% on October 21, 2026? - kalkine.ca",
+    "The Bet Nutrien Holders Made - Simply Wall Street",
+    "MOS - Mosaic Company (The) (Holding Company) | News - OTC Markets",
+    "CF Industries Holdings, Inc. (CF) Options Chain - Yahoo! Finance Canada",
+    "Why the Fund Owns CF Industries (CF) Despite Rooting Against Its Catalyst - Yahoo Finance"
+  ]
+}
