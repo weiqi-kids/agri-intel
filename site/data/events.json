@@ -19,6 +19,207 @@
     ]
   },
   {
+    "id": "unknown-2026-10-23-001",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Corn sends up red flags for rest of grain complex",
+    "summary": "Morning Market Analysis: Corn futures extended declines overnight, dropping near 11-week lows amid rapid harvest progress; soybeans rose slightly.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-002",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farm equipment sales keep sliding as farmers hold onto older machinery",
+    "summary": "Farm Progress America: New AEM data shows tractor sales down 16.4% and combine sales off nearly 11% last month, deepening a year-long slump driven by falling farm income and rising input costs.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/farm-equipment-sales-keep-sliding-as-farmers-hold-onto-older-machinery",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-003",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Harvest season playlist brings back memories",
+    "summary": "Show-Me That: The Farm Progress editorial team has put together a playlist of songs that remind them of the fall and harvest season.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/harvest-season-playlist-brings-back-memories",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-004",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yield ding on corn: Not all about tar spot",
+    "summary": "It isn’t exactly the harvest from hell, but there are unique challenges this year in getting corn in the bin — and lessons to learn.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/yield-ding-on-corn-not-all-about-tar-spot",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-005",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "It’s hard work feeding those who feed us",
+    "summary": "Cowtowns &amp; Skyscrapers: In this season of giving thanks, let us remember those who work to feed our bodies and our hearts.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/it-s-hard-work-feeding-those-who-feed-us",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-006",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Your holiday gift guide to Something Special from Wisconsin",
+    "summary": "Alice in Dairyland: Since 1983, this program offers the state’s best artisan cheese, gourmet popcorn and more from 450-plus local companies.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/your-holiday-gift-guide-to-something-special-from-wisconsin",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-007",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Managing the farm: What’s your Business IQ?",
+    "summary": "Dr. Kohl’s Commentary: High-performing farmers master costs, cash flow and marketing. Low scorers are less likely to know their numbers. Financial stress analysis is a common weak point.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/managing-the-farm-what-s-your-business-iq-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-008",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kids see a corn pit; farmers see $15,810",
+    "summary": "Slideshow: Behind every pumpkin patch’s corn pit is a farmer doing real bushel-and-dollar calculations.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/kids-see-a-corn-pit-farmers-see-15-810",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-009",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Pasture-raised pork: Answering the protein demand boom",
+    "summary": "Slideshow: See how this Indiana row crop and cattle producer is meeting increased protein demand by raising pork on pasture.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/hog-and-pork-news/pasture-raised-pork-answering-the-protein-demand-boom",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-010",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dollars and sense: How good beef stockmanship boosts your ROI",
+    "summary": "Acres to Income: Clint Peck, a beef expert who’s part of the editorial team at BEEF, shares insights into the economic value of Beef Quality Assurance training and good stockmanship practices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/dollars-and-sense-how-good-beef-stockmanship-boosts-your-roi",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-011",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here’s to the farmhouse holiday table",
+    "summary": "What’s Cooking in Illinois: The holidays — and holiday cooking — are almost here. Here are four tips, three myths and two recipes to make your farmhouse holiday table a tasty and safe one.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/here-s-to-the-farmhouse-holiday-table",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-10-22-001",
     "date": "2026-10-22",
     "companies": [
@@ -433,6 +634,204 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/forage/cattle-producers-urged-to-watch-for-prussic-acid-poisoning",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-10-22-023",
+    "date": "2026-10-22",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Mosaic Company (MOS) Declares $0.22 Quarterly Dividend; 5.1% Yield - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0FST3JrblpEU1dqU3ZSRDZpNEhzZ1hfRlJWYTRfc0pya3hYa1VqZDlFWUZOVWprSFFMT0lSSzJLdkxnUURKNmpLdDlCdzdYUDd3VjB3NVBFX0FtTGNmeG5vTGF6Y2VwcTlOdG5BWU",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0FST3JrblpEU1dqU3ZSRDZpNEhzZ1hfRlJWYTRfc0pya3hYa1VqZDlFWUZOVWprSFFMT0lSSzJLdkxnUURKNmpLdDlCdzdYUDd3VjB3NVBFX0FtTGNmeG5vTGF6Y2VwcTlOdG5BWUV2d29wY0hKY3JwMEx3WnFqOTRUUm5CSExOcmRFNHpYQ0dwMDM4cVB5Ml9ucFVzc1NVbmx5NzBNTXpGUVZmcksxRFdDcUN4OEZadHRsdHhKdi1WcmdjckRRSEdyeWNyYmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-10-22-024",
+    "date": "2026-10-22",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Announces Quarterly Dividend of $0.22 Per Share - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHM4YTJfTXRwNjNPWmJwOVFxYVVZcXIzZTVXRkJjYTBEZm5oUlU0d1VReVpKNGxyVEJ2c1haTTR2RHJTR1pTeTZwUlRqNjRJSHJSQ1o5QmdMNENnTkVHMFdNUURXaUFPTEhRTlNwRU",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHM4YTJfTXRwNjNPWmJwOVFxYVVZcXIzZTVXRkJjYTBEZm5oUlU0d1VReVpKNGxyVEJ2c1haTTR2RHJTR1pTeTZwUlRqNjRJSHJSQ1o5QmdMNENnTkVHMFdNUURXaUFPTEhRTlNwRUlGZWRSbEN3a0JHSmJVV283NVc0Z2FvMVVNcno4N0E5dUFGNzRYQkRITFZGbHpfTEJBMXdMWTZ2ZG8xd2hQSHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-10-22-025",
+    "date": "2026-10-22",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "OCI N.V. R (OIC.HA) Q4 FY2025 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjJ6cDZGLVlKdkFFWXdRQVRTRmtZSW9xWmJkQVR5ODAtOEgzQXdhVEJnSVpYSjNqalpsRU5jNnZJYThzQUE2NmNzelpuTVJhaTRiay1ZeDZsRm9EbnYxanhrME1zM2FyNFc3NjNuX1",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjJ6cDZGLVlKdkFFWXdRQVRTRmtZSW9xWmJkQVR5ODAtOEgzQXdhVEJnSVpYSjNqalpsRU5jNnZJYThzQUE2NmNzelpuTVJhaTRiay1ZeDZsRm9EbnYxanhrME1zM2FyNFc3NjNuX1JVR0JMdkV3dnlIREFQcFRkdEl3XzE0bVIwbFI4X3N5RlZCdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-10-22-026",
+    "date": "2026-10-22",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI NV (OIC.HA) Stock Forum & Discussion - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UakRITkd5bUxNaTZBZHdTQTFUcnl0dXRob0VPczYtNzZjUGlRcjFrTTF6ZlJRck5OQUhBQzZQd3Z2SmQ1aUxjYk1tYXhELVRVZGhaOHpOcWVLQTRMUDI0dGtB?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UakRITkd5bUxNaTZBZHdTQTFUcnl0dXRob0VPczYtNzZjUGlRcjFrTTF6ZlJRck5OQUhBQzZQd3Z2SmQ1aUxjYk1tYXhELVRVZGhaOHpOcWVLQTRMUDI0dGtB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-10-22-027",
+    "date": "2026-10-22",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OIC.HA interactive stock chart | OCI N.V. R stock - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE52S3EwZU5CSkk0eWk5SkFKOTRjSENSamlpU3hYOFYyRkVqcXdXNC1wTFpHd0dzZ25PSDMyY3ZoMnhqZHJJOUNkc1h4ekhiOGprNkpV?oc=5\" target=\"_blank\">OIC.HA interact",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52S3EwZU5CSkk0eWk5SkFKOTRjSENSamlpU3hYOFYyRkVqcXdXNC1wTFpHd0dzZ25PSDMyY3ZoMnhqZHJJOUNkc1h4ekhiOGprNkpV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-22-028",
+    "date": "2026-10-22",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lost Money on FMC Corporation Shares? The Law Offices of Frank R. Cruz Investigates Potential Securities Fraud After 30.53% Stock Decline - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOUm13dy1maE83TVpSanNCUy1tSWtRMUZwdkwtWHZwOXlHSEwwZGJaZVZqOU5NNGtncGhRcHNEdmNfWTFUSF9BMGF2cXZ0QVd6UHpKOWIwZXA1TnlBcGx6WF9MNEg1SWNLVTRNWVM1aG",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUm13dy1maE83TVpSanNCUy1tSWtRMUZwdkwtWHZwOXlHSEwwZGJaZVZqOU5NNGtncGhRcHNEdmNfWTFUSF9BMGF2cXZ0QVd6UHpKOWIwZXA1TnlBcGx6WF9MNEg1SWNLVTRNWVM1aGJJenlsMGcycXZlNnNyOEtIYU5ldjV6UlFHX1NCNHBWX2d6Vi1LSVdLa1BxQ0JIdDhTMm1zUEpNVTk3UjZkeDhDWnVQNnhydldMd3RRbFBNV244VEhUSW8wYWRJYkJ1bXdnTUN2Q3NGRDFMNWh4VGtXWGo2eHM2X3BhLVJxUTVCQnBpdVRjS1RNSlZpWUJVWmo2a3NyLWRrdDQ2N1FMRzlDTFItZXQzeUlCQ3pzNjdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-22-029",
+    "date": "2026-10-22",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FMC Q3'26 Earnings: revenue estimate is 487.63M USD - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXZVNnhETTUxUUc5TUFrRG45Uk9ST04zMlFrbl9iYUM5aXNiUnQ3TjAzMUJ0YW44ZldwWUJXWlZ2ZDYxUUpVamhYRVFyc1JCS3Q4eXZnZmpObmNsdmQ3cmtTNUt6U1Q3b0psLWhpX0",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXZVNnhETTUxUUc5TUFrRG45Uk9ST04zMlFrbl9iYUM5aXNiUnQ3TjAzMUJ0YW44ZldwWUJXWlZ2ZDYxUUpVamhYRVFyc1JCS3Q4eXZnZmpObmNsdmQ3cmtTNUt6U1Q3b0psLWhpX0FOV1NPd2x3MUs4R2trTllybHhIZTg0Q201X2h6VW5iQjRQNmNCbUhxZU1aXzFfbnNuQ3BtNHhQWjVZYUR2Q3JVY3NR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-10-22-030",
+    "date": "2026-10-22",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Kubota BX90 Series Subcompact Tractors From: Kubota Tractor Corp. - For Construction Pros",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV1dMS3k0djhiNDgwcjFyVDkxYVQ4QlpTYnlzcmU3dFEyT0c1SFdLTVAydnFNQmFSRnhZVEE2MzlLVGJhYnlZNzhNeWNyWjJNOVhBM2ZDUWJpdnRicnY0MkZzWVd3eDlLYlFoWWhjU2",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV1dMS3k0djhiNDgwcjFyVDkxYVQ4QlpTYnlzcmU3dFEyT0c1SFdLTVAydnFNQmFSRnhZVEE2MzlLVGJhYnlZNzhNeWNyWjJNOVhBM2ZDUWJpdnRicnY0MkZzWVd3eDlLYlFoWWhjU21aV1Yta0FndVdqWGxHNnJlV1ZJNmtsRl92blZKaWtCSkUxX2JPQUc0bGNKY0Q2UGpWb1hhSG9lOGpRTDVpNEZTVUtWUXphY0hPUUY2a3p3NU9ITXBjdGhlSU5JX0RjNjc5cGNSalpONGYydkZwWlRFdlZPc0hDWDNFblE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-031",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soybean prices finally take notice of Chinese sales",
+    "summary": "Afternoon Market Recap: Corn and winter wheat prices continued to slide lower in Thursday’s session.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-032",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Exports: China buys soybeans",
+    "summary": "The 2026-27 marketing year for corn and soybeans began Sept. 1",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
         "type": "rss"
       }
     ]
@@ -886,6 +1285,24 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-21-025",
+    "date": "2026-10-21",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fmc Corporation Announces Appointment of Luc Tack as Director and Member of Sustainability & Innovation Committee, Effective October 21, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcXpySjZ5RGp1Y0V1Z3RhVzN5OEVHVnp4NW1ocXo1NnpweVVKbU54ZmtUci1kdWJ0T1NvRmV1VjQ0anZxQUR4OVpMRmlEaXdVcWhsbURzOF9hdkJ1NGlGUVVrVUNoVzRtdkdDWTJjX3",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcXpySjZ5RGp1Y0V1Z3RhVzN5OEVHVnp4NW1ocXo1NnpweVVKbU54ZmtUci1kdWJ0T1NvRmV1VjQ0anZxQUR4OVpMRmlEaXdVcWhsbURzOF9hdkJ1NGlGUVVrVUNoVzRtdkdDWTJjX3cxMDlzZWxuUlVkZnNkNmhzWElDVGRnU0lEV1I0Vzg2TDU0S1ozQlZxdDF5Y01mcU5vMkw3cUNYbnJPTklxdXlFbTI2bnRwRlpyVV9JX2VodXBwMWxxYWxqUThSa01qb1M5YTZzc3RaMVN2R3FDMWhSZnJOWG9RQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2304,6 +2721,46 @@
       {
         "name": "fmc",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUTBockFtRGtrTGxkS2ZkOG5NM3pJY3pIYWJ3bW5uOGhKOXY3V194dC10NHR3YjZCZkZSaHdwZWU2WmtWVVp5UWJpMEl0Z1M2QWxiT0hBblV0dGMxM2xQQmZTZmhoS3plcHJtQlJVUkJPMEVCYU1nMmRMX25mNVBDVUc2bzdDRWctc3VOdjdDbW1Hcjl2NEhTU3dnbXJnM3lpdFBLUkZwMFJUTUxVVzIxRUtOVFRpekFCbEU4V3JZWXk1VVlxSXhKeGl1RHF3YmdBdnd3akNqT2VyNEx1YnpwMnk3Qm96V3V5ZkhyOWgxZ1M5QzNydEUzb2x3bERDdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-10-19-037",
+    "date": "2026-10-19",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Company stock hits 52-week low at 18.4 USD By Investing.com - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUpWN2I2WURFQ3ltVzZvWi0tajByY1BYS3hUcmoxLWJ1el9aa2pEMFRrUGMtTDVDdlROQjRWUG5BSk9YX212amZqNzluemJpUnVtaUVMbl92RE4wOEZPa1VJWnYweVZnSHp4TU1MZH",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUpWN2I2WURFQ3ltVzZvWi0tajByY1BYS3hUcmoxLWJ1el9aa2pEMFRrUGMtTDVDdlROQjRWUG5BSk9YX212amZqNzluemJpUnVtaUVMbl92RE4wOEZPa1VJWnYweVZnSHp4TU1MZHFuRXNfMktEOGRpcUNzNjBsNVdBbThnXy03cGdaMG5RN21rR2k0ZkthU2lPcFZsUjVHU0xJbmFLQ2h2MmUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-10-19-038",
+    "date": "2026-10-19",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barclays Maintains CNH Industrial(CNH.US) With Buy Rating, Maintains Target Price $14 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU9iREQ4SVYxTnhOQTJoWlByX1p0TU9jVmZac2dTZGtBZGZPU2luSzZURF9ZVm1sMG9Qd3I5X1I3Y1RoYUxVak5QN0U4TTdCLUdYTnkxX3d4MWFzbExBZVVIUnU3TFJRNGUzel9SWW",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU9iREQ4SVYxTnhOQTJoWlByX1p0TU9jVmZac2dTZGtBZGZPU2luSzZURF9ZVm1sMG9Qd3I5X1I3Y1RoYUxVak5QN0U4TTdCLUdYTnkxX3d4MWFzbExBZVVIUnU3TFJRNGUzel9SWWNhemQzMldIcGRsekFINEphNHpMMi0tYmFnaGNGWVlHUWF1VUF2ZS1IWkFiU1NjN2IyYmJ2MHphUERRSy1CY2pyWnNxU0FKdm8?oc=5",
         "type": "rss"
       }
     ]

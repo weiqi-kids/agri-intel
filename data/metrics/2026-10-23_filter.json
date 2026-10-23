@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 5,
+  "gate2_fail": 8,
+  "passed": 24,
+  "gate2_samples": [
+    "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzinga",
+    "CF Industries Holdings, Inc. (CF) Options Chain - Yahoo! Finance Canada",
+    "Yara International ASA (OTCMKTS:YARIY) Sees Unusually-High Trading Volume - What's Next? - MarketBea",
+    "OCI NV (OIC.HA) - Yahoo! Finance Canada",
+    "FMC INVESTIGATION: Block & Leviton Encourages FMC Corp. Investors with Losses to Contact the Firm - "
+  ]
+}
