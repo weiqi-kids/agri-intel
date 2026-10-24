@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-24",
+  "date_range": {
+    "start": "2026-10-18",
+    "end": "2026-10-24"
+  },
+  "generated_at": "2026-10-24T12:19:22.429838Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-10-20-021",
+      "date": "2026-10-20",
+      "title": "Why Brazil’s election could sway the U.S. soybean market",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 94,
+      "last_week": 98,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": -0.01
+    },
+    "fertilizer_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 12,
+      "last_week": 10,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.04
+    },
+    "planting_season": {
+      "this_week": 12,
+      "last_week": 12,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.08
+    },
+    "crop_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "natural_gas_feedstock": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.11
+    }
+  },
+  "company_7d_summary": {
+    "yara": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "oci": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "adm": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "bunge": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "nutrien": {
+      "event_count": 4,
+      "sentiment_avg": -0.19,
+      "rank": 3
+    },
+    "mosaic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cf_industries": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "taifer": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "fmc": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "corteva": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cnhi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "kubota": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 12
+    },
+    "deere": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "sqm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "intrepid": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 172,
+        "last": 208,
+        "change_pct": -17.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-18",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 38,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 38,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 25,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 39,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 20,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-18 ~ 2026-10-24）共 172 則事件，重點為「Why Brazil’s election could sway the U.S. soybe...」。Kubota表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Yara",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "OCI",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ADM",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

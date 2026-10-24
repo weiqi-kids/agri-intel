@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T12:57:01.827740Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-10-24T12:19:18.215066Z",
+  "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
       "id": "adm",
@@ -228,17 +228,17 @@
       "name": "OCI N.V.",
       "ticker": "OCI.AS",
       "currency": "EUR",
-      "ar": 671600000,
-      "ar_prev": 693300000,
-      "ar_qoq": "-3%",
+      "ar": 0,
+      "ar_prev": 671600000,
+      "ar_qoq": "-100%",
       "ar_period": "QoQ",
-      "inventory": 67500000,
-      "inv_prev": 74800000,
-      "inv_qoq": "-10%",
+      "inventory": 0,
+      "inv_prev": 67500000,
+      "inv_qoq": "-100%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "sqm",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 374,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 3,
+  "gate2_fail": 21,
+  "passed": 22,
+  "gate2_samples": [
+    "Why Did Nutrien Ltd. (TSX:NTR) Fall 1.524% on October 21, 2026? - kalkine.ca",
+    "The Bet Nutrien Holders Made - Simply Wall Street",
+    "CF Industries Holdings, Inc. Estimates – BMV:CF - TradingView",
+    "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzinga",
+    "CF Industries Holdings, Inc. (CF) Options Chain - Yahoo! Finance Canada"
+  ]
+}
