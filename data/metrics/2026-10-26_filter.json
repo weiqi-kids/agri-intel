@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 4,
+  "gate2_fail": 22,
+  "passed": 26,
+  "gate2_samples": [
+    "Sociedad Quimica y Minera S.A. $SQM Holdings Cut by Robeco Schweiz AG - MarketBeat",
+    "What SQM Doubters Missed - Simply Wall Street",
+    "CF Industries Holdings (NYSE:CF): High Growth Momentum Meets a Breakout Setup - ChartMill",
+    "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzinga",
+    "CF Industries Holdings, Inc. Estimates – NYSE:CF - TradingView"
+  ]
+}

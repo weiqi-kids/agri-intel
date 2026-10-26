@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:50:58.094660Z",
+  "updated_at": "2026-10-26T14:39:36.171503Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "雅苒",
       "ticker": "YAR.OL",
       "currency": "NOK",
-      "ar": 1987000000,
-      "ar_prev": 2323000000,
-      "ar_qoq": "-14%",
+      "ar": 2165000000,
+      "ar_prev": 1987000000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 3983000000,
-      "inv_prev": 3351000000,
-      "inv_qoq": "+19%",
+      "inventory": 3861000000,
+      "inv_prev": 3983000000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }

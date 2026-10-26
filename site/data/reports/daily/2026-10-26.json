@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:39:40.075346Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-10-26-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What to Expect From CF Industries’ Next Quarterly Earnings Report - Barchart.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1JDM01VbFRCTHhvT0kxWTdUOEtkNmk4SmdGSHRHTGFzSnpybmNXTi1GRk5feDZSc1hydUNwT1BydmpXVVZvaXdFWkF4Y19RbEJoYlhWem5FbFN3blVtckdUN2YxMzl2Z0pZZ05lby1VZ0tCOG9LUGwzWUx4bXlnMFVmWFJDZXA1X3NYV3dUUDRkUThBcWU3cGl6T3l1dHpKX2tqRGJRQk9jQUVU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-10-26-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What to Expect From Bunge Global’s Q3 2026 Earnings Report - Barchart.com",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc19jNndUeXNfaGNKeVVlMV9xYjhzN2pRd1JhcEJVb1RjNW9sYW1Uby02NlllSkpWQkQ4aENDcWJhdThUbE9qb2UwaUpDSzl1WndwaG1UbUVvY201czNranpqZXNtYjNfRGlsb2JFT2t6UFFkYm44cnBWTTdXWDdENnlvekY4M0ZGWTBDalFYc2J4bDhYS1VJREpQbVUyN0hSc3RJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Worried about fertilizer prices? Join this free webinar for market strategy tips.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/worried-about-fertilizer-prices-join-this-free-webinar-for-market-strategy-tips-"
+    },
+    {
+      "rank": 4,
+      "event_id": "nutrien-2026-10-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fertilizer Prices Keep Climbing as Nutrien Shuts Trinidad Plant and Hormuz Risk Lingers - Global Agriculture",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fertilizer_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcml0ZDYzZ2dyb3lIYlpXc0FZNUEtSG1yWDNNZlVnQ2RVZ0VBVGp6TEFvQWNETlREZ1lwUW9yT2twVjBMVVMzU3FjTUpKYzF5bWMwY2dhVTBGWmc3dFlQVGI0MUJfSk1lNXJjX3hXMVUtQUdEQVkwRFJheDdvVXFfbHNrQ1BLRmhDYlRxWkJQLWVDVDE3QjViNmszeVFZQ0M0eDVHcC1KU1F5a2ZHcGpGVW5fNXJ6VXBxbGYxbGdCcVRBS3pTcE9RVjRfSGV0bktlT2EyWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mosaic-2026-10-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Suncrest College - Suncrest College Unveils Modernized Mosaic Industrial Mechanics Lab and New Training Opportunities - Education News Canada",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNd3ZKOFp4V1l3QTV1Sk9SWXNiTzZtbjhJQ0JhSEF0eUxqNzZYdEZwaHVCUnc3MmVNancyNndhWS1iNm5jNm9wTHp4YWNHT1duU3VyMnVweGk0bGR5Z2VPNE9oRV9yVWUzZjZwR3kzNlVRTzRHc1BkRnBGNGkzTGhhbWZxN3A3dGs0UkliMDB4cWZXZmpWVFc5MFBnZW4tTE8wWFRicGFzUzdZWW9qSU1qcmtqTHVpbVR6SmZtLXdnOXhaX2RXUHpEem5LVXhYcG9rN0k4d1BOT1QxWm12QVVFUW8zYXp2WDlDcmZVQmV4dUd1X1ppU1o3cER2Wjl4QUpubkt1TGd4SmtDUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fertilizer_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "natural_gas_feedstock": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 3
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 3
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 193,
+    "too_old": 123,
+    "gate1_blocked": 4,
+    "gate2_blocked": 22,
+    "passed": 26,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Sociedad Quimica y Minera S.A. $SQM Holdings Cut by Robeco Schweiz AG - MarketBeat",
+      "What SQM Doubters Missed - Simply Wall Street",
+      "CF Industries Holdings (NYSE:CF): High Growth Momentum Meets a Breakout Setup - ChartMill",
+      "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzinga",
+      "CF Industries Holdings, Inc. Estimates – NYSE:CF - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Intrepid、Nutrien Ltd、Mosaic相關動態：「What to Expect From CF Industries’ Next Quarterly Earning...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "What to Expect From CF Industries’ Next Quarterly Earnings Report - Barchart.com（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "What to Expect From Bunge Global’s Q3 2026 Earnings Report - Barchart.com（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "肥料價格話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
