@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:44:16.334751Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-27-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer Daniels Midland (ADM) Set to Announce Earnings on Tuesday - MarketBeat",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVBfZU5SRkNxT2J2RGlER2t3UTZhWGFHUWRKMkpuRUtLaVBuSnJQclR4TllvWUZ6ZVZHckdyQ05lMlRvZHFvT2hHSkZZeW1ZSjdvbmtpS0xRaTZIdHVvamZuRkxEOTFlTnI0X0k0djZTZmhxWDYxaGp0UHZQdkV2U255c0Y5d0VPNUVTcWc2RVUwcElhZ2Yyejk0MXJFY3M3eUMwbXdDaDNBNmhWc1ZNbWk4RFR4dGllNzA2UkxiUE16Tmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-27-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How to find the right crop insurance plan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business-planning/how-to-find-the-right-crop-insurance-plan"
+    },
+    {
+      "rank": 3,
+      "event_id": "corteva-2026-10-27-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CropLife Asia Adds BASF, Corteva and FMC Representatives to Board as Paul Luxton Becomes President - iGrow News",
+      "companies": [
+        "corteva",
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92OGJOMElxY01VNERRUkJBZmJaTFV0c0JTVFJlaE9OSnZZbGFSWGVtenhKTzNCMDNjUXdBU2xCQ1hleVJVajNtMTNqR3ptWXRCRGNGRHF6dGd3RXpm?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-27-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Market seeing strong demand for B-quality land",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/market-seeing-strong-demand-for-b-quality-land"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-27-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Milk futures take a $3 bounce, but surplus supply looms",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/livestock-and-dairy/milk-futures-take-a-3-bounce-but-surplus-supply-looms"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 3
+      },
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 180,
+    "too_old": 139,
+    "gate1_blocked": 4,
+    "gate2_blocked": 18,
+    "passed": 35,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "The Mosaic Company (MOS) options chain - Yahoo Finance UK",
+      "The Mosaic Company (MOS) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+      "Sociedad Quimica y Minera S.A. $SQM Holdings Cut by Robeco Schweiz AG - MarketBeat",
+      "What SQM Doubters Missed - Simply Wall Street",
+      "Here's How Much $100 Invested In CF Industries Holdings 20 Years Ago Would Be Worth Today - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為Intrepid、CF、Yara相關動態：「Archer Daniels Midland (ADM) Set to Announce Earnings on ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Archer Daniels Midland (ADM) Set to Announce Earnings on Tuesday - MarketBeat（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "How to find the right crop insurance plan（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
