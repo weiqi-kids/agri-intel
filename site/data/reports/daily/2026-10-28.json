@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:39:40.884795Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cf_industries-2026-10-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Will Upcoming Earnings Change CF Industries Stock Narrative - Simply Wall Street",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0wwd0pLZmNERUVhV0VfNTllYWpLVnV3N0Rlb2JxTnRXdExvM0lJU2EzTE1LQ1NGMzFGRmVMcUJIdFdWRUVGS25wczhQX1ZwU0kwdHdqa1ZzUXlTYURGazczWFRUVmtzUVo2bFQ4dzNqdUFJeTdLbmpxbXJETXpWUVkzeFd2NUhZS2JMZlFUQjA3Vl9udzY0cnZJVnh3YkZSWXdIZEJpOThxOVV3ZEdpcElBWkduWHJVVDl1bU9GM1VOYlpyVjJuYmtuWFlqX2pCMHRz0gHYAUFVX3lxTE5ITnVZNElKN1QzVmE5TnVvY2o4M05Sc01wbnRmNjFzNjRVX1RxSWJNeGNtNE41ekt3OEVFeEc5T1A0eWU5dWF6bFhYSG5EbWVfRGxYdDNqS2ZKRjF1LWJjeHc5NUhKYjN6bE5XNXJOY2xnYi10cjl2V3pjemViUDdxWHJ3R3BZN24tUGNIVUZDcXIwaXptWDR1YU5nTndfMEwxM2lZUkthQ2w2S29TNmxPM1Q3RlZ0cDQxSGRlaW5FQ21YeEh3djZXNVMtdGNwTkptZDl1ZjlpQg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-10-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge Global (BG) reports Q3: everything you need to know ahead of earnings - FinancialContent",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGFIUmI3U3lJRGhsX1hTM1U4UjFqRkFNYi1xYThvcFFITTc3YjY1LURuOFdRQnRrZjRIdFlIVE9DMnA2NTJDdDd4TjVxWXQ3T1JXZU1tYmZyMHFjNDkxYW9vZkF6aTVHc2lKSzlFS3dwaGJuajFJNXF6TlRhUzVwS2JXMTdsYkRILXJUX2k1aU9vYno3UVNWZXRyRmRJMlo4elliSVdXQWswcHNFTFVvbGtBMF94cG84U3FxYnJBdi1WdU1TRFhqb2lyYmtvUTB1?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-28-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Arkansas farmers face record bankruptcy wave amid rising input costs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/tv-and-radio/arkansas-farmers-face-record-bankruptcy-wave-amid-rising-input-costs"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-28-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "One farmer’s informal survey pokes holes in USDA’s yield math",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/crops/one-farmer-s-informal-survey-pokes-holes-in-usda-s-yield-math"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Heard enough from USDA? Illinois farmer takes his own survey",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 149,
+    "too_old": 165,
+    "gate1_blocked": 4,
+    "gate2_blocked": 8,
+    "passed": 35,
+    "pass_rate": "16.5%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "What SQM Doubters Missed - Simply Wall Street",
+      "CF Industries Holdings (NYSE:CF): High Growth Momentum Meets a Breakout Setup - ChartMill",
+      "Yara International ASA 3Q Net Pft $199M - Moomoo",
+      "Yara International ASA Estimates – OSL:YAR - TradingView",
+      "FMC Investors Should Contact Block & Leviton about Ongoing Securities Fraud Investigation - StreetIn"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為CF、Bunge相關動態：「Will Upcoming Earnings Change CF Industries Stock Narrati...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Will Upcoming Earnings Change CF Industries Stock Narrative - Simply Wall Street（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bunge Global (BG) reports Q3: everything you need to know ahead of earnings -...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

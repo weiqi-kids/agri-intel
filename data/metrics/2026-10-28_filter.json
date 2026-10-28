@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 4,
+  "gate2_fail": 8,
+  "passed": 35,
+  "gate2_samples": [
+    "What SQM Doubters Missed - Simply Wall Street",
+    "CF Industries Holdings (NYSE:CF): High Growth Momentum Meets a Breakout Setup - ChartMill",
+    "Yara International ASA 3Q Net Pft $199M - Moomoo",
+    "Yara International ASA Estimates – OSL:YAR - TradingView",
+    "FMC Investors Should Contact Block & Leviton about Ongoing Securities Fraud Investigation - StreetIn"
+  ]
+}
