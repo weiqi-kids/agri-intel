@@ -1,0 +1,16 @@
+{
+  "total_raw": 364,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 4,
+  "gate2_fail": 13,
+  "passed": 38,
+  "gate2_samples": [
+    "CF Industries Holdings (NYSE:CF): High Growth Momentum Meets a Breakout Setup - ChartMill",
+    "Fairholme Focused Income Fund's Top Q3 2026 Move: CF Industries Holdings Inc at a 1. ... - Yahoo Fin",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of FMC Corporation - F",
+    "FMC Investors Should Contact Block & Leviton about Ongoing Securities Fraud Investigation - StreetIn",
+    "FMC Corporation (FMC) Securities Investigation Notice - Levi & Korsinsky - PR Newswire"
+  ]
+}

@@ -1,5 +1,444 @@
 [
   {
+    "id": "sqm-2026-10-29-001",
+    "date": "2026-10-29",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q3 Earnings Forecast for SQM Issued By Scotiabank - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUdOM2l0aHZtR0hkTjhyZ01zVmxSTkMtNUVIWDFmODluZWN2VWlscnhyQ1AxQjFuRDBJekZGVVczc3dvWVRBbjNNRXI2aTdxTTc4NFpuX1VLRlFONXI2aHdZcUZ4UFA5S3RJeDZKMF",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUdOM2l0aHZtR0hkTjhyZ01zVmxSTkMtNUVIWDFmODluZWN2VWlscnhyQ1AxQjFuRDBJekZGVVczc3dvWVRBbjNNRXI2aTdxTTc4NFpuX1VLRlFONXI2aHdZcUZ4UFA5S3RJeDZKMFQ3U2dDZGc1MHNFR0pqcS0xUkFSa2NyeVdXMjc2TnA0LVdGWFdxN1M0R25kT3daTFBkZDJ6XzlpUmlGSmF5bk8xU09wSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-29-002",
+    "date": "2026-10-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC faces securities fraud probe after missing Q3 revenue and EBITDA estimates, shares drop 30%. - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFFyYjhIYUhQclMtbVQ1OTZGLU12OVBOZ2NoX0VTZkktaWRNdXNTTFZDTDlxUUF0QlJwNERUdXpGdXlGTzNXYlJhNFdicUFfOUVKWkNhTTlmY3l3OVZiallPeVRWOEk0YWU5cS1aTD",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFFyYjhIYUhQclMtbVQ1OTZGLU12OVBOZ2NoX0VTZkktaWRNdXNTTFZDTDlxUUF0QlJwNERUdXpGdXlGTzNXYlJhNFdicUFfOUVKWkNhTTlmY3l3OVZiallPeVRWOEk0YWU5cS1aTDJmNzhoOHhzN1M4emM0Uk5GZDl1SFAxQlFBenBFOFVTR016REZ5Z1NwWUVrbVdSbzdEOHhqUWowS1NiU0xrZDJz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-003",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global: Q3 Earnings Snapshot - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDF5anBtMm5DSVRBejNVM2w2SXRxWDB0b0VhYlJvR2dpNXQ1a001QnVWaDg0LVFHQUtGdXlGdUpQcVBqLUpCbVVWTC1NODUzbnNwdUp2NW5VUU9BLUdjNkYtVTZWeXhhMDhhYmV1OW",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDF5anBtMm5DSVRBejNVM2w2SXRxWDB0b0VhYlJvR2dpNXQ1a001QnVWaDg0LVFHQUtGdXlGdUpQcVBqLUpCbVVWTC1NODUzbnNwdUp2NW5VUU9BLUdjNkYtVTZWeXhhMDhhYmV1OWxua0ZFWWQwMkFOM21sUm5aaWsyMTVpYl9Hd1c4QUtoejRNRGxKbDBhS19reTdTbE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-004",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge beats quarterly profit estimates on strong crush margins - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU5rZU1ENEc0QWVXUUxlcmNXUEoyMnRYc2hsQ092bkQtWlFnYUtITmh0VTlUZFZyZE5BWDR2MVlVVVlZQ1RvellXWHJQeXNkcGM2X29WNEJfdDA0TmVvZHZEckJydGFZd1NrRTBwVU",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU5rZU1ENEc0QWVXUUxlcmNXUEoyMnRYc2hsQ092bkQtWlFnYUtITmh0VTlUZFZyZE5BWDR2MVlVVVlZQ1RvellXWHJQeXNkcGM2X29WNEJfdDA0TmVvZHZEckJydGFZd1NrRTBwVUM1a0YtaGVaa2NubEw1cm9NamVjYTN3aG5MOEhvSDRENlFiVFVFWFptaVZYdGxBbFJtbU1NOG8wR0pnWDFrMnpXZWxsbE5nUmNXbllOaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-005",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Q3 2026: Six Straight EPS Beats on Soybeans Surge - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYnFLNXlzdG5uQ25OZnZabkhnc2pQUDJwdk8zUldubUlhcFRDeHhiSGhTM2JSLXZiWjJ5ckhST1IzOW1EWllIMUxZQm1idDlNWkxOZGtXTHVKdGRfY0F4ck5FbU5laW9tU0FScWlERk",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYnFLNXlzdG5uQ25OZnZabkhnc2pQUDJwdk8zUldubUlhcFRDeHhiSGhTM2JSLXZiWjJ5ckhST1IzOW1EWllIMUxZQm1idDlNWkxOZGtXTHVKdGRfY0F4ck5FbU5laW9tU0FScWlERk5BZEpua21zRVNuTld5aEtXUVgxWm9uX3VZWUpLX0pGT1I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-006",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global Q3 2026 Earnings Call Transcript - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXVPYTM5MExSRFFHc3E0aTRmYlJfMzJWejdZQUlrYnE2aXU4dDl3aUNTdl82U2xWaHVfWnE5ZGYwT3NlcFBRZm5HWkxrT3ZVNTQzZ0s1SFBrY2tMVXR6QjJTYVdJdWZHRmJwdlRUcz",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXVPYTM5MExSRFFHc3E0aTRmYlJfMzJWejdZQUlrYnE2aXU4dDl3aUNTdl82U2xWaHVfWnE5ZGYwT3NlcFBRZm5HWkxrT3ZVNTQzZ0s1SFBrY2tMVXR6QjJTYVdJdWZHRmJwdlRUczJlSGR4TTVYVWNrRUlScTZUbEFSVjVTSC1yRkY2aUdYaWlmXzNC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-007",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Bunge Global's Q3 Adjusted Earnings, Net Sales Increase; 2026 Adjusted EPS Outlook Maintained - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZl8wdFVPOEgtblA3SVVSM0F0dmZNcmkycGdYZktmdGZ0LUxZSHg3c21xOERuQWY2TVBsQjhiSXZ3S01iRnBPNzFmMFFfOVJzOFpXYm8wOFM5QWJOMVZJVXc0UzcxWWpReF9za1RCN3",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZl8wdFVPOEgtblA3SVVSM0F0dmZNcmkycGdYZktmdGZ0LUxZSHg3c21xOERuQWY2TVBsQjhiSXZ3S01iRnBPNzFmMFFfOVJzOFpXYm8wOFM5QWJOMVZJVXc0UzcxWWpReF9za1RCN3ZNTzZicTE4ZldDRWpFWF9ROU44aGxBd2xBWFNoc3ZaclNybGZ0Um9feFVMZUZKWTJXV0l1b29vNnZ4aWhoZDB4aVBNNXJENlBVU0RXYXNuMHRZdDdYU21IdUVLN3hfVnZXdkpmRHFKR0xXR2J2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-008",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Q3 Earnings Beat Estimates as Net Income Rises - grafa.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjRiOHVwbTdDb0lGd0NheklPcnZuZGFiSFFNZngwdkxZU2o5cWljYlV6SGNoM3NpdXdKbElSVE5VczNBOFVNNVpRWHA3MnBQV254MUYteHBTY19VR3ZZNl91ak11MFY0VHdkbzlKME",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjRiOHVwbTdDb0lGd0NheklPcnZuZGFiSFFNZngwdkxZU2o5cWljYlV6SGNoM3NpdXdKbElSVE5VczNBOFVNNVpRWHA3MnBQV254MUYteHBTY19VR3ZZNl91ak11MFY0VHdkbzlKMENYeDBsajBvZ1czbjlRM1EzUlpzV2poWGtrXzlKclBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-009",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Compared to Estimates, Bunge Global (BG) Q3 Earnings: A Look at Key Metrics - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWG8xaWhfcmNTdmF0dml2VnQ4VlVnVXUtWHNVTFR3cnNLaklZQmZVMHJoRUN0VVRDNUFFTzVtdVVXV3JOaWVKdlNaenZwT0tzME56c3ZSdG5rR0pWbllXZHJsNmFvcEN2bGFjbmZiZ0",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWG8xaWhfcmNTdmF0dml2VnQ4VlVnVXUtWHNVTFR3cnNLaklZQmZVMHJoRUN0VVRDNUFFTzVtdVVXV3JOaWVKdlNaenZwT0tzME56c3ZSdG5rR0pWbllXZHJsNmFvcEN2bGFjbmZiZ0JvTGZDTzN2VWw4eF9PNXdYeXZkSU0yVU02UUF2SnB4cEdyRkJ3TWxyclg1US0tYld5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-010",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Reports Third Quarter 2026 Results - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMFMzc0VweUNKR3V0M3p1RVRpN21TVFFGYVk2ZFpGYzFkT3VBUjNXMXJkZldva25DY3lSX2RHOEtjVWZiRWZLY1c3VzQxSFBsLVVjeG0yTDhpRWI0X1gyRFo3cDctQTFkaXZaRE85Zm",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMFMzc0VweUNKR3V0M3p1RVRpN21TVFFGYVk2ZFpGYzFkT3VBUjNXMXJkZldva25DY3lSX2RHOEtjVWZiRWZLY1c3VzQxSFBsLVVjeG0yTDhpRWI0X1gyRFo3cDctQTFkaXZaRE85ZmdtYWhiZGZ0TVVQWlVPQVZlVFVELV9kVGlId3V1amd0dVJVV041NDVEVWNHZEkwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-011",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) Q3 Earnings and Revenues Beat Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGYxOGNoXzk0NlBRSzduLUpiNnktd2hJakdBYjY4YWY1bVRlYXlyV0djZUl3S3ZtNnowZThEejJZWnBwVktFVEoyRi1aYlB5cld6Z1ZYVklJWGRIZzFoa2FSZk0wNUJLdWpDcU9JQV",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGYxOGNoXzk0NlBRSzduLUpiNnktd2hJakdBYjY4YWY1bVRlYXlyV0djZUl3S3ZtNnowZThEejJZWnBwVktFVEoyRi1aYlB5cld6Z1ZYVklJWGRIZzFoa2FSZk0wNUJLdWpDcU9JQVNWRl9rbFJmYk9JcFZKR1NZN3NkZ2xjck9JeWxqRlprZTBfa0dvZDNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-012",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Form 8K Bunge Global SA For: 29 October By Investing.com - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmJ3TGdhcGx2OFJmalNqbGdnZTVDREtKYjVfWmdHUXROUk1HaC1oUldPd2FrNkV2VWcxMXRZOGVjU25nc2ViN1VCSThXdTR5NVl5S1BraGhPczVTb2k3TmJycUVsOHBHNWVRWXNEcV",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmJ3TGdhcGx2OFJmalNqbGdnZTVDREtKYjVfWmdHUXROUk1HaC1oUldPd2FrNkV2VWcxMXRZOGVjU25nc2ViN1VCSThXdTR5NVl5S1BraGhPczVTb2k3TmJycUVsOHBHNWVRWXNEcVF6aHZ3WUNTdTJ6Y00zaHVMWG1sTFM3NTBjMy1laS1OWlF0TXNtWkF6eHN0c2NHUk8z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-013",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "November rains coming: Keep combine pedals to metal",
+    "summary": "Morning Market Analysis: Soybean futures extended this week’s slide overnight to hit 10-week lows as critical chart levels failed to hold; corn is also lower.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-014",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New DMI chief sets three-year goals for dairy checkoff",
+    "summary": "Farm Progress America: Corey Scott outlines plans to grow consumption, boost transparency on dairy checkoff spending during first year as DMI's new CEO.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/new-dmi-chief-sets-three-year-goals-for-dairy-checkoff",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-015",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The farm labor fix that never quite arrives",
+    "summary": "Farm labor reform keeps almost happening. The latest effort has industrywide support, but if history is any guide, that may not be enough to get it past Congress.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/the-farm-labor-fix-that-never-quite-arrives",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-016",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Good crops, strong working capital steer optimism in Iowa",
+    "summary": "Smart Moves for 2027: Uncertainty abounds, given the impact of the U.S.-Iran conflict on fertilizer and fuel prices, but good crops across most of Iowa — along with government and crop insurance payme",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/good-crops-strong-working-capital-steer-optimism-in-iowa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-017",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How tribal colleges play key role in rural communities",
+    "summary": "The Native American Agriculture Fund provides grants to support tribal college programming and works collaboratively with its farming neighbors.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/how-tribal-colleges-play-key-role-in-rural-communities",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-018",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Is your beef-on-dairy calf getting enough colostrum?",
+    "summary": "Dairy Strategies: Extension researchers uncovered a vulnerable gap in colostrum management, warning that beef-on-dairy and dairy bull calves consistently lag behind heifers on timing and quality.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/dairy-cattle/is-your-beef-on-dairy-calf-getting-enough-colostrum-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-019",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "A weaker real, a stubborn corn market and what U.S. farmers should watch now",
+    "summary": "Ag Marketing IQ: Brazil’s election weakens the real, boosts South American soybean sales and pressures U.S. corn and wheat markets. Here’s three questions for farmers to test their marketing plans.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/a-weaker-real-a-stubborn-corn-market-and-what-u-s-farmers-should-watch-now",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-020",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gen Z craves simple moments",
+    "summary": "Letters From the Farmhouse: Unplugging from social media and pouring into family and friends is a growing priority for people my age.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/gen-z-craves-simple-moments",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-021",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why some farmers are switching irrigation pivots to propane",
+    "summary": "PERC’s Mike Newland breaks down why propane is catching on for irrigation, from fuel savings to rebate programs.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-operations/why-some-farmers-are-switching-irrigation-pivots-to-propane",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-022",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why now may be best time to upgrade your machinery line",
+    "summary": "Smart Moves for 2027: If your financial situation allows it, now may be a good time to upgrade your farm equipment.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/why-now-may-be-best-time-to-upgrade-your-machinery-line",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-023",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are we eating the Earth?",
+    "summary": "This Business of Farming: Michael Grunwald’s book “We Are Eating the Earth” discusses how large U.S. farmers are actually easier on the environment than others because of how efficiently they use the ",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/are-we-eating-the-earth-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -273,6 +712,142 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/farm-life/farmers-are-more-likely-to-have-a-stroke-and-less-likely-to-get-help-in-time",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-10-28-016",
+    "date": "2026-10-28",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien Ltd. (TSX:NTR): Why the TSX Fertilizer Leader Is in Focus Ahead of a Pivotal Earnings Update - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZDRmeFllaXNoZnFrbVB6bUMtaHcteERrUWY5a1pIdlZaamVWLUhxTnRLaTNnekdQdnUyNXkzOVBLQ3MtQjZUQjhfaVBtRnRBMXpUaENkRi1PMTh2NEc4cTBvVXkwTXdqbGFkdGlMem",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZDRmeFllaXNoZnFrbVB6bUMtaHcteERrUWY5a1pIdlZaamVWLUhxTnRLaTNnekdQdnUyNXkzOVBLQ3MtQjZUQjhfaVBtRnRBMXpUaENkRi1PMTh2NEc4cTBvVXkwTXdqbGFkdGlMemJZLUZveVBlcHZ0dVZ6ZTFpTU5KVEw3RXRJQ3VNeVVUQWtXY0hlcG1CRjJkUXQ2QkhEb2M5b1pIbExuQ1c2ZWhsQjBqUW1WN2pETUt2WkNIWDVKQ2Q3STh6VDItWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-10-28-017",
+    "date": "2026-10-28",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries (CF) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlhGSnpKVEplTHJCd1VpYTZkUmZTWm5wT21tZ3l2LS1zb0lfaXlCcVpWaFRSSEpIeExseVZ0alRYZ0Y4TV84MENUZ2o3YmJUcjcxdzczb3M1MkxXTE1VamRwcmlTMmRIdnRxbW5oSG",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlhGSnpKVEplTHJCd1VpYTZkUmZTWm5wT21tZ3l2LS1zb0lfaXlCcVpWaFRSSEpIeExseVZ0alRYZ0Y4TV84MENUZ2o3YmJUcjcxdzczb3M1MkxXTE1VamRwcmlTMmRIdnRxbW5oSGV6N3c1V1p1R1RJcHhBNjB6T2hySmR5al82NVNZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-018",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "UBS Ranks Fertilizer Stocks as Nitrogen Outlook Improves - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFlXdnF1bWFfR1BXYlFUQzhNNmRwMl85Z2t6TmV3SHVwQ0MyaGd0bldYU1k2WjEzVFQ3OWdkNFIzbjdHeTJLc3pfY09QX2dzaWV5MDR1NWRKOV9DazZJc3Y0NklDQzdaTGNfSmpqYW",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFlXdnF1bWFfR1BXYlFUQzhNNmRwMl85Z2t6TmV3SHVwQ0MyaGd0bldYU1k2WjEzVFQ3OWdkNFIzbjdHeTJLc3pfY09QX2dzaWV5MDR1NWRKOV9DazZJc3Y0NklDQzdaTGNfSmpqYWh5QVNCc1ZyNFB2M280YThqSmxKT1NWRWtsNVNrQXNhRUtGa1g0WU1BQ1psTHdxVF9VTHhzYW9YZWFTUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-28-019",
+    "date": "2026-10-28",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global (BG) reports Q3: everything you need to know ahead of earnings - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGxDU2tOSHNiWXQybWJiNHJfYzJtZTJ1RjBncnZacjE0VmxSX0R0a3Q4VnlMSEYycWVWZUtmQzhWRTV5SVFUVUM3TTRYSTVQMzF1WXZWSEF4WTZPYmFIUmczb25RSU8yWmNvc1MyaU",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGxDU2tOSHNiWXQybWJiNHJfYzJtZTJ1RjBncnZacjE0VmxSX0R0a3Q4VnlMSEYycWVWZUtmQzhWRTV5SVFUVUM3TTRYSTVQMzF1WXZWSEF4WTZPYmFIUmczb25RSU8yWmNvc1MyaUVTZmlzbmhaRVJUckk5bnBBdkZMSzdERlN4R1VzcWNvZVpyYVBxSnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-020",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Brazil's Debt Warnings Raise Credit Risks for Global Fertilizer and Crop Protection Suppliers - AgroLatam",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0NPenc5LTVKWDRaMGJrOXg2b29sRHNZaXNtcWxQQWlHRkNpbmp4MEdmR1JpcUlVQzRUY25VTC14MEZsQmZLaUNxbV91aFJiVVV6QkxvT1hQVnZxRE9VMFdfVEhabGIzSUNxY1UtbE",
+    "sources": [
+      {
+        "name": "google_news_agriculture",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0NPenc5LTVKWDRaMGJrOXg2b29sRHNZaXNtcWxQQWlHRkNpbmp4MEdmR1JpcUlVQzRUY25VTC14MEZsQmZLaUNxbV91aFJiVVV6QkxvT1hQVnZxRE9VMFdfVEhabGIzSUNxY1UtbEU1dTZXcGZXMGtYWl9WeEV6Sm96RFJyTkpZMWxOdmdFX2VudEgyVFZiYzlwc3haNm9hNkQtM2l1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-021",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corn prices scrape together a modest Wednesday win",
+    "summary": "Afternoon Market Recap: Soybeans and winter wheat continued to fade lower on Wednesday.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-022",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA Exports: Unknown buys soybeans",
+    "summary": "The 2026-27 marketing year for corn and soybeans began Sept. 1",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/flash-sales",
         "type": "rss"
       }
     ]
@@ -975,6 +1550,66 @@
     ]
   },
   {
+    "id": "intrepid-2026-10-27-037",
+    "date": "2026-10-27",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash - Usda Selects Intrepid Sop P - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTVxRS0zcWtXNU1PNzhLa1ZQMWhJT2hDblMzb2VhWTR4QTJONTRWNUJZMVhiRnhKMmFOSEdMaFF2N1UzQ1pSSFBCVUQ3cERZb3N4OWhRTVVuVExvUjgyRDF6N21UOERUMjE1T3pkVX",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTVxRS0zcWtXNU1PNzhLa1ZQMWhJT2hDblMzb2VhWTR4QTJONTRWNUJZMVhiRnhKMmFOSEdMaFF2N1UzQ1pSSFBCVUQ3cERZb3N4OWhRTVVuVExvUjgyRDF6N21UOERUMjE1T3pkVXBaZEZaUnB5M18tWFFOcVUzcVJGRHptNUU3R3pIWkVOeC16YVJkUUpCN1p4ZVg2UFV0MW1OQWp1Q2lnZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-10-27-038",
+    "date": "2026-10-27",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Adjusts Price Target on CF Industries Holdings to $134 From $123, Maintains Neutral Rating - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnh1NmhoVGJaYzkwMWtsb0cyMzBaWWp2bmx3azNxTnZ5LXp3TjhjdnAtZm5kV0pUZm1EOWUyX19xSE40cXpJRFBPZXdPMlhWUjNyRGFrTkJfNW9XeEp1aXZtell2MGs4azVPQTMwN0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnh1NmhoVGJaYzkwMWtsb0cyMzBaWWp2bmx3azNxTnZ5LXp3TjhjdnAtZm5kV0pUZm1EOWUyX19xSE40cXpJRFBPZXdPMlhWUjNyRGFrTkJfNW9XeEp1aXZtell2MGs4azVPQTMwN0xPYW5CVmNWT1IxcVNHd3R5MGRZZEZLcmZCbzJtSmxYT250cEVYNFBpdUF4U0NrTzBxT3kw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-10-27-039",
+    "date": "2026-10-27",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Maintained by UBS -- Price Target Raised to $134 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRHFBb1psbm5TZTFwaXk0ZXgzbzZfNXNSaHFJVV95NWVucUNCWUMyWmp0MmlvX1h4UXFrMmZ2MnZxbm5XSkNUQjBVcXFpNmdFS0ZIajZyV0U0c0ZjY0J3WHNQbUdGOTNkSDZFb2JMMF",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRHFBb1psbm5TZTFwaXk0ZXgzbzZfNXNSaHFJVV95NWVucUNCWUMyWmp0MmlvX1h4UXFrMmZ2MnZxbm5XSkNUQjBVcXFpNmdFS0ZIajZyV0U0c0ZjY0J3WHNQbUdGOTNkSDZFb2JMMF9ZQWxhMzh5eU9DZHA1SUwxcF9iaUcycWtnVFpiakdodw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-26-001",
     "date": "2026-10-26",
     "companies": [],
@@ -1571,6 +2206,47 @@
       {
         "name": "kubota",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRGtkRDhjbGxxM1NhcWpMbk42ZUhUQ1lTYUxUR2ZzLWRHVFEyV0NSN1hhVXRyM3FRVjNvR1dxMi1aOFJKM25iZ3h5Z1lqNGloTk91Y19QYjVQQXNkV3hhWDhKOXJYNGloaVh5dkZOX3pXdFBSR3NJMWJCemV4VHF6TFczMjRza2Qzcm9WMEx3dC03T3ZWd1haRTFlTEVrWThVMk1mY0JFa0k2SFlfdWVxWDZBcG1LdGVoVGZnVnBSVTBlVlMzWmJldjVNMHg3RGIyU1hMajhHRHdNeXhaUFhrWGktanhKcWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-10-26-032",
+    "date": "2026-10-26",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Selected for USDA Matching Grant Award to Support Carlsbad Sulfate of Potash Project - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazhEVkM4NGQ0cTNkWUd5VGtWMnlSU3IwQUZfMkFVM1ZhSHlWS0dWVkFabkJZQzYyWG9VX2d3Z0RYZVp0SEh0WTM2Q2J6WllPVVN0YTI0aVhZeUZOYWMxNlB3T0RiZmR2bUItcG8zR2",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazhEVkM4NGQ0cTNkWUd5VGtWMnlSU3IwQUZfMkFVM1ZhSHlWS0dWVkFabkJZQzYyWG9VX2d3Z0RYZVp0SEh0WTM2Q2J6WllPVVN0YTI0aVhZeUZOYWMxNlB3T0RiZmR2bUItcG8zR2ZEcUVtNEdqWTJVMktESTdrMmUyd2JtWWlEeVhqaEdFSjljanl5ZktPMllNQkZDNDFMeVZlX1pZUm81Z3E1Ql84WjF4TzFTd1FybmhJQ1BvRXpOa3VsMTlVM0RuYndONXRPWXF3ZzZtNEFvQUM3SUxmRlpBcXk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-10-26-033",
+    "date": "2026-10-26",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What to Expect From CF Industries’ Next Quarterly Earnings Report - inkl",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFVkd1RTNExkWlZMTmtkbmRGaXBoNUdXcmVlRjQ4dVFBTE9faHZxTTBVMkthUGhrS0hiRmpaOGItUnV0bllwWUM5a2NTM1E1X3UzWWh6enBkT1g3QlBtcWl1Z0NEUzdzRVFaai1OMU",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFVkd1RTNExkWlZMTmtkbmRGaXBoNUdXcmVlRjQ4dVFBTE9faHZxTTBVMkthUGhrS0hiRmpaOGItUnV0bllwWUM5a2NTM1E1X3UzWWh6enBkT1g3QlBtcWl1Z0NEUzdzRVFaai1OMUpNQ3VmVHUxdmRLblRQMURZblRqMFI0NnhtamxuTWttWFBMOWFCelZQV0NpVDZhMW5a?oc=5",
         "type": "rss"
       }
     ]
@@ -2595,6 +3271,46 @@
     ]
   },
   {
+    "id": "cf_industries-2026-10-23-030",
+    "date": "2026-10-23",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CIBC Maintains CF Industries Holdings(CF.US) With Hold Rating, Raises Target Price to $133 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWFxMG9WXzk4dFFYaEdqOFB4dWFCZUFFWHJ0aFZuVDdzYU5wQzdBZjB0Ujd4Z0dJTUcyUWp6VnVFQVYzNU5fNDc0M1JpNVppYk9ITzJPdGI4TVBhYS1UVk9sOTVhcjRYYnFNWnI5Rj",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWFxMG9WXzk4dFFYaEdqOFB4dWFCZUFFWHJ0aFZuVDdzYU5wQzdBZjB0Ujd4Z0dJTUcyUWp6VnVFQVYzNU5fNDc0M1JpNVppYk9ITzJPdGI4TVBhYS1UVk9sOTVhcjRYYnFNWnI5RjdXRjViNEhLSW9lS210Z1J4RktVZ1VpcjAxSG11RGhUZGV2Y1RkNlNoTTgybEZWbkd6b09aQ3pYWVJ2eUx3V0lB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-23-031",
+    "date": "2026-10-23",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Archer Daniels Midland : ADM Investments in Columbus, Nebraska, Ethanol Facility Expected to Increase Annual Corn Grind by 20 Million Bushels - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeVlIOTdGRjhGdzNIZV9fZWtVcldsc0NkRHdGcWhpSWM2c0hFd1dGbk8tVVFvd0hhY3labzJVVmp6VWNNbWhnOUJQVExxRDdkM3ZwQjlLRjVHN0c2UDAybkpydmplVHR1ZGJVNzN0SF",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeVlIOTdGRjhGdzNIZV9fZWtVcldsc0NkRHdGcWhpSWM2c0hFd1dGbk8tVVFvd0hhY3labzJVVmp6VWNNbWhnOUJQVExxRDdkM3ZwQjlLRjVHN0c2UDAybkpydmplVHR1ZGJVNzN0SFZqSUppSl9VWGVxWTBEQXNJaGRDcUhoSDd6TDNLajN0UUREMElzdXZLcVhiNTZvSW8xRWItdVNqcmxQSnlybzk4R2hpcGU1WW1LTEFmQ3dqWkloWFdXa3BkX3dqcXd3VFVoVC1mRkdKNjRoUU9waXQ2Q1Fuaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-10-22-001",
     "date": "2026-10-22",
     "companies": [
@@ -3368,6 +4084,27 @@
       {
         "name": "fmc",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYW5saXYtM1c1ZU56T3VyTFdJN01oS1AwbEhBa0RhY0M1Y1hmUUx6QzJ6R3QwVzZlNXFDNndnVHhMM1ItWlZTem5pd196YzNCYjFqNDBYT01zNGZaekxvVzBQZ1lLaFlNeHlubGFaXzJLbDdvTjZuWnNzVTdsb0VFZ1k0QlNGd2tpa2pEemZ3dkdZSGNiS1dkWWVyaS1jb1hJNElhaVE2cUs5SXFtbHdGY3l5Mnp0TkJ4NDlXVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-10-22-041",
+    "date": "2026-10-22",
+    "companies": [
+      "oci"
+    ],
+    "topics": [
+      "natural_gas_feedstock",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI NV (OIC.HA) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UakRITkd5bUxNaTZBZHdTQTFUcnl0dXRob0VPczYtNzZjUGlRcjFrTTF6ZlJRck5OQUhBQzZQd3Z2SmQ1aUxjYk1tYXhELVRVZGhaOHpOcWVLQTRMUDI0dGtB?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UakRITkd5bUxNaTZBZHdTQTFUcnl0dXRob0VPczYtNzZjUGlRcjFrTTF6ZlJRck5OQUhBQzZQd3Z2SmQ1aUxjYk1tYXhELVRVZGhaOHpOcWVLQTRMUDI0dGtB?oc=5",
         "type": "rss"
       }
     ]
