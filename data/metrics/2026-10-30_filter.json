@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 3,
+  "gate2_fail": 15,
+  "passed": 40,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "The Mosaic Company (MOS) Seasonal returns chart - Yahoo Finance Australia",
+    "The Mosaic Company (MOS) options chain - Yahoo Finance UK",
+    "Fairholme Focused Income Fund's Top Q3 2026 Move: CF Industries Holdings Inc at a 1. ... - Yahoo Fin",
+    "CF Industries Is Maintained at Neutral by UBS - Moomoo"
+  ]
+}

@@ -1,5 +1,402 @@
 [
   {
+    "id": "cf_industries-2026-10-30-001",
+    "date": "2026-10-30",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Taps thyssenkrupp Uhde for Major DEF Capacity Expansion in Canada - ChemAnalyst",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWk4NjJyLXh4MEE0R2xWVF9CWGV5TE1FREtlNzUzdnVLWXZJVmxyRVk1MnEyMm51UXVmVi1hY3ZFbFI5Y0hHS1JIOUxqY3YtYjEyclQ0YjFzMjNSeGFtRDBoNm1SUzhkdnlJaHBpZW",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWk4NjJyLXh4MEE0R2xWVF9CWGV5TE1FREtlNzUzdnVLWXZJVmxyRVk1MnEyMm51UXVmVi1hY3ZFbFI5Y0hHS1JIOUxqY3YtYjEyclQ0YjFzMjNSeGFtRDBoNm1SUzhkdnlJaHBpZWhxNDhCVzlqd05ocTByMWlWaThrZG9tT3FjX08xVU01a0wtU3N2ekQwRVdxb2VqTFpLckhCOTlfMU5hQ3NtR0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oci-2026-10-30-002",
+    "date": "2026-10-30",
+    "companies": [
+      "oci"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OCI N : Announces EGM Approval and Updated Indicative Timetable for Orascom Construction Combination - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaEo3ZlU4akMwYnczWllCcHFfTDJlalUzWWZDYU1rWnFBeDZxQUFfeUdITGZLaVhEblJ1WGlBbDQ0a18yYkkwUHFZdEc2NUExbjdWSGV0blR0SWQxNUtURXNMWWJWMXZ5TlA5YjdTR3",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaEo3ZlU4akMwYnczWllCcHFfTDJlalUzWWZDYU1rWnFBeDZxQUFfeUdITGZLaVhEblJ1WGlBbDQ0a18yYkkwUHFZdEc2NUExbjdWSGV0blR0SWQxNUtURXNMWWJWMXZ5TlA5YjdTR3BoZ0dSZmd3M0w1c2g2TUwyWjgzMWpJQm9LT1phZUNpZ1gwZXRVa0IySmhVamFicEVzTGJ2b0xGTFpfUk11MWxaRjR1RVJpcEZuVUNzVjEwZ1lVQS1VajNqVWRTWVZGTEhkTXRUdDdqSDU0WlJlaXJUc1M2TmdiUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-30-003",
+    "date": "2026-10-30",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland: Caution Warranted Amid Recent Financial Volatility (Earnings Preview) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWhfR0llU3hLaVlwX0F4TFltRjdQSTg4dFlMeHY2MDBLOFJ0UXJ3OEZjaUNoZzFhYkFqLUd4bHlwc0ZzMDdYY1NtZEtKWUFnaWtLc1UxVjdHWG1jY2M0OWZ1YjU2dFNxOTlYQnJtZG",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWhfR0llU3hLaVlwX0F4TFltRjdQSTg4dFlMeHY2MDBLOFJ0UXJ3OEZjaUNoZzFhYkFqLUd4bHlwc0ZzMDdYY1NtZEtKWUFnaWtLc1UxVjdHWG1jY2M0OWZ1YjU2dFNxOTlYQnJtZGk3OHlrWEk5YzdIaXZ5UWNmOXZFaklmb2hnSWQxR01WRm9fR1hHSTh2VWpYM0VmMkppYkN1TThQWjRGV2FleWd1Yk42RGZiNTdKN01QbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-30-004",
+    "date": "2026-10-30",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (NYSE:ADM) Stock Breaks Below 200 Day Moving Average - Here's Why - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMUZ5S1NuMG5iOGV3RXU1bVNjWG56TzR2aGF6NmlWZEhRVjdzbjBaOF9PX2dTSy1PUWtlazFlVExZUkJMSURoWXk2ckg2c0FfOUpGMVA5b05hSzZWQjM1X2FTNHJneVdnM2cyaXlxbm",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMUZ5S1NuMG5iOGV3RXU1bVNjWG56TzR2aGF6NmlWZEhRVjdzbjBaOF9PX2dTSy1PUWtlazFlVExZUkJMSURoWXk2ckg2c0FfOUpGMVA5b05hSzZWQjM1X2FTNHJneVdnM2cyaXlxbmZEWjJVN043ZXFGM1J2TEo2aVM5MExoeGlUdFRmY1NxRHEwZVNIekFITThPSEYtZWdhOXo3dFB2X3JhdnQ4RmFadDlHS29yU0JXZEZsRmJaSHUtZWt6MUpucllleVpHalFqVkZKa2RxYTFtam8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-30-005",
+    "date": "2026-10-30",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland Company $ADM Stock Acquired by Asset Management One Co. Ltd. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTFpESlhRR0FTclB0VFRyMmFiQjJIWGQ5MUQ5QmppbTNoSE1SXzUyREFwZHVLUWg1WDRXdGltYmdHU2hnclZTNGdXb25oZ19HRWpNdDJiSWpBeHFGUXE1WnoyTG9TdUF5UENCN3BFbW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTFpESlhRR0FTclB0VFRyMmFiQjJIWGQ5MUQ5QmppbTNoSE1SXzUyREFwZHVLUWg1WDRXdGltYmdHU2hnclZTNGdXb25oZ19HRWpNdDJiSWpBeHFGUXE1WnoyTG9TdUF5UENCN3BFbWJuSEg3MlRMTHJPWXVLV05faXV1SmtYaURQUm5jSkxwZnZ6Y05LbTVJSVBNbjNZTWNQeDR4OEU1MERNRDJEMEN3bEI1bHQxVk1EdjBOd2QwQWxLY3ZZMFNOaVBEZG1sTDVsNTZmT2lqYWE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-30-006",
+    "date": "2026-10-30",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global SA 2026 Q3 - Results - Earnings Call Presentation (NYSE:BG) 2026-10-30 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQblFabk13dVZtdlUtMk5wWWQwbzh1MUI3SDZ6eWoweDRscHB2cVhyY3Q1T2xEQjhxNmEzbzBnQjlwTlZHWG41V2tmbWduQndGOXE2b0FreVVTcl9tbS1oSjI5c0ptRV9tSERaVG50Zl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblFabk13dVZtdlUtMk5wWWQwbzh1MUI3SDZ6eWoweDRscHB2cVhyY3Q1T2xEQjhxNmEzbzBnQjlwTlZHWG41V2tmbWduQndGOXE2b0FreVVTcl9tbS1oSjI5c0ptRV9tSERaVG50ZlhSNkkwbkFiLXhNeHJ2V1dHYVUtalJyb0t3Tm9OSWVsc0QwQ0I3RFJ3bFNzYVVCRnpH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deere-2026-10-30-007",
+    "date": "2026-10-30",
+    "companies": [
+      "deere",
+      "kubota",
+      "cnhi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights Deere & Co., Kubota and CNH Industrial - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUJZZGlYSHVPU0VxSmtQM1huem1NSFE2UlJGck1wc0RrUl9pR3hEeFhObGJOVGJ5RFNBX1lTZW5MZnpGR2NKVEVmek1JaWpSZFk5YjNZd0hhUjEyb2gtNHk1bFlfZW1zQlM5OXhkWT",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUJZZGlYSHVPU0VxSmtQM1huem1NSFE2UlJGck1wc0RrUl9pR3hEeFhObGJOVGJ5RFNBX1lTZW5MZnpGR2NKVEVmek1JaWpSZFk5YjNZd0hhUjEyb2gtNHk1bFlfZW1zQlM5OXhkWTRBOTFRQjNIMVNkUkQweFExaUZMdEdDTkI5YWhhRUZiRWo5YXhnaWJ3Q2FwTFE3eVJQNk0zSmpKVmFmaHFQSUgwUDVqMl91Wm04c3FRak1fMEdXQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-008",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Does your marketing plan pass the test? 3 questions to ask",
+    "summary": "Morning Market Analysis: Corn futures slumped near four-month lows overnight, and soybeans were also under pressure as active harvest weighed on prices.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-009",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California growers rip out 47,000 acres of vines",
+    "summary": "Farm Progress America: California vineyard acreage drops as wine demand falls and trade with Canada remains sharply reduced, leaving growers to debate further vine removals.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/california-growers-rip-out-47-000-acres-of-vines",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-010",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Did the late-emerged corn plants become weeds?",
+    "summary": "Corn Pest Beat: Here’s how you can give next year’s corn crop an even shot at emergence.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/did-the-late-emerged-corn-plants-become-weeds-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-011",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is now a good time to buy farmland?",
+    "summary": "Smart Moves for 2027: Before buying farmland, strive for a sustainable debt level that results in an annual payment of about one-third of gross revenues.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/is-now-a-good-time-to-buy-farmland-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-012",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "I’m a farmer, and I’m done staying quiet",
+    "summary": "Generation Now: It’s time for change, and in this International Year of the Woman Farmer, it’s time for women to take the lead.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/i-m-a-farmer-and-i-m-done-staying-quiet",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-013",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Michigan’s Matt Frostic leads NCGA into tough year",
+    "summary": "The fifth-generation farmer becomes the first person from his state to lead the National Corn Growers Association, taking on a packed policy agenda.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/michigan-s-matt-frostic-leads-ncga-into-tough-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-014",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "98-year-old farmer still swears by his International 1456 tractor",
+    "summary": "My Favorite Tractor: The 1970 International 1456 at Darlington Farms has outlasted three generations of farmers.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/98-year-old-farmer-still-swears-by-his-international-1456-tractor",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-015",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Quilting stitches together rural Kansas communities",
+    "summary": "At the 68th annual Maple Leaf Festival in Baldwin City, Kan., quilters honored America’s 250th birthday with handmade pieces telling stories of family, farming and freedom.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/quilting-stitches-together-rural-kansas-communities",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-016",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Harvest memories: Antique combines and corn pickers",
+    "summary": "Click through this slideshow of 14 more old corn pickers, shellers and combines from the past century.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/harvest-memories-antique-combines-and-corn-pickers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-017",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The hardest job on the farm just got easier",
+    "summary": "Prairie Post: Every day, technology makes life on the farm easier or more efficient. Now, grain cart operators are reaping the benefits.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/technology/the-hardest-job-on-the-farm-just-got-easier",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-018",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmer of the Year award winner keeps family’s winning tradition alive",
+    "summary": "Video: Woody Larson, Florida dairyman and beef producer, was recently named Sunbelt Ag Expo Southeastern Farmer of the Year. His father won the same award two decades ago.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/farmer-of-the-year-award-winner-keeps-family-s-winning-tradition-alive",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-019",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What will the midterms mean for farmers?",
+    "summary": "Truth on the Ground: The political ads are almost over. Politico’s Grace Yarrow chats with Josh and Holly about what comes next.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/what-will-the-midterms-mean-for-farmers-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-020",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Count your farming blessings this Christmas",
+    "summary": "Joy’s Reflections: Christmas on the farm offers a unique experience. Here’s how I soak it all in.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-life/count-your-farming-blessings-this-christmas",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-021",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why winter wheat deserves a second look in Iowa",
+    "summary": "Smart Moves for 2027: Winter wheat is emerging as a third crop option amid a sea of soybeans and corn in eastern Iowa.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/wheat/why-winter-wheat-deserves-a-second-look-in-iowa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sqm-2026-10-29-001",
     "date": "2026-10-29",
     "companies": [
@@ -439,6 +836,322 @@
     ]
   },
   {
+    "id": "mosaic-2026-10-29-024",
+    "date": "2026-10-29",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Mosaic Company (MOS) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6M0I1QjV3azNnMGhMR2FnR1dycWdPZE95cjlmcVNNd0VIMWx2MTNHZmlEVnh4RVdNQjQxSmxBMDJKNjQ0NVVEajZhc1YwbzQ5OVJKVFZWRTZfNmllUU4yeA?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6M0I1QjV3azNnMGhMR2FnR1dycWdPZE95cjlmcVNNd0VIMWx2MTNHZmlEVnh4RVdNQjQxSmxBMDJKNjQ0NVVEajZhc1YwbzQ5OVJKVFZWRTZfNmllUU4yeA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-10-29-025",
+    "date": "2026-10-29",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash (IPI.US) will release its financial report after the market close on November 3. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPUG82T2NxWjQzdEs1Yy0xU2pkRllmNFhnVnYyNlVnbGJRcUhVVHd5SzFPd2lkTTdsRXJ3bDZOdjZLbUlKeThGOEVXZWhNN194ZHpvMEJmMWFfNEloVHpETXpocUgxaUtPNHVrSHdUcV",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUG82T2NxWjQzdEs1Yy0xU2pkRllmNFhnVnYyNlVnbGJRcUhVVHd5SzFPd2lkTTdsRXJ3bDZOdjZLbUlKeThGOEVXZWhNN194ZHpvMEJmMWFfNEloVHpETXpocUgxaUtPNHVrSHdUcVh5eWNvY2RfTUd6ZzlwamgyVDJBNlZySE0wLS0xNTdwbGtxdXIwa2FQaUFneWZJV21nY3prV2twMkx1dDhw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-10-29-026",
+    "date": "2026-10-29",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Uhde awarded FEED for CF Industries’ proposed urea liquor upgrade plant in Ontario - ChemEngOnline",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDkyQkNQQXA3VVBHYTBBemc1NFAxRkVFSnlPMzUwbnVQWmF1QlE2Z3dwc2lMM2Izb1k1WnBKeTJraGZOQm1uNHhNYVMtX3hWYmVsa2trNmYySzVlYUNiRlhwUHRRSnJDV29YVUxYX0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDkyQkNQQXA3VVBHYTBBemc1NFAxRkVFSnlPMzUwbnVQWmF1QlE2Z3dwc2lMM2Izb1k1WnBKeTJraGZOQm1uNHhNYVMtX3hWYmVsa2trNmYySzVlYUNiRlhwUHRRSnJDV29YVUxYX0x4WlZVVkEySmE1c0RDS0JfT2NITlprTjNodDY4czZ0THdWSHJ5SFpQVlk2cldyVlNpZEQ5d2k5TU5tZlNhYnNMY3dLUDFldVc0SzlIZ3RuOFU1dEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-10-29-027",
+    "date": "2026-10-29",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CF Industries Holdings, Inc. (CF) Stock forecasts - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnRwd1Y5dGhXQ01DaklEc09GVXN6b1hyUEE4OXlwc1B2a0hicnY1ZGVFcWVxdXE0RG5LSkZucXUzbnIzUXhQR1puVXJ0WGJ5M3JOb0xkUzFzZDV2Uy1IRWhGQ2ZpSlZra2J4cXNXcm",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnRwd1Y5dGhXQ01DaklEc09GVXN6b1hyUEE4OXlwc1B2a0hicnY1ZGVFcWVxdXE0RG5LSkZucXUzbnIzUXhQR1puVXJ0WGJ5M3JOb0xkUzFzZDV2Uy1IRWhGQ2ZpSlZra2J4cXNXcmJyMTdtSXVtelREZXVfVm5Pamw3d2lUb2I3TmFLU21kZUpSWU1L?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-028",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vylor Joins ASA to Continue Legacy of Young Leader Program - American Soybean Association",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUm9iU19DVDdKRkNLTFpZZWRsRHNLVGloeFp6RTd4aWg5aUR0ek1tb0hpRENuVDVmUlJ5UUp2dmZwazQxb3UwUVBQNzdNdUVjMDlOazg5X3hqaTBXWjJsNkZXNzVBU1JxWktJaXhEUU",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUm9iU19DVDdKRkNLTFpZZWRsRHNLVGloeFp6RTd4aWg5aUR0ek1tb0hpRENuVDVmUlJ5UUp2dmZwazQxb3UwUVBQNzdNdUVjMDlOazg5X3hqaTBXWjJsNkZXNzVBU1JxWktJaXhEUUhRWkw0NkZwQzZNaS1TOEtNOERMNFR0OU9XdDdZN09EaTdsRjhMMERMWVBpUUY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-29-029",
+    "date": "2026-10-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation Reports Third-Quarter 2026 Results and Revised Fourth-Quarter Outlook - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTzZTbWFZSGl5NU5tWmYtemxGaUQyZmt2NWQ0N0N3QktFMzVQNVoyUk91b1FaT3BJMGwtdERNTTkyUjJqNWpZcFU1R1pmSVNrTkVDTllpSTRPanZpYmg1ZnZpTUZWUlVxMTNqaDJRd1",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTzZTbWFZSGl5NU5tWmYtemxGaUQyZmt2NWQ0N0N3QktFMzVQNVoyUk91b1FaT3BJMGwtdERNTTkyUjJqNWpZcFU1R1pmSVNrTkVDTllpSTRPanZpYmg1ZnZpTUZWUlVxMTNqaDJRd1FmNkExdDFxYUlfY0hEVGdQNkNDTEIzNFR5cW1OLVRsOE5hTUxoOU1mYUVtMGpyX0FaSnpBS1c0MmdPby1SNHJFSl9MbzJEWHZEdjB6aUQzSG1QNFVSa1JxQnh3V2NXaU1nNVQ2TVdFU2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-29-030",
+    "date": "2026-10-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation (FMC) Reports Q3 Miss with Steep Revenue Drop, R - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3ZDZ2ZzdG1KQjYyeE1GclVlMFdRaUo0VTV3dDN1eEgtbWFVdEh0VjVGdFJsU04tUWlSUE9lRmw2dW9OaTJnUHZCN0NkTTczZmxZYTNsZ3RDLXRNUkw0Y1J5UUNYUTBzUzZmWlhuek",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3ZDZ2ZzdG1KQjYyeE1GclVlMFdRaUo0VTV3dDN1eEgtbWFVdEh0VjVGdFJsU04tUWlSUE9lRmw2dW9OaTJnUHZCN0NkTTczZmxZYTNsZ3RDLXRNUkw0Y1J5UUNYUTBzUzZmWlhuek9haUJHTEVXR1VXcU1XR0F1Y0E3LVpWSlNXYUlVS0N3N3QyTEszd2F5TFk3UGM4d1lRUWQ1VVJaWl9NYWoyVGNHUGxmOUFfOXdi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-10-29-031",
+    "date": "2026-10-29",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "FMC Q3 2026 Earnings: Commercial Actions Drive an 80% Revenue Drop and $2.07 Billion Loss - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFA1SUlHTG9wZ2RCU2puM19ucmtDVWx3MmgtZ00yVDQzNGpfVHhhQ3g1RHBSMmlrcnQzT0FWV2JoYVlCbmtVWERMaG45OVhqSzdGM3NmeVp0aFY0UURqVkdsT3EyREpuSk55akNtY05n?o",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1SUlHTG9wZ2RCU2puM19ucmtDVWx3MmgtZ00yVDQzNGpfVHhhQ3g1RHBSMmlrcnQzT0FWV2JoYVlCbmtVWERMaG45OVhqSzdGM3NmeVp0aFY0UURqVkdsT3EyREpuSk55akNtY05n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-10-29-032",
+    "date": "2026-10-29",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland (ADM) Stock Forum and Discussion - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0ANBVV95cUxQbXM5Y2N3QW10SHBKbV9qVjljNDFaTUhTZXFlRFBnT1ZtVUd0WkhfWGFmRl9HWG5HZDEtNUlfbFAtRk1aSFRyOS02a3dEU1RKTjNIaWt6LVRoUTZmbDBLQno3Z1ZHbUVqRlE0NGRVbW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQbXM5Y2N3QW10SHBKbV9qVjljNDFaTUhTZXFlRFBnT1ZtVUd0WkhfWGFmRl9HWG5HZDEtNUlfbFAtRk1aSFRyOS02a3dEU1RKTjNIaWt6LVRoUTZmbDBLQno3Z1ZHbUVqRlE0NGRVbWJNY3pyM04zV0ZvaXJNYzRPVmNzcmlUdDItOHdMaHdVX08yeHM4SC1jWGZqQWRtWU5hMGExX052V0VxaHl3OUpCSk9nMHF1WjJrZjJ5R2NCTm1lOEJDWkd5cS1OT3JqTG1QZEQ1anNmZXBRQ2ZGbzdOSTdvdWRyak5uUExFdkY3dE85YkZVS01VSXZ0X2dOckdUU05GaXRLYkgycU9hT1Z0RW5oRHJ1N19oX01FbnpNR0dyai03TmZNOWFpQjNwcktSZEMtdG44U0MxSVJqSHFQSkNLQnl4TUZYak9SRmtWVDZ6ZDVSNkhYdnVpZ2Q4V2hmRnFPVng2MlVEQllSWVY3R2J6UlJNNUJUVThlUENXZGM4eVBCMi16Uk5mSEVlS1VjeU5qR2pwM2EyVXl2QktsTy1nTW8zUUQ4QlcxX1VEeHBrNExpNDB6d0tDY1ctel85OEg4cXV6d3pwcWtCbEtNRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-033",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge posts higher earnings on soybean strength, Viterra integration - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQLVZnaEN1T3lWTTdZbVlHSXFhQVJ2dnY2LXFLa053SDlvZWJNYnFYUnlEc0hFZUY1ZWJ4eTI3ZGEyQjQ5UkxDeS1MbDBmdDBNSGlIU3Q5VzJBOWoxNFZNb012Q3dNdjZJb0tlWVA5V3",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVZnaEN1T3lWTTdZbVlHSXFhQVJ2dnY2LXFLa053SDlvZWJNYnFYUnlEc0hFZUY1ZWJ4eTI3ZGEyQjQ5UkxDeS1MbDBmdDBNSGlIU3Q5VzJBOWoxNFZNb012Q3dNdjZJb0tlWVA5V3Z5c2Zka2RiNWVZWGg3Q2thWXdIcVQ5TWZvNXVzaTlSY0xJb0NzTHJXenA5WEVPUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-034",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global 3Q 2026: Revenue $23.8B, Net income $318M, EPS $1.64— 10-Q Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnplZkVCeE9sbV9kRmc1WlRDcjdqTFJXU2lQN2l5UVdLa0hpVnRubVlBZndaSWJrRGRPemRJWVdOemVtWmNYUjNCamFJX3VxX01pLVZTM1FMVWctY0hPekg4Q2NSLWxkMTlUUnhUSl",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnplZkVCeE9sbV9kRmc1WlRDcjdqTFJXU2lQN2l5UVdLa0hpVnRubVlBZndaSWJrRGRPemRJWVdOemVtWmNYUjNCamFJX3VxX01pLVZTM1FMVWctY0hPekg4Q2NSLWxkMTlUUnhUSll4OXNySWc0MzJaaWp4R2VsVUtaMHVfT2NpQ2FESFJsT01aSUpSMkR4RXF2NWNLX0tDSFdkeGlxS2JWNGRMT2FfR3BIMFlwVHhaQWhhOVZOYjIzSEdtY2s1UXY0Qm41OFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-035",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bunge Global S.A. Q3 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGJwU1ljbjd0U2plakhrdEljcWRJcEZ0OUpEaWRNU3pwZkQwVWVTcFdqZ3hsbktqRGRzSXp4NDdKZUcwel9nVnhIeDRqNWtYRlUzRnpSMlNxUHpFN2dsR0NFc1dMREVWelhGczJTYV",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGJwU1ljbjd0U2plakhrdEljcWRJcEZ0OUpEaWRNU3pwZkQwVWVTcFdqZ3hsbktqRGRzSXp4NDdKZUcwel9nVnhIeDRqNWtYRlUzRnpSMlNxUHpFN2dsR0NFc1dMREVWelhGczJTYVZvTU1IdmtxMndqdmVJNkIxSU1ORENUUmlucFlUdHBNaDd1MzVfWEMzTUFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-10-29-036",
+    "date": "2026-10-29",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stephens Adjusts Price Target on Bunge Global to $130 From $140 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDNROWoxS1NmUERxREdmdi1HZktFWXVzdG9aWUpOSHdEZUZLMnVoN2lrZTBuMGJfTEpkMFBwRkNCbno3RmRJMkl2bEJzWHJwTW9VM3dJQUhWWXJuWHVCRF9RSVQ4MUQ0OFozaXhtMD",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDNROWoxS1NmUERxREdmdi1HZktFWXVzdG9aWUpOSHdEZUZLMnVoN2lrZTBuMGJfTEpkMFBwRkNCbno3RmRJMkl2bEJzWHJwTW9VM3dJQUhWWXJuWHVCRF9RSVQ4MUQ0OFozaXhtMDc4ZGk2WUhac2FWalpWSWdYR09GQ0VOTERuTWxSVTZHd2RKR2x4ZUhZd3BpRk9oeDZxekNqOHFpNnRhc1o1elR1Z3RmcHU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-037",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wheat notches a much-needed win",
+    "summary": "Afternoon Market Recap: Corn and soybean prices were mostly in the red on Thursday.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-038",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Haunted by harvest pressure?",
+    "summary": "This week’s Top Tips looks to separate seasonal tricks from treats.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/haunted-by-harvest-pressure-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-039",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "See what’s new for your farm",
+    "summary": "Discover the latest farm equipment, technology and products showcased at the Farm Progress Show and Husker Harvest Days.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://pgs.farmprogress.com/2026-new-products-guide-v1?code=CRPED6H1",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -848,6 +1561,26 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/marketing/flash-sales",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-10-28-023",
+    "date": "2026-10-28",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Keeps Their Hold Rating on Cf Industries Holdings (CF) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3hyZFJ2cXdZZnhIWi1NLUtJREQ5eVZzZG1JS29GRVVLc0xnaGotLV9adGdLNi1KOFN1V25DdlZGcXFIMFg5TVRLZG1UYl9tbGdlTU80QnVNUmxiVFU4THdFZUl3Yk8yZDU2Tk9HdX",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3hyZFJ2cXdZZnhIWi1NLUtJREQ5eVZzZG1JS29GRVVLc0xnaGotLV9adGdLNi1KOFN1V25DdlZGcXFIMFg5TVRLZG1UYl9tbGdlTU80QnVNUmxiVFU4THdFZUl3Yk8yZDU2Tk9HdXZsekJZdC03b0RIYk8tS0s2cFoyTVB1SnNCUGxrWVNMOTlkXzZLbjV0c1VLa3Nkb2JfQVphZ01Nd2tQQmNSRVZiLXlIYW1HWVRKNDZGOEtyMUgyLW50SS1TckltNDRBbW16X3JXdjBR?oc=5",
         "type": "rss"
       }
     ]
@@ -1610,6 +2343,26 @@
     ]
   },
   {
+    "id": "kubota-2026-10-27-040",
+    "date": "2026-10-27",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kubota Tractor Corporation to build $10M training facility in Grapevine - Community Impact",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR1J5dndpM3RESDVuVFFEYnJDd2l6MEYxalhSVWlMa1poakxqVzFnQkdmRWFESnZnZDBFdjNYMkY0d3M5WTUweUQ0STBHRmVPdDVUaC1iTGFaR2MwM1lCQTNQVFhNR3hWaFVVV2ZONz",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR1J5dndpM3RESDVuVFFEYnJDd2l6MEYxalhSVWlMa1poakxqVzFnQkdmRWFESnZnZDBFdjNYMkY0d3M5WTUweUQ0STBHRmVPdDVUaC1iTGFaR2MwM1lCQTNQVFhNR3hWaFVVV2ZONzhiNERRSk9XajMxYU5rQmFTaGNHSzZtLTJWT3lTZ0FrTWt0MnRTT2hKS2J6cHFnVXRFWjFpLS15NGw3T0tRS3VWZExiQmJzWVdXbDVIMDJnTmtpaEhVMVg4QTRQYXNacEExTGluNDEwTE9nVzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-26-001",
     "date": "2026-10-26",
     "companies": [],
@@ -2247,6 +3000,26 @@
       {
         "name": "cf_industries",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFVkd1RTNExkWlZMTmtkbmRGaXBoNUdXcmVlRjQ4dVFBTE9faHZxTTBVMkthUGhrS0hiRmpaOGItUnV0bllwWUM5a2NTM1E1X3UzWWh6enBkT1g3QlBtcWl1Z0NEUzdzRVFaai1OMUpNQ3VmVHUxdmRLblRQMURZblRqMFI0NnhtamxuTWttWFBMOWFCelZQV0NpVDZhMW5a?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-10-26-034",
+    "date": "2026-10-26",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Granted USDA Award for Sulfate of Potash Manufacturing Plant in New Mexico - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUFpWFI1SXhIY0J6dVM0R3kyd19QMktpMlA5NlAwZkxEOU96Q2FhaFliaHY0QmdONkY2dlVEVkhuWEdFQlN5Rk9ybGlUeWdPOVdNa0FlTVNyUFZOVG5fWGJqM21ycC02cU5CYnlKUU",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUFpWFI1SXhIY0J6dVM0R3kyd19QMktpMlA5NlAwZkxEOU96Q2FhaFliaHY0QmdONkY2dlVEVkhuWEdFQlN5Rk9ybGlUeWdPOVdNa0FlTVNyUFZOVG5fWGJqM21ycC02cU5CYnlKUUhBTGR2Q0JFRHJ4YkdkajYyVFJDcEh6RnBzWjJtbUtGNmtYWFdtVzZVZUFsUkc5UkVT?oc=5",
         "type": "rss"
       }
     ]
