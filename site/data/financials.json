@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:41:02.558630Z",
+  "updated_at": "2026-10-31T13:59:59.233045Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "愛科",
       "ticker": "AGCO",
       "currency": "USD",
-      "ar": 1232100000,
-      "ar_prev": 1242300000,
-      "ar_qoq": "-1%",
+      "ar": 1231100000,
+      "ar_prev": 1232100000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 3007100000,
-      "inv_prev": 3001800000,
-      "inv_qoq": "+0%",
+      "inventory": 3005000000,
+      "inv_prev": 3007100000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "bunge",

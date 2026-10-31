@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:00:04.380319Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adm-2026-10-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ADM Earnings Outlook Might Change The Case For Investing In Archer Daniels Midland (ADM) - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTM4OGFBamZtdFN0Y1NNZ1hscjZSSDIyay1KZHVMbGFFT0dUdFQyQlNrN1RwSEZnUXFVc3NhMWhsZzJKNS01YWpIMEY4MTNiZmlkbU9PSllCaTdsM2VhcHZiYlNXSmFaZHduaWVHT3hERG5GU2NmQUpsYWNPWTdydUh1dDZWQUg4SWtGNy1ORXBGYi1kRnJDdVotd0Q3MW8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-10-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Archer Daniels Midland (ADM) Stock May Be 34% Undervalued On Cash Flow - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJZU19Ha2VEdTh0WXpBSWhVcHNqSjZ2MlRDUGw1YkJlS1lRalJrNXkyb0wxd0hjUDJwY0xGLWRhUUdKZmUxQzhKVXJKYUROWDAxSzFZWFFRU1dCeVlhZ1dDSXVpZnFvR1dWTERRVTQ5c19tQW5ZNzBqWmFlZUdWdElTd3ZDQ1FBSkN3eE9LRkJnZFhtUDhFclBoU01XUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bunge-2026-10-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays Keeps Their Buy Rating on Bunge Global (BG) - The Globe and Mail",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPanlfaXdjM0lyTGxzZ1BLTnJ0OXFFSnVpdFFfWjlQSEVCakd6ekpSMG9wQWgzeGFSRExzcl9CY0swWmZuNVVlZWZ1b0tBLXRjZnVmN043WTk0MVlxV0trRzNpNGVycWR2SmwwRHI2WWFBSG05bnVIaUo5QkJsQXJIblFwazlONFc4Z0NUcmM5V0ZsUHhwWHVDcERYbHJSVW1iQV9wWGx3RFNmYVdDVy1wUlJxdVlkTzBmdTI3RmdLMURfUjh6THdYRy1kZmFiUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-10-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial N.V. (CNH) Seasonal returns chart - Yahoo Finance Australia",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zS2xFdlAzdHV3Q3RGbXZzRUxaeWxuMHpaTXFGQmhyVXVnVVkxSEJCLUhfZGRkSlNrYXhIRW03SjZrMEhkejhLNzJ4TFcxbmw4ODhHbWJWbHNrSDljVE5feg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-31-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Week in Agribusiness, October 31, 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-october-31-2026"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 174,
+    "too_old": 147,
+    "gate1_blocked": 2,
+    "gate2_blocked": 18,
+    "passed": 27,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "The Mosaic Company (MOS) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "The Mosaic Company (MOS) Seasonal returns chart - Yahoo Finance Australia",
+      "/C O R R E C T I O N - OCI Global/ - Yahoo Finance",
+      "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+      "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為ADM、Bunge、CNH相關動態：「ADM Earnings Outlook Might Change The Case For Investing ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ADM Earnings Outlook Might Change The Case For Investing In Archer Daniels Mi...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer Daniels Midland (ADM) Stock May Be 34% Undervalued On Cash Flow - Yaho...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

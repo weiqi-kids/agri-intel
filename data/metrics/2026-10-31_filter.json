@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 2,
+  "gate2_fail": 18,
+  "passed": 27,
+  "gate2_samples": [
+    "The Mosaic Company (MOS) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "The Mosaic Company (MOS) Seasonal returns chart - Yahoo Finance Australia",
+    "/C O R R E C T I O N - OCI Global/ - Yahoo Finance",
+    "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+    "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView"
+  ]
+}
