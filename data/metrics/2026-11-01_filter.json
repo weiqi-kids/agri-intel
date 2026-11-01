@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 3,
+  "gate2_fail": 17,
+  "passed": 16,
+  "gate2_samples": [
+    "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+    "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+    "/C O R R E C T I O N - OCI Global/ - Adnkronos",
+    "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+    "OCI Shareholders Approve Orascom Combination and Euronext Delisting - Securities.io"
+  ]
+}
