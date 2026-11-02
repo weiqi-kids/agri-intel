@@ -1,0 +1,16 @@
+{
+  "total_raw": 355,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 3,
+  "gate2_fail": 13,
+  "passed": 25,
+  "gate2_samples": [
+    "OCI N.V. (OCI.AS) Seasonal returns chart - Yahoo Finance UK",
+    "ZAWYA: Orascom Construction expects to complete OCI combination in December - TradingView",
+    "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+    "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+    "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView"
+  ]
+}

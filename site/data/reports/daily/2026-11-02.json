@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T17:32:38.449612Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-11-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yara International (OB:YAR) Could Be 14% Undervalued On Mixed Earnings - Simply Wall St",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS192UHNlQ0JyYnhtR1RvWUpobU83Q2RVOG0xVS11ckJHTXMxN2tHN2o5UzNod1lWZElLV0JjOHBBWENiRGpTMGlKaXVNVlQ0MXVVZ3RBMEhrZmRqbnU3bHV6eWV3LS1zVzJDTTBRRVBLRDUyTGxXV0taMTRCR0dGejdjN3VNVEd3alBxSS1LX1dYVkVxaVl5LXV1VjcxSThvQ2dOdmduXzRNM1p5RWQzZm5PMUVRa2xDUWhudEs3a1I0VklhN3lXMFhiRjlSdi1YOE9BX3BEONIB3AFBVV95cUxQOGJyTnZ0YzcyY1VZbEpXUEVqSHZvMzJiWXlpSXl1VzJnbjJsR3J3cUV0RUEtWHhQTHBZbDhlU2piSVhsMG40eExIeGpYRVlCaVczTFdGbTVfNE05OUFacmlEUmd4YzVwZlI5cmFKSVo3N0JGWnNSb0cxZExCTDk3cElvZlIxZ1VkN0gwdmRSUWM1WW14bGlCV0hnMjNNMkVHTnFadDE3eW1uSy1UZGlWMUVGdkNNOTRnMUNGRDBHVVhzV2NKdWI0djB3Z1JyNWJ0X0dVb2N3dERkeEIt?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-11-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Archer-Daniels-Midland (ADM) Reports Q3 Earnings After Market Cl - GuruFocus",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDJqdGlWZEhMYWZyUkhfNjlldFpQT21YU1BGSm5FWU9PZ3ZiMlhxRlM3LXZWYWFXcDczNmEzUmdHaXBubGliaE1xYnJvSzhFODM2Wi1uTERENGFVOGd5ZFYzTjBmNUphdWtidGJNR3IxODhESjZ6d1BoMnNkSHJtN1BzM0hzU2JnVE5mRTJLR1hTQ0h3RERxRENXeGpyVzR3dlNFZGg2NU5Yc2xRUWdRaTliT3BwUHFCWlFTSnB3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-11-02-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Earnings Jump Altering The Investment Case For ADM Stock? - Simply Wall St",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3JycmJGNlhHUU5oWFpZXzZ0WERWamVLSm5GTEtlNVBOcHdua3QtR2t1aWRiMUVmMFJaejQ2MWd3MDZrbE12YmpZNTROZ0cyWmRmMU1qeGZ4ZHBSRy1yT2VIUlJUMnYyeW9GV2FiWXFEMjFKZWc4WjhOZ2l4djMzQWlNNHlPRC1iOGZIcld3a0tRazVITEVVVmJGa0RCQWFjNFdvbzg5Ri1DLWR1WWFCUkljSUpYZVBQbHdlaHRUQXUxdlNwZEtLVDBzODlVZkl6TE1kRVFyV2pWTWg1Uk9QRWV3ZHbSAeoBQVVfeXFMT01yVUk0Y28zdTlFY0x6YTJhUE5NSGJBcDU5ZUxkU2daSWI0b1dVUlVzbjFjU01qYUMwTzB3S0k3RU5YVURJZFg4WUo2NHdTdVAxaE9DUWRFM3lKVGk4aDlsbVVEdERwb2dTMWNUR2o3d05GRzJTUVJ1ckRqYXJEbEM0aENRMDJTQ1lKODRuZU1Ub2IzYTNjRkFpbXNIdHlHSnZ5SXZmTjUwQkR3MFYzRUtVbTNjWjAxbzNNaTJZOEtkSXBraDhHTF96d3JURDlZMi1uM0RjV084V3pXdTVBRnBZRTRUeDlXR2R3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-11-02-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The 5 most interesting analyst questions from Bunge Global’s Q3 earnings call - Yahoo Finance",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0ZqV3loa2lrSHpkRUY0QmNtZ0V3dW9XVmZmTHkxZ1RNdklobGw0b0YtMjhLWjdGU0h5SmRtRmQ1Y3R2RU5JNXN4RmVyTDhLM3VpbVktNWpMb2JCRDl6aGx3UlVHdXZmb2t4WDdrMndLYWE4NTV1T2ZQbW5FenUyaXZ3cXQ4b0tkNDl2WUhIS0xUd183bnVrTjJOY3FKYXllZmI4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-02-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why strong prices aren’t helping every part of beef industry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/livestock/why-strong-prices-aren-t-helping-every-part-of-beef-industry"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "fertilizer_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 5
+      },
+      {
+        "id": "bunge",
+        "count": 4
+      },
+      {
+        "id": "yara",
+        "count": 2
+      },
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "fertilizer_price",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 355,
+    "dup_title": 150,
+    "too_old": 164,
+    "gate1_blocked": 3,
+    "gate2_blocked": 13,
+    "passed": 25,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "OCI N.V. (OCI.AS) Seasonal returns chart - Yahoo Finance UK",
+      "ZAWYA: Orascom Construction expects to complete OCI combination in December - TradingView",
+      "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+      "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView",
+      "OCI N.V. Shareholders Approve Orascom Construction Combination - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為ADM、Bunge、Yara相關動態：「Yara International (OB:YAR) Could Be 14% Undervalued On M...」。主要關注主題為農業產業通用、法說會、肥料價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Yara International (OB:YAR) Could Be 14% Undervalued On Mixed Earnings - Simp...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Archer-Daniels-Midland (ADM) Reports Q3 Earnings After Market Cl - GuruFocus（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "肥料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

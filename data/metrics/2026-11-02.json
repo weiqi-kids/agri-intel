@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-02",
+  "total_events": 21,
+  "by_company": {
+    "intrepid": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cf_industries": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yara": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "adm": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "bunge": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": 0.03
+    },
+    "fertilizer_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "planting_season": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
