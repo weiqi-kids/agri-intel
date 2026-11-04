@@ -1,5 +1,497 @@
 [
   {
+    "id": "nutrien-2026-11-04-001",
+    "date": "2026-11-04",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Bet Behind Nutrien's Rally - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2ZPRHBEcTJxWi10Tm5iZERHaUVtcWRiSDM4S3hIZ1dVX056UkNmTzZ1U1lxRTNUYVNiS0loQzd0djhxMGdxZFBDT2dCM0RoeEkyX0g3QkZJX1FKLTNRa080T0VqbGtwMkphQUFCOE",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2ZPRHBEcTJxWi10Tm5iZERHaUVtcWRiSDM4S3hIZ1dVX056UkNmTzZ1U1lxRTNUYVNiS0loQzd0djhxMGdxZFBDT2dCM0RoeEkyX0g3QkZJX1FKLTNRa080T0VqbGtwMkphQUFCOEx6R1UyVU5fRnJIYzRfbTMxZXY3eE1TaDdyVlJXTkZwVnZTcEtRWVdWZEwzY1lfcFRK0gGmAUFVX3lxTE93T0VPT3I1WWdNS25YcWtaTFVsYWJTZnNJNm1iWkpiZ2NTdkI1bFhXa2ZBdXRKUmNqRk0wd0hqM01iTk9sdXQtRXFDOFN2cjNrV3ZNejB4cmpkeFhWRHhTYjFOZk56X09LajM1WXhQTjNYemxQc2hvcGR6YUlWSGhKa3BBc3BlUnc0VHVRQjY0UmxQVkpfeVQ0by10MjUySVVUNElaTWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-002",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MOS Q3 Earnings Miss Estimates on Higher Costs, Lower Volumes - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3NGME40NlpzeUhlVXdWeVprd292ekR5Ri1jQ2RRMFFIZnIyaU55ckZERkZIMl9Nbm4wUlllU3N0SHVKdHZ6NGsyNUJlcUlaaDJrTUhkUER4V2VmUlljMDlWYlZLODlQTXRWMzBtMG",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3NGME40NlpzeUhlVXdWeVprd292ekR5Ri1jQ2RRMFFIZnIyaU55ckZERkZIMl9Nbm4wUlllU3N0SHVKdHZ6NGsyNUJlcUlaaDJrTUhkUER4V2VmUlljMDlWYlZLODlQTXRWMzBtMGlDM0tQSmxlNTRTQlZnMTJLU3FnWEE5QzdybkVuWV9Pa241Qm1OOTZhVGlpUWdRdS1fU3Q0YzM2V2xyZmVYUDFlZ3hlakVXWkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-04-003",
+    "date": "2026-11-04",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Did Intrepid Potash (NYSE:IPI) Lift Trio Guidance After a 33% Margin Gain? - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3hNUmwtN25veUtqaUJvbXZhNlJxRmtEOFdGc0RxRW1lTlVNeVVDMTlOSjNXNk94WFJ3aTR0UDAzNHBKazltWXJRZFQ3RjR4NXZMb1FuT2ZFUnhPS1N4VGZMY2VtUkduUjB3bkdmUE",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3hNUmwtN25veUtqaUJvbXZhNlJxRmtEOFdGc0RxRW1lTlVNeVVDMTlOSjNXNk94WFJ3aTR0UDAzNHBKazltWXJRZFQ3RjR4NXZMb1FuT2ZFUnhPS1N4VGZMY2VtUkduUjB3bkdmUEVfaGhGTTJDRG9pNmNnZEN3d2Y4NG81bVBTSlVWSXRrcU9GV25heFN0UXJ0OXQzTUwya0RfVjYwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-04-004",
+    "date": "2026-11-04",
+    "companies": [
+      "mosaic",
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How Can SSR Mining (NASDAQ:SSRM) Carry USD 1.55 Billion in Cash While Mosaic (NYSE:MOS), Intrepid Potash (NYSE:IPI) and Ramaco Resources (NASDAQ:METC) Post Weaker Quarters? - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOSDFHMFZncFdNelhySGt0S1NsTU81enZTcXdtYVFJYjNuSXAtSVB3S0RJSS1JY1pIY2MxLU1mMXFNNVVObTJ6cnhNT0JSR1VDbEkwRHgwQUFWVDZZcUlMX2RHd19VWUpSdTh5UGxaTn",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSDFHMFZncFdNelhySGt0S1NsTU81enZTcXdtYVFJYjNuSXAtSVB3S0RJSS1JY1pIY2MxLU1mMXFNNVVObTJ6cnhNT0JSR1VDbEkwRHgwQUFWVDZZcUlMX2RHd19VWUpSdTh5UGxaTnpmR1BDZ3Jjd3hwOEI1b3BVTGpucVd5QXJNa3BwVkxra0YtSkpGTWtSR3M3NkdHUWtVTndxaUFOaTZyVzhLTlFFUTBrNHd1SkdyWjhuRVJSZlhmSER2eFlZdENrZlRRS2FJTUNjVE9lSmFTU3EtbUtlQWZJTW12UVZZTWZ4dEVWby11R2NaQ3BLVDlfTnN0aEkzUEh0Xy1JR1oxUmhQQVNXX3ozZllTSHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-04-005",
+    "date": "2026-11-04",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Archer-Daniels-Midland (ADM) Undervalued Following Strong Q3 Earnings And Higher Guidance? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFdyaGJRM1pHbm1aVTNtSFFvc3FhWV9fTnhaYkw4MXZCc3JPYXpLNExhSkh2MnJUNkpCbm5GWm1wN3loX3pHejJrNkRXVlNNbFdfOWg2LVdkX0x2MmYxWEozd0RZX0pGNWN0MlJWQj",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFdyaGJRM1pHbm1aVTNtSFFvc3FhWV9fTnhaYkw4MXZCc3JPYXpLNExhSkh2MnJUNkpCbm5GWm1wN3loX3pHejJrNkRXVlNNbFdfOWg2LVdkX0x2MmYxWEozd0RZX0pGNWN0MlJWQjNpUEU4cE9IdmxTcXVQNFRXR2tPZWJkWlVPREFYMXVQWXN4bHpQZG5DdXplWWRiLXdLNzEtTkJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-04-006",
+    "date": "2026-11-04",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JPMorgan Upgrades Archer-Daniels-Midland to Neutral, Price Target is $75 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnZ1T1pUQko0V29YLXVUVlNjaTNEOUNSU3FzNW9nbXJUZ2RRbmc1MHUxUkFuZTVZRFRpQ3ZWTXdKdFRVeDdBdFBtcExaY0Q0dDR0WjFTMWRIN29yamwtNDgwbjUzd1YzcWtIbFNLck",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnZ1T1pUQko0V29YLXVUVlNjaTNEOUNSU3FzNW9nbXJUZ2RRbmc1MHUxUkFuZTVZRFRpQ3ZWTXdKdFRVeDdBdFBtcExaY0Q0dDR0WjFTMWRIN29yamwtNDgwbjUzd1YzcWtIbFNLcktnRWNMSEdoQXNYYXYxRW52bGJRa1lKem1KNWw3SlZNVE0ybi1QWEdpYWUyejBTaWZHcUFYS2tIMEdBMGJ6Sng1UmZLTHFQOV82MzFfRndYWTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-04-007",
+    "date": "2026-11-04",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland (ADM) Is Planting Deeper Roots In East Africa With Nairobi Hub - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOG5OT1kyZUk0Ylp1TFdBWUU1bERRblZnRklyM0VCREtLUUxaNjc3cDVoSF9WcHpjVzlidHBvYVA3QWhhOE9TYUVHR3dfUHVleHJiSUdIWFJBWVV1bXJMVTJuUG5SanFVWU9RVmx3Z0",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOG5OT1kyZUk0Ylp1TFdBWUU1bERRblZnRklyM0VCREtLUUxaNjc3cDVoSF9WcHpjVzlidHBvYVA3QWhhOE9TYUVHR3dfUHVleHJiSUdIWFJBWVV1bXJMVTJuUG5SanFVWU9RVmx3Z0tGcXZyMVZaRHpJMXZ6Q2lqaDV5OFFBZGI0NXByVzRGNmJvcUx3VTFQUVBHLTRLQktRUVF4Z1ZVSXA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-11-04-008",
+    "date": "2026-11-04",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge reports stronger Q3 2026 earnings driven by processing margins - Milling Middle East & Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVB4TFFYRjE3WURocG05TUQwZ096N2Z6dlI0aGhaQ3pqUThTSzV5Z1JMXzVPWURTalp5ZmQ4c1JRU1pBMjQ3aVJ3TUg3ZFVUeWlXcjdZNmVzTjFjX2prei1wNnF0MG1BS3E1dWNiel",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVB4TFFYRjE3WURocG05TUQwZ096N2Z6dlI0aGhaQ3pqUThTSzV5Z1JMXzVPWURTalp5ZmQ4c1JRU1pBMjQ3aVJ3TUg3ZFVUeWlXcjdZNmVzTjFjX2prei1wNnF0MG1BS3E1dWNielZ4VDhQMlFHZnk4SVBtMXlmN2hQUGdhY0tldkxwYkJsWVkyQklFY2RR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-11-04-009",
+    "date": "2026-11-04",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 European Reconstruction Stocks With CNH Industrial in Focus - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTh6M1NEbVUxOU4xemJfdjdCSkxaWXR0OWVOaXJ0U0pTMEpVRHJFemhIQzRnTEY4Tk85MkJveXczR2hnMktmXzF1a3RrSGpYc0Q0RHJIWVNoYmM5bjBpODdsOTFMai1RSEl3X2pzZH",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTh6M1NEbVUxOU4xemJfdjdCSkxaWXR0OWVOaXJ0U0pTMEpVRHJFemhIQzRnTEY4Tk85MkJveXczR2hnMktmXzF1a3RrSGpYc0Q0RHJIWVNoYmM5bjBpODdsOTFMai1RSEl3X2pzZHpxWl8xSVp5M015cEd0cnlPLVBfM3dOQTlTS3BCc1U3M2RIZWpIM2NoZ1pFZkc2cDVBRjBV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-010",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA steps in with $472.5 million ag purchase to aid struggling farmers",
+    "summary": "Farm Progress America: USDA announces nearly half a billion in Section 32 purchases covering dairy, pulses, pork, chicken and specialty crops to support farmers and families in need.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/usda-steps-in-with-472-5-million-ag-purchase-to-aid-struggling-farmers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-011",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 keys to unlocking ag tech value in 2027",
+    "summary": "Morning Market Analysis: Corn futures pushed to fresh four-month lows overnight, while soybeans dropped under $12 as survey indicates higher yield potential.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-012",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How much does fall tillage cost you?",
+    "summary": "Minimizing tillage after harvest can save money and time while improving soil health for 2027.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/management/how-much-does-fall-tillage-cost-you-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-013",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Late-season weather robbed corn yields",
+    "summary": "Corn Success: Wet, cloudy conditions were widespread across Indiana during crucial corn reproductive stages. See how it played out at harvest.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/late-season-weather-robbed-corn-yields",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-014",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Don't let a safener give you false confidence about crop injury",
+    "summary": "Talkin’ Weeds: Here is a look at how these herbicide compounds work, the crops they protect and where their limits lie.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/weeds/don-t-let-a-safener-give-you-false-confidence-about-crop-injury",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-015",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Behind Country Mutual’s decision to sue AFBF",
+    "summary": "Here’s a look at what’s at stake and how negotiations stalled out in Country’s lawsuit against the American Farm Bureau Federation, which escalated a yearlong dispute over Illinois Farm Bureau members",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/behind-country-mutual-s-decision-to-sue-afbf",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-016",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How a Missouri farmer had a fairly ideal corn season",
+    "summary": "The corn harvest in the state is nearly done, and crop farmers in the southeast region report average yields.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/corn/how-a-missouri-farmer-had-a-fairly-ideal-corn-season",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-017",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Wheel-traffic compaction could spur 10% to 20% in lost yields",
+    "summary": "Harvest field operations on wet soils may be unavoidable this fall. However, wheel-traffic compaction and its impact on future crop yields can be minimized with steps such as using proper inflation pr",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/management/wheel-traffic-compaction-could-spur-10-to-20-in-lost-yields",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-018",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Understand how step-up in basis can protect your family’s assets from taxes",
+    "summary": "Farm &amp; Family: Step-up in basis is a handy estate planning tool, but it doesn’t apply to everything. Here are some things to look out for.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/understand-how-step-up-in-basis-can-protect-your-family-s-assets-from-taxes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-019",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "North Carolina farm again produces region’s top hay",
+    "summary": "Beeson Farms hay production is managed by Josh Beeson. His hay also won the Southeastern Hay Contest’s top prize in 2022 and scored the highest Relative Forage Quality index score in 2025.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/forage/north-carolina-farm-again-produces-region-s-top-hay",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-020",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Poor soybean seed quality emerges across Wisconsin in 2026",
+    "summary": "Warm, wet weather leaves farmers facing grain discounts and difficult management decisions heading into 2027.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soybean/poor-soybean-seed-quality-emerges-across-wisconsin-in-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-021",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nebraska Farmer: Something old becomes something new",
+    "summary": "Bow Creek Chronicles: Nebraska Farmer remains a trusted source of farm and ranch information, but through new digital offerings and a new print magazine.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business/nebraska-farmer-something-old-becomes-something-new",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-022",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Land always goes to the most disagreeable person",
+    "summary": "More Than Dirt: The quietest person in the family often loses. Here’s why — and what to do about it before it happens on your farm.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/land-always-goes-to-the-most-disagreeable-person",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-023",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ohio’s Josie Jennings elected National FFA president",
+    "summary": "The Oklahoma State sophomore and Clark County, Ohio, native draws on farm roots and a passion for people.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/ohios-josie-jennings-elected-national-ffa-president",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-024",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Hay gear tackles quality, weather woes",
+    "summary": "What’s New From the Shows: Hay equipment cuts moisture risk and crop loss, helping farmers bale faster and cleaner.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farming-equipment/hay-gear-tackles-quality-weather-woes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-025",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water worries: Do more with less",
+    "summary": "Pivot Points: Water is at a premium, so irrigators are working on ways to raise more grain and forages with less.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/crops/water-worries-do-more-with-less",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-026",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will farmers get higher corn and soybean prices for Christmas?",
+    "summary": "Ag Marketing IQ In Depth: Seasonal patterns, South American weather and re-ownership strategies could help farmers capture higher corn and soybean prices through mid-February.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/will-farmers-get-higher-corn-and-soybean-prices-for-christmas-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nutrien-2026-11-03-001",
     "date": "2026-11-03",
     "companies": [
@@ -392,6 +884,468 @@
       {
         "name": "cnhi",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR0s1bXE4VkVpdGR3NHlGZVYzbmhfaUZ6QU5BV0xSd1lBNF8xNTJxVi1lTlpxOUIzamNpSlBzeWNZMEhFd0xBc1hGckxhZTA2UXdZRExkZkc2Y2hDcUNoY0d0SzVLM0F0YWNnVUZMNnBLbGFmeG1VVHBPRGw3ajhodUNjUFE3Y3BfU00xdXNDODJkUjlJdkE4amZQb1lURE9DalJBVXZGbm55ckpYOGhjQ3I1eXNUUnZGVGhaZGl4bVAzMlpTUjh4cEd4bnRwaE3SAdQBQVVfeXFMTmQyWW81bzlGaHJBSkY2Ui1BbGJLMmdpaHZMMnl5emRMMm5CcVlqMW9FSk5wXzFNNGtTMWt0Z1l2V1c5OFN0RnV0ZndnU0JRTnBvbVU1OTVwRnNKVzVDelVfNW03clFyT2ZBMHR4S2VQVFpqZWdvNmMwLTFsTEVKdlV2TklXM2VDZjVFSkItbFVHZFdzTkg3LUNKNGtLeXNGR21wTURsbm1NalQ4Vk9RSDdKbURMWDctUzM0ZXVHaGpCWENyNmhaN08yOThaZkRlNS1mTHQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-11-03-021",
+    "date": "2026-11-03",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien (TSX:NTR): How Far Can Fertilizer Mines, Nitrogen Plants and Farm Retail Branches Stretch Output Per Worker? - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzFHNDZ4SW1JTEJnNWs0VTFjcVJpeVlrUlZnTC1qdGF1QzJBYnZNakQ2aF9TblVadTNqaXBoOTFaRDk3TGNLd1UtZWhSVEViTkc1N2F3aDNNTGNNSTNZTmcxRi12TkZUT1diS3NOeW",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzFHNDZ4SW1JTEJnNWs0VTFjcVJpeVlrUlZnTC1qdGF1QzJBYnZNakQ2aF9TblVadTNqaXBoOTFaRDk3TGNLd1UtZWhSVEViTkc1N2F3aDNNTGNNSTNZTmcxRi12TkZUT1diS3NOeWpiN3ZtQzc3NmhFRVV4NklwSVpaZFV3TW5kMUQwLWZBdWZ5X25nVEpNZHpqam9PNkg2U1lMd05QMWZRTmNUbjlBUDl5WFVRMWtLc1ozeWtDWXBpeTM2TkU2ZjlPWlFVeE42aUx0MEh3bGRiV3BYcVNF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-03-022",
+    "date": "2026-11-03",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MOS: Mosaic Company filed SEC Form 8-K: Results of Operations and... - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjlsbWx1ZWpNMDZZcEZfWmlrTnFDX0stSWdpV3M3MWctUTZfYWJibWJHamwxQXNxcHlsWG5MaG1qcFVyT3BXZ1p0c2NZcjlIMTRSZDhCd3ppOHNWZnhGRFFfYUVrY1UyeWZEUy1zOT",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjlsbWx1ZWpNMDZZcEZfWmlrTnFDX0stSWdpV3M3MWctUTZfYWJibWJHamwxQXNxcHlsWG5MaG1qcFVyT3BXZ1p0c2NZcjlIMTRSZDhCd3ppOHNWZnhGRFFfYUVrY1UyeWZEUy1zOTVzdEFKWktvcHp4cTRTRkluYjNjcWZHdk9MQVAxOXhhS2NPdlBOc0pQN1BPWXZtcTNrTFJIYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-03-023",
+    "date": "2026-11-03",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Mosaic Company Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ2JBeW54V2xidHIxSEpDRDAxeWU2RUVNTTV6cVhtRDZ3TWZaSTNoeUhrUWM2b2cyeHN2SHBsdTJhbnRiQllNU1B0YXFxTjJGM1BpS3hTb082b01nSFhMUFZUbUwybk4yUVAweG9BQX",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ2JBeW54V2xidHIxSEpDRDAxeWU2RUVNTTV6cVhtRDZ3TWZaSTNoeUhrUWM2b2cyeHN2SHBsdTJhbnRiQllNU1B0YXFxTjJGM1BpS3hTb082b01nSFhMUFZUbUwybk4yUVAweG9BQXU0Wmx3MGxKQ0FOTzRqUmtCUi1lN3NvMzJWYnNhdWdYUkw2eDhjaTRNRl9RUFJZZ3dHOVUwUlI1TGlDeW5DbC0xODV4X0FDWDhzSXM2U3JHa3VoSC1FU0dQdWxhMi1URXVZWVM4c1RpX3J0dV80VlhSd1NzMy1pQXZW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-03-024",
+    "date": "2026-11-03",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Mosaic Company (MOS) Misses Q3 EPS by 20c, Beats on Revenue - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNejBGc1JkdHZZaVQzcHM4RURBOFFyNk5vc2JyTUw5a3VaTUJpb0NjUndnZldTLWI1OTUtZDREOGt6TVdhZFFla2tNZEY2TlFKXzdxUWYyTDZsYTBOSEhCWXBLVUViNnBhNWJETnVKd3",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejBGc1JkdHZZaVQzcHM4RURBOFFyNk5vc2JyTUw5a3VaTUJpb0NjUndnZldTLWI1OTUtZDREOGt6TVdhZFFla2tNZEY2TlFKXzdxUWYyTDZsYTBOSEhCWXBLVUViNnBhNWJETnVKd3dubndKTG5RLXFPbFB6QXhxNm5SS3l4NDVEOFJCLUVUa1Y4VkluQjVpNERCMi1XTHN3Mi1ldlY1NkVIYjJ2MXFqRWNNeER3QXZLVTFGc2JTVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-03-025",
+    "date": "2026-11-03",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Mosaic posts wider-than-expected loss as fertilizer costs squeeze margins (MOS:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEdLSXRMaFBmNmpHUmZlUVg4UmpRNE1NazFCcHhVSzhDY1R0dGI2X2M0ZkdBYmNMNkN0R0dQdWVnV0g2N2xpQUJ4X3ppR2x2SFdON2Z3dkRfbnVmZDgzTF9oVTJySGhqUnhqeVJ0bU",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEdLSXRMaFBmNmpHUmZlUVg4UmpRNE1NazFCcHhVSzhDY1R0dGI2X2M0ZkdBYmNMNkN0R0dQdWVnV0g2N2xpQUJ4X3ppR2x2SFdON2Z3dkRfbnVmZDgzTF9oVTJySGhqUnhqeVJ0bUt6LWQyRm11MWtzdWU5aUxEcGltMlg5QnRtblFubXpYWlM0R3BQc051ekxEUlpEQnd2NXRCMlR5aWFsSmltSG0tQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-03-026",
+    "date": "2026-11-03",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic will discuss its third-quarter results on a Nov. 4 call - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQR04wN2MyaHBfdUVhMy01QTJUZVJTR3ZDeUxxVk5YNl9tamxqTm1aRVg5eGlkd2RvNHhQT1g2eE1IbmhvRlhwZXptUmNETENUdE93NTc5OWZCTGV2azBoN2R2cUx1SVhjY1lKY1JNSl",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR04wN2MyaHBfdUVhMy01QTJUZVJTR3ZDeUxxVk5YNl9tamxqTm1aRVg5eGlkd2RvNHhQT1g2eE1IbmhvRlhwZXptUmNETENUdE93NTc5OWZCTGV2azBoN2R2cUx1SVhjY1lKY1JNSlQ1RFFrNG12UDhtWWZuOHBCaHc3dXI1MW5SYjkxXzZzRTZXenc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-03-027",
+    "date": "2026-11-03",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic Announces Third Quarter 2026 Results - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0dsMllEM3BibXBLNWU1RmlKU0p4RmlmTWk3ZF95cGlRc3h2RWR3TGpqZ1dKVkNrTHV1MEhWYVZka2JLS2xFRkNaamxTQUY3VnI5Ml9OTlkycnlpTUNsUXZnNmlaMk5nZFYzR2pZUD",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0dsMllEM3BibXBLNWU1RmlKU0p4RmlmTWk3ZF95cGlRc3h2RWR3TGpqZ1dKVkNrTHV1MEhWYVZka2JLS2xFRkNaamxTQUY3VnI5Ml9OTlkycnlpTUNsUXZnNmlaMk5nZFYzR2pZUDM0SnV5TG95UU9rd3VnaFhXNmFXNGRRNWV1ckRUb3k3ZHlRR0UxeHE0VTVScGw2ZEtOWUt0blFpNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-028",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash (IPI) Q3 Earnings and Revenues Beat Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2pUNkFUZEhxSW1uSFg5TGZHV1ZDN2NyVWlIYTJtYzI0SHRsTHQ5SF9oa2NMdF9rNENfVWx5ODdzYnhBaWZrOVluWFZtNFljRnYxR2FBc0N3U2RMbUFMQ2lDNW1QUFVNWWhWUXJJR2",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2pUNkFUZEhxSW1uSFg5TGZHV1ZDN2NyVWlIYTJtYzI0SHRsTHQ5SF9oa2NMdF9rNENfVWx5ODdzYnhBaWZrOVluWFZtNFljRnYxR2FBc0N3U2RMbUFMQ2lDNW1QUFVNWWhWUXJJR29SY0dObXUwV0FLQm9NckdDSE91LTAwck8ySFdobWJNdXNZeWYtM3dMMGsxQjk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-029",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash: Q3 Earnings Snapshot - 10tv.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQQkdITkt4UHA5NzRPY1NpR2tlQlJISlFfVHpOOG82WF9wYmNxeGpFenBBUTRkM3BxODIyUVVQdzdVZlIxOHJ4VEdzQm1NNmVUOHpfMUVoODJRNld5azItaFV1U29HajVWaUE1M2dkTG",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQkdITkt4UHA5NzRPY1NpR2tlQlJISlFfVHpOOG82WF9wYmNxeGpFenBBUTRkM3BxODIyUVVQdzdVZlIxOHJ4VEdzQm1NNmVUOHpfMUVoODJRNld5azItaFV1U29HajVWaUE1M2dkTGh3OE4xV0MzVWIzUW9XaXBWY2tYZEdJOGFYb2RRWldmeEh0RXhLM1Y1Qjk0dVA3ZHR0ZFVrdDBRQ3Q3MDJaVm1mTHhPdWpaV0RsLTJab2p2dFN3WWl6NHQxc2hCM293bDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-030",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Inc reports results for the quarter ended September 30 - Earnings Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ1BtTnZzV2t6N3dGeEV2MFZtUTBueUxaaVNlYTRCYUlEbXlsVWFLMHpJdW5KR1lGUS1zMEowTDRnTFdmUFBYeWxMeTBuMkVBUTloekY0RnBXWThmLWZob3ZybFU0YjZKYUVNX1F4dE",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ1BtTnZzV2t6N3dGeEV2MFZtUTBueUxaaVNlYTRCYUlEbXlsVWFLMHpJdW5KR1lGUS1zMEowTDRnTFdmUFBYeWxMeTBuMkVBUTloekY0RnBXWThmLWZob3ZybFU0YjZKYUVNX1F4dEliWEpIUU9uUHkzVXhjS25GYlU0WXRtSjJWejlkdW0taWU0ZVZpNXBDaWtZRVhFRVYtTkQzSGFMMlg5c0VSVi1qeVFQTjFvMk9qUDU1UHFfb3kxNTYzZ0wxYVZyQ1g0NTNBazQ0MWhCQURlUmJzcXB0aXNZRmYwRFM3a21RTnln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-031",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash earnings missed by $0.12, revenue fell short of estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlF3MjloYlNZdVNQSTRSNFNfUkd2S193bVdOcjU2WUlHdDhCWVVUWDJQeURvc2RiRnJJaEVmYW9FY2RFUzBkbExhaUtHclpiNEZUTHlfZ3JVNDZlYTVrNko1NmY2NkI5LWg2VU1aMk",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlF3MjloYlNZdVNQSTRSNFNfUkd2S193bVdOcjU2WUlHdDhCWVVUWDJQeURvc2RiRnJJaEVmYW9FY2RFUzBkbExhaUtHclpiNEZUTHlfZ3JVNDZlYTVrNko1NmY2NkI5LWg2VU1aMktXMFFWX2JGNDJUV3NzdGt1WmdhUWlmNVhWVjFvdVpFVWhfUUVBQU1zY21TSFRfVThuX2NQLTFNSHhGR0ZySTctU2ZQZXVydTBOemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-032",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Reports Q3 Earnings: EPS at $0.13 Misses Estimat - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYU03a05KdU9qMy1XQ0xoM0Y2Wk9yMnczSG5BTUhWWGFtVVlfcWFHMmNDbFNZblY0OE5oYzVwNktNNGtuN29BcGktaUxvaENuSHRxbTdZMXpxWkozazNKWkh1Snczbk9lS1pkVHJ2bk",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYU03a05KdU9qMy1XQ0xoM0Y2Wk9yMnczSG5BTUhWWGFtVVlfcWFHMmNDbFNZblY0OE5oYzVwNktNNGtuN29BcGktaUxvaENuSHRxbTdZMXpxWkozazNKWkh1Snczbk9lS1pkVHJ2bk5nVE9Nb0ZZSHNwM3Y2MS1TQU44UkRGLVp2Wm1hMk9paE9nMzdNQVNkeWRENF9OOE1IYUR1WHpBVFVZOXFvOHpTQlVjaTBVbldTRm52TThjbjBkTjlvTW1EYTNNb1U3Rk43TTB6MVZTdDdnRFJHWGRF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-033",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash (IPI) Misses Q3 EPS by 12c - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2Jnci1HUEduYXN4a3VNTHN5eUlwY3Q3T01QUHd3TGtsUm96eEdNeDB1a0tYZlg1b2ozVVR0MTdBa0Z4Xy1uV1dUQXh4bmRCaEdQRGFyZkt0Y29UYXJ5MnlORVk5azNtY09pZjV5Y3",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2Jnci1HUEduYXN4a3VNTHN5eUlwY3Q3T01QUHd3TGtsUm96eEdNeDB1a0tYZlg1b2ozVVR0MTdBa0Z4Xy1uV1dUQXh4bmRCaEdQRGFyZkt0Y29UYXJ5MnlORVk5azNtY09pZjV5Y3lRNC1MV3BwSEFWYjU4b3lrZTJ6Q1lGamt2T1B1TF9STTdPZEdJb0pxWlNtbUM1Nlh5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-034",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA selects Intrepid Potash for about $139M in proposed matching funds for a possible fertilizer plant - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDIyZlZMTm53WEVvckQyYldKUmtKTWNZZ1o4bHVmcWRUUzA2ekJlUmpCNjhXRTJKcTY4VVI0S1ZVcS1CSEl0VnlweGhxeWlYY1VBUGE5U3psMFF4dDVmc0lDMkZPZkZPb2lnV19xY3",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDIyZlZMTm53WEVvckQyYldKUmtKTWNZZ1o4bHVmcWRUUzA2ekJlUmpCNjhXRTJKcTY4VVI0S1ZVcS1CSEl0VnlweGhxeWlYY1VBUGE5U3psMFF4dDVmc0lDMkZPZkZPb2lnV19xY3ZnSnBCMWlkc3Z3Q2lvb0luRXJoY0Z6Q3QwUXp5YVB2bEp6aUt1eEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-035",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Reports $51.0 Million in Q3 Sales and Higher Earnings - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaG5neTE2VlpNbjBTQll5Qnc1R3ZNdHh4cEFYT0JCekw4ZmdKbmF3RE9iNjRLclk3ZF9uaGJNMWY2cTI2cnNDZHhQV09TQjlqZWZKdWJSRkZxWGVfZFJOUngwWjNlVno3cV8zS2JvZn",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaG5neTE2VlpNbjBTQll5Qnc1R3ZNdHh4cEFYT0JCekw4ZmdKbmF3RE9iNjRLclk3ZF9uaGJNMWY2cTI2cnNDZHhQV09TQjlqZWZKdWJSRkZxWGVfZFJOUngwWjNlVno3cV8zS2JvZnhOcWFtZnpwWldOY0pnaGdSbGNGYzAxazd5cTZheTRDc0tiNWlsWTRTajZSaDdGYzBTU0F1WmN4YzlRV19KdUJwMHRMdk1QMEVRZ284eHJ3QXpwTHNJempVN3NB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-036",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 8K Intrepid Potash Inc For: 3 November By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3h0ODJJQTlvR1JqQkx5LVg2b0xnSFUzRk1vcURPZ24zVHZTNTVmeHM3Q0tkMkI4Wk9WY1N0ekg5ZldmUm52OUpPaTczd25PSDNrZ3VDenJVdzhELTdvQkEyQXRkSHhoX1IzczVSZT",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3h0ODJJQTlvR1JqQkx5LVg2b0xnSFUzRk1vcURPZ24zVHZTNTVmeHM3Q0tkMkI4Wk9WY1N0ekg5ZldmUm52OUpPaTczd25PSDNrZ3VDenJVdzhELTdvQkEyQXRkSHhoX1IzczVSZTE1ekNCV24zNk9yT0V6RF81NVJkeUpRdVMxbW56LWo3U0pZdjFJMFl2UjM0RW9mZE42NWRPNGV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intrepid-2026-11-03-037",
+    "date": "2026-11-03",
+    "companies": [
+      "intrepid"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intrepid Potash Q3 net income rises on higher Trio production - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGR2a043dnBlQkFHdUltZVRuRGszVUJMNHE3azJOREJOVF9KZHhMN0J6Ulo4RmIyQ2JPVmdhTGhJQXZSLWlGbVVjNFhwUnhIWTNFMXNxcng0Uk5NTDItQjM0NjkwQ2JJTnU4VE45US",
+    "sources": [
+      {
+        "name": "intrepid",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGR2a043dnBlQkFHdUltZVRuRGszVUJMNHE3azJOREJOVF9KZHhMN0J6Ulo4RmIyQ2JPVmdhTGhJQXZSLWlGbVVjNFhwUnhIWTNFMXNxcng0Uk5NTDItQjM0NjkwQ2JJTnU4VE45US12RVhUd2p6a0RIUElvbkZiXzBsZ2RoZGQzcER3WkFqUjVlaVBuMnl1dENMREt2eEZWYXZZQXNkQjdfUUJJSW9qMTJhRWE0TjZkZ052QXBCTW5BeVFOcUpfcURNVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-03-038",
+    "date": "2026-11-03",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "A Look at Archer-Daniels-Midland Co (ADM) After 6.8% Decline -- GF Value $61.83 vs Price $70.60 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObmFOdjA1T251cnJ1S09MZzloTnRlb05ZZUE0Q3JONVh2SE5VcndDa3pGVzlkTTZYVWNVbFlhd2FTMlZfS3JXQlk3NnV5OXcxVHpiYm16UmRmWjdwTGNiUFFReFVWa0l6TVNOUVJ4WX",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObmFOdjA1T251cnJ1S09MZzloTnRlb05ZZUE0Q3JONVh2SE5VcndDa3pGVzlkTTZYVWNVbFlhd2FTMlZfS3JXQlk3NnV5OXcxVHpiYm16UmRmWjdwTGNiUFFReFVWa0l6TVNOUVJ4WXRObURVQnpCWDFJa0xUeUZYTnZ0U1ZLQWFYdVR1cFctdXI2NnJyN3g3a1ZtMEdTM2xtVDlOSW9wV1Uyc3NQSEo2b1RsSXpjWF8zSG11bV9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-039",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Midland Q3 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlhFdVRDbGJGcG9vYzRMTHd0X1R1TG9Uc3c5U19vV2pXb0RRdWFqZzljWVkzeXJFOWlUbXRGZElkdU1KYi0xVUNhTjdQR3ZDWENmOC1pNWxhUDVURjIwcnl5NjRGcExaemg3NWEtR0",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlhFdVRDbGJGcG9vYzRMTHd0X1R1TG9Uc3c5U19vV2pXb0RRdWFqZzljWVkzeXJFOWlUbXRGZElkdU1KYi0xVUNhTjdQR3ZDWENmOC1pNWxhUDVURjIwcnl5NjRGcExaemg3NWEtR0NydDZ1RF8yODdyaW9LWWw3Q1JlbUZYcnZPTVVZcWJTZERlMllLSUlDTmhlWXRLVEhv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-03-040",
+    "date": "2026-11-03",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Co (ADM) (Q3 2026) Earnings Call Highlights: Third EPS Guidance Raise ... - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQU09xZjN6N2xjaXI2bXhkNzJCWmxjQW55Z3VOcFJocXBPc0d5R1BxQXI0YjN4VTJ0d3hwWWJkcXA2Ulo0MURPaFlpUjMxT3g5QjZmSzVnOGlkd1FIY0FWRkhKQV9FNW1JNHZmWTQyZm",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU09xZjN6N2xjaXI2bXhkNzJCWmxjQW55Z3VOcFJocXBPc0d5R1BxQXI0YjN4VTJ0d3hwWWJkcXA2Ulo0MURPaFlpUjMxT3g5QjZmSzVnOGlkd1FIY0FWRkhKQV9FNW1JNHZmWTQyZmRBX0hZell0SmN1V1ZGMkJDODhEQ3k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-03-041",
+    "date": "2026-11-03",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Company Q3 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTN5VkxrX3k3WmZSSkxvWWZiYXd6QTAxUE1zSzJYTDhVWWlrOEhPNDloNDhPMm0zY3VHX0RSOXN1anpNWld1VTdlRFdJOFpCeWdaV0xidFptaXBTMWh5MGhPS2M1N25JSHBuTzVCUD",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTN5VkxrX3k3WmZSSkxvWWZiYXd6QTAxUE1zSzJYTDhVWWlrOEhPNDloNDhPMm0zY3VHX0RSOXN1anpNWld1VTdlRFdJOFpCeWdaV0xidFptaXBTMWh5MGhPS2M1N25JSHBuTzVCUDY5MUduRHA1TUtvd3RzNGllWTBObThWVm1faGZYYVl5cWdyc2FDMW5xbHR3MEcwV2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-042",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Archer Daniels Q3 Earnings Beat on Biofuel Strength, Revenues Miss - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORWJfa3Z2c21jQkZ1Q3ZlWDh2MW9LWUxkdU1sRzYxSnBYRFhzVFVyYWxXYWdqdktRZGJEZXdRVzFCQ19fWUl1WFpTUHhibVhKQk1qVjMzSDRZNWFwRDRMaGFrRmExMmJaclhqRzVOek",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWJfa3Z2c21jQkZ1Q3ZlWDh2MW9LWUxkdU1sRzYxSnBYRFhzVFVyYWxXYWdqdktRZGJEZXdRVzFCQ19fWUl1WFpTUHhibVhKQk1qVjMzSDRZNWFwRDRMaGFrRmExMmJaclhqRzVOekE3a29OcHV0XzZiQWFzeW9NRlZvbUhIbEtDLUNpX2FsS1I2cVl0VHhrbm9iSHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-043",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Traders retain bearish tone Tuesday",
+    "summary": "Afternoon Market Recap: Corn, soybeans and winter wheat prices saw variable losses today.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
         "type": "rss"
       }
     ]

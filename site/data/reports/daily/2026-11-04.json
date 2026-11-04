@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T15:51:32.033652Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MOS Q3 Earnings Miss Estimates on Higher Costs, Lower Volumes - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3NGME40NlpzeUhlVXdWeVprd292ekR5Ri1jQ2RRMFFIZnIyaU55ckZERkZIMl9Nbm4wUlllU3N0SHVKdHZ6NGsyNUJlcUlaaDJrTUhkUER4V2VmUlljMDlWYlZLODlQTXRWMzBtMGlDM0tQSmxlNTRTQlZnMTJLU3FnWEE5QzdybkVuWV9Pa241Qm1OOTZhVGlpUWdRdS1fU3Q0YzM2V2xyZmVYUDFlZ3hlakVXWkk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intrepid-2026-11-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Did Intrepid Potash (NYSE:IPI) Lift Trio Guidance After a 33% Margin Gain? - kalkine.ca",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3hNUmwtN25veUtqaUJvbXZhNlJxRmtEOFdGc0RxRW1lTlVNeVVDMTlOSjNXNk94WFJ3aTR0UDAzNHBKazltWXJRZFQ3RjR4NXZMb1FuT2ZFUnhPS1N4VGZMY2VtUkduUjB3bkdmUEVfaGhGTTJDRG9pNmNnZEN3d2Y4NG81bVBTSlVWSXRrcU9GV25heFN0UXJ0OXQzTUwya0RfVjYwQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "adm-2026-11-04-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Archer-Daniels-Midland (ADM) Undervalued Following Strong Q3 Earnings And Higher Guidance? - Yahoo Finance",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFdyaGJRM1pHbm1aVTNtSFFvc3FhWV9fTnhaYkw4MXZCc3JPYXpLNExhSkh2MnJUNkpCbm5GWm1wN3loX3pHejJrNkRXVlNNbFdfOWg2LVdkX0x2MmYxWEozd0RZX0pGNWN0MlJWQjNpUEU4cE9IdmxTcXVQNFRXR2tPZWJkWlVPREFYMXVQWXN4bHpQZG5DdXplWWRiLXdLNzEtTkJn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bunge-2026-11-04-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bunge reports stronger Q3 2026 earnings driven by processing margins - Milling Middle East & Africa",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVB4TFFYRjE3WURocG05TUQwZ096N2Z6dlI0aGhaQ3pqUThTSzV5Z1JMXzVPWURTalp5ZmQ4c1JRU1pBMjQ3aVJ3TUg3ZFVUeWlXcjdZNmVzTjFjX2prei1wNnF0MG1BS3E1dWNielZ4VDhQMlFHZnk4SVBtMXlmN2hQUGdhY0tldkxwYkJsWVkyQklFY2RR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mosaic-2026-11-04-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "How Can SSR Mining (NASDAQ:SSRM) Carry USD 1.55 Billion in Cash While Mosaic (NYSE:MOS), Intrepid Potash (NYSE:IPI) and Ramaco Resources (NASDAQ:METC) Post Weaker Quarters? - kalkine.ca",
+      "companies": [
+        "mosaic",
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSDFHMFZncFdNelhySGt0S1NsTU81enZTcXdtYVFJYjNuSXAtSVB3S0RJSS1JY1pIY2MxLU1mMXFNNVVObTJ6cnhNT0JSR1VDbEkwRHgwQUFWVDZZcUlMX2RHd19VWUpSdTh5UGxaTnpmR1BDZ3Jjd3hwOEI1b3BVTGpucVd5QXJNa3BwVkxra0YtSkpGTWtSR3M3NkdHUWtVTndxaUFOaTZyVzhLTlFFUTBrNHd1SkdyWjhuRVJSZlhmSER2eFlZdENrZlRRS2FJTUNjVE9lSmFTU3EtbUtlQWZJTW12UVZZTWZ4dEVWby11R2NaQ3BLVDlfTnN0aEkzUEh0Xy1JR1oxUmhQQVNXX3ozZllTSHM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "adm",
+        "count": 3
+      },
+      {
+        "id": "intrepid",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "planting_season",
+        "count": 4
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 124,
+    "too_old": 154,
+    "gate1_blocked": 4,
+    "gate2_blocked": 11,
+    "passed": 49,
+    "pass_rate": "22.5%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Form 4 The Mosaic Company For: 4 November By Investing.com - Investing.com UK",
+      "Form 8K The Mosaic Company For: 3 November By Investing.com - Investing.com Canada",
+      "Corteva Agriscience Grant Helps Provide More Meals For Students - Seehafer News",
+      "From “Reading” Biological Material to Infringement: Takeaways from Corteva v. Inari - JD Supra",
+      "Why FMC Corporation Rallied Today - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為ADM、Intrepid、Nutrien Ltd相關動態：「MOS Q3 Earnings Miss Estimates on Higher Costs, Lower Vol...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "MOS Q3 Earnings Miss Estimates on Higher Costs, Lower Volumes - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Did Intrepid Potash (NYSE:IPI) Lift Trio Guidance After a 33% Margin Gain...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 342,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 49,
+  "gate2_samples": [
+    "Form 4 The Mosaic Company For: 4 November By Investing.com - Investing.com UK",
+    "Form 8K The Mosaic Company For: 3 November By Investing.com - Investing.com Canada",
+    "Corteva Agriscience Grant Helps Provide More Meals For Students - Seehafer News",
+    "From “Reading” Biological Material to Infringement: Takeaways from Corteva v. Inari - JD Supra",
+    "Why FMC Corporation Rallied Today - Yahoo Finance"
+  ]
+}
