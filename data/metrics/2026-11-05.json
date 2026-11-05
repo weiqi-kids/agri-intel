@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-05",
+  "total_events": 29,
+  "by_company": {
+    "nutrien": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "mosaic": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "icl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sqm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "intrepid": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "cf_industries": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "adm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": 0.0
+    },
+    "planting_season": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "trade_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

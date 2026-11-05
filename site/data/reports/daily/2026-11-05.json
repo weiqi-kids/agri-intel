@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:54:23.765896Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-11-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nutrien earnings slide 39% in third quarter - Rich Picks Daily",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00ZXh6bE9mUElZNHJYMnR4aEVHUmpuQWU0aEZQRGZTQTN4M0tMd0NnbGZQMlFMQ01jdlJsbmRyYmZldms0YmhjRkhaVGFTeWxVMHgwWWI3V2lsOVJ5UXdzek5EZUQzZmhuLUNfSkQ1clV2WTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nutrien-2026-11-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nutrien Rethinks Phosphate After A Profit Miss - Finimize",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbk05d0ZjZ3ZBNlhVWnBvNUQ2cndTdVcwb241RmE5TW9nZ0Fzbi1VUXZiaTdqS2Z6N1R2ZjFVUm53b3VEVk9pUEtkdkRzTm94SkthT1ItY0p5Wk93Y1JDdjNYd1pERzhEcW5BZ2FlM1lTVGJjd0FVUFlNNVpLV0JVag?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sqm-2026-11-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Scotiabank Has Positive Outlook for SQM FY2026 Earnings - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0FwMVFwOGlNYnZMSkJ6bk1FbWxBOFVTbVNvM0ZDVlJHR3FySWVVSTR2akJ5cnNZY2huaDN3TGJhb0VfQXVMYjRiMGdmSXRhZzZoa09yZlFSS1lUcDdaYTRsY1k0WGpYdmRyeFRUVU5wdUljcUxyOUFtb3lvQ05lU05FNzFSTTJ3M21LSFBDVFdWTHUtS3V3WmVvaTZucDBRbmhOLTRHZTlsR0xLNVNWT1VVbWhRb056Y3Fn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intrepid-2026-11-05-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Intrepid Potash Inc (IPI) (Q3 2026) Earnings Call Highlights: TRIO Output Jumps 19%, Net Income ... - Yahoo Finance UK",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZnRjY3hNRm84ZGxJa2YtTlY3SFBnS1lJVVQ4ZjIxdGdXaVFRZnA0d1VDRFlncDV2Nm5zYXB6ZmZLTTVPaUlFNk12dU9FeTRsUURnZW52MjBuR3V5MnFicUNxNnZSVXFHUFVpdFdfVFZVTjZwaGg1N2Q2alQtYnF2Xw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-11-05-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nitrogen supplies remain tight amid ongoing Middle East tensions, CF Industries reports in Q3 2026 earnings - www.agnavigator.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHZXVlM2NFVQblJrdlh1b2V1VmFaeV9vcHI5T3lvdWJHVGpMYzNiVHdLUk9XaEhqWUFZZ1AtR1RrWVdoU05tRzdvYW9ONGlrTlF2X3I1RjFrd0p6bWU5OHBMd2s0NXU1S2JySldrbHdLdmo1YzFNaWNuLTVrOUxraGE1T1pRcFJhZHpsU0g4cUs2QzJJblY5UHh2dHpxdjBKWmZLVG0zVzRZbFVN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 5
+      },
+      {
+        "id": "intrepid",
+        "count": 3
+      },
+      {
+        "id": "nutrien",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 343,
+    "dup_title": 128,
+    "too_old": 147,
+    "gate1_blocked": 4,
+    "gate2_blocked": 9,
+    "passed": 55,
+    "pass_rate": "25.6%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Form 8K The Mosaic Company For: 3 November By Investing.com - Investing.com Canada",
+      "Form 4 The Mosaic Company For: 4 November By Investing.com - Investing.com UK",
+      "Yara International : Consensus Estimates - 5 November 2026 - www.marketscreener.com",
+      "Why FMC Corporation Rallied Today - The Motley Fool",
+      "Why FMC Corporation Rallied Today - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為CF、Intrepid、Nutrien Ltd相關動態：「Nutrien earnings slide 39% in third quarter - Rich Picks ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nutrien earnings slide 39% in third quarter - Rich Picks Daily（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nutrien Rethinks Phosphate After A Profit Miss - Finimize（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

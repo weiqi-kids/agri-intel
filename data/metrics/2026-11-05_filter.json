@@ -1,0 +1,16 @@
+{
+  "total_raw": 343,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 4,
+  "gate2_fail": 9,
+  "passed": 55,
+  "gate2_samples": [
+    "Form 8K The Mosaic Company For: 3 November By Investing.com - Investing.com Canada",
+    "Form 4 The Mosaic Company For: 4 November By Investing.com - Investing.com UK",
+    "Yara International : Consensus Estimates - 5 November 2026 - www.marketscreener.com",
+    "Why FMC Corporation Rallied Today - The Motley Fool",
+    "Why FMC Corporation Rallied Today - Yahoo Finance"
+  ]
+}
