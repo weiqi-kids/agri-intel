@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:28:41.597431Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nutrien-2026-11-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings Miss Could Alter The Investment Case For Nutrien Stock (TSX:NTR) - Simply Wall St",
+      "companies": [
+        "nutrien"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX3JzVkpqQWd4ZlFVWDZhZkg4MDFpMEFFVVNhX2Z6WTNhS0pwR3lVUmJwM04tTzFoZGVWamN3NEpwbzAxZE9IeVpraUJvRzN2UEJrcE5IZERDN05PQl9QYTRVaDFiQUxhYngtRXp3eko0SjNDUldVYmt4WnBUV0RnaUFZNC00SnBOcDJCc1JrdVJRTGdkLW1SR29aVVhkUFdQWDRzNEdvMjRyYlFKdlhfZnNjSGhhY1RVd0I1Q0Z2WV9ibC1UY3FKbFdB0gHPAUFVX3lxTE5nOXVJNFJDT3Y4MmVKMFREN0J1RjJvWlBLOHJDTWl0MlV5NzJzLTVOYkg3TDdJUlNkNmFScUlWRldpWERwWjJGaHZVZzFGQ0EyT1dWaGdUZkpWanhDc1hzZDB4c0szOGpTcVJXZEZocXFNaHlvc0t0WkZFRU50SmVzeXZlcUFNUjMxMlZURWtmZHBkTkJlQVBWS2RYcmtPUFZiRFZUc3Z6dlNwY3BYaUg5UVU1N3BmU0tjQUttV2lwRE85aG1MUmhVRk5SR3JKOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-06-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Will soybean prices recover in November after October’s sell-off?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/soybean/will-soybean-prices-recover-in-november-after-october-s-sell-off-"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-06-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why corn prices could rally: Mexico's record buy signals market bottom",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/why-corn-prices-could-rally-mexico-s-record-buy-signals-market-bottom"
+    },
+    {
+      "rank": 4,
+      "event_id": "sqm-2026-11-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Sociedad Química y Minera De Chile Stock's Blowout Quarter Means For Shareholders - Simply Wall St",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ25BZUVjS1c2TFUwSHo0YlpFOU5VeG5sX0NoemlsQ3lRRjJZNXFncVdRS1hQXzdfa0treWk5MXZPejhZcXdmdHhwN2VlRFhleWo5VDNCaUUyNTlUYjZtN3RuVmNNU2E4Z01sekFBVTdHQXFmclpMTC1iM0pVSWl0WGczZ0JDQk95eGswM2N6UnNRQTVkWEVWa3BTQzBkZU90U0E3djFaNTByQWxHbVpYMDk2R3lZX2lCMWNvUEVKZWh4RmRFdHBfejh4QmdQMVdLSUItTDhvdVBFWk1oLWFtU0wyOGJfUdIB6wFBVV95cUxOeUQwM2thd2lESnBaSEFFRHlRQXlfSUpteHZRT3lNUEJDN0MwTWFlWUVNWG5WQ1A4a0tVaGhoWjh4X1k3WnlsVUFqcjhLaHlwVGNFMlVRZ2YybTRjdDJKMDQ3OFFFTGJYNjZPWGt2c3ZaQ24wdzNELWFXcGtxeWR4ejV1YVJJbkZkSXJzS3F3elV6ZkVjNUdXYW1JOFRKdXV6NjNrRjBrQVpQVlVPZWFQSXBaV3h0ZG9JWEdvZnJybTJkVlJuUlpIOGNSQy1IYTRLVDhPYTlpVVlKYXhTczRuV3Iya1BFdTEwMjdv?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-11-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Morgan Stanley, Chubb and CF Industries: CNBC’s ‘Final Trades’ - Benzinga",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjdYdGE3cERvLUtEVm1EV2xzY20ybFExdlVCbzBTRkJ6UkVZSUFYQ1pLMVcxSVJJZ0tIRDJlcHpWeWhDT09aaWZNOWhTajdGdXJvdmg0VlpZVWplNVl0andKU0hvMjlkaUdDaUFVeG95Z2FIZy1VcWJyVXVXV2Fwa1R3Tzg0LXhxSE1JV2Nrb2ctN0h6N19USmk5WFh0S3RyQ0dHVlVRTXBlTmFfWlhmRV9zblN6RWRo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "nutrien",
+        "count": 1
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "planting_season",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "crop_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 346,
+    "dup_title": 135,
+    "too_old": 148,
+    "gate1_blocked": 7,
+    "gate2_blocked": 8,
+    "passed": 48,
+    "pass_rate": "22.7%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Nutrien Keeps Its Aurora Asset And Bets On Tight Supply - Finimize",
+      "Form 8K The Mosaic Company For: 3 November By Investing.com - Investing.com Canada",
+      "Sociedad Quimica y Minera (NYSE:SQM) Upgraded at JPMorgan Chase & Co. - MarketBeat",
+      "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of FMC Corporation - F",
+      "Why FMC Corporation Rallied Today - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為CF、ADM、Nutrien Ltd相關動態：「Earnings Miss Could Alter The Investment Case For Nutrien...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Earnings Miss Could Alter The Investment Case For Nutrien Stock (TSX:NTR) - S...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Will soybean prices recover in November after October’s sell-off?（農作物價格、種植季節、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
