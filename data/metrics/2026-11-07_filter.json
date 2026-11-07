@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 6,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "Nutrien Keeps Its Aurora Asset And Bets On Tight Supply - Finimize",
+    "Sociedad Quimica y Minera (NYSE:SQM) Upgraded at JPMorgan Chase & Co. - MarketBeat",
+    "Our main shareholders - Yara",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of FMC Corporation - F",
+    "Upgrading Archer-Daniels-Midland To Strong Buy After Q3 On Potential Catalysts (NYSE:ADM) - Seeking "
+  ]
+}
