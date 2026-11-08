@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T14:30:31.185612+00:00",
+  "updated_at": "2026-11-08T14:38:43.800674+00:00",
   "companies": {
     "nutrien": {
       "name": "Nutrien",
@@ -413,19 +413,6 @@
           "shares": 1314,
           "pct_held": 0.0,
           "value": 526914
-        }
-      ]
-    },
-    "oci": {
-      "name": "OCI N.V.",
-      "short_name": "OCI",
-      "ticker": "OCI.AS",
-      "holders": [
-        {
-          "holder": "Pacer Advisors, Inc.",
-          "shares": 488,
-          "pct_held": 0.0,
-          "value": 1995
         }
       ]
     },

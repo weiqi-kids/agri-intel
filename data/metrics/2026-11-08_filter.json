@@ -1,0 +1,14 @@
+{
+  "total_raw": 345,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 10,
+  "gate2_samples": [
+    "Form 8K The Mosaic Company For: 3 November By Investing.com - Investing.com Canada",
+    "Sociedad Quimica y Minera (NYSE:SQM) Upgraded at JPMorgan Chase & Co. - MarketBeat",
+    "Upgrading Archer-Daniels-Midland To Strong Buy After Q3 On Potential Catalysts (NYSE:ADM) - Seeking "
+  ]
+}
