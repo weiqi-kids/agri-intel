@@ -1,0 +1,13 @@
+{
+  "total_raw": 345,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 6,
+  "gate2_fail": 2,
+  "passed": 40,
+  "gate2_samples": [
+    "Nutrien Keeps Its Aurora Asset And Bets On Tight Supply - Finimize",
+    "Upgrading Archer-Daniels-Midland To Strong Buy After Q3 On Potential Catalysts (NYSE:ADM) - Seeking "
+  ]
+}
