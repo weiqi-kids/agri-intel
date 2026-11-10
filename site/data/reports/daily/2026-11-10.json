@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:55:44.050126Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-11-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sociedad Quimica y Minera (SQM) Expected to Announce Earnings on Tuesday - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ0FCUXNQVWFXREdweEhFNUpsanIweE44aDF5S3RoN21lRlJzanJ5Ym4yQjJ1ZDFCYnU2UDE1Qms2TENGeVFWejNkeHlWVzRYTHhtWHhYaVNxX2xjdlYzTUpzb3dFeFBraU00YnhpUGF4VWpHQk4zZ29abDVqTHJSTXhicUMwVU5HTHZ4WWxEZEpuaFhfbjFXaXhQOVlfQUpFYjlqZDVoc0VLclpVSUtGYWNYR2pObkEtdTRoZ0JMbXNURzJUUmpJTG5IaUVVUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bunge-2026-11-10-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors May Respond To Bunge Global Stock Stronger Quarterly Earnings - Simply Wall St",
+      "companies": [
+        "bunge"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkJuLVFjREdJNllVS09kSDRWeWJlNGhyeHV3cEhyck02SG1rWDI1S0NROF8xRERBUnc0NUtnS0pRTFdCSWl6Y1ZTTDdRekFqZjcwTXhEWXVZQ045N00tb3d2T1RjWXh6NlNWUHVfWlQyaGFGcDQ4YU1uV2U0MmZTU3RzMFJ3LW1WVHFXQTBXNHNWNk5Tc2V4OGsya0dyc1ZJRDRJUURUWGVBWlh0Vk5qVlRGcGhVc0Z0UTc4ZUVrRjRMSzlwT3dISktsbzJaOW5naDdYVHlwSdIB3AFBVV95cUxPYjhaTG8zX2MwM2J5X3hWcUlMS0FLV05xMmVuOGdLc1Y0anNjblgxeHdyUlV1RU5UQUltMVJ2eUYyWnlwQXJhRnFoUlkxUzFjVVBKTG8wX0ZMUmhKdGh6Um9ENkNOcTRaY2VkeVpQdlloREZMUWxZUjVVVDFHanZkWlZGcHZHNHhOaHl2ZEZza0g0Nlk1aE5DQ3ZiOWZXYVVfdkNYUFRVbDh0QUlheDBpazFrejY0NndOWnNIRVR1dzQ0QkVHQ2YxdG5OVHRlc1Bmamk5VU96YXk5MlJT?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cnhi-2026-11-10-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial NV (CNH) Q3 2026 Earnings Call Highlights: Construction JV With Kobelco, Margin ... - Yahoo Finance",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFZjUUVhWDk3OE9acGZ2QmhxZFdfc1hwOUNmNGJzdWVQUVRfRjFkaW1QdUt5T3Q0NHYxQTJ0NU9QUTg2UDgxNTdxNC1IVGRReFRwTXBrLS14VnpVeU5ySXNmNEt5U25xTmVZU0JqaS1LNTNyeHA2NHRmNUtIZFlUMDZaemd4eEdUWjFrNlpFdGpBRWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-11-10-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial NV (CNH) Q3 2026 Earnings Call Highlights: Constr - GuruFocus",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOVFkwNXhsZ1AtbThkZ25hbDU3R1UwVDd2NmxRMVk5NkM2aERCbXg3OFd2cDNrS2FYVmJSdUMyWmN1NDRDd1Q0ZlItUjR4Sl9EcndVdi15dXYyalhGT2VqNlAtMnhGaXkyQzQ3YXFMcFM3STdhcXI3dUdBdWVTazRrWXZaZzM3U2lSZlNLM2QtMkJIdkVzbWFUQlFyMmg3S1YwaktQbDZXeFZwU1p0YW9vZnprYXJDcU9ZOU5LeUlycDhJbElxVldYMGhMWjlWY2J2NndkWWRBRWVhOXZEcUlWY0k3NHIxTTk2WFZuTkNaTkFMNG1ZUDVnbTk1b1VWa1F5TmpMcUJZMFZkeUF4bllfUzVpZmJrQ3BPZ3Z6eWNBQ181NGJNUWlBWnhSWjZfY3JUaHlGMERwb0NMZ25jNlJVbGpIREFTWGp3cklpQWNQQk42ckF6ZmMwV3ZhWjh2RFF6Sjh2S21IRFVZQlZaUEM1T0Z6d3puVzN2Q0ZWTm01MFFPZUpuV252SUxR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnhi-2026-11-10-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Raymond James raises CNH Industrial stock price target on North America outlook - Investing.com",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVRiMndCeXJVQUxvaU0xMU1ncVdWRTNJUWd1YTdyZWxHTlozZ0NsSmoyX05GODY3QmlUTEFUc0I4Vjg4a2FKQkpES3E4dnlaMC00YXNKcTFFTnZxZUxSbU9Xd3BzaEM0TUV3UUpGQTQyVExLSUF6Y25ObG5NTGZpOUlBNExEWGFzejdoVzA4YUt0aEFqWll6QWJlYUdpeDhYMUNWUkozMXdYR01hZHJrVEJVdVFFbGNyRlVMUnhXQjlQRzZwRE5oM0xySVE4ekFQb1ViWFl3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 35,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 10
+      },
+      {
+        "id": "bunge",
+        "count": 5
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 347,
+    "dup_title": 146,
+    "too_old": 141,
+    "gate1_blocked": 7,
+    "gate2_blocked": 5,
+    "passed": 48,
+    "pass_rate": "23.9%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Nutrien Keeps Its Aurora Asset And Bets On Tight Supply - Finimize",
+      "Sociedad Quimica y Minera (NYSE:SQM) Upgraded at JPMorgan Chase & Co. - MarketBeat",
+      "RBC Sees CF Industries Getting Stronger Into 2027 - Finimize",
+      "Upgrading Archer-Daniels-Midland To Strong Buy After Q3 On Potential Catalysts (NYSE:ADM) - Seeking ",
+      "Bunge Global SA (BG) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為CNH、Bunge、ADM相關動態：「Sociedad Quimica y Minera (SQM) Expected to Announce Earn...」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sociedad Quimica y Minera (SQM) Expected to Announce Earnings on Tuesday - Ma...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Investors May Respond To Bunge Global Stock Stronger Quarterly Earnings -...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

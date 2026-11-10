@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 7,
+  "gate2_fail": 5,
+  "passed": 48,
+  "gate2_samples": [
+    "Nutrien Keeps Its Aurora Asset And Bets On Tight Supply - Finimize",
+    "Sociedad Quimica y Minera (NYSE:SQM) Upgraded at JPMorgan Chase & Co. - MarketBeat",
+    "RBC Sees CF Industries Getting Stronger Into 2027 - Finimize",
+    "Upgrading Archer-Daniels-Midland To Strong Buy After Q3 On Potential Catalysts (NYSE:ADM) - Seeking ",
+    "Bunge Global SA (BG) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}

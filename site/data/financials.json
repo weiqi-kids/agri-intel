@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:57:00.355230Z",
+  "updated_at": "2026-11-10T15:55:40.006846Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "CF Industries",
       "ticker": "CF",
       "currency": "USD",
-      "ar": 718000000,
-      "ar_prev": 726000000,
-      "ar_qoq": "-1%",
+      "ar": 642000000,
+      "ar_prev": 718000000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 415000000,
-      "inv_prev": 371000000,
-      "inv_qoq": "+12%",
+      "inventory": 416000000,
+      "inv_prev": 415000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "corteva",
@@ -177,17 +177,17 @@
       "name": "久保田",
       "ticker": "6326.T",
       "currency": "JPY",
-      "ar": 1106700000000,
-      "ar_prev": 1094355000000,
-      "ar_qoq": "+1%",
+      "ar": 1054464000000,
+      "ar_prev": 1106700000000,
+      "ar_qoq": "-5%",
       "ar_period": "QoQ",
-      "inventory": 718916000000,
-      "inv_prev": 745149000000,
-      "inv_qoq": "-4%",
+      "inventory": 722067000000,
+      "inv_prev": 718916000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "mosaic",
