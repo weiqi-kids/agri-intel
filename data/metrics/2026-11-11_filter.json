@@ -1,0 +1,15 @@
+{
+  "total_raw": 345,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 6,
+  "gate2_fail": 4,
+  "passed": 33,
+  "gate2_samples": [
+    "Nutrien Keeps Its Aurora Asset And Bets On Tight Supply - Finimize",
+    "Sociedad Quimica y Minera (NYSE:SQM) Upgraded at JPMorgan Chase & Co. - MarketBeat",
+    "RBC Sees CF Industries Getting Stronger Into 2027 - Finimize",
+    "Decatur's Clubhouse at Scovill Acres gains major support from ADM - Herald-Review.com"
+  ]
+}

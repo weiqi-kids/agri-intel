@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:55:40.006846Z",
+  "updated_at": "2026-11-11T15:42:20.049366Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -160,17 +160,17 @@
       "name": "鉀鹽",
       "ticker": "SDF.DE",
       "currency": "EUR",
-      "ar": 830200000,
-      "ar_prev": 816000000,
-      "ar_qoq": "+2%",
+      "ar": 804000000,
+      "ar_prev": 830200000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 736100000,
-      "inv_prev": 734000000,
-      "inv_qoq": "+0%",
+      "inventory": 725200000,
+      "inv_prev": 736100000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "kubota",

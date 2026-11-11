@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:42:24.146357Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "taifer-2026-11-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan Fertilizer stock: October revenue slips 8.40% - ad-hoc-news.de",
+      "companies": [
+        "taifer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdW9adEF0LTNhYkdma2tLSi00M3N0QngwLTFQMFVwaFNCMTllQjZtbGU5N3E3Mk91aVJ0VUxfYmlESFdaN3FtUFF1aXlIdW9WV09Hb3NnTWtvRkEzcmgtSElabi10VldUb3NIZEF3NERnTVFVejFiNzZrYW51TVVPY3VKRmhMdzdBZG5wUDR4b19pdEN5LUd3MlgxSUs5Y1ZwWWxIcXNNTnlvcHV3U0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adm-2026-11-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Archer-Daniels (NYSE:ADM) Lifting Guidance on Oilseeds? - Kalkine Media",
+      "companies": [
+        "adm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazUxSEdxTXJBQUdSNXJoOXBVV01GZFAzTHkxVzU3dktZMVZtS284bjhTek51bXhJY1M1OElKOHFXSzU1UWt2MnpueWdwcmNUUXN5THhxMWI3Zl9aNTZ1b3h1LUFRRkpvaVdtOWpYUThUME1IdWpveWZJOGxkV1VVMkg5T2Jzd3FQYW04UEo2N2V5bkF3blMxc2NHSi1EWWs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-11-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Go for profit, not yield",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/crops/go-for-profit-not-yield"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-11-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Weather whiplash, tight margins test Ohio’s farm economy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/weather-whiplash-tight-margins-test-ohio-s-farm-economy"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-11-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The One Reason To Invest In CF Industries Stock - Trefis",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHBPc244dDBraWJZNjVBbjhZZ2tpUkVfLUd4ZW9rT3BiY0hQdG8ydU10YmdXSHZ5Nk1nNjVzR2JCZ2VSNzBBd3pvbEJ6dXlWZVVONFU5SkZoR1F2emdjdEV2Mk03RzUzenZERmZGSkxzek1VNzNldjI5cF9PUThnaWdqVUVVZVBZNWtVbERZYlJGdll6RndUbldHTGNMUWNwclVua3FGRG5Qdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "adm",
+        "count": 2
+      },
+      {
+        "id": "bunge",
+        "count": 2
+      },
+      {
+        "id": "taifer",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 345,
+    "dup_title": 158,
+    "too_old": 144,
+    "gate1_blocked": 6,
+    "gate2_blocked": 4,
+    "passed": 33,
+    "pass_rate": "17.6%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Nutrien Keeps Its Aurora Asset And Bets On Tight Supply - Finimize",
+      "Sociedad Quimica y Minera (NYSE:SQM) Upgraded at JPMorgan Chase & Co. - MarketBeat",
+      "RBC Sees CF Industries Getting Stronger Into 2027 - Finimize",
+      "Decatur's Clubhouse at Scovill Acres gains major support from ADM - Herald-Review.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為CF、ADM、Bunge相關動態：「Taiwan Fertilizer stock: October revenue slips 8.40% - ad...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan Fertilizer stock: October revenue slips 8.40% - ad-hoc-news.de（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Archer-Daniels (NYSE:ADM) Lifting Guidance on Oilseeds? - Kalkine Media（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
