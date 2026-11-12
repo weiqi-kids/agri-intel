@@ -1,5 +1,388 @@
 [
   {
+    "id": "unknown-2026-12-02-001",
+    "date": "2026-12-02",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How to move grain out of your bins",
+    "summary": "Join Farm Futures and leading analysts Jim McCormick, COO of AgMarket, and Nick Tsiolis, CEO of Farmer's Keeper, for a live webinar on post-harvest grain marketing.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/how-to-move-grain-out-of-your-bins",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nutrien-2026-11-12-001",
+    "date": "2026-11-12",
+    "companies": [
+      "nutrien"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nutrien moves closer to deal to export potash from Washington terminal - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZU4yN1pFWVBKMDVIc2JMZzR1dm5UZkxGajhwQVBFVVY3TjdjbWlSd2RTdVB4YnMzS1dCV2gxV0Q4eGExaGxjcko5dHkxdTdsWDVRcV9Ldnpwc3BISTc1Um1GazA5N3hlN3M1R1dHSX",
+    "sources": [
+      {
+        "name": "nutrien",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZU4yN1pFWVBKMDVIc2JMZzR1dm5UZkxGajhwQVBFVVY3TjdjbWlSd2RTdVB4YnMzS1dCV2gxV0Q4eGExaGxjcko5dHkxdTdsWDVRcV9Ldnpwc3BISTc1Um1GazA5N3hlN3M1R1dHSXQxQkR6M05ranFBV0lMZzZBYmllQXptOHV1cjE3YW0xQ0U2dzhlYi1OZXY1S1htUC1kQWtTakdLSkcxMnRlVjV3M010SlN2dEhmQ0NySGswWklYb0N0QXlr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cf_industries-2026-11-12-002",
+    "date": "2026-11-12",
+    "companies": [
+      "cf_industries"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KeyBanc Adjusts Price Target on CF Industries to $115 From $111 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlVzVE5DZ3RfcU1rQnFFalZHM01KZHhKaGhTOW9zU3RhckUxTzNtNUtEcDMtaTk1Nmlzei1VYlE4LUEyV21LZ01xNXQwV2ctbTd3dDJGeUk5d0dCOTRzSkgtSXR1OE0tS21yLTh0a0",
+    "sources": [
+      {
+        "name": "cf_industries",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlVzVE5DZ3RfcU1rQnFFalZHM01KZHhKaGhTOW9zU3RhckUxTzNtNUtEcDMtaTk1Nmlzei1VYlE4LUEyV21LZ01xNXQwV2ctbTd3dDJGeUk5d0dCOTRzSkgtSXR1OE0tS21yLTh0a01FV1lrUkV0Q0Z2dHJ4YlhmSE1rWWo2cUNtbDRNcXJvWVJyZzlfVWQ0THhFNDNWV2NreWt4aElsRXBteDdtQlk1MnRtSEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-003",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnhBdEtHaGptT0lUamJUa3dNdmo3MXR4aUE3ZHZFbjdIakNtWklHR2h6dUdIc2RBMEpiazNPVUhrSFRNd2xLWFFDVWZ2aXVRanZEZFNKRXBqUVZfZXBjT3lycjN6djZPS2VLTm5rdF",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnhBdEtHaGptT0lUamJUa3dNdmo3MXR4aUE3ZHZFbjdIakNtWklHR2h6dUdIc2RBMEpiazNPVUhrSFRNd2xLWFFDVWZ2aXVRanZEZFNKRXBqUVZfZXBjT3lycjN6djZPS2VLTm5rdFlDQkhHWERTc3o3TXkySEgzcnoyc3JHVklRZWN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-11-12-004",
+    "date": "2026-11-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Corteva shares slide after Brazil weakness prompts annual profit forecast cut - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmEwNUJzZ1ZHZnc5V3VQeXNJVlJfNGlON291dmNRRkx0TUZTNV9YUG9uT2pmNERmVkdFSEZ2Wk1mM0NqZmVTdmR3QnUyUHljMHBwNDhYN2xSYkNqdWc5ZjlBdHQ4OFh1OU10RXJIem",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmEwNUJzZ1ZHZnc5V3VQeXNJVlJfNGlON291dmNRRkx0TUZTNV9YUG9uT2pmNERmVkdFSEZ2Wk1mM0NqZmVTdmR3QnUyUHljMHBwNDhYN2xSYkNqdWc5ZjlBdHQ4OFh1OU10RXJIemEzTmNFdXE4dEJXTm5hQUQwNjFXVnFSckpQenVpVkxMdkVVd1YwYWNfZThiYmNnLXhXVkZ2STBrRzFicjNlMlFfalh0NjhvOVEzcWhCS0NMbjZuX0x1R1pR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-11-12-005",
+    "date": "2026-11-12",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Corteva shares slide after Brazil weakness prompts annual profit forecast cut - The Lufkin Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWkIyU1I5aGozN3FMaVhPWTZBRXBTQV90ekU4V0h5ZGZfSDBxNVRmU29ZMF9iMnI0OE11dU9TLXhNX1BCUzJqalFRUGoyVFZoNm1JRnd4LXRwRHZFS0ZRa0xIU2VZUXFXbFBsQWdEY1",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWkIyU1I5aGozN3FMaVhPWTZBRXBTQV90ekU4V0h5ZGZfSDBxNVRmU29ZMF9iMnI0OE11dU9TLXhNX1BCUzJqalFRUGoyVFZoNm1JRnd4LXRwRHZFS0ZRa0xIU2VZUXFXbFBsQWdEY1pJV1JhekFKVWdJYmRzRE01QXJybWR2aS1DVXBxWnF1U0Rzek5ZNE84NzMwNkxTeEJ5U292SXZScWF0enlpdTI4bnRsZktEWUp4eG9zbE42ZzBIZDVGQUM3YWMxUVp4RWVTdHp0SmkxbVhyd1VnR2Q0eGZxT1VWa2Q5ZzJUeDEycGNnRWlkN2ZjR01sZTlDRXZoeHRXcXYxWjM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-12-006",
+    "date": "2026-11-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnZoZ1l6Uk1NNXRjNHVVWFRsSlZTbkprdGk4UkNkRi04elRGeEZVa2tkcVFCSFI1NWFqUTNQYlZjRHVZTVRwdHhULTVWSWdrMUNzdDZibHpfRGlYV25Ya3FnZjdjYWlMNDFRMmN5RW",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnZoZ1l6Uk1NNXRjNHVVWFRsSlZTbkprdGk4UkNkRi04elRGeEZVa2tkcVFCSFI1NWFqUTNQYlZjRHVZTVRwdHhULTVWSWdrMUNzdDZibHpfRGlYV25Ya3FnZjdjYWlMNDFRMmN5RWNoWTFJRW52bXU0S0tDN1kza0h6OF9Gbi16LVVxN3gyZTlpU1BDc3htS1RjcHhZOWdRZkQ1QThxaXREQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-12-007",
+    "date": "2026-11-12",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are Stronger Earnings And Profit Guidance Altering The Investment Case For ADM Stock? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeWswc1RSR1RpMUh2NlpHb2hTekNSMlJxQXg4WnZSQlJuVUFQV1g2LUNCdnFNVFdmNks1Sm9XNFR0a3JHRU1XTHdrbzVVdkdSdm0yOEMyTHM4X2VpRHBkaUNUWmxrWFdBN1FxRW83V1",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeWswc1RSR1RpMUh2NlpHb2hTekNSMlJxQXg4WnZSQlJuVUFQV1g2LUNCdnFNVFdmNks1Sm9XNFR0a3JHRU1XTHdrbzVVdkdSdm0yOEMyTHM4X2VpRHBkaUNUWmxrWFdBN1FxRW83V1lKMnplQlFSZHlrejFJaEtNLVRVdjhCdXN1ZDROSjZaMG5QdzZodmpIcEZPY1ItSWZaUmtLRlAtcTA2Z3c4YV95aVQybTd5cmx4YnJvMGhlSFUyNGdrelk1Q2pMRWNpTlJtNW5mVjc0ZHotUUppSzBlV1UwaTJzZ9IB6wFBVV95cUxOd3VGZVBuWVlfVkxkQUVUaktxS0F6MDBUMEF4Wll3NHIwMTc1U1F1dEtxV2N5bGpNSnUwSGF0eXFlaGw5LTBtLWsxVGJTZWdTWlhraG9MYzVSRDFVbkFZR3FuMEpxQXNfRFFmaE0tWEFTel9tTkhHTnFYLUJKMllRX09LQ1hHSEJnSkczc09iVndyMWhjM0hqUUpJRU9NTUxQaW9oYkg4Y2ZQeXBmZUFPaWdoWVlhRDdiUzh0UjhmRDFQM1ZrcnpzeG0yaVpOX2pLTWNBdWJYemg4WnFWY0JIajdSUXlOQjZ1cWpF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnhi-2026-11-12-008",
+    "date": "2026-11-12",
+    "companies": [
+      "cnhi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNH Industrial (CNH) Stock Gets Fair Value Boost After Split Analyst Views - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmpTUXNJSk1LUmNrQVZ6NThmWGxZSHFxLXMySlBJek1ZaUh4dEZRcHhtbVAwQ1dla2ExQ0ZGa01zcEcxWWlzMC1xeFVuUWRsT20zRlU0R0kxSjBCczk0SklJWFlLMl9GUk45OG5INF",
+    "sources": [
+      {
+        "name": "cnhi",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmpTUXNJSk1LUmNrQVZ6NThmWGxZSHFxLXMySlBJek1ZaUh4dEZRcHhtbVAwQ1dla2ExQ0ZGa01zcEcxWWlzMC1xeFVuUWRsT20zRlU0R0kxSjBCczk0SklJWFlLMl9GUk45OG5INFRLYmxwMzYtSEk3SW9RT3BucnFCbHMyS2U4SmRiY0tucUZDR0FhdDB0Z0ZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kubota-2026-11-12-009",
+    "date": "2026-11-12",
+    "companies": [
+      "kubota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Escorts Kubota Targets Market Share Growth Despite India’s Tractor Slowdown - Unique Times Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDdtdFZfZDE4UG9UQmxCQklkeGhKLWlkOWQ3WWd0RGMyNlNpRVRmeFFlalpwVTFPM0NjYzJqYTJReGc0V1ExMFNMX0Zyd2xjNDY5UUV2TWk4LUxTYzc1MnFDckZuaEswVFA1alJ6Mk",
+    "sources": [
+      {
+        "name": "kubota",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDdtdFZfZDE4UG9UQmxCQklkeGhKLWlkOWQ3WWd0RGMyNlNpRVRmeFFlalpwVTFPM0NjYzJqYTJReGc0V1ExMFNMX0Zyd2xjNDY5UUV2TWk4LUxTYzc1MnFDckZuaEswVFA1alJ6Mkw1aVVnUUZQNnRMYjk4a0RJbEpLMzhTOVRWdkNrb1F5NU9yY2FOLUMxVFpCZnJ5SlFS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-010",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USDA rolls out AI tool to catch crop report errors",
+    "summary": "Farm Progress America: USDA deploys new AI check after data errors shook farmer and trader confidence in crop production reports this year.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/tv-and-radio/usda-rolls-out-ai-tool-to-catch-crop-report-errors",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-011",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Troubling farm finance numbers lurk below a calm surface",
+    "summary": "Morning Market Analysis: Corn futures traded narrowly mixed overnight and soybeans dropped slightly as a post-USDA rally quickly lost steam.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-012",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Market your crop by revenue, not just bushels",
+    "summary": "Ag Marketing IQ: Grain revenue management replaces percent-sold targets with mark-to-market analysis, so you see projected revenue, price risk and hedging options clearly.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/marketing/market-your-crop-by-revenue-not-just-bushels",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-013",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why propane can fit your farm’s energy needs",
+    "summary": "Propane, now commonly used to dry grain, has potential for other energy uses on farms.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/conservation-and-sustainability/why-propane-can-fit-your-farm-s-energy-needs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-014",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why care about the hidden value of farm relationships?",
+    "summary": "Policy Report: Building trust takes time, but it is the secret sauce in lease agreements, trade and ag policy development.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-policy/why-care-about-the-hidden-value-of-farm-relationships-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-015",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Darling Creek Ranch earns Leopold Conservation Award",
+    "summary": "Anderson family practices land stewardship through cattle and sheep grazing on Darling Creek Ranch in South Dakota.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/names-in-the-news/darling-creek-ranch-earns-leopold-conservation-award",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-016",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farming for fungi: How to promote its role in soil health",
+    "summary": "The fungi beneath your feet play a crucial role in supporting cash crop production.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/soil-health/farming-for-fungi-how-to-promote-its-role-in-soil-health",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-017",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why New Holland is raising cattle in Lancaster County, Pa.",
+    "summary": "With packer closures squeezing feedlot operators, a New Holland farm is quietly building a seedstock herd of its own.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/livestock/why-new-holland-is-raising-cattle-in-lancaster-county-pa-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-018",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Milder summer boosts Arizona cotton quality, reduces insecticide use",
+    "summary": "Video: Mild weather and low pests benefit Arizona cotton despite water limits.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/cotton/milder-summer-boosts-arizona-cotton-quality-reduces-insecticide-use",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-019",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Heavy rains delay harvest across Arizona and New Mexico",
+    "summary": "Southwest flooding damaged farms, but dams protected key agricultural areas downstream.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/harvest/heavy-rains-delay-harvest-across-arizona-and-new-mexico",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cf_industries-2026-11-11-001",
     "date": "2026-11-11",
     "companies": [
@@ -375,6 +758,164 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/marketing/how-to-winterize-your-sprayer-in-8-simple-steps",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-11-021",
+    "date": "2026-11-11",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic downgraded by Freedom Broker with a new price target - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUEd1UEJtcUFFSzN3UmdOWVJZcTNHY2dDZWEtOGd6ZG9aZWpGdmxrMlhXSUh3dXRTUHBRUWFOZTVrTXB4MFlSNDRROUFobzJfU1hMVVdNOVo0bHpLWXlldUdwempvQWRLZklaYVVpS0",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUEd1UEJtcUFFSzN3UmdOWVJZcTNHY2dDZWEtOGd6ZG9aZWpGdmxrMlhXSUh3dXRTUHBRUWFOZTVrTXB4MFlSNDRROUFobzJfU1hMVVdNOVo0bHpLWXlldUdwempvQWRLZklaYVVpS0l5ZEdYUHVnYXVQb1RJeUlYNjBaaW9fS1JnWVl5bTRfc1BBaDI3V19YVzFLZjl4S3BkcVBJUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mosaic-2026-11-11-022",
+    "date": "2026-11-11",
+    "companies": [
+      "mosaic"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mosaic downgraded by Freedom Broker as sulfur costs squeeze profits (MOS:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1NUZmNpU0dnWFlCbHZwU1dILTJZTmsxZjdnZElYM2N3a09KanMtWWVOd2ppUWJHUXg1MnZlSGEyYngwcXlGTHA2c081RWlKZXVvZXlBdWN1Nk1ZeGR2TzJGMzVha0FDbk5JMXVpX1",
+    "sources": [
+      {
+        "name": "mosaic",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1NUZmNpU0dnWFlCbHZwU1dILTJZTmsxZjdnZElYM2N3a09KanMtWWVOd2ppUWJHUXg1MnZlSGEyYngwcXlGTHA2c081RWlKZXVvZXlBdWN1Nk1ZeGR2TzJGMzVha0FDbk5JMXVpX1lxS1lmanIxNDhxX3NHREM3dVZTV3JCT0d1TGFUSFlNWWFPZGFBUmZQeVktOXItU1pmWE5GQzhRMzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corteva-2026-11-11-023",
+    "date": "2026-11-11",
+    "companies": [
+      "corteva"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corteva Reports Third-Quarter 2026 Results; Updates FY 2026 Outlook - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVprUHlQeG1wSEVabHBXYUxVdzEwX1FoOC13cmNFX0ppT1hsS2xFaXBNUzBCamZySGR0UXN6Q1JKTEVldXlXV09KYW5PVzFxS1pMeU9hLXRWYW1NYWpuNjliOHBseGM1eW5VSkNacF",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVprUHlQeG1wSEVabHBXYUxVdzEwX1FoOC13cmNFX0ppT1hsS2xFaXBNUzBCamZySGR0UXN6Q1JKTEVldXlXV09KYW5PVzFxS1pMeU9hLXRWYW1NYWpuNjliOHBseGM1eW5VSkNacFBnN0FZWFJ3R244OHpjSWstX3FydFIzeG51M0pXM09YVTFkWjJRWkpkTGlRNHRUbkY3TWFpRTNpYzhBby1hS0NvdUFKaFhkZmtvamc1MXJ4b0Z6WF9SRkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-024",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California Chlorpyrifos Lawsuit Tests Claims Beyond Federal Pesticide Labeling - DTN Progressive Farmer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTV8yVml4TGVHOG5wNmpucXprMEF1UlhjNGd2ajZWZ2RXckN6Y2xoVy1ncEJlR09yUndHMjVNVVhmeXRuczEwRVQ1aWpPUVU5SU9VRnFXNFJvWWY1OVlZTWtJeFotRXl2ZW9ORDg3NW",
+    "sources": [
+      {
+        "name": "corteva",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTV8yVml4TGVHOG5wNmpucXprMEF1UlhjNGd2ajZWZ2RXckN6Y2xoVy1ncEJlR09yUndHMjVNVVhmeXRuczEwRVQ1aWpPUVU5SU9VRnFXNFJvWWY1OVlZTWtJeFotRXl2ZW9ORDg3NWk3TERDZlVJTlpuMWR5OHIzdWNBMVhZc0lHQkNiOFNtTjJIZkxqemZ5X2ZFSER1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adm-2026-11-11-025",
+    "date": "2026-11-11",
+    "companies": [
+      "adm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Archer-Daniels-Midland Company (ADM) stock price, news, quote and history - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SjhFazY1ZXhFUVRYZXlYSjJzUmhVV2FHNEgtOTlDRGg3TC1kQkNNMzZDY2NkekZ1MU9KMW82eTIyNE1ucEdBNUNVR2lqLUJp?oc=5\" target=\"_blank\">Archer-Daniels-Midl",
+    "sources": [
+      {
+        "name": "adm",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SjhFazY1ZXhFUVRYZXlYSjJzUmhVV2FHNEgtOTlDRGg3TC1kQkNNMzZDY2NkekZ1MU9KMW82eTIyNE1ucEdBNUNVR2lqLUJp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bunge-2026-11-11-026",
+    "date": "2026-11-11",
+    "companies": [
+      "bunge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bunge, GDM announce Enerseed joint venture - Brownfield Ag News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0IzYXVrQkRONUhnYkI3clhfVnBmOXhkY2ZXeDlvcnlJM04tWGs3azJ6NGJyTVZmTGFLQ0xaeHI0X19taFBYRnJ4U2laN1VOYXhaLWVtNnZjYVNqUGhfMXl2QzJpMjhoRmNWOHdDRH",
+    "sources": [
+      {
+        "name": "bunge",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0IzYXVrQkRONUhnYkI3clhfVnBmOXhkY2ZXeDlvcnlJM04tWGs3azJ6NGJyTVZmTGFLQ0xaeHI0X19taFBYRnJ4U2laN1VOYXhaLWVtNnZjYVNqUGhfMXl2QzJpMjhoRmNWOHdDRHpJOGxIZzg4aFlZSjRLWUhiN0JB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-027",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "crop_price",
+      "planting_season",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 things to watch after WASDE",
+    "summary": "Afternoon Market Recap: Grain prices jumped higher following yesterday’s USDA report.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-028",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why bankers are nervous even as farm income rises",
+    "summary": "Ag Marketing IQ In Depth: Farm income looks stable, but bankers Nate Franzén and Lynn Paulson warn liquidity strains and government payment dependence are quietly reshaping the outlook.",
+    "sources": [
+      {
+        "name": "farm_progress",
+        "url": "https://www.farmprogress.com/farm-business-planning/why-bankers-are-nervous-even-as-farm-income-rises",
         "type": "rss"
       }
     ]
@@ -1274,6 +1815,46 @@
       {
         "name": "farm_progress",
         "url": "https://www.farmprogress.com/harvest/crop-progress-soybean-harvest-still-faster-than-average",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sqm-2026-11-10-048",
+    "date": "2026-11-10",
+    "companies": [
+      "sqm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sociedad Química y Minera de Chile S.A. (SQM) latest stock news and headlines - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVklUVmh4MmJZR2tGWGVrN29JWmI1LS1MeHJtekp5a0dBZHNfYjVkc0VGZ1JaeDhMaVdkWUgzYWFRZGNiZnJIVlZLQmJnYXF1d0swbTNkcw?oc=5\" target=\"_blank\">Sociedad ",
+    "sources": [
+      {
+        "name": "sqm",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVklUVmh4MmJZR2tGWGVrN29JWmI1LS1MeHJtekp5a0dBZHNfYjVkc0VGZ1JaeDhMaVdkWUgzYWFRZGNiZnJIVlZLQmJnYXF1d0swbTNkcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fmc-2026-11-10-049",
+    "date": "2026-11-10",
+    "companies": [
+      "fmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation (FMC) stock price, news, quote and history - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGSUNxT2lIMFBxLTBCMm1vc3J5Wkx4YVZhQ2sxOWhOMGtORzBmNGh1bTR3djVVZWd0QU9sVEFhV0VUeG5pTGoySGtYQ2dpam0x?oc=5\" target=\"_blank\">FMC Corporation (FM",
+    "sources": [
+      {
+        "name": "fmc",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGSUNxT2lIMFBxLTBCMm1vc3J5Wkx4YVZhQ2sxOWhOMGtORzBmNGh1bTR3djVVZWd0QU9sVEFhV0VUeG5pTGoySGtYQ2dpam0x?oc=5",
         "type": "rss"
       }
     ]
@@ -2181,6 +2762,24 @@
     ]
   },
   {
+    "id": "unknown-2026-11-09-048",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DNO Bidco’s cash offer for Capricorn Energy lapses after deadline miss - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ1pDOURBUzRnQS1NRlhuUWhLbEEyYUh5MEcwd2t2b0dFQXdDY1JPbU4tb3VEOHZ5NzRHLTlfOXAtNC16TXRoTHBHY09pUzRucTFYYVktd3RXV1piNnh5b2ZuTlRHb25sUE5ya2xIcU",
+    "sources": [
+      {
+        "name": "oci",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ1pDOURBUzRnQS1NRlhuUWhLbEEyYUh5MEcwd2t2b0dFQXdDY1JPbU4tb3VEOHZ5NzRHLTlfOXAtNC16TXRoTHBHY09pUzRucTFYYVktd3RXV1piNnh5b2ZuTlRHb25sUE5ya2xIcUs5c3EzaTZpREh6UWQyZXZqTE9HV2t2dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mosaic-2026-11-08-001",
     "date": "2026-11-08",
     "companies": [
@@ -2503,6 +3102,24 @@
       {
         "name": "adm",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tUHMwRnVJNkJaYzJNUHctUTVrTG9xRUhFbU45QUJMX1pNMENRNW9mSTk0R1FQa0ViZ3ZwMGpnU1poajdBaG02SEtpdWpjdnZf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-010",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global Fertilizer Markets Show Diverging Trends Across Regions in November - mykxlg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQX0Fnb3paSlpoUjlMVGw1d3NISkQxSnpnMzViTmZXZ2pFNWFiaDBXdGlYczI1UlJiLTA0VkRtUjUyM1k1WWVhQTAxMmpTSmVMX3ZpVnZ5YXJBcU1WYThBNy1QNG9iY0JQTGlhS3M4SX",
+    "sources": [
+      {
+        "name": "google_news_fertilizer",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQX0Fnb3paSlpoUjlMVGw1d3NISkQxSnpnMzViTmZXZ2pFNWFiaDBXdGlYczI1UlJiLTA0VkRtUjUyM1k1WWVhQTAxMmpTSmVMX3ZpVnZ5YXJBcU1WYThBNy1QNG9iY0JQTGlhS3M4SXZNeHluemp0aURvUFkybWRWcVBVVkIzeF95bEUwNTdGUFlLNkZLYkh6UDBJbW10RVp2ZzE1cUdMSUFKekhiWXRfdzhMVVFHVEdBNktLUkxNZ2E0MzYwM21GQmJfNlJXdDZUbTZ3cTJwNjFidUhJUlEzM2JTYjBZZDljUVRBOXR1c3BEV0hHeERPcFRVNmxvaHlZa0wtSGIzX08wQQ?oc=5",
         "type": "rss"
       }
     ]

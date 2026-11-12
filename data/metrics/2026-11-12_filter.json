@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 32,
+  "gate2_samples": [
+    "Nutrien Keeps Its Aurora Asset And Bets On Tight Supply - Finimize",
+    "RBC Sees CF Industries Getting Stronger Into 2027 - Finimize",
+    "FMC renews retreat, slumps 13% (FMC:NYSE) - Seeking Alpha",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of FMC Corporation - F",
+    "CNH Breaks Ground on New 100-Acre Manufacturing Facility in Uttar Pradesh - Machine Maker"
+  ]
+}
