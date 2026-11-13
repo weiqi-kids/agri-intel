@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 7,
+  "gate2_fail": 7,
+  "passed": 40,
+  "gate2_samples": [
+    "RBC Sees CF Industries Getting Stronger Into 2027 - Finimize",
+    "FMC Corporation's $672 Million Pricing Reset — Can It Unlock a 2027 Turnaround? - Smartkarma",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of FMC Corporation - F",
+    "FMC renews retreat, slumps 13% (FMC:NYSE) - Seeking Alpha",
+    "Decatur's Clubhouse at Scovill Acres gains major support from ADM - Herald-Review.com"
+  ]
+}
