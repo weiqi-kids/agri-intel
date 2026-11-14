@@ -1,0 +1,15 @@
+{
+  "total_raw": 340,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 6,
+  "gate2_fail": 4,
+  "passed": 24,
+  "gate2_samples": [
+    "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+    "CNH Breaks Ground on New 100-Acre Manufacturing Facility in Uttar Pradesh - Machine Maker",
+    "CNH Sells 70% Construction Business for $1 Billion - grafa.com",
+    "CM Adityanath Pitches UP's 'Bulldozer Brand' to CNH Industrial - Rediff MoneyWiz"
+  ]
+}

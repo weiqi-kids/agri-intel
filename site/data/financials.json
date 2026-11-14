@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T15:46:48.656823Z",
-  "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
+  "updated_at": "2026-11-14T14:37:29.385373Z",
+  "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
       "id": "adm",
@@ -75,17 +75,17 @@
       "name": "Corteva Agriscience",
       "ticker": "CTVA",
       "currency": "USD",
-      "ar": 7759000000,
-      "ar_prev": 5034000000,
-      "ar_qoq": "+54%",
+      "ar": 6189000000,
+      "ar_prev": 7759000000,
+      "ar_qoq": "-20%",
       "ar_period": "QoQ",
-      "inventory": 5202000000,
-      "inv_prev": 5667000000,
-      "inv_qoq": "-8%",
+      "inventory": 5482000000,
+      "inv_prev": 5202000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "deere",
