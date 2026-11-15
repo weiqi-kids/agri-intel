@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 3,
+  "gate2_samples": [
+    "RBC Sees CF Industries Getting Stronger Into 2027 - Finimize",
+    "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+    "CNH Breaks Ground on New 100-Acre Manufacturing Facility in Uttar Pradesh - Machine Maker",
+    "CM Adityanath Pitches UP's 'Bulldozer Brand' to CNH Industrial - Rediff MoneyWiz",
+    "Yogi Adityanath urges CNH to make bulldozers in UP: 'It's become a brand here' - Moneycontrol.com"
+  ]
+}
