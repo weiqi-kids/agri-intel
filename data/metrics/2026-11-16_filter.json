@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 4,
+  "gate2_fail": 9,
+  "passed": 23,
+  "gate2_samples": [
+    "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+    "Can Bunge Global (NYSE:BG) Expand in S&P 500 Biofuels? - Kalkine Media",
+    "CNH’s Kurt Coffey Named 2027 Chair of Association of Equipment Manufacturers - GlobeNewswire",
+    "Agnellis’ CNH plans future exit from construction equipment - Equipment Finance News",
+    "CNH Breaks Ground on New 100-Acre Manufacturing Facility in Uttar Pradesh - Machine Maker"
+  ]
+}

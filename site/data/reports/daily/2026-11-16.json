@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:39:08.958220Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-11-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sociedad Química y Minera de Chile: Down 22%, But I'm Buying At 7x Forward Earnings - Seeking Alpha",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDllXzNWbjhzQ3FYc1hJYkl0d3VHZnN6ZXpBWW1GaXFBV0pOeXRXUlZ4UG50VzRBSXBSQmVSdzY4MWZlamRDQXpzRS1EY0Q0OGNCeHRBWkFVVHcxQ1Ffd1dadjhaTGNieUtGbGtJRWNqMnJ6cWJIZGotcTQyNUdTdnFKZG1rVkF6eU9DV28yS1UxcGNDam5Tdkd3ZV8xWGRmeS1CRGYzOHpaLTREYjVNSDhlMjJocUlCZFl6bDFqejY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-16-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "More cheese, more whey, more pressure on milk prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.farmprogress.com/livestock-and-dairy/more-cheese-more-whey-more-pressure-on-milk-prices"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-16-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chevron to restart Iowa biodiesel plant as demand surges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/tv-and-radio/chevron-to-restart-iowa-biodiesel-plant-as-demand-surges"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-16-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Iowa buyers continue to pay strong prices for farmland",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.farmprogress.com/markets-and-quotes/iowa-buyers-continue-to-pay-strong-prices-for-farmland"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-11-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Are Wall Street Analysts Bullish on CF Industries Stock? - Barchart.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0lROVJfelV3UC1YeU5xcTdEd2JiQVJXME5KUzB5TGlZTVMxcWk3ZXNvMTZ4N3RySF9lZk9IUzVNYTd6OWtueDZ5UUdJc1RZR3I1UW1SZmwxSS1JcG0zWjJiQk5qSGRNWGdjNFVvNXN5T1NTclJtZXNranZTT0pkNllIT184Wi0td0ZIcDdiaUFGeExZRUgzLUFlR1NVMWZD?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 2
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 140,
+    "too_old": 157,
+    "gate1_blocked": 4,
+    "gate2_blocked": 9,
+    "passed": 23,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+      "Can Bunge Global (NYSE:BG) Expand in S&P 500 Biofuels? - Kalkine Media",
+      "CNH’s Kurt Coffey Named 2027 Chair of Association of Equipment Manufacturers - GlobeNewswire",
+      "Agnellis’ CNH plans future exit from construction equipment - Equipment Finance News",
+      "CNH Breaks Ground on New 100-Acre Manufacturing Facility in Uttar Pradesh - Machine Maker"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為CF、SQM、FMC相關動態：「Sociedad Química y Minera de Chile: Down 22%, But I'm Buy...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sociedad Química y Minera de Chile: Down 22%, But I'm Buying At 7x Forward Ea...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "More cheese, more whey, more pressure on milk prices（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
