@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:39:03.978170Z",
+  "updated_at": "2026-11-17T17:11:54.106761Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -262,17 +262,17 @@
       "name": "台肥",
       "ticker": "1722.TW",
       "currency": "TWD",
-      "ar": 1166983000,
-      "ar_prev": 1539540000,
-      "ar_qoq": "-24%",
+      "ar": 1342626000,
+      "ar_prev": 1166983000,
+      "ar_qoq": "+15%",
       "ar_period": "QoQ",
-      "inventory": 2995752000,
-      "inv_prev": 2467280000,
-      "inv_qoq": "+21%",
+      "inventory": 3503592000,
+      "inv_prev": 2995752000,
+      "inv_qoq": "+17%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "yara",

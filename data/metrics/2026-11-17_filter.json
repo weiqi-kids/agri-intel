@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 31,
+  "gate2_samples": [
+    "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+    "Bunge and CP Expand Blockchain-Enabled Soy Traceability Collaboration to Vietnam - Business Wire",
+    "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+    "Form 4 CNH Industrial N.V.: Lorenzo Simonelli (Director) For: 12 November - Investing.com Canada",
+    "CNH Breaks Ground on New 100-Acre Manufacturing Facility in Uttar Pradesh - Machine Maker"
+  ]
+}

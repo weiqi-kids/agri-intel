@@ -1,0 +1,183 @@
+{
+  "date": "2026-11-17",
+  "date_range": {
+    "start": "2026-11-11",
+    "end": "2026-11-17"
+  },
+  "generated_at": "2026-11-17T17:11:58.691162Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "taifer-2026-11-11-003",
+      "date": "2026-11-11",
+      "title": "Taiwan Fertilizer stock: October revenue slips 8.40% - ad-hoc-news.de",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 90,
+      "last_week": 132,
+      "week_over_week_change": "-32%",
+      "sentiment_this_week": 0.01
+    },
+    "earnings": {
+      "this_week": 19,
+      "last_week": 37,
+      "week_over_week_change": "-49%",
+      "sentiment_this_week": -0.08
+    },
+    "planting_season": {
+      "this_week": 8,
+      "last_week": 12,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "fertilizer_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "natural_gas_feedstock": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "crop_price": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "cf_industries": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "taifer": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "adm": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "bunge": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cnhi": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "nutrien": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "corteva": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 6
+    },
+    "kubota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "fmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "sqm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "intrepid": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "yara": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 158,
+        "last": 266,
+        "change_pct": -40.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-11",
+      "event_count": 32,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 35,
+      "sentiment_avg": -0.13
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 36,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 5,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 5,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 27,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-11 ~ 2026-11-17）共 158 則事件，重點為「Taiwan Fertilizer stock: October revenue slips ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Corteva",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "CF",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ADM",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

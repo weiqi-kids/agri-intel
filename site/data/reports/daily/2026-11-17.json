@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:11:58.591302Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intrepid-2026-11-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Intrepid Potash: Production Is Rising, But Profits Have Yet To Catch Up (NYSE:IPI) - Seeking Alpha",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2NndzFBNG41SUpFa0M1Um1FNm5zTUFaOTF4SnRPVDRJUmt5ZHRMdjZlREg1NmFZeHhna0l1LWJjd2lHNXRheElVR3lsR3dkazZkN0NFYXUyazN4dUdIZXJNellwWUNXbldaai1UdlpsU0hfY3UwMHMtNkRWa21nM04tdG1BVGk0SEtVOU4wYTNpMHN1dHNYYkFqNFp6bkV2bllpWFZYdE1OWGNvYUFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-17-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Consider relative profitability in cropping plans",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "planting_season",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/consider-relative-profitability-in-cropping-plans"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-17-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Farmer turns a passion for hats into profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/farm-business/farmer-turns-a-passion-for-hats-into-profit"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reasons Why You Should Retain MOS Stock in Your Portfolio Now - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXpCbmRORDRDUkpLc2JteGFXdGVQVFppMlFYUUhTQTJpRXc1X2g1NWlTMmx3ZUthWXFYRzZFTVZGTk0xVU1QZk9NTWRTNHRPZzcxMDNmdHpSVkhIZVlMSjEzR3lzRkhxQzV3Q0N2S1lJRUVGemppT0NLMkR3d19FODhxY0pPRnFsWEliQ3ZlMm1pVHAyMUVMOVJpS3doaGlyZE15UnQxNEtMc0FpeU9IckppbXBfaVQ1?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-11-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is CF Industries Stock's Cash Yield Nearly 12%? - Yahoo Finance",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQellsWWo1VnY0SUIySURwdWRvTmVWaHo4QjZGd09zVlFtNjJlX05GS1Blc1NZdWh4UklSSnRMX3I4UGNGNmI1bkh4NGVhLWZBRTJIcklUQVpkRm5iRkJLRmJKTl81NUdYVUlfRHFjRDVKYVlfWHNqcFN3UjdwQzJKLUpwa1ZTM3lDUlk5WndJVlZrdG4yQzd6SjRR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "planting_season",
+        "count": 2
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 144,
+    "too_old": 150,
+    "gate1_blocked": 5,
+    "gate2_blocked": 6,
+    "passed": 31,
+    "pass_rate": "16.1%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+      "Bunge and CP Expand Blockchain-Enabled Soy Traceability Collaboration to Vietnam - Business Wire",
+      "Bunge Global: A Crucial, Growing, And Undervalued Ag Trading Giant (NYSE:BG) - Seeking Alpha",
+      "Form 4 CNH Industrial N.V.: Lorenzo Simonelli (Director) For: 12 November - Investing.com Canada",
+      "CNH Breaks Ground on New 100-Acre Manufacturing Facility in Uttar Pradesh - Machine Maker"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Intrepid、CF、Yara相關動態：「Intrepid Potash: Production Is Rising, But Profits Have Y...」。主要關注主題為農業產業通用、法說會、種植季節，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Intrepid Potash: Production Is Rising, But Profits Have Yet To Catch Up (NYSE...（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Consider relative profitability in cropping plans（種植季節、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
