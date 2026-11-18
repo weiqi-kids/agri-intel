@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 3,
+  "gate2_fail": 11,
+  "passed": 28,
+  "gate2_samples": [
+    "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+    "Will Mosaic's Cost-Cutting Actions Fuel Stronger Margins Ahead? - TradingView",
+    "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+    "CF Industries Holdings (CF) Yazoo City Outage Now Stretches Into First Half Of 2027 - Yahoo Finance",
+    "OCI N : publishes NNS statement declaring Offer unconditional and announcing Post-Closing Acceptance"
+  ]
+}
