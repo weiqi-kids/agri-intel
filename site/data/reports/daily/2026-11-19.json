@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:55:24.565984Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-19-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Your next bull buy can impact profit for 30 years",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/cattle-news/your-next-bull-buy-can-impact-profit-for-30-years"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-19-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "USMEF marks 50 years of growing US meat exports worldwide",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/tv-and-radio/usmef-marks-50-years-of-growing-us-meat-exports-worldwide"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-19-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "What really happened with the Beef Checkoff lawsuit?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.farmprogress.com/cattle-news/what-really-happened-with-the-beef-checkoff-lawsuit-"
+    },
+    {
+      "rank": 4,
+      "event_id": "cf_industries-2026-11-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is CF Industries Holdings (CF) A Bargain After Cost Pressures Clouded Its Valuation? - Yahoo Finance Singapore",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelJSNEhBV2RpRjFzUWluTzBGbzBWUWtYT2lXeTEwNC1sTE5UYjhlVUF1RkFFYWZ0R1dYdEZ0ZExNdVhqeVAtS2VycWJZN1VPM05qUkJlTkNZNDVPM2dKX2xaRlR1NER5emY4b2xzM2s1cnFDZU9Rc2RYeFJ3ZGFseWVJVGtfWmpKX2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "yara-2026-11-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kepler Cheuvreux downgrades Yara to hold (buy), target price NOK 416 (545) - www.marketscreener.com",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2NPT1B1bjctVG9KemljTS1ueUhzbFVveVlSVkFCM0Ixc0VURXV1Z3JYRXgxeHQ4dWdNdURNZGQ5VXZBdWFMOV9NWXNJQ2drRUR4QTN0RDNVQ2o4TjVGa3pwN0VNYXZjdjdRaG1jX2JITFpYZS1NN3VuN2U2TE1kN3JxLU00Y29rMDlVTVZtOU52Nk5jUFg5Y2tBSWp1TnRrNHQ2eFBNVlhmdlRVZzlyb3g2NmF3Z0k2UWFMdG5yRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "cf_industries",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "fmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 139,
+    "too_old": 147,
+    "gate1_blocked": 3,
+    "gate2_blocked": 16,
+    "passed": 36,
+    "pass_rate": "17.8%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+      "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+      "OCI N : publishes NNS statement declaring Offer unconditional and announcing Post-Closing Acceptance",
+      "NNS Cash Offer for OCI Goes Unconditional With 9.95% Tendered - Securities.io"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為CNH、CF、Yara相關動態：「Your next bull buy can impact profit for 30 years」。主要關注主題為農業產業通用、種植季節、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Your next bull buy can impact profit for 30 years（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "USMEF marks 50 years of growing US meat exports worldwide（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

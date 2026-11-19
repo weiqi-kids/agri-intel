@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 3,
+  "gate2_fail": 16,
+  "passed": 36,
+  "gate2_samples": [
+    "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+    "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+    "OCI N : publishes NNS statement declaring Offer unconditional and announcing Post-Closing Acceptance",
+    "NNS Cash Offer for OCI Goes Unconditional With 9.95% Tendered - Securities.io"
+  ]
+}
