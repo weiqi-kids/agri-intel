@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:55:20.143334Z",
+  "updated_at": "2026-11-20T16:29:56.227196Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "Sociedad Química y Minera",
       "ticker": "SQM",
       "currency": "USD",
-      "ar": 1058600000,
-      "ar_prev": 826100000,
-      "ar_qoq": "+28%",
+      "ar": 945722000,
+      "ar_prev": 1058600000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 1897900000,
-      "inv_prev": 1882200000,
-      "inv_qoq": "+1%",
+      "inventory": 1942084000,
+      "inv_prev": 1897900000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "taifer",

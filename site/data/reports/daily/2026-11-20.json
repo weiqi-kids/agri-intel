@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:30:00.388810Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-20-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Watch corn for a 20-cent bounce",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/watch-corn-for-a-20-cent-bounce"
+    },
+    {
+      "rank": 2,
+      "event_id": "intrepid-2026-11-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should You Investigate Intrepid Potash, Inc. (NYSE:IPI) At US$29.50? - Simply Wall St",
+      "companies": [
+        "intrepid"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmhlb1pVSk5DbTA5ZUE0cHpZOHVQajhkS3VidDhTSDUtZHZ6MTkySVgxOXQ0UmtYd09NS0JPTHU4R1dKZmRCY296NEk5RVBFVXIyOXlnTHJ2eEJFaGZpTlJfRXdmOTlGaTRHb090QlhMaTViRjgwOFpjOGZfWmlXWGswNXNGeU56aVZtczctSHlmZHR6alQydkRnQ19Pdi14SXlWSlpPTGp1aDRqdGQtLWVRR0U4R2NocHpUdUhieW5Kd2lKMEF5QWZnYjDSAdIBQVVfeXFMTWVqMlJIUXRZVDFoQkd0dmc3c1VibDdLbkJiM205ZHBsbi1UV0Z4RFVpRnU4OEJUWE4xQldYQ1VBNmROLW8zS1pwT1RnSDBWenF2SHBLakpQS09rQ2J2YlFLVFRyUWJrbkQtT3BHeUlkS2kwQWI5anBPWmNEckV0VDZrMnI3cUNVNVoyYWx0SklMVVEweExKRE9PbS0xTFIwTHo4MlJacWZ3dkJ4dFVYV0JBQkVadnZ5YWcyWjUyZXROaWluOFhkUVFxOGhLeFprT3JR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fmc-2026-11-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Corporation Stock 12‑Month Price Target Cut to $6.67, Implies 55% Upside - TradingView",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcTE5ZHZ2S1l1bWh4blN1THB5SS1WRnpBV1kyRXhrZ2pBalZSVVMxR09xOUx5TXo0R0I1NEozdHNZRDFPdGZ3SURnNHZKQ1QtT2pDX1Z2WGhEdVZtZXJrTXV5M1NsT183TFZXMU0zT2p0MWo2MGtHaDJHcnN0ODIwcW9PMWhoTEdWOEZqY1NSNTdUUXdQNzVvYnJJNXBLUzZyM3I4eUEyT2tTTlppVmswaXdaSG0yS1FLeG52VWp0RTcwWGRoc1NfMDNVX19vUUww?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fmc-2026-11-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC INVESTOR ALERT: Class Action Lawsuit Filed on Behalf of - GlobeNewswire",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOVncxR1J4NnFhMWxuQkw3Y0MzUDR5cUx0WGlZalNERnZRdmJXamZvLXFBNVl6ZlNaNE82ZEJRODRodlowY1pjaG92d3pvVXNJd1F6MHpsMXRpY3NEdUFEWW55R2k0UDA3LVF4RmJwRlhyTUkwMnNBQTI3Q3liMTE0SVFTaEoxd0RGUW4xZzA2b09QWm5yOEYzYUhXbl91LUlRT0VETTkwZ2N2Vi1RQlVKQnpkV0FMZm9Fa0RTSjRYUmxmUGlEWldhQm4tYmJOYncwdjJCbURBbmFqWG5IaHFiUzNjbE5kV3hvMFVPTDB0LXNLWGpOb1U5VkhZeU9HWGhTWVR4NFk5S3ZRNm56clJfSG1mRUdIdGhfZjhSTGtoNWlLRGo1VnVrMHVYdFpWYmFOdVQwdHVZYmV2b3pHN1hPV2hRVTlmQ2xHY2xn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnhi-2026-11-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNH Industrial Names Paul Dick President of North America; Scott Harris to Retire in 2027 - Quiver Quantitative",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTi1rRmo3RnJoeHF6N0tPRWxZU1RseXdXeFhBRmpOMk0wVVZpa0Z4WG5lN3ZJV3JiSGlOaW9nVmhIWGhPM1ktcTRUTURSYVU0NkJTZjgwWGxoRGhwYkw0d3hMdWJnaVN1Mk45RGpLNVNualh5VjN4X3ZNTVpZWk04aVlKR0p1RS1PajhrQlJLalFYeGFTZUlUbVZCV1Q5QTlpTzktN25fdW9iVWp4MXBkSnRyZnVIVU5Rc3pvbm5MRmFQQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "fmc",
+        "count": 2
+      },
+      {
+        "id": "intrepid",
+        "count": 1
+      },
+      {
+        "id": "cnhi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 142,
+    "too_old": 155,
+    "gate1_blocked": 7,
+    "gate2_blocked": 5,
+    "passed": 26,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+      "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+      "NNS declares offer for OCI unconditional - PR Newswire",
+      "Block & Leviton Encourages FMC Investors to Contact the Firm about Ongoing Investigation - StreetIns"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為FMC、Intrepid、CNH相關動態：「Watch corn for a 20-cent bounce」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Watch corn for a 20-cent bounce（法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Should You Investigate Intrepid Potash, Inc. (NYSE:IPI) At US$29.50? - Simply...（農業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

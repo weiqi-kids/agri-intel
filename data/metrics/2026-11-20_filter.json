@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 7,
+  "gate2_fail": 5,
+  "passed": 26,
+  "gate2_samples": [
+    "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+    "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Sociedad Quimica y Minera (NYSE:SQM) Hits New 12-Month Low - Should You Sell? - MarketBeat",
+    "NNS declares offer for OCI unconditional - PR Newswire",
+    "Block & Leviton Encourages FMC Investors to Contact the Firm about Ongoing Investigation - StreetIns"
+  ]
+}
