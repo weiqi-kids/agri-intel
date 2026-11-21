@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 6,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+    "Will Mosaic's Cost-Cutting Actions Fuel Stronger Margins Ahead? - TradingView",
+    "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Block & Leviton Encourages FMC Investors to Contact the Firm about Ongoing Investigation - StreetIns",
+    "CNH names Paul Dick president, North America; Harris retires - Equipment Finance News"
+  ]
+}
