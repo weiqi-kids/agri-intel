@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:46:51.885773Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sqm-2026-11-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is SQM Stock Surging as Lithium Demand Fuels a Massive Earnings Recovery? - Yahoo Finance",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "natural_gas_feedstock",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWE3YVZhOEJDTGhPcU42OHAxYkRTQ1drZXBfMS01bV9TaUh2aU5lQW52RHhybDZvMm9DMHFYOWptTWdkZUN6aF9rdG5oMmtHbFBJZ0lkN1d1ZlhtTF9sS2tGOUtoYVZTRGo4elRoWUxCVlNCazhma2gwblZ6NUIxaFZKNVJLTE1kYUQ0dmFnRTVhOEtwMEpLMFN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "oci-2026-11-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OCI Shareholders Approve Orascom Construction Combination at EGM - The Fintech Times",
+      "companies": [
+        "oci"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTJvYzZya2JhTHZZeTF0OHRDTzJfblpaWnNXel9Td21ieWMtX0lOYWFib2Z3SURDTXRqa3g2Ql9NNExOZlNiMktOYVc0Tm9maElHdHZDc1g4Y0R2UlpGLXVPeGl2UUdyNV9kcWR0SVp0U2NEZVBUdUVCZENCVW9FU2g2Q0JaOENhZHFEVGF1czNvVV9mVy1BWg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fmc-2026-11-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Corporation Price, FMCC Price, Live Charts, and Marketcap - Coinbase Argentina - Coinbase",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZE9uU2xDNDlNOFFkblI2MTNtNktTT1VTZnhpTEV6T2lzcHFBTmFIeGJLbTZ5ZkRCN2tHdENvM29XblZZMFRmVnlYekdoNWxhVkc4Q3NtSmtRR0dpcG9YQkJwQjcwM096cUQ4Zkc3NG9fcGtrRW5aMWE0M3prOGVVaWxZLUl0Rk5kVjBUS1lnTmRlUFVaWDY5dHV1dE00NUhtU1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fmc-2026-11-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Corporation Price, FMCC Price, Live Charts, and Marketcap - Coinbase India - Coinbase",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzloYVRnRGN3OGR0OUd1Z21EZEdIRWlZZHpxNE85VUp5b1k3Y0h4aWRVVzN0NWRUZWVDYkZaR0hiZXRRNDRsZjFicHoxWDVYZzFpS2xFcFlydzNyNTNFcUJiVHRMYlozWUJZOTlXZ0xpTnA3SHhFc1NsaTlnQmlmMElqemhSaUNZazRESFdxcU92aWptdk5CZlNfS1gzbjM5TlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fmc-2026-11-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMC Corporation Price, FMCC Price, Live Charts, and Marketcap - Coinbase",
+      "companies": [
+        "fmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNE12SlRLVVk5SUFDbnl3elRCQmNYdndLcFRpd0VRMVRCMlRfOEo1a0k0NjNIYmEtNG5XMlR3V1hITGJ0bF9qVnd6d2VUZVllcTRYNFJOR2djNDRrWlp5THRiQ19KazFMU2wxU2ZNQnNOUUNfdmlyQXctVTdOZ2RmU3pFQ2xyZzZYaE9jbkh0SnRMdUxsT2xoVVpTaWNabWZHMEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "natural_gas_feedstock": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "fmc",
+        "count": 3
+      },
+      {
+        "id": "sqm",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "natural_gas_feedstock",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 161,
+    "too_old": 159,
+    "gate1_blocked": 4,
+    "gate2_blocked": 6,
+    "passed": 10,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+      "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "OCI N.V.(ENXTAM: OCI) dropped from Netherlands ASCX AMS Small Cap Index - www.marketscreener.com",
+      "OCI N : publishes NNS statement declaring Offer unconditional and announcing Post-Closing Acceptance",
+      "Block & Leviton Encourages FMC Investors to Contact the Firm about Ongoing Investigation - StreetIns"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為FMC、SQM、OCI相關動態：「Why Is SQM Stock Surging as Lithium Demand Fuels a Massiv...」。主要關注主題為農業產業通用、天然氣原料、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Is SQM Stock Surging as Lithium Demand Fuels a Massive Earnings Recovery?...（天然氣原料、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "OCI Shareholders Approve Orascom Construction Combination at EGM - The Fintec...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

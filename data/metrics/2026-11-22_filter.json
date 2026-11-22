@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 4,
+  "gate2_fail": 6,
+  "passed": 10,
+  "gate2_samples": [
+    "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+    "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "OCI N.V.(ENXTAM: OCI) dropped from Netherlands ASCX AMS Small Cap Index - www.marketscreener.com",
+    "OCI N : publishes NNS statement declaring Offer unconditional and announcing Post-Closing Acceptance",
+    "Block & Leviton Encourages FMC Investors to Contact the Firm about Ongoing Investigation - StreetIns"
+  ]
+}
