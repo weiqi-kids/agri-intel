@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:37:31.990215Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-23-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Will wheat prices rebound in 2027? 4 factors to watch",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "crop_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/wheat/will-wheat-prices-rebound-in-2027-4-factors-to-watch"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-23-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "IEDA approves incentive for Vylor headquarters - Business Record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjVBSjlYNFRScDUxdC1KWGVPY1pmVVk5d00wVkwwNE9SZ2Zpd05DNnBFTUctTHVEOUFIUW5Ib1FTc0I2VXpUaTBYVzY2c1l4cXN2aDluNzRYdVNaWFpHYndJdXNzQmNXdkY2NXM5MWlTZVAyRGRTLXVxQ1ZWMDdyNGhtV2s?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cnhi-2026-11-23-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Exiting CNH Industrial (CNH) Position as Shares Surpass Fair Value Estimates - Yahoo Finance",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0RGa0VMTGtucW1NNS1jemlDUGtMdXUxeUxiM2F2NFRBTWNfeThYY0pBRC1DN0NINHBkR0RsQXVmZWN6Z0hBNnRvSlFxQWVQQWVDMUVBVmRNenJqNEhXcXpUWTFCc2loTmZZVTR2bHdTTElvbEZGX0lWS29FcmZRZURyQlFUZUpSSGZBSU1kNG10WXlEcWxqRWtScDE4Y3JJdVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mosaic-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Four entities report the same passive stake of more than 5% in Mosaic (MOS). - Stock Titan",
+      "companies": [
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR051enJmNERReFZrU1Bmc21NbXpTdGtXQXA3eHc5eUZjYVdQNy0zWEo5TGhwVkJta2ltNHlzTXJsSV9OUzdXR2FkY1h1aVdDaGxSd1FlakNOdUp6aFdBNnJYMHljaDZPZXZSQzNsTUVKdVpqLWc0UU1SRjd3R0RDT080bWg5VFJOYWtMWTNNRC1tUjk4NjQyN1BJbVpTcDZiOEVTTWpuT0JjVDNydzNRbVNLMXNWdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AKVA group ASA: Preliminary results of the recommended voluntary offer - Yahoo Finance Singapore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1E3bWVxNjRnYi1yem1wY0ZMdWtibnJnbkJCM1hjNmhJbkNhMFBXUHNxMUFiNzJiVVJWTDE5aTZDNVdKOTNBS0ZTQUJHOGtoRldmUUJ4ckVNTmotR1BTNm45SXlael9vZFNNOW43VUZ3azlxaUt1ZDJkTkRfR0htWFBRbjI2VjJVcmdB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "crop_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 17,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "bunge",
+        "count": 3
+      },
+      {
+        "id": "cnhi",
+        "count": 2
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "corteva",
+        "count": 1
+      },
+      {
+        "id": "adm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "crop_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 147,
+    "too_old": 152,
+    "gate1_blocked": 2,
+    "gate2_blocked": 12,
+    "passed": 23,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+      "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Corteva Introduces New Nematode Solution. - Floriculture Magazine",
+      "FMC Corporation (NYSE: FMC) SHAREHOLDER ALERT: - GlobeNewswire",
+      "FMC Shareholder Notice: Shareholder Rights Law Firm Robbins LLP Reminds Investors of the Class Actio"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為Bunge、CNH、Mosaic相關動態：「Will wheat prices rebound in 2027? 4 factors to watch」。主要關注主題為農業產業通用、農作物價格、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Will wheat prices rebound in 2027? 4 factors to watch（農作物價格、法說會、農業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "IEDA approves incentive for Vylor headquarters - Business Record（農業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "農作物價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

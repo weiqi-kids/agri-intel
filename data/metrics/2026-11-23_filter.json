@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 2,
+  "gate2_fail": 12,
+  "passed": 23,
+  "gate2_samples": [
+    "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+    "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Corteva Introduces New Nematode Solution. - Floriculture Magazine",
+    "FMC Corporation (NYSE: FMC) SHAREHOLDER ALERT: - GlobeNewswire",
+    "FMC Shareholder Notice: Shareholder Rights Law Firm Robbins LLP Reminds Investors of the Class Actio"
+  ]
+}
