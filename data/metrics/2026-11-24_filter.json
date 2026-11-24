@@ -1,0 +1,16 @@
+{
+  "total_raw": 245,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 4,
+  "gate2_fail": 12,
+  "passed": 43,
+  "gate2_samples": [
+    "Nutrien signs lease for new Washington State terminal - The Globe and Mail",
+    "Form 8K The Mosaic Company For: 24 November By Investing.com - Investing.com India",
+    "The Mosaic Company (MOS.BA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Yara International ASA (0O7D.L) Seasonal returns chart - Yahoo Finance Australia",
+    "AlphaValue/Baader Europe Upgrades Yara International to Add - www.marketscreener.com"
+  ]
+}
