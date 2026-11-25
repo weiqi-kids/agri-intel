@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:16:51.379337Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "kubota-2026-11-25-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Deere, Kubota and CNH Industrial - Yahoo Finance",
+      "companies": [
+        "kubota",
+        "cnhi",
+        "deere"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUVYxTW1XQXpZN1BMamoza19Qa1FjSy1XSVdvcWFpT0pIczVnSUxlUVhob2R6NnhVSzcwSzdWTThhdE1nU1VVcjYxaldaUVJUaXBfeHFZOGlPYVFNdnpQMGtobzFRaUMyZXVXWHlDSUtnSDd3emFEU25iOHptaFRWTDVnSnVlcFlTbkRvQUFFdHd2V1NyY0pxaFFFdTNra1BsUzhaTHRURQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sqm-2026-11-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors Are Reacting To SQM Stock After Strong Quarterly Earnings - Yahoo Finance",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONlVZRnJnTDlrM3BOTE95WEx2dmhDUlQ5ZUFMalJVYUZLRXR3M1otamFVaVQ0YTBTcmdJTmlGNHJpUVJ2Q3RjUHpZM1lLLUlDb0Q4UThJY1Vna2ZvR1RJSXRGN1dVdkk1d3BmLWMxdjVWUVNJQkpVdklXbkpBMTdyVkV0eVF6UTdOTUVQWFBoQ3ducUNfYUhFNmdLTlBTcWU1TUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sqm-2026-11-25-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Scotiabank Has Pessimistic Opinion of SQM FY2026 Earnings - MarketBeat",
+      "companies": [
+        "sqm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2ZBSXJQRWNvcEotWHcyYnFtRTZwX2s3d0hHWjRMRUs1T1ZTa0RqaGxQcTZPNXFMQXNlS1paUUtXRDlDUmxyN1VlUmhjTENVZ21wU01MdFNvTUVmX0VXVWVYWVk4aEVEVk1SV2xMU09vZmxPQ1A4am1vaFhQekdtb2hJWnVOSzlIMHQ3eVloTk5oaEQ2RXJMZkJQOFFHY1NyUFh6NmlkVHluSzZpbFN1Z0ozOG0tLUJqdkwtMkJn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cnhi-2026-11-25-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNH Industrial Gains as Investors Continue to Weigh Q3 Beat, Higher EPS Outlook, and Construction JV Deal - Quiver Quantitative",
+      "companies": [
+        "cnhi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVXU2MjdFVnZIUHA4aGNtUk4yU3NjdjdWR2ZHUmY4YUxtQ0NPeEdrNmNBUGdvTHkxVERmSEg1elpndzJucVd6cnVJSnBtVnpOTlRHeEdRSzFkczZrZ0Ntd0phY2JhS3NpN0MzQVJDY1hCZHdnaHdHanA4RU1VWUJuZF9FbDd5M1pNTXpZZVVkOTVLci10WFNkeE5SVXFpUGtTbzZYTVdQcXpLU1FpRzlWNl9hR0ZpMnd4THM3T29jMkhFZFdNWWRSc1dIQ19JSjV2M2EyOGhGdjBldw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-25-031",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can purple corn deliver a new profit opportunity?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.farmprogress.com/corn/can-purple-corn-deliver-a-new-profit-opportunity-"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "planting_season": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cf_industries",
+      "to": "mosaic",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 29,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 4
+      },
+      {
+        "id": "oci",
+        "count": 4
+      },
+      {
+        "id": "mosaic",
+        "count": 3
+      },
+      {
+        "id": "sqm",
+        "count": 3
+      },
+      {
+        "id": "adm",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "trade_policy",
+        "count": 1
+      },
+      {
+        "id": "planting_season",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 362,
+    "dup_title": 146,
+    "too_old": 130,
+    "gate1_blocked": 5,
+    "gate2_blocked": 19,
+    "passed": 62,
+    "pass_rate": "28.7%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "MOS: Mosaic Company filed SEC Form 8-K: Regulation FD Disclosure, Financial Statements and Exhibits ",
+      "Form 8K The Mosaic Company For: 24 November By Investing.com - Investing.com Canada",
+      "The Mosaic Company (MOS.BA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Sociedad Química y Minera de Chile S.A. (0TDG.L) Seasonal returns chart - Yahoo Finance - Yahoo Fina"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為CF、OCI、Mosaic相關動態：「Zacks Industry Outlook Highlights Deere, Kubota and CNH I...」。主要關注主題為農業產業通用、法說會、貿易政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Highlights Deere, Kubota and CNH Industrial - Yahoo Fi...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "How Investors Are Reacting To SQM Stock After Strong Quarterly Earnings - Yah...（法說會、農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

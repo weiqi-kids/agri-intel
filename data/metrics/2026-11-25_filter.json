@@ -1,0 +1,16 @@
+{
+  "total_raw": 362,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 5,
+  "gate2_fail": 19,
+  "passed": 62,
+  "gate2_samples": [
+    "MOS: Mosaic Company filed SEC Form 8-K: Regulation FD Disclosure, Financial Statements and Exhibits ",
+    "Form 8K The Mosaic Company For: 24 November By Investing.com - Investing.com Canada",
+    "The Mosaic Company (MOS.BA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Sociedad Química y Minera de Chile: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Sociedad Química y Minera de Chile S.A. (0TDG.L) Seasonal returns chart - Yahoo Finance - Yahoo Fina"
+  ]
+}
