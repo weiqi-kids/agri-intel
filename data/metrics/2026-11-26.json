@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-26",
+  "total_events": 10,
+  "by_company": {
+    "mosaic": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cf_industries": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oci": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "taifer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fmc": {
+      "count": 2,
+      "sentiment_avg": -1.0
+    },
+    "adm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnhi": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "kubota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deere": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cnhi",
+      "to": "deere",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ]
+}
