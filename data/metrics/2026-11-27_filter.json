@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 7,
+  "gate2_fail": 16,
+  "passed": 23,
+  "gate2_samples": [
+    "MOS: Mosaic Company filed SEC Form 8-K: Regulation FD Disclosure, Financial Statements and Exhibits ",
+    "Form 8K The Mosaic Company For: 24 November By Investing.com - Investing.com Canada",
+    "CF Industries Holdings Inc (C4F.HM) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "AlphaValue/Baader Europe Upgrades Yara International to Add - www.marketscreener.com",
+    "Yara International ASA (0O7D.L) Seasonal returns chart - Yahoo Finance Australia"
+  ]
+}

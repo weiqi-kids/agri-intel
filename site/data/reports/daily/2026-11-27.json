@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:43:45.696728Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yara-2026-11-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Yara International (OB:YAR) Still A Bargain On Earnings? - Yahoo Finance",
+      "companies": [
+        "yara"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVTVzMG5xN2dxOF93OFdPUzYyT1NoNUNjcURnbDJkb1A5bkFNRUUwVkR0SmtwS3VmejdrNDJEeTRHMW0zTVdnWTlXcmIzVl9YZW8zMzhOZlBXS3Q2NkRZUHFqdG5jcUxyS0RPcHVQeHZ0c3cwSFEyaG5wbm1YNlZVaktLLS1ma0xxdHNJZ3RMVEh6WEUzdzBMMUpHT18?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cf_industries-2026-11-27-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CF Industries To Acquire Mosaic’s Faustina Ammonia Complex In $600M Deal - Carbon Herald",
+      "companies": [
+        "cf_industries",
+        "mosaic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlgxSEN3MlhITm5aOUw5bENkcTBfejJVeng4UWcwRnFua2s1Tk1tYkpkeVhGM0xaN0NEcmpqOW1nVGFuc3FZWGdMTi1DWlpJc1NKUlpQTHV6WlJjTGdYSDFiUHRHNVB5YjBjMGU0Sklxa1MwZG8yTEczUW04UWItWkV0clVEeVNwUk9SbTlhUm9RWWVpTjlIT2hKaVg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Celebrating generosity that builds a stronger future - Saskatchewan Polytechnic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObEFRTXRjNDQxbHRNNDFMWVZ0Y21KZVd2REVNZk44MGc4QjNhM0p5QlBaZkZGOVJwbXdSWG1HaVVQS2V6Zzd2My1iS1dzNFUtLWxCMmNFeC1pa3pmaWZwTENCN1JGMVdXWXBqS1RHT2pReEl5MDVCQTA1c0llRVI4T3ZSOGRqMkZud3lOa0NuZkY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Graphic Packaging, Hawkins lead materials stocks' November gains - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcTNqNHhQUFJGOGM3Z2pGUUdBTGRYX0FmRkJuZkhWNUZmbkltQjJsdGMxRklmQzRKWE5kWmlvZ20tMG1FZnA4cndTWks3UG9Pemx5STdWS0h2em83M05lX1Atc0ZXSG1tM1M2VjA3SHVYMW5oa3dHM3JobXl6TG1HTnAtVjNOLTFoUFRIWDRGa2hWRHotUEFoOXBwOWVJWmR0UTU5bW1OTGxpdERKVmdaMDVBSUVPblBHM2YzYlFaWWpYRWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cf_industries-2026-11-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bernstein Adjusts Price Target on CF Industries to $163 From $162 - marketscreener.com",
+      "companies": [
+        "cf_industries"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZmU4UjFMYVNvSlQwVk5Cc0hDVmh5cThRYThzQ2k2a0NNYXE0Ri1HS3VwZXp1RlNOMnREN29fZ2o5RXJUZFY1Zk5UWWpDb3F5MzI4bXpESlhGbFNVYS1kanVmRzBhZWNRa2g4S1BaRHExaWFyVzNpbnhqZ1pjWWVHWEM4dV8wdmdiczhJblJEVnNBYXJtdndTeUZ6eEstdndDNldzQURsOEVFV1p0NnFFZl8wejgxZms?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cf_industries",
+        "count": 3
+      },
+      {
+        "id": "mosaic",
+        "count": 1
+      },
+      {
+        "id": "yara",
+        "count": 1
+      },
+      {
+        "id": "oci",
+        "count": 1
+      },
+      {
+        "id": "bunge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 179,
+    "too_old": 145,
+    "gate1_blocked": 7,
+    "gate2_blocked": 16,
+    "passed": 23,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "MOS: Mosaic Company filed SEC Form 8-K: Regulation FD Disclosure, Financial Statements and Exhibits ",
+      "Form 8K The Mosaic Company For: 24 November By Investing.com - Investing.com Canada",
+      "CF Industries Holdings Inc (C4F.HM) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "AlphaValue/Baader Europe Upgrades Yara International to Add - www.marketscreener.com",
+      "Yara International ASA (0O7D.L) Seasonal returns chart - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為CF、Mosaic、Yara相關動態：「Is Yara International (OB:YAR) Still A Bargain On Earning...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Yara International (OB:YAR) Still A Bargain On Earnings? - Yahoo Finance（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "CF Industries To Acquire Mosaic’s Faustina Ammonia Complex In $600M Deal - Ca...（農業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
