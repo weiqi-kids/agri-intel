@@ -1,0 +1,16 @@
+{
+  "total_raw": 356,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 7,
+  "gate2_fail": 15,
+  "passed": 11,
+  "gate2_samples": [
+    "Mosaic shuttering Florida mine in response to global sulfur disruptions - Brownfield Ag News",
+    "Form 8K The Mosaic Company For: 24 November By Investing.com - Investing.com Canada",
+    "Yara International ASA (0O7D.L) Seasonal returns chart - Yahoo Finance Australia",
+    "AlphaValue/Baader Europe Upgrades Yara International to Add - www.marketscreener.com",
+    "OCI NV (OIC.DU) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
